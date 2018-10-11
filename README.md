@@ -288,7 +288,7 @@ Punch-Out!!                                              ; 81
 RC Pro Am                                                ; 56
 River City Ransom                                        ; 11
 Shadowgate                                               ; 75
-Snake, Rattle & Roll                                     ; 72
+Snake Rattle & Roll                                      ; 72
 Solstice                                                 ; 100
 StarTropics                                              ; 27
 Startropics II - Zoda's Revenge
@@ -431,7 +431,6 @@ SNES
 ActRaiser                                            ; 32
 ActRaiser 2
 Advanced Dungeons & Dragons - Eye of the Beholder
-Adventures of Batman & Robin, The                    ; 108
 Aero Fighters
 Aladdin                                              ; 72
 Axelay                                               ; 83
@@ -560,6 +559,7 @@ Teenage Mutant Ninja Turtles - Turtles in Time       ; 13
 Terranigma                                           ; 34
 Tetris & Dr. Mario                                   ; 38
 Tetris Attack                                        ; 77
+The Adventures of Batman & Robin                     ; 108
 The Legend of Zelda - A Link to the Past             ; 2
 The Legend of the Mystical Ninja / Ganbare Goemon    ; 48
 The Lion King                                        ; 49
