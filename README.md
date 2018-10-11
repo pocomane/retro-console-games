@@ -316,10 +316,10 @@ Master system
 ```
 Action Fighter                              ; 41
 Afterburner
+Alex Kidd - High Tech World                 ; 75
+Alex Kidd - The Losts Stars                 ; 75
 Alex Kidd in Miracle World                  ; 5
 Alex Kidd in Shinobi World                  ; 16
-Alex Kidd: High Tech World                  ; 75
-Alex Kidd: The Losts Stars                  ; 75
 Asterix                                     ; 4
 Asterix and the Great Rescue                ; 61
 Asterix and the Secret Mission              ; 34
@@ -385,7 +385,7 @@ Putt & Putter                               ; 46
 R-Type
 R.C. Grand Prix                             ; 64
 Rainbow Islands                             ; 17
-Rambo: First Blood Part II                  ; 67
+Rambo - First Blood Part II                 ; 67
 Rampart                                     ; 35
 Rastan
 Rescue Mission
@@ -1083,7 +1083,7 @@ Final Fantasy Tactics Advance
 Final Fantasy V                                        ; 18
 Final Fantasy VI Advance
 Final Fight One
-Fire Emble -: Fuuin no Tsurugi                         ; 29
+Fire Emble - Fuuin no Tsurugi                          ; 29
 Fire Emblem
 Fire Emblem - The Sacred Stones
 Golden Sun
@@ -1129,7 +1129,7 @@ Mother 3
 Ninja Five-0                                           ; 75
 Phantasy Star Collection                               ; 78
 Pokemon FireRed / LeafGreen                            ; 6
-Pokemon Mystery Dungeon: Red Rescue Team               ; 51
+Pokemon Mystery Dungeon - Red Rescue Team              ; 51
 Pokemon Ruby / Sapphire / Emerald                      ; 3
 Puyo Pop                                               ; 99
 Puyo Pop Fever
@@ -1172,8 +1172,8 @@ The Legend of Zelda - A Link to the Past               ; 8
 The Legend of Zelda - The Minish Cap
 Wade Hixton's Counter Punch
 Wario Land 4
+WarioWare - Twisted!
 WarioWare, Inc. - Mega Microgame$!
-WarioWare: Twisted!
 Warioland 4                                            ; 29
 Wolfenstein 3D
 Yggdra Unionv                                          ; 47
