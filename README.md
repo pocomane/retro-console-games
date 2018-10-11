@@ -188,10 +188,12 @@ Warlords                            ; 13
 Wizard of Wor                       ; 62
 Yars' Revenge                       ; 47
 Zaxxon                              ; 37
+```
 
 NES
 ===
 
+```
 1942    
 1943                                                     ; 79
 Adventure Island
@@ -420,10 +422,12 @@ Ys - The Vanished Omens                     ; 24
 Zillion                                     ; 34
 Zillion 2
 Zool
+```
 
 SNES
 =====
 
+```
 ActRaiser                                            ; 32
 ActRaiser 2
 Advanced Dungeons & Dragons - Eye of the Beholder
@@ -709,10 +713,12 @@ Worms
 YuYu Hakusho - Makyou Toitsusen                        ; 19 ; jojo bizare
 Zero Wing                                              ; 50
 Zool
+```
 
 Turbografx
 ========
 
+```
 1941 Counter Attack
 1943 Kai                             ; 32
 Adventure Island
@@ -795,10 +801,12 @@ Valkyrie no Densetsu                 ; 45
 Victory Run                          ; 71
 Zipang                               ; 26
 hana taka daka
+```
 
 Game Boy
 ========
 
+```
 Adventures of Lolo                       ; 3
 Asmik-kun World 2                        ; 90 ; Boomer's Adventure in ASMIK World 2
 Avenging Spirit                          ; 48
@@ -910,10 +918,12 @@ Wario Land II                            ; 80
 Worms      
 Yoshi                                    ; 18
 Yoshi's Cookie                           ; 36
+```
 
 Game Boy Color
 =============
 
+```
 Aladdin                                                ; 85
 Alone in the Dark - The New Nightmare                  ; 100
 Arcade Hits - Joust & Defender
