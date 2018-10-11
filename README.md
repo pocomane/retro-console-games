@@ -75,6 +75,7 @@ Handled:
 Atari 2600
 ========
 
+```
 Adventure                           ; <33
 Adventures of Tron                  ; <99
 Air Raiders                         ; <66
@@ -305,10 +306,12 @@ The Guardian Legend                                      ; 41
 Willow                                                   ; 69
 Xevious
 Zelda II - The Adventures of Link                        ; 13
+```
 
 Master system
 ===========
 
+```
 Action Fighter                              ; 41
 Afterburner
 Alex Kidd in Miracle World                  ; 5
@@ -565,10 +568,12 @@ Uniracers                                            ; 84
 Worms
 Yoshi's Cookie                                       ; 99
 Zombies Ate My Neighbors                             ; 41
+```
 
 Megadrive
 ========
 
+```
 Advanced Busterhawk Gleylancer                         ; 44
 Aero Blasters                                          ; 37
 Aerobiz Supersonic                                     ; 2
@@ -1012,10 +1017,12 @@ Warlocked
 Wendy - Every Witch Way
 Worms      
 Worms Armageddon
+```
 
 Game Boy Advance
 ===============
 
+```
 2 Games in 1 - Dr. Mario & Puzzle league
 Advance Guardian Heroes                                ; 65
 Advance Wars
@@ -1161,3 +1168,4 @@ Warioland 4                                            ; 29
 Wolfenstein 3D
 Yggdra Unionv                                          ; 47
 Yoshi's Island - Super Mario Advance 3                 ; 26
+```
