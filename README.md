@@ -371,7 +371,7 @@ Miracle Warriors - Seal of The Dark Lord 55 ; 29
 Mortal Kombat                               ; 56
 Mortal Kombat 2                             ; 31
 Mortal Kombat II                            ; 95
-New Zealand Story                           ; 69
+The New Zealand Story                       ; 69
 Ninja Gaiden                                ; 11
 Operation Wolf                              ; 35
 Out Run
