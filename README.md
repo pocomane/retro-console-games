@@ -12,7 +12,7 @@ Home:
 - Megadrive (1988)
 - SNES (1990)
 
-Handled:
+Handheld:
 - Game Boy (1989)
 - Game Boy Color (1998)
 - Game Boy Advance (2001)
@@ -1142,10 +1142,10 @@ I also would like to enforce a popularity constraint:
 
 The games that needs special expansion hardware is not take in consideration (e.g. no Sega CD). An exception was made for the Turbografx CD-reader, since there are Turbografx models that can read all the medium without the external device.
 
-Next, the term 'Retro' is very subjective. Of course it deals with the release date, but to select the right one, some analysis must be done about what seems 'Retro' to us. We mainly perceive something to be 'Retro' if it has few resources: a videogame is not 'Retro' if it has a CD-quality audio theme or detailed textures. So I chose  release date of the first playstation as the deadline, since from that point on, the games start to be ~10 times bigger than before. Similar reasoning is for the handled systems, but due to tecnical limitation, the market changes later: here the release date of the Nintendo DS is taken. So:
+Next, the term 'Retro' is very subjective. Of course it deals with the release date, but to select the right one, some analysis must be done about what seems 'Retro' to us. We mainly perceive something to be 'Retro' if it has few resources: a videogame is not 'Retro' if it has a CD-quality audio theme or detailed textures. So I chose  release date of the first playstation as the deadline, since from that point on, the games start to be ~10 times bigger than before. Similar reasoning is for the handheld systems, but due to tecnical limitation, the market changes later: here the release date of the Nintendo DS is taken. So:
 
 6) An home system must be released before the 1994 (e.g no Sega Saturn)
-7) An handled system must be released before the 2004 (e.g no Nintendo DS)
+7) An handheld system must be released before the 2004 (e.g no Nintendo DS)
 
 Last but not the least, the constraints on the single games are:
 
