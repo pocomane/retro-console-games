@@ -1,4 +1,3 @@
-
 Retro Console Games
 =================
 
@@ -21,7 +20,7 @@ Atari 2600
 ========
 
 ```
-Adventure                           ; <33
+Adventure                           ; best
 Adventures of Tron                  ; <99
 Air Raiders                         ; <66
 Amidar                              ; <33
@@ -46,17 +45,17 @@ Demon Attack                        ; 8
 Desert Falcon
 Dig Dug                             ; 60
 Dodge 'Em                           ; 61
-Donkey Kong                         ; 7
-Donkey Kong Junior
+Donkey Kong                         ; best
+Donkey Kong Junior                  ; good
 DragonStomper                       ; 70
 Dragonfire                          ; 71
 E.T. - The Extra Terrestrial        ; 94
-Enduro                              ; 2
+Enduro                              ; best
 Escape from Mindmaster              ; 77
 Fantastic Voyage                    ; 92
 Fathom    
 Freeway                             ; 29
-Frogger                             ; 3
+Frogger                             ; best
 Frogger II
 Frostbite                           ; 25
 Galaxian                            ; 12
@@ -86,10 +85,10 @@ Mr. Postman                         ; 42
 Ms. Pac-Man                         ; 18
 Night Driver                        ; 49
 Oystron
-Pac-Man                             ; 17
+Pac-Man                             ; best
 Phoenix                             ; 26
 Pitfall                             ; 21
-Pitfall II - Lost Caverns           ; 9
+Pitfall II - Lost Caverns           ; best
 Planet Patrol                       ; 40
 Pong Sports                         ; 87
 Pressure Cooker                     ; 65
@@ -150,23 +149,23 @@ Adventures of Lolo III
 Balloon Fight                                            ; 81
 Batman                                                   ; 84
 Batman - Return of the Jocker
-Battletoads                                              ; 38
+Battletoads                                              ; best
 Battletoads & Double Dragon - The Ultimate Team
 Bionic Commando                                          ; 25
 Blaster Master                                           ; 30
 Bomberman
 Bomberman II
 Boy and His Blob                    
-Bubble Bobble                                            ; 21
-Bubble Bobble Part 2
+Bubble Bobble                                            ; best/good
+Bubble Bobble Part 2                                     ; best/good
 Bucky O'Hare                                             ; 81
-Castlevania                                              ; 17
-Castlevania II - Simon's Quest                           ; 23
-Castlevania III - Dracula's Curse                        ; 18
+Castlevania                                              ; best/good
+Castlevania II - Simon's Quest                           ; best/good
+Castlevania III - Dracula's Curse                        ; best/good
 Chip 'n Dale - Rescue Rangers                            ; 61
 Chip 'n Dale - Rescue Rangers 2
 Clash at Demonhead                                       ; 91
-Contra                                                   ; 6
+Contra                                                   ; best
 Contra Force
 Crystalis                                                ; 19
 Deja Vu                                                  ; 91
@@ -188,9 +187,9 @@ DuckTales                                                ; 43
 DuckTales 2
 Excitebike                                               ; 29
 Faxanadu                                                 ; 46
-Final Fantasy                                            ; 7
-Final Fantasy 2
-Final Fantasy 3
+Final Fantasy                                            ; best/good
+Final Fantasy 2                                          ; best/good
+Final Fantasy 3                                          ; best/good
 Gargoyle's Quest II - The Demon Darkness                 ; 47
 Ghosts 'n Goblins                                        ; 62
 Goonies II                                               ; 68
@@ -200,7 +199,7 @@ Guerilla War                                             ; 93
 Ice Climber                                              ; 90
 Jackal                                                   ; 64
 Kickle Cubicle                                           ; 71
-Kid Icarus                                               ; 34
+Kid Icarus                                               ; best
 Kirby's Adventure                                        ; 14
 Legacy of the Wizard                                     ; 87
 Life Force                                               ; 51
@@ -209,15 +208,15 @@ Little Samson                                            ; 73
 Maniac Mansion                                           ; 37
 Marble Madness                                           ; 57
 Mario Bros.                                              ; 85
-Mega Man                                                 ; 36
-Mega Man 2                                               ; 5
-Mega Man 3                                               ; 12
-Mega Man 4                                               ; 50
-Mega Man 5                                               ; 54
-Mega Man 6                                               ; 58
+Mega Man                                                 ; best/good ; 36
+Mega Man 2                                               ; best/good ; 5
+Mega Man 3                                               ; best/good ; 12
+Mega Man 4                                               ; best/good ; 50
+Mega Man 5                                               ; best/good ; 54
+Mega Man 6                                               ; best/good ; 58
 Metal Gear                                               ; 32
 Metal Storm                                              ; 58
-Metroid                                                  ; 8
+Metroid                                                  ; best
 Micro Machines                                           ; 66
 Mission Impossible
 Monster Party                                            ; 97
@@ -239,10 +238,10 @@ StarTropics                                              ; 27
 Startropics II - Zoda's Revenge
 Super C                                                  ; 40
 Super Dodge Ball                                         ; 33
-Super Mario Bros.                                        ; 3
+Super Mario Bros.                                        ; best
 Super Mario Bros. 2                                      ; 9
-Super Mario Bros. 3                                      ; 1
-THe Legend of Zelda                                      ; 2
+Super Mario Bros. 3                                      ; best
+THe Legend of Zelda                                      ; best
 Teenage Mutant Ninja Turtles                             ; 44
 Teenage Mutant Ninja Turtles II - The Arcade Game        ; 20
 Teenage Mutant Ninja Turtles III - The Manhattan Project ; 48
@@ -263,21 +262,21 @@ Action Fighter                              ; 41
 Afterburner
 Alex Kidd - High Tech World                 ; 75
 Alex Kidd - The Losts Stars                 ; 75
-Alex Kidd in Miracle World                  ; 5
+Alex Kidd in Miracle World                  ; best
 Alex Kidd in Shinobi World                  ; 16
 Asterix                                     ; 4
 Asterix and the Great Rescue                ; 61
 Asterix and the Secret Mission              ; 34
 Baku Baku                                   ; 91
 Battle Out Run                              ; 58
-Battlemaniacs                               ; 33
+Battlemaniacs                               ; best
 Black Belt                                  ; 66
 Bomber Raid                                 ; 81
 Bram Stoker's Dracula                       ; 29
 Bubble Bobble                               ; 35
 California Games                            ; 36
 California Games II
-Castle of Illusion                          ; 20
+Castle of Illusion                          ; best
 Choplifter                                  ; 75
 Chuck Rock
 Chuck Rock II                               ; 10
@@ -342,9 +341,9 @@ Sensible Soccer                             ; 86
 Shinobi
 Slap Shot                                   ; 73
 Solomons Key                                ; 32
-Sonic Chaos                                 ; 39
-Sonic the Hedgehog                          ; 7
-Sonic the Hedgehog 2                        ; 17
+Sonic Chaos                                 ; best/good ; 39
+Sonic the Hedgehog                          ; best/good ; 7
+Sonic the Hedgehog 2                        ; best/good ; 17
 Space Harrier                               ; 28
 Spellcaster                                 ; 81
 Spy vs Spy                                  ; 81
@@ -361,7 +360,7 @@ Ultima IV                                   ; 28
 Wonder Boy                                  ; 27
 Wonder Boy in Monster World                 ; 40
 Wonderboy III - Dragon’s Trap
-Wonderboy in Monster Land                   ; 12
+Wonderboy in Monster Land                   ; best
 Xenon 2
 Ys - The Vanished Omens                     ; 24
 Zillion                                     ; 34
@@ -387,18 +386,18 @@ Breath of Fire II                                    ; 51
 Bust a move  
 Castlevania - Dracula X                              ; 78
 Choujikuu Yousai Macross - Scrambled Valkyrie
-Chrono Trigger                                       ; 5
+Chrono Trigger                                       ; best
 ClayFighter                                          ; 52
 Clock Tower
-Contra III - The Alien Wars                          ; 20
+Contra III - The Alien Wars                          ; best
 Cybernator
 Demon's Crest                                        ; 58
-Donkey Kong Country                                  ; 4
-Donkey Kong Country 2 - Diddy's Kong Quest           ; 12
-Donkey Kong Country 3 - Dixie Kong's Double Trouble! ; 26
+Donkey Kong Country                                  ; best/good ; 4
+Donkey Kong Country 2 - Diddy's Kong Quest           ; best/good ; 12
+Donkey Kong Country 3 - Dixie Kong's Double Trouble! ; best/good ; 26
 Doom                                                 ; 43
 E.V.O. - Search for Eden                             ; 60
-EarthBound                                           ; 19
+EarthBound                                           ; best
 Earthworm Jim                                        ; 25
 Earthworm Jim 2
 Energy Breaker
@@ -406,11 +405,11 @@ Equinox
 F-Zero                                               ; 16
 Fatal Fury Special                                   ; 116
 Final Fantasy - Mystic Quest Legend
-Final Fantasy II                                     ; 70
-Final Fantasy III                                    ; 63
-Final Fantasy IV                                     ; 21
-Final Fantasy V                                      ; 76
-Final Fantasy VI                                     ; 7
+Final Fantasy II                                     ; best/good ; 70
+Final Fantasy III                                    ; best/good ; 63
+Final Fantasy IV                                     ; best/good ; 21
+Final Fantasy V                                      ; best/good ; 76
+Final Fantasy VI                                     ; best
 Final Fight                                          ; 39
 Final Fight 2                                        ; 69
 Final Fight 3                                        ; 71
@@ -470,8 +469,8 @@ Sparkster
 Star Fox                                             ; 17
 Star Ocean                                           ; 85
 Street Fighter Alpha 2
-Street Fighter II - the world warrior                ; 8
-Street Fighter II Turbo - hyper fighting
+Street Fighter II - the world warrior                ; best/good ; 8
+Street Fighter II Turbo - hyper fighting             ; best/good
 Sunset Riders                                        ; 35
 Super Adventure Island
 Super Adventure Island II
@@ -480,16 +479,16 @@ Super Bomberman 2
 Super Bomberman 3
 Super Bomberman 4
 Super Bomberman 5
-Super Castlevania IV                                 ; 18
+Super Castlevania IV                                 ; best
 Super Double Dragon
-Super Ghouls'n Ghosts                                ; 47
+Super Ghouls'n Ghosts                                ; best
 Super James Pond II
 Super Mario All-Stars                                ; 11
 Super Mario Kart                                     ; 3
-Super Mario RPG - Legend of the Seven Stars          ; 10
-Super Mario World                                    ; 1
-Super Mario World 2 - Yoshi's Island                 ; 14
-Super Metroid                                        ; 6
+Super Mario RPG - Legend of the Seven Stars          ; best
+Super Mario World                                    ; best
+Super Mario World 2 - Yoshi's Island                 ; best
+Super Metroid                                        ; best
 Super Punch-Out!!                                    ; 24
 Super R-Type                                         ; 53
 Super Star Wars                                      ; 40
@@ -505,7 +504,7 @@ Terranigma                                           ; 34
 Tetris & Dr. Mario                                   ; 38
 Tetris Attack                                        ; 77
 The Adventures of Batman & Robin                     ; 108
-The Legend of Zelda - A Link to the Past             ; 2
+The Legend of Zelda - A Link to the Past             ; best
 The Legend of the Mystical Ninja / Ganbare Goemon    ; 48
 The Lion King                                        ; 49
 The Lost Vikings                                     ; 42
@@ -534,7 +533,7 @@ Altered Beast
 Arrow Flash                                            ; 69
 Atomic Robo-Kid                                        ; 40
 Atomic Runner                                          ; 38
-Battlemania - Daiginjou                                ; 21
+Battlemania - Daiginjou                                ; best
 Battletoads & Double Dragon - The Ultimate Team        ; 67
 Bio-Hazard Battle                                      ; 52
 Bishoujo Senshi Sailor Moon                            ; 89
@@ -543,7 +542,7 @@ Bubba 'n' Stix                                         ; 26
 Buck Rogers - Countdown to Doomsday                    ; 47
 Burning Force                                          ; 42
 Castle of Illusion Starring Mickey Mouse
-Castlevania - Bloodlines                               ; 24
+Castlevania - Bloodlines                               ; best
 Chiki Chiki Boys                                       ; 58
 Classic Collection                                     ; 39
 Comix Zone
@@ -578,7 +577,7 @@ Golden Axe II
 Golden Axe III
 Granada                                                ; 23
 Greatest Heavyweights
-Gunstar Heroes                                         ; 1
+Gunstar Heroes                                         ; best
 Hellfire                                               ; 48
 Herzog Zwei
 James Pond - Underwater Agent
@@ -622,10 +621,10 @@ Shining Force II                                       ; 62
 Shining in the Darkness                                ; 98
 Shinobi III - Return of the Ninja Master               ; 12
 Snake Rattle 'n' Roll                                  ; 6
-Sonic and Knuckles                                     ; 34
-Sonic the Hedgehog                                     ; 17
-Sonic the Hedgehog 2                                   ; 8
-Sonic the Hedgehog 3                                   ; 20
+Sonic and Knuckles                                     ; best/good ; 34
+Sonic the Hedgehog                                     ; best/good ; 17
+Sonic the Hedgehog 2                                   ; best/good ; 8
+Sonic the Hedgehog 3                                   ; best/good ; 20
 Splatterhouse 2              
 Splatterhouse 3          
 Star Control            
@@ -1176,6 +1175,11 @@ I added some note after some title e.g. the english name for a japan-only game. 
 - `dubt` - First candidates for elimination
 - `good` - Good game (subsidiary games are skipped)
 - `best` - Very good, play this ones first (redundant games are skipped)
-- An indicative positional index -- TODO : this will be removed soon agter the rest of the labelling is complete
+
+-- TODO : the following will be removed soon after the rest of the labelling is complete
+
+- `good/best` - like `best`, but due to redundance (more of the same) only someones should be selected; the others should be labelled as 'good'
+- An indicative positional index
 
 -- TODO : better explanation, more label
+
