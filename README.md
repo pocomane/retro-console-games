@@ -376,10 +376,10 @@ ActRaiser                                            ; 32
 ActRaiser 2
 Advanced Dungeons & Dragons - Eye of the Beholder
 Aero Fighters
-Aladdin                                              ; 72
+Aladdin
 Axelay                                               ; 83
 Battletoads in Battlemaniacs                         ; 112
-Biker Mice from Mars                                 ; 98
+Biker Mice from Mars
 Blackthorne                                          ; 96
 Breath of Fire                                       ; 94
 Breath of Fire II                                    ; 51
@@ -387,7 +387,7 @@ Bust a move
 Castlevania - Dracula X                              ; 78
 Choujikuu Yousai Macross - Scrambled Valkyrie
 Chrono Trigger                                       ; best
-ClayFighter                                          ; 52
+ClayFighter
 Clock Tower
 Contra III - The Alien Wars                          ; best
 Cybernator
@@ -402,8 +402,8 @@ Earthworm Jim                                        ; 25
 Earthworm Jim 2
 Energy Breaker
 Equinox
-F-Zero                                               ; 16
-Fatal Fury Special                                   ; 116
+F-Zero
+Fatal Fury Special
 Final Fantasy - Mystic Quest Legend
 Final Fantasy II                                     ; best/good ; 70
 Final Fantasy III                                    ; best/good ; 63
@@ -414,15 +414,15 @@ Final Fight                                          ; 39
 Final Fight 2                                        ; 69
 Final Fight 3                                        ; 71
 Final Fight Guy
-Flashback                                            ; 92
-Fushigi no Dungeon 2 - Fuurai no Shiren
-Goof Troop                                           ; 111
+Flashback
+Fushigi no Dungeon 2 - Fuurai no Shiren              ; ?
+Goof Troop
 Gradius III
 Hammer Hamming  
 Harvest Moon    
 Illusion of Gaia                                     ; 45
 James Pond 3
-Jurassic Park                                        ; 61
+Jurassic Park
 Jurassic Park II - The Chaos Continues
 Killer Instinct                                      ; 28
 Kirby Super Star                                     ; 31
@@ -450,20 +450,21 @@ Pilotwings                                           ; 46
 Pitfall - The Mayan Adventure                        ; 119
 Pop'n TwinBee            
 Pop'n TwinBee - Rainbow Bell Adventures
-Popful Mail                                          ;    ; Japan only, lot of text, localization on sega-cd and pc
-Populous                                             ; 106
+Popful Mail                                          ; ?   ; Japan only, lot of text, localization on sega-cd and pc
+Populous
 Populous II
 Prince of Persia
 Prince of Persia 2
 R-Type III - The Third Lightning                     ; 82
 Ranma Nibunnoichi - Chougi Ranbu Hen
-Rock n' Roll Racing                                  ; 55
+Rock n' Roll Racing
 Rockman & Forte
 Secret of Evermore                                   ; 44
 Secret of Mana                                       ; 15
 Shadowrun                                            ; 64
 SimCity                                              ; 29
 SimCity 2000 - The Ultimate City Simulator
+Skyblazer
 Soul Blazer  
 Sparkster
 Star Fox                                             ; 17
@@ -495,26 +496,26 @@ Super Star Wars                                      ; 40
 Super Star Wars - Return of the Jedi                 ; 57
 Super Star Wars - The Empire Strikes Back            ; 62
 Super Street Fighter II - The New Challengers        ; 27
-Super Turrican                                       ; 107
-Super Turrican 2                                     ; 114
+Super Turrican
+Super Turrican 2
 Tales of Phantasia                                   ; 68 ; japan: USA on gamboy advance
 Teenage Mutant Ninja Turtles - Tournament Fighters   ; 59
 Teenage Mutant Ninja Turtles - Turtles in Time       ; 13
 Terranigma                                           ; 34
 Tetris & Dr. Mario                                   ; 38
 Tetris Attack                                        ; 77
-The Adventures of Batman & Robin                     ; 108
+The Adventures of Batman & Robin
 The Legend of Zelda - A Link to the Past             ; best
 The Legend of the Mystical Ninja / Ganbare Goemon    ; 48
-The Lion King                                        ; 49
+The Lion King
 The Lost Vikings                                     ; 42
-The Magical Quest Starring Mickey Mouse              ; 66
-Tiny Toon Adventures - Buster Busts Loose!           ; 67
+The Magical Quest Starring Mickey Mouse
+Tiny Toon Adventures - Buster Busts Loose!
 Torneco no Daibōken - Fushigi no Dungeon
 Ultimate Mortal Kombat 3                             ; 110
 Uniracers                                            ; 84
 Worms
-Yoshi's Cookie                                       ; 99
+Yoshi's Cookie
 Zombies Ate My Neighbors                             ; 41
 ```
 
