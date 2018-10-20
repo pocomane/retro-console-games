@@ -763,23 +763,23 @@ Bomberman GB                             ; 29 ; bomberman GB 2 in japan
 Bomberman GB 3                              
 Bonk's Adventure                         ; 53
 Bonk's Revenge                           ; 38
-Booby Boys                               ; 89
+Booby Boys
 Boomer's Adventure in ASMIK World        ; 23
 Bubble Bobble                            ; 9
 Bubble Bobble Part 2
-BurgerTime Deluxe                        ; 95
+BurgerTime Deluxe
 Castlevania - The Adventure              ; 81
 Castlevania II - Belmont's Revenge       ; 75
-Castlevania Legends                      ; 77
+Castlevania Legends                      ; 82
 Catrap                          1.
 Contra - The Alien Wars
-Dexterity                                ; 44
+Dexterity
 Donkey Kong                              ; 19
 Donkey Kong Land                         ; 14
 Donkey Kong Land 2
 Donkey Kong Land 3                       ; 52
 Double Dragon
-Double Dragon II                         ; 88
+Double Dragon II
 Double Dragon III
 Dr. Mario Nintendo                       ; 8
 DuckTales
@@ -789,7 +789,7 @@ Final Fantasy Adventure                  ; 22
 Final Fantasy Legend II                  ; 79
 Final Fantasy Legend III                 ; 91
 Fortified Zone                           ; 28
-GB Genjin Land - Viva! Chikkun Oukoku    ; 55
+GB Genjin Land - Viva! Chikkun Oukoku
 Game & Watch Gallery                     ; 53
 Gargoyle's Quest                         ; 37
 Gradius - The Interstellar Assault
@@ -797,7 +797,7 @@ Great Greed                              ; 59
 Hammerin' Harry - Ghost Building Company ; 14
 Harvest Moon GB                          ; 36
 Ikari no Yousai 2                        ; 10
-Joe & Mac - Caveman Ninja                ; 58
+Joe & Mac - Caveman Ninja
 Kaeru no tame ni Kane wa Naru            ; 45 ; For Frog the Bell Tolls
 Kid Dracula                              ; 8
 Kid Icarus - Of Myths and Monsters       ; 27
@@ -805,7 +805,7 @@ King of Fighters '95
 Kirby's Block Ball                       ; 18
 Kirby's Dream Land                       ; 7
 Kirby's Dream Land 2                     ; 2
-Kung-Fu Master                           ; 94
+Kung-Fu Master
 Mario’s Picross
 Mario’s Picross 2
 Maru's Mission                           ; 12
@@ -817,18 +817,17 @@ Mega Man V
 Metroid II - Return of Samus             ; 3
 Micro Machines
 Mole Mania                               ; 46
-Motocross Maniacs                        ; 52
-Mr. Nutz                                 ; 96
+Motocross Maniacs
+Mr. Nutz
 Mystic Quest                  
 Mystical Ninja starring Goemon           ; 30
 Ninja Gaiden - Shadow                    ; 73
 Ninja Spirit                             ; 67
 Noobow                                   ; 39
 Operation C                              ; 26
-Pocket Bomberman                         ; 70
+Pocket Bomberman
 Pokemon Blue / Red / yellow              ; 5
 Pop'n TwinBee                            ; 4
-Power Quest                              ; 71
 Qix                                      ; 50
 R-Type
 R-Type II
@@ -857,7 +856,7 @@ Wario Land - Super Mario Land 3
 Wario Land II                            ; 80
 Worms      
 Yoshi                                    ; 18
-Yoshi's Cookie                           ; 36
+Yoshi's Cookie
 ```
 
 Game Boy Color
