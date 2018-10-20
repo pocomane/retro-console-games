@@ -527,39 +527,39 @@ Advanced Busterhawk Gleylancer                         ; 44
 Aero Blasters                                          ; 37
 Aerobiz Supersonic                                     ; 2
 After Burner II
-Alex Kidd in the Enchanted Castle                      ; 66
+Alex Kidd in the Enchanted Castle
 Alien Soldier                                          ; 4
 Alisia Dragoon                                         ; 17
 Altered Beast
-Arrow Flash                                            ; 69
+Arrow Flash
 Atomic Robo-Kid                                        ; 40
 Atomic Runner                                          ; 38
 Battlemania - Daiginjou                                ; best
 Battletoads & Double Dragon - The Ultimate Team        ; 67
 Bio-Hazard Battle                                      ; 52
-Bishoujo Senshi Sailor Moon                            ; 89
+Bishoujo Senshi Sailor Moon
 Bonanza Bros.                                          ; 70
 Bubba 'n' Stix                                         ; 26
 Buck Rogers - Countdown to Doomsday                    ; 47
 Burning Force                                          ; 42
-Castle of Illusion Starring Mickey Mouse
+Castle of Illusion Starring Mickey Mouse               ; ?
 Castlevania - Bloodlines                               ; best
-Chiki Chiki Boys                                       ; 58
+Chiki Chiki Boys
 Classic Collection                                     ; 39
 Comix Zone
 Contra - Hard Corps                                    ; 35
-Crack Down                                             ; 68
-Curse                                                  ; 97
-DJ Boy                                                 ; 75
+Crack Down
+Curse
+DJ Boy
 Dahna - Megami Tanjou                                  ; 95
-Dashin' Desperadoes                                    ; 76
-Disney's Aladdin                                       ; 46
+Dashin' Desperadoes
+Disney's Aladdin
 Donald in Maui Mallard                                 ; 24
 Double Dragon
 Double Dragon 2
 Double Dragon 3
 Dr. Robotnik's Mean Bean Machine
-Dragon Ball Z - Buyuu Retsuden                         ; 77
+Dragon Ball Z - Buyuu Retsuden
 Dune - The Battle for Arrakis                          ; 22
 Dynamite Headdy                                        ; 3
 Earthworm Jim 2                                        ; 21
@@ -582,12 +582,12 @@ Gunstar Heroes                                         ; best
 Hellfire                                               ; 48
 Herzog Zwei
 James Pond - Underwater Agent
-Kid Chameleon                                          ; 96
+Kid Chameleon
 LandStalker - The Treasures of King Nole               ; 73
 Lightening Force - Quest for the Darkstar              ; 15
 M.U.S.H.A.                                             ; 10
 Marvel Land                                            ; 11
-Mega Bomberman                                         ; 81
+Mega Bomberman
 Mega Man - The Wily Wars                               ; 47
 Mickey Mania - The Timeless Adventures of Mickey Mouse ; 30
 Micro Machines
@@ -598,9 +598,9 @@ Mortal Kombat
 Mortal Kombat 2
 Mortal Kombat 3
 Mystic Defender                                        ; 22
-OutRun                                                 ; 55
-OutRunners                                             ; 35
-Outlander                                              ; 36
+OutRun
+OutRunners
+Outlander
 Panorama Cotton                                        ; 13 ; only japan ; text skippable : shot'em
 Phantasy Star II                                       ; 84
 Phantasy Star III - Generations of Doom                ; 80
@@ -608,20 +608,20 @@ Phantasy Star IV - The End of the Millennium           ; 72
 Pulseman                                               ; 14
 Ranger X                                               ; 2
 Rent A Hero                                            ; 33
-Richard Scarry's Busytown                              ; 33
+Richard Scarry's Busytown
 Ristar                                                 ; 18
-RoadBlasters                                           ; 44
+RoadBlasters
 RoboCop versus The Terminator          
 Rocket Knight Adventures                               ; 5
 Rolling Thunder 2
-Rolling Thunder 3                                      ; 71
+Rolling Thunder 3
 Samurai Shodown                                        ; 20
 Shadow Dancer - The Secret of Shinobi                  ; 45
 Shining Force                                          ; 59
 Shining Force II                                       ; 62
-Shining in the Darkness                                ; 98
+Shining in the Darkness
 Shinobi III - Return of the Ninja Master               ; 12
-Snake Rattle 'n' Roll                                  ; 6
+Snake Rattle 'n' Roll
 Sonic and Knuckles                                     ; best/good ; 34
 Sonic the Hedgehog                                     ; best/good ; 17
 Sonic the Hedgehog 2                                   ; best/good ; 8
@@ -631,11 +631,11 @@ Splatterhouse 3
 Star Control            
 Starflight              
 Street Fighter II - Champion Edition                   ; 85
-Streets of Rage                                        ; 53
-Streets of Rage 2                                      ; 60
-Streets of Rage 3                                      ; 63
+Streets of Rage
+Streets of Rage 2
+Streets of Rage 3
 Super Fantasy Zone                                     ; 31
-Target Earth                                           ; 88
+Target Earth
 Teenage Mutant Hero Turtles - The Hyperstone Heist
 The Faery Tale Adventure                               ; 23
 The Revenge of Shinobi
@@ -646,12 +646,12 @@ ToeJam & Earl                                          ; 18
 ToeJam & Earl in Panic on Funkotron
 Trouble Shooter                                        ; 25
 Twinkle Tale                                           ; 6
-Vapor Trail                                            ; 91
+Vapor Trail
 Vectorman                                              ; 16
 Vectorman 2
 Wani Wani World                                        ; 51
 Whip Rush                                              ; 54
-Wings of Wor                                           ; 100
+Wings of Wor
 Wonder Boy III - Monster Lair
 Wonder Boy in Monster World                            ; 27
 Worms
