@@ -21,21 +21,21 @@ Atari 2600
 
 ```
 Adventure                           ; best
-Adventures of Tron                  ; <99
+Adventures of Tron
 Air Raiders                         ; <66
 Amidar                              ; <33
 Asteroids                           ; <66
-Battlezone                          ; <99
-Beamrider                           ; <99
+Battlezone
+Beamrider
 Berzerk                             ; <66
 Boxing                              ; <33
 Breakout                            ; <66
 California Games                    ; <66
 Centipede                           ; <66
 Chopper Command                     ; <33
-Circus Atari                        ; <66
+Circus Atari
 Commando  
-Communist Mutants from Space        ; <99
+Communist Mutants from Space
 Cosmic Ark                          ; <66
 Cosmic Commuter
 Crystal Castles                     ; <66
@@ -49,13 +49,13 @@ Donkey Kong                         ; best
 Donkey Kong Junior                  ; good
 DragonStomper                       ; 70
 Dragonfire                          ; 71
-E.T. - The Extra Terrestrial        ; 94
+E.T. - The Extra Terrestrial
 Enduro                              ; best
 Escape from Mindmaster              ; 77
-Fantastic Voyage                    ; 92
+Fantastic Voyage
 Fathom    
 Freeway                             ; 29
-Frogger                             ; best
+Frogger                             ; best / good
 Frogger II
 Frostbite                           ; 25
 Galaxian                            ; 12
@@ -64,17 +64,17 @@ Ghostbusters 2
 Gorf                                ; 33
 Gravitar                            ; 95
 H.E.R.O.                            ; 9
-Haunted House                       ; 75
-Ice Hockey                          ; 54
-Indy 500                            ; 100
+Haunted House
+Ice Hockey
+Indy 500
 Joust                               ; 44
 Jr. Pac-Man                         ; 34
 Jungle Hunt                         ; 30
-Kaboom!                             ; 98
+Kaboom!
 Keystone Kapers                     ; 17
-Laser Gates                         ; 74
+Laser Gates
 Mario Bros.                         ; 13
-Maze Craze                          ; 85
+Maze Craze
 MegaMania - A Space Nightmare       ; 21
 Millipede                           ; 99
 Missile Command                     ; 43
@@ -83,51 +83,51 @@ Moon Patrol                         ; 27
 Mouse Trap                          ; 20
 Mr. Postman                         ; 42
 Ms. Pac-Man                         ; 18
-Night Driver                        ; 49
+Night Driver
 Oystron
 Pac-Man                             ; best
 Phoenix                             ; 26
 Pitfall                             ; 21
 Pitfall II - Lost Caverns           ; best
 Planet Patrol                       ; 40
-Pong Sports                         ; 87
+Pong Sports
 Pressure Cooker                     ; 65
 Q-bert                              ; 45
 Q-bert's Qubes
 Quadrun                  
 Radar Lock
-Raiders of the Lost Ark             ; 62
-RealSports Volleyball               ; 95
+Raiders of the Lost Ark
+RealSports Volleyball
 River Raid                          ; 1
 River Raid II                       ; 78
-Robot Tank                          ; 56
+Robot Tank
 Skeleton+
 Skiing                              ; 51
 Smurf rescue in gargamel's cast     ; 32
-Solar Fox                           ; 83
+Solar Fox
 Solaris                             ; 22
 Space Invaders                      ; 5
 Space Treat Deluxe
-Spider Fighter                      ; 39
+Spider Fighter
 Spider-Man                          ; 59
 Star Wars - The Empire Strikes Back ; 49
-StarMaster                          ; 97
+StarMaster
 Stargate                            ; 30
 Starmaster                          ; 46
 Subterranea
 Super Breakout                      ; 79
 Superman                            ; 58
-Surround                            ; 96
-SwordQuest - EarthWorld  
-Swordquest - Fireworld
-Swordquest - Waterworld
+Surround
+SwordQuest - EarthWorld             ; ?
+Swordquest - Fireworld              ; ?
+Swordquest - Waterworld             ; ?
 Tapper                              ; 67
 The Activision Decathlon
 The Official Frogger                ; 73
 Tron - Deadly Discs                 ; 64
-Vanguard                            ; 50
+Vanguard
 Vault Assault
-Venture                             ; 99
+Venture
 Warlords                            ; 13
 Wizard of Wor                       ; 62
 Yars' Revenge                       ; 47
