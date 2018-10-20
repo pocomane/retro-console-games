@@ -863,8 +863,8 @@ Game Boy Color
 =============
 
 ```
-Aladdin                                                ; 85
-Alone in the Dark - The New Nightmare                  ; 100
+Aladdin
+Alone in the Dark - The New Nightmare
 Arcade Hits - Joust & Defender
 Asteroid
 Balloon fight GB
@@ -874,9 +874,8 @@ Bomberman Quest                                        ; 38
 Bubble Bobble
 Cannon folder
 Crystalis        
-Daikatana
 Daikatana                                              ; 67
-Denki Blocks !                                         ; 45
+Denki Blocks !
 Donkey Kong Country                                    ; 15
 Donkey Kong GB                                         ; 47
 Dragon Ball Z - Legendary Super Warrior                ; 48
@@ -902,13 +901,13 @@ Konami gb collection vol 1 / Gradius / Castlevania / Contra
 Konami gb collection vol 2 / Parodius / Block game
 Konami gb collection vol 3 / pop'n twinvee / Gambare Goemon
 Konami gb collection vol 4 / Graddius 2 / castelvania 2 / ye ar kung-fu
-Little Magic                                           ; 74
+Little Magic
 Looney Tunes                                           ; 43
 Looney Tunes - Carrot crazy
 Looney Tunes Collector - Martian Alert!                ; 24
 Looney Tunes Collector - Martian Revenge!              ; 33
 Lucky Luke                                             ; 31
-Lucky Luke - Desperado
+Lucky Luke - Desperado Train
 Lufia - The Legend Returns                             ; 63
 Magi Nation
 Magical Chase GB - Minarai Mahoutsukai Kenja no Tani e ; 17
@@ -917,12 +916,12 @@ Megaman Xtreme                                         ; 10
 Megaman Xtreme 2                                       ; 10
 Metal Gear Solid                                       ; 7
 Metal Walker                                           ; 16
-Mickey's Racing Adventure                              ; 49
+Mickey's Racing Adventure
 Micro Machines 1 and 2
 Micro Machines V3
 Monster ranch
 Montezuma's Return!
-Motocross Maniacs 2                                    ; 69
+Motocross Maniacs 2
 Mr. Nutz                                               ; 96
 Oddworld Adventures II
 Pocket Bomberman
@@ -938,10 +937,10 @@ Rayman 2
 Resident Evil Gaiden                                   ; 2
 Return of the Ninja                                    ; 66
 Revelations - The Demon Slayer                         ; 21
-Shadowgate Classic                                     ; 91
+Shadowgate Classic
 Shantae                                                ; 1
-Space Invaders                                         ; 93
-Spider-Man 2 - The Sinister Six                        ; 46
+Space Invaders
+Spider-Man 2 - The Sinister Six
 Spirer-Man                  
 Star Ocean - Blue Sphere
 Street Fighter Alpha - Warriors' Dreams                ; 78
@@ -953,13 +952,12 @@ Tetris DX                                              ; 6
 The Legend of Zelda - Link's Awakening DX              ; 3
 The Legend of Zelda - Oracle of Ages                   ; 9
 The Legend of Zelda - Oracle of Seasons                ; 6
-The grinch
-Titeuf                                                 ; 34
+The grinch                                             ; ?
 Toki Tori
 Tomb Raider                                            ; 44
 Tomb Raider - Curse of the Sword
 Trip World                                             ; 16
-Wacky races                                            ; 50
+Wacky races
 Wario Land 2                                           ; 10
 Wario Land 3                                           ; 4
 Warlocked
