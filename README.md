@@ -147,7 +147,7 @@ Adventures of Lolo                                       ; 55
 Adventures of Lolo II
 Adventures of Lolo III
 Balloon Fight                                            ; 81
-Batman                                                   ; 84
+Batman
 Batman - Return of the Jocker
 Battletoads                                              ; best
 Battletoads & Double Dragon - The Ultimate Team
@@ -164,12 +164,12 @@ Castlevania II - Simon's Quest                           ; best/good
 Castlevania III - Dracula's Curse                        ; best/good
 Chip 'n Dale - Rescue Rangers                            ; 61
 Chip 'n Dale - Rescue Rangers 2
-Clash at Demonhead                                       ; 91
+Clash at Demonhead
 Contra                                                   ; best
 Contra Force
 Crystalis                                                ; 19
-Deja Vu                                                  ; 91
-Destiny of an Emperor                                    ; 97
+Deja Vu
+Destiny of an Emperor
 Donkey Kong                                              ; 78
 Donkey Kong 3
 Donkey Kong Jr.
@@ -192,18 +192,18 @@ Final Fantasy 2                                          ; best/good
 Final Fantasy 3                                          ; best/good
 Gargoyle's Quest II - The Demon Darkness                 ; 47
 Ghosts 'n Goblins                                        ; 62
-Goonies II                                               ; 68
+Goonies II
 Gradius                                                  ; 96
 Gradius 2
-Guerilla War                                             ; 93
+Guerilla War
 Ice Climber                                              ; 90
-Jackal                                                   ; 64
+Jackal
 Kickle Cubicle                                           ; 71
 Kid Icarus                                               ; best
 Kirby's Adventure                                        ; 14
 Legacy of the Wizard                                     ; 87
 Life Force                                               ; 51
-Little Nemo the Dream Master                             ; 74
+Little Nemo the Dream Master
 Little Samson                                            ; 73
 Maniac Mansion                                           ; 37
 Marble Madness                                           ; 57
@@ -219,21 +219,21 @@ Metal Storm                                              ; 58
 Metroid                                                  ; best
 Micro Machines                                           ; 66
 Mission Impossible
-Monster Party                                            ; 97
+Monster Party
 Ninja Gaiden                                             ; 16
 Ninja Gaiden II - The Dark Sword of Chaos                ; 35
 Ninja Gaiden III - The Ancient Ship of Doom
-North and South                                          ; 93
+North and South
 Pac-Man
-Paperboy                                                 ; 75
-Paperboy 2                                               ; 75
-Pirates!                                                 ; 88
+Paperboy
+Paperboy 2
+Pirates!
 Punch-Out!!                                              ; 81
 RC Pro Am                                                ; 56
 River City Ransom                                        ; 11
 Shadowgate                                               ; 75
-Snake Rattle & Roll                                      ; 72
-Solstice                                                 ; 100
+Snake Rattle & Roll
+Solstice
 StarTropics                                              ; 27
 Startropics II - Zoda's Revenge
 Super C                                                  ; 40
@@ -247,9 +247,9 @@ Teenage Mutant Ninja Turtles II - The Arcade Game        ; 20
 Teenage Mutant Ninja Turtles III - The Manhattan Project ; 48
 Tetris                                                   ; 15
 Tetris 2
-The Battle of Olympus                                    ; 67
+The Battle of Olympus
 The Guardian Legend                                      ; 41
-Willow                                                   ; 69
+Willow
 Xevious
 Zelda II - The Adventures of Link                        ; 13
 ```
