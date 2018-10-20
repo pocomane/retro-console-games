@@ -666,12 +666,11 @@ Turbografx
 ```
 1941 Counter Attack
 1943 Kai                             ; 32
-Adventure Island
 Aero blasters                        ; 43
 After Burner II
 Air Zonk                             ; 21
 Atomic robo-kid
-Batman                               ; 63
+Batman
 Battle Lode Runner                   ; 39
 Blazing Lazers/Gunhed                ; 17
 Bloody Wolf                          ; 37
@@ -679,31 +678,31 @@ Bomberman
 Bomberman 93                         ; 52
 Bomberman 94                         ; 09
 Bomberman Users Battle
-Bonk 3                               ; 60
-Bonk's Adventure                     ; 28
-Bonk's Revenge                       ; 3
+Bonk 3                               ; 60 ; PC Genjin 3 in japan
+Bonk's Adventure                     ; 28 ; PC Genjin in japan
+Bonk's Revenge                       ; 3  ; PC Genjin 2 in japan
 Cadash                               ; 15
-Chew Man Fu/Be Ball                  ; 54
+Chew Man Fu/Be Ball
 Coryoon                              ; 48
-Cratermaze/Doraemon                  ; 58
-Daimakaimura
-Darius Alpha
-Darius Plus
+Cratermaze                           ; Doraemon in japan
+Dai Makaimura                        ; ? ; Ghouls 'n Ghosts
+Darius Alpha                         ; ?
+Darius Plus                          ; ?
 Detana Twinbee                       ; 25
 Don Doku Don                         ; 57
-Download                             ; 65
-Dragon Saber                         ; 79
-Dragon's Curse/Adventure Island      ; 6
+Download
+Dragon Saber
+Dragon's Curse                       ; 6  ; Adventure Island in japan
 Dungeon Explorer                     ; 23
 Fantasy Zone                  
-Final Soldier                        ; 56
-Galaga 88                            ; 41
-Galaga 90                            ; 41
+Final Soldier
+Galaga 90                            ; 41 ; Galaga 88 in japan
 Gomola Speed                         ; 08
 Gradius                              ; 70
-Jackie Chan Action Kung Fu           ; 42
+Hana Taaka Daka
+Jackie Chan Action Kung Fu
 Kyuukyoku Tiger                      ; 51 ; Twin Cobra
-Legend of Hero Tonma                 ; 72
+Legend of Hero Tonma
 Legendary Axe                        ; 12
 Legendary Axe II                     ; 31
 Magical Chase                        ; 8
@@ -716,36 +715,32 @@ Neutopia II                          ; 22
 New Adventure Island                 ; 38
 Ninja Spirit                         ; 18
 Order of the Griffin                 ; 50
-Outrun                               ; 30
+Outrun
 Override                             ; 47
-PC Genjin                            ; 05
-PC Genjin 2
-PC Genjin 3
 Parasol Stars                        ; 9
 Parodius Da!                         ; 5
 Populous                             ; 13
-Psychosis/Paranoia                   ; 77
-Puzzle Boy                           ; 69
+Psychosis
+Puzzle Boy
 R-Type                               ; 11
 R-Type Part-2                        ; 11
 Raiden                               ; 34
 Salamander                           ; 29
 Shinobi
 Sidearms - Hyperdyne                 ; 67
-Skweek                               ; 74
+Skweek
 Soldier Blade                        ; 1
 Son Son II                           ; 36
-Spin Pair                            ; 46
+Spin Pair
 Splatterhouse                        ; 33
 Street Fighter II - Champion Edition ; 04
 Super Star Soldier                   ; 35
-Tatsujin                             ; 61 ; Truxton
+Tatsujin                             ;    ; Truxton
 The Newzealand Story                 ; 76
 Turrican
 Valkyrie no Densetsu                 ; 45
-Victory Run                          ; 71
+Victory Run
 Zipang                               ; 26
-hana taka daka
 ```
 
 Game Boy
