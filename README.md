@@ -986,7 +986,7 @@ Castlevania - Aria of Sorrow
 Castlevania - Circle of the Moon
 Castlevania - Harmony of Dissonance
 Castlevania Double Pack
-ChuChu Rocket!                                         ; 65
+ChuChu Rocket!
 Classic NES - Castlevania                            
 Classic NES Series - Bomberman
 Classic NES Series - Donkey Kong
@@ -1012,8 +1012,8 @@ Duke Nukem Advance
 Ecks vs. Sever
 Ecks vs. Sever 2
 F-Zero - Maximum Velocity
-F-Zero Climax                                          ; 99
-F-Zero GP Legend                                       ; 87
+F-Zero Climax
+F-Zero GP Legend
 Final Fantasy I & II - Dawn of Souls
 Final Fantasy IV Advance
 Final Fantasy Tactics Advance
@@ -1023,7 +1023,7 @@ Final Fight One
 Fire Emble - Fuuin no Tsurugi                          ; 29
 Fire Emblem
 Fire Emblem - The Sacred Stones
-Golden Sun
+Golden Sun                                             ; ?
 Golden Sun - The Lost Age
 Gradius Galaxy                                         ; 96
 Gunstar Super Heroes
@@ -1041,9 +1041,9 @@ Lufia - The Ruins of Lore                              ; 85
 Lunar Legend
 Mario & Luigi - Superstar Saga
 Mario Kart Super Circuit
-Mario Tennis - Power Tour                              ; 54
+Mario Tennis - Power Tour
 Mario vs. Donkey Kong
-Mazes of Fate                                          ; 99
+Mazes of Fate
 Mega Man & Bass
 Mega Man Battle Network
 Mega Man Battle Network 2                              ; 31
@@ -1063,12 +1063,12 @@ Mortal Kombat - Tournament edition
 Mortal Kombat Advance
 Mother 1 & 2                                           ; 70
 Mother 3
-Ninja Five-0                                           ; 75
+Ninja Five-0
 Phantasy Star Collection                               ; 78
 Pokemon FireRed / LeafGreen                            ; 6
 Pokemon Mystery Dungeon - Red Rescue Team              ; 51
 Pokemon Ruby / Sapphire / Emerald                      ; 3
-Puyo Pop                                               ; 99
+Puyo Pop
 Puyo Pop Fever
 Racing Gears Advance
 Rayman - Hoodlums' Revenge
@@ -1082,17 +1082,17 @@ Shin Bokura no Taiyou - Gyakushuu no Sabata / Boktai 3 ; 99
 Shining Force - Resurrection of the Dark Dragon        ; 55
 Shining Soul
 Shining Soul 2                                         ; 52
-Sigma Star Saga                                        ; 99
-Sonic Advance
+Sigma Star Saga
+Sonic Advance                                          ; ?
 Sonic Advance 2
 Sonic Advance 3
 Sonic Battle                                           ; 60
 Sonic the hedgehog
 Street Fighter Alpha 3
 Super Ghouls 'n Ghosts
-Super Mario Advance - Super Mario Bros 2               ; 75
+Super Mario Advance - Super Mario Bros 2
 Super Mario Advance 4 - Super Mario Bros 3             ; 15
-Super Mario World - Super Mario Advance 2
+Super Mario World - Super Mario Advance 2              ; ?
 Super Robot Taisen - Original Generation 2
 Super Robot Taisen Original Generations                ; 80
 Super Street Fighter 2 Turbo - Revival                 ; 44
