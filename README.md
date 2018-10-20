@@ -260,33 +260,33 @@ Master system
 ```
 Action Fighter                              ; 41
 Afterburner
-Alex Kidd - High Tech World                 ; 75
-Alex Kidd - The Losts Stars                 ; 75
+Alex Kidd - High Tech World
+Alex Kidd - The Losts Stars
 Alex Kidd in Miracle World                  ; best
 Alex Kidd in Shinobi World                  ; 16
 Asterix                                     ; 4
 Asterix and the Great Rescue                ; 61
 Asterix and the Secret Mission              ; 34
-Baku Baku                                   ; 91
-Battle Out Run                              ; 58
+Baku Baku
+Battle Out Run
 Battlemaniacs                               ; best
-Black Belt                                  ; 66
-Bomber Raid                                 ; 81
+Black Belt
+Bomber Raid
 Bram Stoker's Dracula                       ; 29
 Bubble Bobble                               ; 35
 California Games                            ; 36
 California Games II
 Castle of Illusion                          ; best
-Choplifter                                  ; 75
+Choplifter
 Chuck Rock
 Chuck Rock II                               ; 10
 Columns                                     ; 38
 Cosmic Spacehead                            ; 75
-Daffy Duck in Hollywood                     ; 73
-Danan - The Jungle Fighter                  ; 95
+Daffy Duck in Hollywood
+Danan - The Jungle Fighter
 Desert Strike                               ; 26
 Double Dragon                               ; 36
-Dr. Robotnik's Mean Bean Machine            ; 71
+Dr. Robotnik's Mean Bean Machine
 Dynamite Headdy                             ; 16
 Fantastic Dizzy                             ; 35
 Fantasy Zone
@@ -300,7 +300,7 @@ Golden Axe Warrior                          ; 23
 Golvellius                                  ; 8
 Impossible Mission                          ; 32
 James Pond II - Robocod                     ; 15
-Jurassic Park                               ; 67
+Jurassic Park
 Kenseiden                                   ; 24
 Land of Illusion                            ; 3
 Legend of Illusion                          ; 11
@@ -313,8 +313,8 @@ Maze Hunter 3D
 Micro Machines
 Miracle Warriors - Seal of The Dark Lord 55 ; 29
 Mortal Kombat                               ; 56
-Mortal Kombat 2                             ; 31
-Mortal Kombat II                            ; 95
+Mortal Kombat II                            ; 31
+Mortal Kombat III                           ; 95
 The New Zealand Story                       ; 69
 Ninja Gaiden                                ; 11
 Operation Wolf                              ; 35
@@ -325,7 +325,7 @@ Power Strike II
 Power Striks
 Prince of Persia                            ; 41
 Psychic World                               ; 56
-Putt & Putter                               ; 46
+Putt & Putter
 R-Type
 R.C. Grand Prix                             ; 64
 Rainbow Islands                             ; 17
@@ -333,28 +333,28 @@ Rambo - First Blood Part II                 ; 67
 Rampart                                     ; 35
 Rastan
 Rescue Mission
-Road Rash                                   ; 25
-RoboCop vs. The Terminator                  ; 52
+Road Rash
+RoboCop vs. The Terminator
 Sagaia                                      ; 51 ; darius 2
-Scramble Spirits                            ; 89
-Sensible Soccer                             ; 86
+Scramble Spirit
+Sensible Soccer
 Shinobi
-Slap Shot                                   ; 73
-Solomons Key                                ; 32
+Slap Shot
+Solomon no Kagi - Oujo Rihita no Namida     ; 32 ; Solomons Key
 Sonic Chaos                                 ; best/good ; 39
 Sonic the Hedgehog                          ; best/good ; 7
 Sonic the Hedgehog 2                        ; best/good ; 17
 Space Harrier                               ; 28
-Spellcaster                                 ; 81
-Spy vs Spy                                  ; 81
+Spellcaster
+Spy vs Spy
 Star Wars                                   ; 13
 Street Fighter II'                          ; 86
 Streets of Rage
-Streets of Rage                             ; 52
+Streets of Rage II                          ; 52
 Strider
 Submarine Attack                            ; 24
 The Lucky Dime Caper - Starring Donald Duck ; 2
-The Smurfs                                  ; 61
+The Smurfs
 The Smurfs Travel the World          
 Ultima IV                                   ; 28
 Wonder Boy                                  ; 27
