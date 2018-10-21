@@ -22,23 +22,23 @@ Atari 2600
 ```
 Adventure                           ; best
 Adventures of Tron
-Air Raiders                         ; <66
-Amidar                              ; <33
-Asteroids                           ; <66
+Air Raiders                         ; 41
+Amidar                              ; 93
+Asteroids                           ; 55
 Battlezone
 Beamrider
-Berzerk                             ; <66
-Boxing                              ; <33
-Breakout                            ; <66
-California Games                    ; <66
-Centipede                           ; <66
-Chopper Command                     ; <33
+Berzerk                             ; 35
+Boxing                              ; 15
+Breakout                            ; 66
+California Games                    ; 52
+Centipede                           ; 48
+Chopper Command                     ; 16
 Circus Atari
 Commando  
 Communist Mutants from Space
-Cosmic Ark                          ; <66
+Cosmic Ark                          ; 46
 Cosmic Commuter
-Crystal Castles                     ; <66
+Crystal Castles                     ; 36
 Dark Cavern                         ; 84
 Defender                            ; 24
 Demon Attack                        ; 8
@@ -55,7 +55,7 @@ Escape from Mindmaster              ; 77
 Fantastic Voyage
 Fathom    
 Freeway                             ; 29
-Frogger                             ; very good+
+Frogger                             ; good+
 Frogger II
 Frostbite                           ; 25
 Galaxian                            ; 12
@@ -156,12 +156,12 @@ Blaster Master                                           ; 30
 Bomberman
 Bomberman II
 Boy and His Blob                    
-Bubble Bobble                                            ; very good+
-Bubble Bobble Part 2                                     ; very good+
+Bubble Bobble                                            ; good+
+Bubble Bobble Part 2                                     ; good+
 Bucky O'Hare                                             ; 81
-Castlevania                                              ; very good+
-Castlevania II - Simon's Quest                           ; very good+
-Castlevania III - Dracula's Curse                        ; very good+
+Castlevania                                              ; good+
+Castlevania II - Simon's Quest                           ; good+
+Castlevania III - Dracula's Curse                        ; good+
 Chip 'n Dale - Rescue Rangers                            ; 61
 Chip 'n Dale - Rescue Rangers 2
 Clash at Demonhead
@@ -187,9 +187,9 @@ DuckTales                                                ; 43
 DuckTales 2
 Excitebike                                               ; 29
 Faxanadu                                                 ; 46
-Final Fantasy                                            ; very good+
-Final Fantasy 2                                          ; very good+
-Final Fantasy 3                                          ; very good+
+Final Fantasy                                            ; good+
+Final Fantasy 2                                          ; good+
+Final Fantasy 3                                          ; good+
 Gargoyle's Quest II - The Demon Darkness                 ; 47
 Ghosts 'n Goblins                                        ; 62
 Goonies II
@@ -208,12 +208,12 @@ Little Samson                                            ; 73
 Maniac Mansion                                           ; 37
 Marble Madness                                           ; 57
 Mario Bros.                                              ; 85
-Mega Man                                                 ; very good+ ; 36
-Mega Man 2                                               ; very good+ ; 5
-Mega Man 3                                               ; very good+ ; 12
-Mega Man 4                                               ; very good+ ; 50
-Mega Man 5                                               ; very good+ ; 54
-Mega Man 6                                               ; very good+ ; 58
+Mega Man                                                 ; good+ ; 36
+Mega Man 2                                               ; good+ ; 5
+Mega Man 3                                               ; good+ ; 12
+Mega Man 4                                               ; good+ ; 50
+Mega Man 5                                               ; good+ ; 54
+Mega Man 6                                               ; good+ ; 58
 Metal Gear                                               ; 32
 Metal Storm                                              ; 58
 Metroid                                                  ; best
@@ -341,9 +341,9 @@ Sensible Soccer
 Shinobi
 Slap Shot
 Solomon no Kagi - Oujo Rihita no Namida     ; 32 ; Solomons Key
-Sonic Chaos                                 ; very good+ ; 39
-Sonic the Hedgehog                          ; very good+ ; 7
-Sonic the Hedgehog 2                        ; very good+ ; 17
+Sonic Chaos                                 ; good+ ; 39
+Sonic the Hedgehog                          ; good+ ; 7
+Sonic the Hedgehog 2                        ; good+ ; 17
 Space Harrier                               ; 28
 Spellcaster
 Spy vs Spy
@@ -392,9 +392,9 @@ Clock Tower
 Contra III - The Alien Wars                          ; best
 Cybernator
 Demon's Crest                                        ; 58
-Donkey Kong Country                                  ; very good+ ; 4
-Donkey Kong Country 2 - Diddy's Kong Quest           ; very good+ ; 12
-Donkey Kong Country 3 - Dixie Kong's Double Trouble! ; very good+ ; 26
+Donkey Kong Country                                  ; good+ ; 4
+Donkey Kong Country 2 - Diddy's Kong Quest           ; good+ ; 12
+Donkey Kong Country 3 - Dixie Kong's Double Trouble! ; good+ ; 26
 Doom                                                 ; 43
 E.V.O. - Search for Eden                             ; 60
 EarthBound                                           ; best
@@ -405,10 +405,10 @@ Equinox
 F-Zero
 Fatal Fury Special
 Final Fantasy - Mystic Quest Legend
-Final Fantasy II                                     ; very good+ ; 70
-Final Fantasy III                                    ; very good+ ; 63
-Final Fantasy IV                                     ; very good+ ; 21
-Final Fantasy V                                      ; very good+ ; 76
+Final Fantasy II                                     ; good+ ; 70
+Final Fantasy III                                    ; good+ ; 63
+Final Fantasy IV                                     ; good+ ; 21
+Final Fantasy V                                      ; good+ ; 76
 Final Fantasy VI                                     ; best
 Final Fight                                          ; 39
 Final Fight 2                                        ; 69
@@ -470,8 +470,8 @@ Sparkster
 Star Fox                                             ; 17
 Star Ocean                                           ; 85
 Street Fighter Alpha 2
-Street Fighter II - the world warrior                ; very good+ ; 8
-Street Fighter II Turbo - hyper fighting             ; very good+
+Street Fighter II - the world warrior                ; good+ ; 8
+Street Fighter II Turbo - hyper fighting             ; good+
 Sunset Riders                                        ; 35
 Super Adventure Island
 Super Adventure Island II
@@ -622,10 +622,10 @@ Shining Force II                                       ; 62
 Shining in the Darkness
 Shinobi III - Return of the Ninja Master               ; 12
 Snake Rattle 'n' Roll
-Sonic and Knuckles                                     ; very good+ ; 34
-Sonic the Hedgehog                                     ; very good+ ; 17
-Sonic the Hedgehog 2                                   ; very good+ ; 8
-Sonic the Hedgehog 3                                   ; very good+ ; 20
+Sonic and Knuckles                                     ; good+ ; 34
+Sonic the Hedgehog                                     ; good+ ; 17
+Sonic the Hedgehog 2                                   ; good+ ; 8
+Sonic the Hedgehog 3                                   ; good+ ; 20
 Splatterhouse 2              
 Splatterhouse 3          
 Star Control            
@@ -1170,8 +1170,8 @@ I added some note after some title e.g. the english name for a japan-only game. 
 
 -- TODO : the following will be removed soon after the rest of the labelling is complete
 
-- `very good+` - candidate to get the `best` label
-- `very good-` - candidate to lost the `good` label
+- `good-` - like 'very good', but candidate to lost label
+- `good+` - like 'very good', but candidate to get the `best` label
 - An indicative positional index
 
 -- TODO : better explanation, more label
