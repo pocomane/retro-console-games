@@ -970,12 +970,12 @@ Game Boy Advance
 
 ```
 2 Games in 1 - Dr. Mario & Puzzle league
-Advance Guardian Heroes                                ; 65
+Advance Guardian Heroes                                ; good- ; 65
 Advance Wars
 Advance Wars 2 - Black Hole Rising
 Astro Boy - Omega Factor
 Boktai - The Sun Is in Your Hand
-Boktai 2 - Solar Boy Django                            ; 55
+Boktai 2 - Solar Boy Django                            ; good- ; 55
 Bomberman Max 2 Blue / Red
 Bomberman Tournament
 Boulder Dash EX
@@ -1000,12 +1000,12 @@ Disney's Lilo & Stitch
 Disney's Lilo & Stitch 2
 Donkey Kong Country
 Donkey Kong Country 2
-Donkey Kong Country 3                                  ; 60
+Donkey Kong Country 3                                  ; good- ; 60
 Doom
 Doom 2
-Dragon Ball Z - The Legacy Goku                        ; 6
-Dragon Ball Z - The Legacy Goku II                     ; 6
-Dragon Quest Monsters - Caravan Heart                  ; 85
+Dragon Ball Z - The Legacy Goku                        ; good- ; 6
+Dragon Ball Z - The Legacy Goku II                     ; good- ; 6
+Dragon Quest Monsters - Caravan Heart                  ; good- ; 85
 Drill Dozer
 Duke Nukem Advance
 Ecks vs. Sever
@@ -1016,19 +1016,19 @@ F-Zero GP Legend
 Final Fantasy I & II - Dawn of Souls
 Final Fantasy IV Advance
 Final Fantasy Tactics Advance
-Final Fantasy V                                        ; 18
+Final Fantasy V                                        ; good+ ; 18
 Final Fantasy VI Advance
 Final Fight One
-Fire Emble - Fuuin no Tsurugi                          ; 29
+Fire Emblem - Fuuin no Tsurugi                          ; good+ ; 29
 Fire Emblem
 Fire Emblem - The Sacred Stones
-Golden Sun                                             ; ?
+Golden Sun                                             ; good-
 Golden Sun - The Lost Age
-Gradius Galaxy                                         ; 96
+Gradius Galaxy                                         ; good- ; 96
 Gunstar Super Heroes
 Harvest Moon - Friends of Mineral Town
 Harvest Moon - More Friends of Mineral Town
-Kingdom Hearts - Chain of Memories                     ; 39
+Kingdom Hearts - Chain of Memories                     ; good+ ; 39
 Kirby & the Amazing Mirror
 Kirby - Nightmare in Dream Land
 Klonoa
@@ -1036,7 +1036,7 @@ Klonoa 2 - Dream Champ Tournament
 Konami Collector's Series - Arcade Advanced
 Legend of Spyro - Eternal Nigh
 Legend of Spyro - New Beginning
-Lufia - The Ruins of Lore                              ; 85
+Lufia - The Ruins of Lore                              ; good- ; 85
 Lunar Legend
 Mario & Luigi - Superstar Saga
 Mario Kart Super Circuit
@@ -1045,28 +1045,28 @@ Mario vs. Donkey Kong
 Mazes of Fate
 Mega Man & Bass
 Mega Man Battle Network
-Mega Man Battle Network 2                              ; 31
-Mega Man Battle Network 3 blue / white                 ; 17
-Mega Man Battle Network 4 blue moon / red sun          ; 72
-Mega Man Battle Network 5 team colonel / proto man     ; 58
-Mega Man Battle Network 6 cybeast flazar / gregar      ; 39
+Mega Man Battle Network 2                              ; good+ ; 31
+Mega Man Battle Network 3 blue / white                 ; good+ ; 17
+Mega Man Battle Network 4 blue moon / red sun          ; good- ; 72
+Mega Man Battle Network 5 team colonel / proto man     ; good- ; 58
+Mega Man Battle Network 6 cybeast flazar / gregar      ; good- ; 39
 Mega Man Zero
-Mega Man Zero 2                                        ; 60
-Mega Man Zero 3                                        ; 55
-Mega Man Zero 4                                        ; 60
+Mega Man Zero 2                                        ; good- ; 60
+Mega Man Zero 3                                        ; good- ; 55
+Mega Man Zero 4                                        ; good- ; 60
 Metal Slug Advance
 Metroid - Zero Mission
 Metroid Fusion
 Mortal Kombat - Deadly Alliance
 Mortal Kombat - Tournament edition
 Mortal Kombat Advance
-Mother 1 & 2                                           ; 70
+Mother 1 & 2                                           ; good- ; 70
 Mother 3
 Ninja Five-0
-Phantasy Star Collection                               ; 78
-Pokemon FireRed / LeafGreen                            ; 6
-Pokemon Mystery Dungeon - Red Rescue Team              ; 51
-Pokemon Ruby / Sapphire / Emerald                      ; 3
+Phantasy Star Collection                               ; good- ; 78
+Pokemon FireRed / LeafGreen                            ; good+ ; 6
+Pokemon Mystery Dungeon - Red Rescue Team              ; good- ; 51
+Pokemon Ruby / Sapphire / Emerald                      ; good+ ; 3
 Puyo Pop
 Puyo Pop Fever
 Racing Gears Advance
@@ -1074,46 +1074,46 @@ Rayman - Hoodlums' Revenge
 Rayman - Raving Rabbids
 Rayman 3
 Rayman Advance
-Rhythm Tengoku                                         ; 33
-Riviera - The Promised Land                            ; 20
+Rhythm Tengoku                                         ; good+ ; 33
+Riviera - The Promised Land                            ; good+ ; 20
 Rock 'N Roll Racing
-Shin Bokura no Taiyou - Gyakushuu no Sabata / Boktai 3 ; 99
-Shining Force - Resurrection of the Dark Dragon        ; 55
+Shin Bokura no Taiyou - Gyakushuu no Sabata / Boktai 3 ; good- ; 99
+Shining Force - Resurrection of the Dark Dragon        ; good- ; 55
 Shining Soul
-Shining Soul 2                                         ; 52
+Shining Soul 2                                         ; good- ; 52
 Sigma Star Saga
 Sonic Advance                                          ; ?
 Sonic Advance 2
 Sonic Advance 3
-Sonic Battle                                           ; 60
+Sonic Battle                                           ; good- ; 60
 Sonic the hedgehog
 Street Fighter Alpha 3
 Super Ghouls 'n Ghosts
 Super Mario Advance - Super Mario Bros 2
-Super Mario Advance 4 - Super Mario Bros 3             ; 15
+Super Mario Advance 4 - Super Mario Bros 3             ; good+ ; 15
 Super Mario World - Super Mario Advance 2              ; ?
 Super Robot Taisen - Original Generation 2
-Super Robot Taisen Original Generations                ; 80
-Super Street Fighter 2 Turbo - Revival                 ; 44
-Sword of Mana                                          ; 33
+Super Robot Taisen Original Generations                ; good- ; 80
+Super Street Fighter 2 Turbo - Revival                 ; good- ; 44
+Sword of Mana                                          ; good+ ; 33
 TMNT
 Tactics Ogre - The Knight of Lodis
 Tak 2 - The Staff of Dreamss
 Tak and the Power of Juju
-Tales of Phantasia                                     ; 56
+Tales of Phantasia                                     ; good- ; 56
 Tekken Advance
 The King of Fighters EX - Neo Blood
 The King of Fighters EX2 - Howling Blood
-The Legend of Zelda - A Link to the Past               ; 8
+The Legend of Zelda - A Link to the Past               ; best
 The Legend of Zelda - The Minish Cap
 Wade Hixton's Counter Punch
 Wario Land 4
 WarioWare - Twisted!
 WarioWare, Inc. - Mega Microgame$!
-Warioland 4                                            ; 29
+Warioland 4                                            ; good+
 Wolfenstein 3D
-Yggdra Unionv                                          ; 47
-Yoshi's Island - Super Mario Advance 3                 ; 26
+Yggdra Unionv                                          ; good- ; 47
+Yoshi's Island - Super Mario Advance 3                 ; best
 ```
 
 The selection
