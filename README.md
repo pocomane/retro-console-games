@@ -258,112 +258,112 @@ Master system
 ===========
 
 ```
-Action Fighter                              ; 41
+Action Fighter                              ; good- ; 41
 Afterburner
 Alex Kidd - High Tech World
 Alex Kidd - The Losts Stars
 Alex Kidd in Miracle World                  ; best
-Alex Kidd in Shinobi World                  ; 16
-Asterix                                     ; 4
-Asterix and the Great Rescue                ; 61
-Asterix and the Secret Mission              ; 34
+Alex Kidd in Shinobi World                  ; good+ ; 16
+Asterix                                     ; good+ ; 4
+Asterix and the Great Rescue                ; good- ; 61
+Asterix and the Secret Mission              ; good+ ; 34
 Baku Baku
 Battle Out Run
 Battlemaniacs                               ; best
 Black Belt
 Bomber Raid
-Bram Stoker's Dracula                       ; 29
-Bubble Bobble                               ; 35
-California Games                            ; 36
+Bram Stoker's Dracula                       ; good+ ; 29
+Bubble Bobble                               ; good+ ; 35
+California Games                            ; good- ; 36
 California Games II
 Castle of Illusion                          ; best
 Choplifter
 Chuck Rock
-Chuck Rock II                               ; 10
-Columns                                     ; 38
-Cosmic Spacehead                            ; 75
+Chuck Rock II                               ; good+ ; 10
+Columns                                     ; good- ; 38
+Cosmic Spacehead                            ; good- ; 75
 Daffy Duck in Hollywood
 Danan - The Jungle Fighter
-Desert Strike                               ; 26
-Double Dragon                               ; 36
+Desert Strike                               ; good- ; 26
+Double Dragon                               ; good- ; 36
 Dr. Robotnik's Mean Bean Machine
-Dynamite Headdy                             ; 16
-Fantastic Dizzy                             ; 35
+Dynamite Headdy                             ; good+ ; 16
+Fantastic Dizzy                             ; good- ; 35
 Fantasy Zone
-Fantasy Zone II                             ; 15
-Forgotten Worlds                            ; 33
+Fantasy Zone II                             ; good+ ; 15
+Forgotten Worlds                            ; good- ; 33
 Fushigi no Oshiro Pit Pot
-Gain Ground                                 ; 20
-Ghouls 'n Ghosts                            ; 44
-Golden Axe                                  ; 29
-Golden Axe Warrior                          ; 23
-Golvellius                                  ; 8
-Impossible Mission                          ; 32
-James Pond II - Robocod                     ; 15
+Gain Ground                                 ; good+ ; 20
+Ghouls 'n Ghosts                            ; good+ ; 44
+Golden Axe                                  ; good+ ; 29
+Golden Axe Warrior                          ; good+ ; 23
+Golvellius                                  ; good+ ; 8
+Impossible Mission                          ; good+ ; 32
+James Pond II - Robocod                     ; good+ ; 15
 Jurassic Park
-Kenseiden                                   ; 24
-Land of Illusion                            ; 3
-Legend of Illusion                          ; 11
-Lemmings                                    ; 18
+Kenseiden                                   ; good+ ; 24
+Land of Illusion                            ; good+ ; 3
+Legend of Illusion                          ; good+ ; 11
+Lemmings                                    ; good- ; 18
 Machine Gun Joe                  
-Marble Madness                              ; 23
-Master of Darkness                          ; 13
-Masters of Combat                           ; 36
+Marble Madness                              ; good- ; 23
+Master of Darkness                          ; good+ ; 13
+Masters of Combat                           ; good- ; 36
 Maze Hunter 3D
 Micro Machines
-Miracle Warriors - Seal of The Dark Lord 55 ; 29
-Mortal Kombat                               ; 56
-Mortal Kombat II                            ; 31
-Mortal Kombat III                           ; 95
-The New Zealand Story                       ; 69
-Ninja Gaiden                                ; 11
-Operation Wolf                              ; 35
+Miracle Warriors - Seal of The Dark Lord    ; good- ; 29
+Mortal Kombat                               ; good- ; 56
+Mortal Kombat II                            ; good- ; 31
+Mortal Kombat III                           ; good- ; 95
+The New Zealand Story                       ; good- ; 69
+Ninja Gaiden                                ; good+ ; 11
+Operation Wolf                              ; good- ; 35
 Out Run
-Phantasy Star                               ; 2
-Populous                                    ; 9
+Phantasy Star                               ; good+ ; 2
+Populous                                    ; good+ ; 9
 Power Strike II
 Power Striks
-Prince of Persia                            ; 41
-Psychic World                               ; 56
+Prince of Persia                            ; good- ; 41
+Psychic World                               ; good- ; 56
 Putt & Putter
 R-Type
-R.C. Grand Prix                             ; 64
-Rainbow Islands                             ; 17
-Rambo - First Blood Part II                 ; 67
-Rampart                                     ; 35
+R.C. Grand Prix                             ; good- ; 64
+Rainbow Islands                             ; good+ ; 17
+Rambo - First Blood Part II                 ; good- ; 67
+Rampart                                     ; good- ; 35
 Rastan
 Rescue Mission
 Road Rash
 RoboCop vs. The Terminator
-Sagaia                                      ; 51 ; darius 2
+Sagaia                                      ; good- ; 51 ; darius 2
 Scramble Spirit
 Sensible Soccer
 Shinobi
 Slap Shot
-Solomon no Kagi - Oujo Rihita no Namida     ; 32 ; Solomons Key
+Solomon no Kagi - Oujo Rihita no Namida     ; good+ ; 32 ; Solomons Key
 Sonic Chaos                                 ; good+ ; 39
 Sonic the Hedgehog                          ; good+ ; 7
 Sonic the Hedgehog 2                        ; good+ ; 17
-Space Harrier                               ; 28
+Space Harrier                               ; good- ; 28
 Spellcaster
 Spy vs Spy
-Star Wars                                   ; 13
-Street Fighter II'                          ; 86
+Star Wars                                   ; good+ ; 13
+Street Fighter II'                          ; good- ; 86
 Streets of Rage
-Streets of Rage II                          ; 52
+Streets of Rage II                          ; good- ; 52
 Strider
-Submarine Attack                            ; 24
-The Lucky Dime Caper - Starring Donald Duck ; 2
+Submarine Attack                            ; good+ ; 24
+The Lucky Dime Caper - Starring Donald Duck ; good+ ; 2
 The Smurfs
 The Smurfs Travel the World          
-Ultima IV                                   ; 28
-Wonder Boy                                  ; 27
-Wonder Boy in Monster World                 ; 40
+Ultima IV                                   ; good+ ; 28
+Wonder Boy                                  ; good+ ; 27
+Wonder Boy in Monster World                 ; good+ ; 40
 Wonderboy III - Dragon’s Trap
 Wonderboy in Monster Land                   ; best
 Xenon 2
-Ys - The Vanished Omens                     ; 24
-Zillion                                     ; 34
+Ys - The Vanished Omens                     ; good+ ; 24
+Zillion                                     ; good- ; 34
 Zillion 2
 Zool
 ```
