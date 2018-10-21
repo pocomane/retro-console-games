@@ -665,82 +665,82 @@ Turbografx
 
 ```
 1941 Counter Attack
-1943 Kai                             ; 32
-Aero blasters                        ; 43
+1943 Kai                             ; good- ; 32
+Aero blasters                        ; good- ; 43
 After Burner II
-Air Zonk                             ; 21
+Air Zonk                             ; good- ; 21
 Atomic robo-kid
 Batman
-Battle Lode Runner                   ; 39
-Blazing Lazers/Gunhed                ; 17
-Bloody Wolf                          ; 37
+Battle Lode Runner                   ; good- ; 39
+Bloody Wolf                          ; good- ; 37
 Bomberman
-Bomberman 93                         ; 52
-Bomberman 94                         ; 09
+Bomberman 93                         ; good- ; 52
+Bomberman 94                         ; good+ ; 09
 Bomberman Users Battle
-Bonk 3                               ; 60 ; PC Genjin 3 in japan
-Bonk's Adventure                     ; 28 ; PC Genjin in japan
-Bonk's Revenge                       ; 3  ; PC Genjin 2 in japan
-Cadash                               ; 15
+Bonk 3                               ; good- ; 60 ; PC Genjin 3 in japan
+Bonk's Adventure                     ; good+ ; 28 ; PC Genjin in japan
+Bonk's Revenge                       ; good+ ; 3  ; PC Genjin 2 in japan
+Cadash                               ; good- ; 15
 Chew Man Fu/Be Ball
-Coryoon                              ; 48
+Coryoon                              ; good- ; 48
 Cratermaze                           ; Doraemon in japan
-Dai Makaimura                        ; ? ; Ghouls 'n Ghosts
-Darius Alpha                         ; ?
-Darius Plus                          ; ?
-Detana Twinbee                       ; 25
-Don Doku Don                         ; 57
+Dai Makaimura                        ; good+ ; Ghouls 'n Ghosts
+Darius Alpha                         ; good-
+Darius Plus                          ; good-
+Detana Twinbee                       ; good- ; 25
+Don Doku Don                         ; good- ; 57
 Download
 Dragon Saber
-Dragon's Curse                       ; 6  ; Adventure Island in japan
-Dungeon Explorer                     ; 23
+Dragon's Curse                       ; good+ ; 6  ; Adventure Island in japan
+Dungeon Explorer                     ; good- ; 23
 Fantasy Zone                  
 Final Soldier
-Galaga 90                            ; 41 ; Galaga 88 in japan
-Gomola Speed                         ; 08
-Gradius                              ; 70
+Galaga 90                            ; good- ; 41 ; Galaga 88 in japan
+Gomola Speed                         ; good- ; 08
+Gradius                              ; good- ; 70
+Gunhed                               ; good- ; 17 ; Blazing Lazers in japan
 Hana Taaka Daka
 Jackie Chan Action Kung Fu
-Kyuukyoku Tiger                      ; 51 ; Twin Cobra
+Kyuukyoku Tiger                      ; good- ; 51 ; Twin Cobra in USA
 Legend of Hero Tonma
-Legendary Axe                        ; 12
-Legendary Axe II                     ; 31
-Magical Chase                        ; 8
-Metal Stoker                         ; 27
-Military Madness                     ; 10
-Mizubaku Daibouken                   ; 7  ; Liquid Kids
-Momotarou Katsugeki                  ; 20
-Neutopia                             ; 49
-Neutopia II                          ; 22
-New Adventure Island                 ; 38
-Ninja Spirit                         ; 18
-Order of the Griffin                 ; 50
+Legendary Axe                        ; good+ ; 12
+Legendary Axe II                     ; good+ ; 31
+Magical Chase                        ; good+ ; 8
+Metal Stoker                         ; good- ; 27
+Military Madness                     ; good+ ; 10
+Mizubaku Daibouken                   ; good+ ; 7  ; Liquid Kids in USA
+Momotarou Katsugeki                  ; good- ; 20
+Neutopia                             ; good- ; 49
+Neutopia II                          ; good+ ; 22
+New Adventure Island                 ; good- ; 38
+Ninja Spirit                         ; good+ ; 18
+Order of the Griffin                 ; good- ; 50
 Outrun
-Override                             ; 47
-Parasol Stars                        ; 9
-Parodius Da!                         ; 5
-Populous                             ; 13
+Override                             ; good- ; 47
+Parasol Stars                        ; good+ ; 9
+Parodius Da!                         ; good- ; 5
+Populous                             ; good+ ; 13
 Psychosis
 Puzzle Boy
-R-Type                               ; 11
-R-Type Part-2                        ; 11
-Raiden                               ; 34
-Salamander                           ; 29
+R-Type                               ; good+ ; 11
+R-Type Part-2                        ; good+ ; 11
+Raiden                               ; good- ; 34
+Salamander                           ; good- ; 29
 Shinobi
-Sidearms - Hyperdyne                 ; 67
+Sidearms - Hyperdyne                 ; good- ; 67
 Skweek
-Soldier Blade                        ; 1
-Son Son II                           ; 36
+Soldier Blade                        ; good+ ; 1
+Son Son II                           ; good- ; 36
 Spin Pair
-Splatterhouse                        ; 33
-Street Fighter II - Champion Edition ; 04
-Super Star Soldier                   ; 35
-Tatsujin                             ;    ; Truxton
-The Newzealand Story                 ; 76
+Splatterhouse                        ; good- ; 33
+Street Fighter II - Champion Edition ; good+ ; 04
+Super Star Soldier                   ; good- ; 35
+Tatsujin                             ;    ; Truxton in USA
+The Newzealand Story                 ; very good
 Turrican
-Valkyrie no Densetsu                 ; 45
+Valkyrie no Densetsu                 ; good+ ; 45
 Victory Run
-Zipang                               ; 26
+Zipang                               ; good+ ; 26
 ```
 
 Game Boy
