@@ -747,115 +747,115 @@ Game Boy
 ========
 
 ```
-Adventures of Lolo                       ; 3
-Asmik-kun World 2                        ; 90 ; Boomer's Adventure in ASMIK World 2
-Avenging Spirit                          ; 48
+Adventures of Lolo                       ; good+ ; 3
+Asmik-kun World 2                        ; good - ; 90 ; Boomer's Adventure in ASMIK World 2
+Avenging Spirit                          ; good+ ; 48
 Balloon Kid
 Batman - Return of the Joker
 Batman - The Animated Series
-Battle Arena Toshinden                   ; 13
+Battle Arena Toshinden                   ; good- ; 13
 Battletoads
 Battletoads Double Dragon - The Ultimate Team
 Battletoads in Ragnarok's World
 Bill & Ted’s Excellent Game Boy Adventure
-Blaster Master Boy                       ; 25
-Bomberman GB                             ; 29 ; bomberman GB 2 in japan
+Blaster Master Boy                       ; good+ ; 25
+Bomberman GB                             ; good+ ; 29 ; bomberman GB 2 in japan
 Bomberman GB 3                              
-Bonk's Adventure                         ; 53
-Bonk's Revenge                           ; 38
+Bonk's Adventure                         ; good+ ; 53
+Bonk's Revenge                           ; good+ ; 38
 Booby Boys
-Boomer's Adventure in ASMIK World        ; 23
-Bubble Bobble                            ; 9
+Boomer's Adventure in ASMIK World        ; good+ ; 23
+Bubble Bobble                            ; good+ ; 9
 Bubble Bobble Part 2
 BurgerTime Deluxe
-Castlevania - The Adventure              ; 81
-Castlevania II - Belmont's Revenge       ; 75
-Castlevania Legends                      ; 82
-Catrap                          1.
+Castlevania - The Adventure              ; good- ; 81
+Castlevania II - Belmont's Revenge       ; good- ; 75
+Castlevania Legends                      ; good- ; 82
+Catrap                                   ; good+ ; 1
 Contra - The Alien Wars
 Dexterity
-Donkey Kong                              ; 19
-Donkey Kong Land                         ; 14
-Donkey Kong Land 2
-Donkey Kong Land 3                       ; 52
+Donkey Kong                              ; good+ ;  19
+Donkey Kong Land                         ; good+ ; 14
+Donkey Kong Land 2                       ; good+ ; 
+Donkey Kong Land 3                       ; good+ ; 52
 Double Dragon
 Double Dragon II
 Double Dragon III
-Dr. Mario Nintendo                       ; 8
+Dr. Mario Nintendo                       ; good- ; 8
 DuckTales
 DuckTales 2
-Elevator Action EX                       ; 15
-Final Fantasy Adventure                  ; 22
-Final Fantasy Legend II                  ; 79
-Final Fantasy Legend III                 ; 91
-Fortified Zone                           ; 28
+Elevator Action EX                       ; good+ ; 15
+Final Fantasy Adventure                  ; good+ ; 22
+Final Fantasy Legend II                  ; good- ; 79
+Final Fantasy Legend III                 ; good- ; 91
+Fortified Zone                           ; good- ; 28
 GB Genjin Land - Viva! Chikkun Oukoku
-Game & Watch Gallery                     ; 53
-Gargoyle's Quest                         ; 37
+Game & Watch Gallery                     ; good- ; 53
+Gargoyle's Quest                         ; good+ ; 37
 Gradius - The Interstellar Assault
-Great Greed                              ; 59
-Hammerin' Harry - Ghost Building Company ; 14
-Harvest Moon GB                          ; 36
-Ikari no Yousai 2                        ; 10
+Great Greed                              ; good- ; 59
+Hammerin' Harry - Ghost Building Company ; good+ ; 14
+Harvest Moon GB                          ; good- ; 36
+Ikari no Yousai 2                        ; good+ ; 10 ; Fortified Zone sequel
 Joe & Mac - Caveman Ninja
-Kaeru no tame ni Kane wa Naru            ; 45 ; For Frog the Bell Tolls
-Kid Dracula                              ; 8
-Kid Icarus - Of Myths and Monsters       ; 27
+Kaeru no tame ni Kane wa Naru            ; good- ; 45 ; For Frog the Bell Tolls
+Kid Dracula                              ; good+ ; 8
+Kid Icarus - Of Myths and Monsters       ; good+ ; 27
 King of Fighters '95
-Kirby's Block Ball                       ; 18
-Kirby's Dream Land                       ; 7
-Kirby's Dream Land 2                     ; 2
+Kirby's Block Ball                       ; good- ; 18
+Kirby's Dream Land                       ; good+ ; 7
+Kirby's Dream Land 2                     ; good+ ; 2
 Kung-Fu Master
 Mario’s Picross
 Mario’s Picross 2
-Maru's Mission                           ; 12
-Mega Man - Dr. Wily's Revenge            ; 57
-Mega Man II                              ; 20
-Mega Man III                             ; 49
-Mega Man IV                              ; 51
+Maru's Mission                           ; good- ; 12
+Mega Man - Dr. Wily's Revenge            ; good- ; 57
+Mega Man II                              ; good+ ; 20
+Mega Man III                             ; good- ; 49
+Mega Man IV                              ; good- ; 51
 Mega Man V
-Metroid II - Return of Samus             ; 3
+Metroid II - Return of Samus             ; good+ ; 3
 Micro Machines
-Mole Mania                               ; 46
+Mole Mania                               ; good- ; 46
 Motocross Maniacs
 Mr. Nutz
 Mystic Quest                  
-Mystical Ninja starring Goemon           ; 30
-Ninja Gaiden - Shadow                    ; 73
-Ninja Spirit                             ; 67
-Noobow                                   ; 39
-Operation C                              ; 26
+Mystical Ninja starring Goemon           ; good+ ; 30
+Ninja Gaiden - Shadow                    ; good- ; 73
+Ninja Spirit                             ; good- ; 67
+Noobow                                   ; good+ ; 39
+Operation C                              ; good+ ; 26
 Pocket Bomberman
-Pokemon Blue / Red / yellow              ; 5
-Pop'n TwinBee                            ; 4
-Qix                                      ; 50
+Pokemon Blue / Red / yellow              ; good+ ; 5
+Pop'n TwinBee                            ; good+ ; 4
+Qix                                      ; good- ; 50
 R-Type
 R-Type II
-Rolan's Curse                            ; 31
-Rolan's Curse 2                          ; 50
-SolarStriker                             ; 48
-Solomon's Club                           ; 42
-Street Fighter II - The World Warrior    ; 72
-Super Mario Land                         ; 76
-Super Mario Land 2 - 6 Golden Coins      ; 5
-Tail Gator                               ; 32
-Tetris                                   ; 4
-Tetris 2                                 ; 44
+Rolan's Curse                            ; good+ ; 31
+Rolan's Curse 2                          ; good- ; 50
+SolarStriker                             ; good- ; 48
+Solomon's Club                           ; good- ; 42
+Street Fighter II - The World Warrior    ; good- ; 72
+Super Mario Land                         ; good- ; 76
+Super Mario Land 2 - 6 Golden Coins      ; good+ ; 5
+Tail Gator                               ; good+ ; 32
+Tetris                                   ; best
+Tetris 2                                 ; good- ; 44
 Tetris attack
 Tetris plus
-The Final Fantasy Legend                 ; 65
-The King of Fighters '95                 ; 41
-The King of Fighters - Heat of Battle    ; 41
-The Legend of Zelda - Link’s Awakening   ; 1
+The Final Fantasy Legend                 ; good- ; 65
+The King of Fighters '95                 ; good- ; 41
+The King of Fighters - Heat of Battle    ; good- ; 41
+The Legend of Zelda - Link’s Awakening   ; best
 Tiny Toons Adventures - Babs' Big Break            
 Tiny Toons Adventures 2 - Montans's Movie      
-Trax                                     ; 6
-Trip World                               ; 11
-Wario Blast                              ; 82 ; Bomberman GB in japan
+Trax                                     ; good+ ; 6
+Trip World                               ; good- ; 11
+Wario Blast                              ; good- ; 82 ; Bomberman GB in japan
 Wario Land - Super Mario Land 3
-Wario Land II                            ; 80
+Wario Land II                            ; good- ; 80
 Worms      
-Yoshi                                    ; 18
+Yoshi                                    ; good- ; 18
 Yoshi's Cookie
 ```
 
