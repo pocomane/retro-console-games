@@ -869,16 +869,16 @@ Arcade Hits - Joust & Defender
 Asteroid
 Balloon fight GB
 Bionic Commando - elite forces
-Bomberman Max - Blue Champion / Red Challanger         ; 38
-Bomberman Quest                                        ; 38
+Bomberman Max - Blue Champion / Red Challanger         ; good- ; 38
+Bomberman Quest                                        ; good- ; 38
 Bubble Bobble
 Cannon folder
 Crystalis        
-Daikatana                                              ; 67
+Daikatana                                              ; good- ; 67
 Denki Blocks !
-Donkey Kong Country                                    ; 15
-Donkey Kong GB                                         ; 47
-Dragon Ball Z - Legendary Super Warrior                ; 48
+Donkey Kong Country                                    ; good+ ; 15
+Donkey Kong GB                                         ; good- ; 47
+Dragon Ball Z - Legendary Super Warrior                ; good- ; 48
 Dragon Warrior I & II
 Dragon Warrior III
 Dragon Warrior Monsters
@@ -886,12 +886,12 @@ Dragon Warrior Monsters 2 - Cobi's Journey
 Dragon Warrior Monsters 2 - Tara's Adventure
 Dragon's lair
 Duke Nukem
-Elevator Action EX                                     ; 96
+Elevator Action EX                                     ; good- ; 96
 Frogger 2
-Fushigi no Dungeon - Fuurai no Shiren                  ;  ; japan only, lot of text
+Fushigi no Dungeon - Fuurai no Shiren                  ; good+ ; japan only, lot of text
 Game & Watch Gallery 2
 Game & Watch Gallery 3
-Ganbare Goemon Hoshizorashi Dyamites Arawaru!!         ; 17
+Ganbare Goemon Hoshizorashi Dyamites Arawaru!!         ; good+ ; 17
 Ghost and Goblin
 Harvest Moon 2 GBC
 Harvest Moon 3 GBC
@@ -902,64 +902,63 @@ Konami gb collection vol 2 / Parodius / Block game
 Konami gb collection vol 3 / pop'n twinvee / Gambare Goemon
 Konami gb collection vol 4 / Graddius 2 / castelvania 2 / ye ar kung-fu
 Little Magic
-Looney Tunes                                           ; 43
+Looney Tunes                                           ; good- ; 43
 Looney Tunes - Carrot crazy
-Looney Tunes Collector - Martian Alert!                ; 24
-Looney Tunes Collector - Martian Revenge!              ; 33
-Lucky Luke                                             ; 31
+Looney Tunes Collector - Martian Alert!                ; good- ; 24
+Looney Tunes Collector - Martian Revenge!              ; good- ; 33
+Lucky Luke                                             ; good- ; 31
 Lucky Luke - Desperado Train
-Lufia - The Legend Returns                             ; 63
+Lufia - The Legend Returns                             ; good- ; 63
 Magi Nation
-Magical Chase GB - Minarai Mahoutsukai Kenja no Tani e ; 17
-Mario Tennis                                           ; 17
-Megaman Xtreme                                         ; 10
-Megaman Xtreme 2                                       ; 10
-Metal Gear Solid                                       ; 7
-Metal Walker                                           ; 16
+Magical Chase GB - Minarai Mahoutsukai Kenja no Tani e ; good+ ; 17
+Mario Tennis                                           ; good- ; 17
+Megaman Xtreme                                         ; good+ ; 10
+Megaman Xtreme 2                                       ; good+ ; 10
+Metal Gear Solid                                       ; good+ ; 7
+Metal Walker                                           ; good- ; 16
 Mickey's Racing Adventure
 Micro Machines 1 and 2
 Micro Machines V3
 Monster ranch
 Montezuma's Return!
 Motocross Maniacs 2
-Mr. Nutz                                               ; 96
+Mr. Nutz                                               ; good- ; 96
 Oddworld Adventures II
 Pocket Bomberman
-Pokemon Gold / Silver / Cristal                        ; 3
-Pokemon Puzzle Challenge                               ; 36
+Pokemon Gold / Silver / Cristal                        ; good+ ; 3
+Pokemon Puzzle Challenge                               ; good- ; 36
 Prince of Persia
-Project S-11                                           ; 68
+Project S-11                                           ; good- ; 68
 Q-Bert
-R-Type DX                                              ; 5
+R-Type DX                                              ; good+ ; 5
 Rampart
-Rayman                                                 ; 29
+Rayman                                                 ; good+ ; 29
 Rayman 2
-Resident Evil Gaiden                                   ; 2
-Return of the Ninja                                    ; 66
-Revelations - The Demon Slayer                         ; 21
+Resident Evil Gaiden                                   ; good+ ; 2
+Return of the Ninja                                    ; good- ; 66
+Revelations - The Demon Slayer                         ; good- ; 21
 Shadowgate Classic
-Shantae                                                ; 1
+Shantae                                                ; best
 Space Invaders
 Spider-Man 2 - The Sinister Six
 Spirer-Man                  
 Star Ocean - Blue Sphere
-Street Fighter Alpha - Warriors' Dreams                ; 78
-Super Mario Bros DX                                    ; 8
-Survival Kids                                          ; 21
-Survival Kids 2                                        ; 21
-Tarzan                                                 ; 26
-Tetris DX                                              ; 6
-The Legend of Zelda - Link's Awakening DX              ; 3
-The Legend of Zelda - Oracle of Ages                   ; 9
-The Legend of Zelda - Oracle of Seasons                ; 6
-The grinch                                             ; ?
+Street Fighter Alpha - Warriors' Dreams                ; good- ; 78
+Super Mario Bros DX                                    ; best
+Survival Kids                                          ; good+ ; 21
+Survival Kids 2                                        ; good+ ; 21
+Tarzan                                                 ; good- ; 26
+Tetris DX                                              ; good- ; 6
+The Legend of Zelda - Link's Awakening DX              ; good+ ; 3
+The Legend of Zelda - Oracle of Ages                   ; good+ ; 9
+The Legend of Zelda - Oracle of Seasons                ; good+ ; 6
+The grinch                                             ; good+ ; ?
 Toki Tori
-Tomb Raider                                            ; 44
+Tomb Raider                                            ; good- ; 44
 Tomb Raider - Curse of the Sword
-Trip World                                             ; 16
 Wacky races
-Wario Land 2                                           ; 10
-Wario Land 3                                           ; 4
+Wario Land 2                                           ; good+ ; 10
+Wario Land 3                                           ; good+ ; 4
 Warlocked
 Wendy - Every Witch Way
 Worms      
