@@ -46,7 +46,7 @@ Desert Falcon
 Dig Dug                             ; 60
 Dodge 'Em                           ; 61
 Donkey Kong                         ; best
-Donkey Kong Junior                  ; good
+Donkey Kong Junior                  ; very good
 DragonStomper                       ; 70
 Dragonfire                          ; 71
 E.T. - The Extra Terrestrial
@@ -55,7 +55,7 @@ Escape from Mindmaster              ; 77
 Fantastic Voyage
 Fathom    
 Freeway                             ; 29
-Frogger                             ; best / good
+Frogger                             ; very good+
 Frogger II
 Frostbite                           ; 25
 Galaxian                            ; 12
@@ -156,12 +156,12 @@ Blaster Master                                           ; 30
 Bomberman
 Bomberman II
 Boy and His Blob                    
-Bubble Bobble                                            ; best/good
-Bubble Bobble Part 2                                     ; best/good
+Bubble Bobble                                            ; very good+
+Bubble Bobble Part 2                                     ; very good+
 Bucky O'Hare                                             ; 81
-Castlevania                                              ; best/good
-Castlevania II - Simon's Quest                           ; best/good
-Castlevania III - Dracula's Curse                        ; best/good
+Castlevania                                              ; very good+
+Castlevania II - Simon's Quest                           ; very good+
+Castlevania III - Dracula's Curse                        ; very good+
 Chip 'n Dale - Rescue Rangers                            ; 61
 Chip 'n Dale - Rescue Rangers 2
 Clash at Demonhead
@@ -187,9 +187,9 @@ DuckTales                                                ; 43
 DuckTales 2
 Excitebike                                               ; 29
 Faxanadu                                                 ; 46
-Final Fantasy                                            ; best/good
-Final Fantasy 2                                          ; best/good
-Final Fantasy 3                                          ; best/good
+Final Fantasy                                            ; very good+
+Final Fantasy 2                                          ; very good+
+Final Fantasy 3                                          ; very good+
 Gargoyle's Quest II - The Demon Darkness                 ; 47
 Ghosts 'n Goblins                                        ; 62
 Goonies II
@@ -208,12 +208,12 @@ Little Samson                                            ; 73
 Maniac Mansion                                           ; 37
 Marble Madness                                           ; 57
 Mario Bros.                                              ; 85
-Mega Man                                                 ; best/good ; 36
-Mega Man 2                                               ; best/good ; 5
-Mega Man 3                                               ; best/good ; 12
-Mega Man 4                                               ; best/good ; 50
-Mega Man 5                                               ; best/good ; 54
-Mega Man 6                                               ; best/good ; 58
+Mega Man                                                 ; very good+ ; 36
+Mega Man 2                                               ; very good+ ; 5
+Mega Man 3                                               ; very good+ ; 12
+Mega Man 4                                               ; very good+ ; 50
+Mega Man 5                                               ; very good+ ; 54
+Mega Man 6                                               ; very good+ ; 58
 Metal Gear                                               ; 32
 Metal Storm                                              ; 58
 Metroid                                                  ; best
@@ -341,9 +341,9 @@ Sensible Soccer
 Shinobi
 Slap Shot
 Solomon no Kagi - Oujo Rihita no Namida     ; 32 ; Solomons Key
-Sonic Chaos                                 ; best/good ; 39
-Sonic the Hedgehog                          ; best/good ; 7
-Sonic the Hedgehog 2                        ; best/good ; 17
+Sonic Chaos                                 ; very good+ ; 39
+Sonic the Hedgehog                          ; very good+ ; 7
+Sonic the Hedgehog 2                        ; very good+ ; 17
 Space Harrier                               ; 28
 Spellcaster
 Spy vs Spy
@@ -392,9 +392,9 @@ Clock Tower
 Contra III - The Alien Wars                          ; best
 Cybernator
 Demon's Crest                                        ; 58
-Donkey Kong Country                                  ; best/good ; 4
-Donkey Kong Country 2 - Diddy's Kong Quest           ; best/good ; 12
-Donkey Kong Country 3 - Dixie Kong's Double Trouble! ; best/good ; 26
+Donkey Kong Country                                  ; very good+ ; 4
+Donkey Kong Country 2 - Diddy's Kong Quest           ; very good+ ; 12
+Donkey Kong Country 3 - Dixie Kong's Double Trouble! ; very good+ ; 26
 Doom                                                 ; 43
 E.V.O. - Search for Eden                             ; 60
 EarthBound                                           ; best
@@ -405,10 +405,10 @@ Equinox
 F-Zero
 Fatal Fury Special
 Final Fantasy - Mystic Quest Legend
-Final Fantasy II                                     ; best/good ; 70
-Final Fantasy III                                    ; best/good ; 63
-Final Fantasy IV                                     ; best/good ; 21
-Final Fantasy V                                      ; best/good ; 76
+Final Fantasy II                                     ; very good+ ; 70
+Final Fantasy III                                    ; very good+ ; 63
+Final Fantasy IV                                     ; very good+ ; 21
+Final Fantasy V                                      ; very good+ ; 76
 Final Fantasy VI                                     ; best
 Final Fight                                          ; 39
 Final Fight 2                                        ; 69
@@ -470,8 +470,8 @@ Sparkster
 Star Fox                                             ; 17
 Star Ocean                                           ; 85
 Street Fighter Alpha 2
-Street Fighter II - the world warrior                ; best/good ; 8
-Street Fighter II Turbo - hyper fighting             ; best/good
+Street Fighter II - the world warrior                ; very good+ ; 8
+Street Fighter II Turbo - hyper fighting             ; very good+
 Sunset Riders                                        ; 35
 Super Adventure Island
 Super Adventure Island II
@@ -622,10 +622,10 @@ Shining Force II                                       ; 62
 Shining in the Darkness
 Shinobi III - Return of the Ninja Master               ; 12
 Snake Rattle 'n' Roll
-Sonic and Knuckles                                     ; best/good ; 34
-Sonic the Hedgehog                                     ; best/good ; 17
-Sonic the Hedgehog 2                                   ; best/good ; 8
-Sonic the Hedgehog 3                                   ; best/good ; 20
+Sonic and Knuckles                                     ; very good+ ; 34
+Sonic the Hedgehog                                     ; very good+ ; 17
+Sonic the Hedgehog 2                                   ; very good+ ; 8
+Sonic the Hedgehog 3                                   ; very good+ ; 20
 Splatterhouse 2              
 Splatterhouse 3          
 Star Control            
@@ -1165,13 +1165,13 @@ Labels
 
 I added some note after some title e.g. the english name for a japan-only game. More important I use the following labels to highlight some games.
 
-- `dubt` - First candidates for elimination
-- `good` - Good game (subsidiary games are skipped)
-- `best` - Very good, play this ones first (redundant games are skipped)
+- `very good` - Very good games; subsidiary games are skipped.
+- `best` - Top games for the system, play this ones first; redundant games are skipped.
 
 -- TODO : the following will be removed soon after the rest of the labelling is complete
 
-- `good/best` - like `best`, but due to redundance (more of the same) only someones should be selected; the others should be labelled as 'good'
+- `very good+` - candidate to get the `best` label
+- `very good-` - candidate to lost the `good` label
 - An indicative positional index
 
 -- TODO : better explanation, more label
