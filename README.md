@@ -372,33 +372,33 @@ SNES
 =====
 
 ```
-ActRaiser                                            ; 32
+ActRaiser                                            ; good- ; 32
 ActRaiser 2
 Advanced Dungeons & Dragons - Eye of the Beholder
 Aero Fighters
 Aladdin
-Axelay                                               ; 83
-Battletoads in Battlemaniacs                         ; 112
+Axelay                                               ; good- ; 83
+Battletoads in Battlemaniacs                         ; good- ; 112
 Biker Mice from Mars
-Blackthorne                                          ; 96
-Breath of Fire                                       ; 94
-Breath of Fire II                                    ; 51
+Blackthorne                                          ; good- ; 96
+Breath of Fire                                       ; good- ; 94
+Breath of Fire II                                    ; good- ; 51
 Bust a move  
-Castlevania - Dracula X                              ; 78
+Castlevania - Dracula X                              ; good- ; 78
 Choujikuu Yousai Macross - Scrambled Valkyrie
 Chrono Trigger                                       ; best
 ClayFighter
 Clock Tower
 Contra III - The Alien Wars                          ; best
 Cybernator
-Demon's Crest                                        ; 58
+Demon's Crest                                        ; good+ ; 58
 Donkey Kong Country                                  ; good+ ; 4
 Donkey Kong Country 2 - Diddy's Kong Quest           ; good+ ; 12
 Donkey Kong Country 3 - Dixie Kong's Double Trouble! ; good+ ; 26
-Doom                                                 ; 43
-E.V.O. - Search for Eden                             ; 60
+Doom                                                 ; very good
+E.V.O. - Search for Eden                             ; good- ; 60
 EarthBound                                           ; best
-Earthworm Jim                                        ; 25
+Earthworm Jim                                        ; good+ ; 25
 Earthworm Jim 2
 Energy Breaker
 Equinox
@@ -410,72 +410,72 @@ Final Fantasy III                                    ; good+ ; 63
 Final Fantasy IV                                     ; good+ ; 21
 Final Fantasy V                                      ; good+ ; 76
 Final Fantasy VI                                     ; best
-Final Fight                                          ; 39
-Final Fight 2                                        ; 69
-Final Fight 3                                        ; 71
+Final Fight                                          ; good- ; 39
+Final Fight 2                                        ; good- ; 69
+Final Fight 3                                        ; good- ; 71
 Final Fight Guy
 Flashback
-Fushigi no Dungeon 2 - Fuurai no Shiren              ; ?
+Fushigi no Dungeon 2 - Fuurai no Shiren              ; good+
 Goof Troop
 Gradius III
 Hammer Hamming  
 Harvest Moon    
-Illusion of Gaia                                     ; 45
+Illusion of Gaia                                     ; good- ; 45
 James Pond 3
 Jurassic Park
 Jurassic Park II - The Chaos Continues
-Killer Instinct                                      ; 28
-Kirby Super Star                                     ; 31
+Killer Instinct                                      ; good+ ; 28
+Kirby Super Star                                     ; good+ ; 31
 Kirby's Dream Course
 Kirby's Dream Land 3
 Kirby's Ghost Trap
-Knights of the Round                                 ; 79
-Lufia & the Fortress of Doom                         ; 81
-Lufia II - Rise of the Sinistrals                    ; 86
+Knights of the Round                                 ; good- ; 79
+Lufia & the Fortress of Doom                         ; good- ; 81
+Lufia II - Rise of the Sinistrals                    ; good- ; 86
 Mario & Wario.smc
-Mega Man 7                                           ; 93
-Mega Man X2                                          ; 36
-Mega Man X3                                          ; 56
+Mega Man 7                                           ; good- ; 93
+Mega Man X2                                          ; good- ; 36
+Mega Man X3                                          ; good- ; 56
 Mega Men X
 Micro Machines
 Micro Machines 2
-Mortal Kombat                                        ; 30
+Mortal Kombat                                        ; good- ; 30
 Mortal Kombat 3          
-Mortal Kombat II                                     ; 22
+Mortal Kombat II                                     ; good- ; 22
 Ninja Gaiden Trilogy
-Ogre Battle - The March of the Black Queen           ; 65
+Ogre Battle - The March of the Black Queen           ; good- ; 65
 Out of This World
 Pang                
-Pilotwings                                           ; 46
-Pitfall - The Mayan Adventure                        ; 119
+Pilotwings                                           ; good- ; 46
+Pitfall - The Mayan Adventure                        ; good- ; 119
 Pop'n TwinBee            
 Pop'n TwinBee - Rainbow Bell Adventures
-Popful Mail                                          ; ?   ; Japan only, lot of text, localization on sega-cd and pc
+Popful Mail                                          ; good- ; Japan only, lot of text, localization on sega-cd and pc
 Populous
 Populous II
 Prince of Persia
 Prince of Persia 2
-R-Type III - The Third Lightning                     ; 82
+R-Type III - The Third Lightning                     ; good- ; 82
 Ranma Nibunnoichi - Chougi Ranbu Hen
 Rock n' Roll Racing
 Rockman & Forte
-Secret of Evermore                                   ; 44
-Secret of Mana                                       ; 15
-Shadowrun                                            ; 64
-SimCity                                              ; 29
+Secret of Evermore                                   ; good- ; 44
+Secret of Mana                                       ; good+ ; 15
+Shadowrun                                            ; good- ; 64
+SimCity                                              ; very good
 SimCity 2000 - The Ultimate City Simulator
 Skyblazer
 Soul Blazer  
 Sparkster
-Star Fox                                             ; 17
-Star Ocean                                           ; 85
+Star Fox                                             ; good+ ; 17
+Star Ocean                                           ; good- ; 85
 Street Fighter Alpha 2
 Street Fighter II - the world warrior                ; good+ ; 8
 Street Fighter II Turbo - hyper fighting             ; good+
-Sunset Riders                                        ; 35
+Sunset Riders                                        ; good+ ; 35
 Super Adventure Island
 Super Adventure Island II
-Super Bomberman                                      ; 89
+Super Bomberman                                      ; good- ; 89
 Super Bomberman 2
 Super Bomberman 3
 Super Bomberman 4
@@ -484,39 +484,39 @@ Super Castlevania IV                                 ; best
 Super Double Dragon
 Super Ghouls'n Ghosts                                ; best
 Super James Pond II
-Super Mario All-Stars                                ; 11
-Super Mario Kart                                     ; 3
+Super Mario All-Stars                                ; good+ ; 11
+Super Mario Kart                                     ; good+ ; 3
 Super Mario RPG - Legend of the Seven Stars          ; best
 Super Mario World                                    ; best
 Super Mario World 2 - Yoshi's Island                 ; best
 Super Metroid                                        ; best
-Super Punch-Out!!                                    ; 24
-Super R-Type                                         ; 53
-Super Star Wars                                      ; 40
-Super Star Wars - Return of the Jedi                 ; 57
-Super Star Wars - The Empire Strikes Back            ; 62
-Super Street Fighter II - The New Challengers        ; 27
+Super Punch-Out!!                                    ; good+ ; 24
+Super R-Type                                         ; good- ; 53
+Super Star Wars                                      ; good- ; 40
+Super Star Wars - Return of the Jedi                 ; good- ; 57
+Super Star Wars - The Empire Strikes Back            ; good- ; 62
+Super Street Fighter II - The New Challengers        ; good+ ; 27
 Super Turrican
 Super Turrican 2
-Tales of Phantasia                                   ; 68 ; japan: USA on gamboy advance
-Teenage Mutant Ninja Turtles - Tournament Fighters   ; 59
-Teenage Mutant Ninja Turtles - Turtles in Time       ; 13
-Terranigma                                           ; 34
-Tetris & Dr. Mario                                   ; 38
-Tetris Attack                                        ; 77
+Tales of Phantasia                                   ; good- ; 68 ; japan: USA on gamboy advance
+Teenage Mutant Ninja Turtles - Tournament Fighters   ; good- ; 59
+Teenage Mutant Ninja Turtles - Turtles in Time       ; good- ; 13
+Terranigma                                           ; good- ; 34
+Tetris & Dr. Mario                                   ; good- ; 38
+Tetris Attack                                        ; good- ; 77
 The Adventures of Batman & Robin
 The Legend of Zelda - A Link to the Past             ; best
-The Legend of the Mystical Ninja / Ganbare Goemon    ; 48
+The Legend of the Mystical Ninja / Ganbare Goemon    ; good+ ; 48
 The Lion King
-The Lost Vikings                                     ; 42
+The Lost Vikings                                     ; good- ; 42
 The Magical Quest Starring Mickey Mouse
 Tiny Toon Adventures - Buster Busts Loose!
 Torneco no Daibōken - Fushigi no Dungeon
-Ultimate Mortal Kombat 3                             ; 110
-Uniracers                                            ; 84
+Ultimate Mortal Kombat 3                             ; good- ; 110
+Uniracers                                            ; very good
 Worms
 Yoshi's Cookie
-Zombies Ate My Neighbors                             ; 41
+Zombies Ate My Neighbors                             ; very good
 ```
 
 Megadrive
