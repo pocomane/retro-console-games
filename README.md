@@ -182,7 +182,7 @@ Dragon Warrior                                           ; good+ ; 22
 Dragon Warrior II                                        ; good- ; 52
 Dragon Warrior III                                       ; good+ ; 31
 Dragon Warrior IV                                        ; good+ ; 24
-Duck Hunt                                                ; good+ ; 26
+Duck Hunt                                                ; good- ; 26
 DuckTales                                                ; good- ; 43
 DuckTales 2
 Excitebike                                               ; good- ; 29
@@ -748,7 +748,7 @@ Game Boy
 
 ```
 Adventures of Lolo                       ; good+ ; 3
-Asmik-kun World 2                        ; good - ; 90 ; Boomer's Adventure in ASMIK World 2
+Asmik-kun World 2                        ; good- ; 90 ; Boomer's Adventure in ASMIK World 2
 Avenging Spirit                          ; good+ ; 48
 Balloon Kid
 Batman - Return of the Joker
@@ -1089,9 +1089,9 @@ Sonic Battle                                           ; good- ; 60
 Sonic the hedgehog
 Street Fighter Alpha 3
 Super Ghouls 'n Ghosts
-Super Mario Advance - Super Mario Bros 2
+Super Mario Advance - Super Mario Bros 2               ; good- ; 
 Super Mario Advance 4 - Super Mario Bros 3             ; good+ ; 15
-Super Mario World - Super Mario Advance 2              ; ?
+Super Mario World - Super Mario Advance 2              ; good- ;
 Super Robot Taisen - Original Generation 2
 Super Robot Taisen Original Generations                ; good- ; 80
 Super Street Fighter 2 Turbo - Revival                 ; good- ; 44
@@ -1105,11 +1105,11 @@ Tekken Advance
 The King of Fighters EX - Neo Blood
 The King of Fighters EX2 - Howling Blood
 The Legend of Zelda - A Link to the Past               ; best
-The Legend of Zelda - The Minish Cap
+The Legend of Zelda - The Minish Cap                   ; good-
 Wade Hixton's Counter Punch
 Wario Land 4
-WarioWare - Twisted!
-WarioWare, Inc. - Mega Microgame$!
+WarioWare - Twisted!                                   ; good-
+WarioWare, Inc. - Mega Microgame$!                     ; good-
 Warioland 4                                            ; good+
 Wolfenstein 3D
 Yggdra Unionv                                          ; good- ; 47
