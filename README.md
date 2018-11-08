@@ -220,6 +220,7 @@ Metroid                                                  ; best
 Micro Machines                                           ; good- ; 66
 Mission Impossible
 Monster Party
+Mother                                                   ; ; English officially localized as Earthbound beginning, but never released
 Ninja Gaiden                                             ; good+ ; 16
 Ninja Gaiden II - The Dark Sword of Chaos                ; good+ ; 35
 Ninja Gaiden III - The Ancient Ship of Doom
