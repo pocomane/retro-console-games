@@ -723,8 +723,7 @@ Parodius Da!                         ; good- ; 5
 Populous                             ; good+ ; 13
 Psychosis
 Puzzle Boy
-R-Type                               ; good+ ; 11
-R-Type Part-2                        ; good+ ; 11
+R-Type                               ; good+ ; 11 ; Jap ver split in 2 pats
 Raiden                               ; good- ; 34
 Salamander                           ; good- ; 29
 Shinobi
