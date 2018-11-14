@@ -143,55 +143,55 @@ NES
 Adventure Island
 Adventure Island II                                      ; good- ; 97
 Adventure Island III
-Adventures of Lolo                                       ; good+ ; 55
+Adventures of Lolo                                       ; good- ; 55
 Adventures of Lolo II
-Adventures of Lolo III
+Adventures of Lolo III                                   ; very good
 Balloon Fight                                            ; good- ; 81
 Batman
 Batman - Return of the Jocker
 Battletoads                                              ; best
 Battletoads & Double Dragon - The Ultimate Team
 Bionic Commando                                          ; good+ ; 25
-Blaster Master                                           ; good+ ; 30
+Blaster Master                                           ; very good ; 30
 Bomberman
 Bomberman II
 Boy and His Blob                    
-Bubble Bobble                                            ; good+
-Bubble Bobble Part 2                                     ; good+
+Bubble Bobble                                            ; good-
+Bubble Bobble Part 2                                     ; good-
 Bucky O'Hare                                             ; good- ; 81
-Castlevania                                              ; good+
-Castlevania II - Simon's Quest                           ; good+
-Castlevania III - Dracula's Curse                        ; good+
+Castlevania                                              ; very good
+Castlevania II - Simon's Quest                           ; good-
+Castlevania III - Dracula's Curse                        ; best
 Chip 'n Dale - Rescue Rangers                            ; good- ; 61
 Chip 'n Dale - Rescue Rangers 2
 Clash at Demonhead
 Contra                                                   ; best
-Contra Force
-Crystalis                                                ; good- ; 19
+Contra Force                                             ; good-
+Crystalis                                                ; good+ ; 19
 Deja Vu
 Destiny of an Emperor
 Donkey Kong                                              ; good- ; 78
-Donkey Kong 3
+Donkey Kong+3
 Donkey Kong Jr.
 Door Door                              
 Double Dragon                                            ; good- ; 49
 Double Dragon II                                         ; good- ; 42
 Double Dragon III - The Sacred Stones
 Dr. Mario                                                ; good- ; 39
-Dragon Warrior                                           ; good+ ; 22
+Dragon Warrior                                           ; good- ; 22
 Dragon Warrior II                                        ; good- ; 52
-Dragon Warrior III                                       ; good+ ; 31
-Dragon Warrior IV                                        ; good+ ; 24
+Dragon Warrior III                                       ; best ; 31
+Dragon Warrior IV                                        ; very ; 24
 Duck Hunt                                                ; good- ; 26
 DuckTales                                                ; good- ; 43
 DuckTales 2
 Excitebike                                               ; good- ; 29
 Faxanadu                                                 ; good+ ; 46
-Final Fantasy                                            ; good+
-Final Fantasy 2                                          ; good+
-Final Fantasy 3                                          ; good+
-Gargoyle's Quest II - The Demon Darkness                 ; good+ ; 47
-Ghosts 'n Goblins                                        ; good+ ; 62
+Final Fantasy                                            ; very good
+Final Fantasy 2                                          ;
+Final Fantasy 3                                          ; best
+Gargoyle's Quest II - The Demon Darkness                 ; good- ; 47
+Ghosts 'n Goblins                                        ; good- ; 62
 Goonies II
 Gradius                                                  ; good- ; 96
 Gradius 2
@@ -200,7 +200,7 @@ Ice Climber                                              ; good- ; 90
 Jackal
 Kickle Cubicle                                           ; good- ; 71
 Kid Icarus                                               ; best
-Kirby's Adventure                                        ; good+ ; 14
+Kirby's Adventure                                        ; very good ; 14
 Legacy of the Wizard                                     ; good- ; 87
 Life Force                                               ; good- ; 51
 Little Nemo the Dream Master
@@ -208,12 +208,12 @@ Little Samson                                            ; good- ; 73
 Maniac Mansion                                           ; good+ ; 37
 Marble Madness                                           ; good- ; 57
 Mario Bros.                                              ; good- ; 85
-Mega Man                                                 ; good+ ; 36
-Mega Man 2                                               ; good+ ; 5
-Mega Man 3                                               ; good+ ; 12
-Mega Man 4                                               ; good+ ; 50
-Mega Man 5                                               ; good+ ; 54
-Mega Man 6                                               ; good+ ; 58
+Mega Man                                                 ; very good ; 36
+Mega Man 2                                               ; best ; 5
+Mega Man 3                                               ; very good ; 12
+Mega Man 4                                               ; good- ; 50
+Mega Man 5                                               ; good- ; 54
+Mega Man 6                                               ; good- ; 58
 Metal Gear                                               ; good+ ; 32
 Metal Storm                                              ; good- ; 58
 Metroid                                                  ; best
@@ -221,23 +221,23 @@ Micro Machines                                           ; good- ; 66
 Mission Impossible
 Monster Party
 Mother                                                   ; ; English officially localized as Earthbound beginning, but never released
-Ninja Gaiden                                             ; good+ ; 16
-Ninja Gaiden II - The Dark Sword of Chaos                ; good+ ; 35
+Ninja Gaiden                                             ; best ; 16
+Ninja Gaiden II - The Dark Sword of Chaos                ; good- ; 35
 Ninja Gaiden III - The Ancient Ship of Doom
 North and South
 Pac-Man
 Paperboy
 Paperboy 2
 Pirates!
-Punch-Out!!                                              ; good+ ; 81
+Punch-Out!!                                              ; good- ; 81
 RC Pro Am                                                ; good- ; 56
-River City Ransom                                        ; good+ ; 11
+River City Ransom                                        ; best
 Shadowgate                                               ; good- ;75
 Snake Rattle & Roll
 Solstice
 StarTropics                                              ; good+ ; 27
 Startropics II - Zoda's Revenge
-Super C                                                  ; good+ ; 40
+Super C                                                  ; very good ; 40
 Super Dodge Ball                                         ; good- ; 33
 Super Mario Bros.                                        ; best
 Super Mario Bros. 2                                      ; good- ; 9
@@ -246,13 +246,13 @@ THe Legend of Zelda                                      ; best
 Teenage Mutant Ninja Turtles                             ; good- ; 44
 Teenage Mutant Ninja Turtles II - The Arcade Game        ; good- ; 20
 Teenage Mutant Ninja Turtles III - The Manhattan Project ; good- ; 48
-Tetris                                                   ; good+ ; 15
+Tetris                                                   ; best ; 15
 Tetris 2
 The Battle of Olympus
 The Guardian Legend                                      ; good- ; 41
 Willow
 Xevious
-Zelda II - The Adventures of Link                        ; good+ ; 13
+Zelda II - The Adventures of Link                        ; very good ; 13
 ```
 
 Master system
