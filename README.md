@@ -246,7 +246,7 @@ THe Legend of Zelda                                      ; best
 Teenage Mutant Ninja Turtles                             ; good- ; 44
 Teenage Mutant Ninja Turtles II - The Arcade Game        ; good- ; 20
 Teenage Mutant Ninja Turtles III - The Manhattan Project ; good- ; 48
-Tetris                                                   ; best ; 15
+Tetris                                                   ; best
 Tetris 2
 The Battle of Olympus
 The Guardian Legend                                      ; good- ; 41
@@ -264,20 +264,20 @@ Afterburner
 Alex Kidd - High Tech World
 Alex Kidd - The Losts Stars
 Alex Kidd in Miracle World                  ; best
-Alex Kidd in Shinobi World                  ; good+ ; 16
-Asterix                                     ; good+ ; 4
+Alex Kidd in Shinobi World                  ; best ; 16
+Asterix                                     ; best ; 4
 Asterix and the Great Rescue                ; good- ; 61
-Asterix and the Secret Mission              ; good+ ; 34
+Asterix and the Secret Mission              ; good- ; 34
 Baku Baku
 Battle Out Run
 Battlemaniacs                               ; best
 Black Belt
 Bomber Raid
 Bram Stoker's Dracula                       ; good+ ; 29
-Bubble Bobble                               ; good+ ; 35
+Bubble Bobble                               ; good- ; 35
 California Games                            ; good- ; 36
 California Games II
-Castle of Illusion                          ; best
+Castle of Illusion                          ; very good
 Choplifter
 Chuck Rock
 Chuck Rock II                               ; good+ ; 10
@@ -288,27 +288,27 @@ Danan - The Jungle Fighter
 Desert Strike                               ; good- ; 26
 Double Dragon                               ; good- ; 36
 Dr. Robotnik's Mean Bean Machine
-Dynamite Headdy                             ; good+ ; 16
+Dynamite Headdy                             ; good- ; 16
 Fantastic Dizzy                             ; good- ; 35
 Fantasy Zone
 Fantasy Zone II                             ; good+ ; 15
 Forgotten Worlds                            ; good- ; 33
 Fushigi no Oshiro Pit Pot
 Gain Ground                                 ; good+ ; 20
-Ghouls 'n Ghosts                            ; good+ ; 44
-Golden Axe                                  ; good+ ; 29
+Ghouls 'n Ghosts                            ; good- ; 44
+Golden Axe                                  ; good- ; 29
 Golden Axe Warrior                          ; good+ ; 23
 Golvellius                                  ; good+ ; 8
-Impossible Mission                          ; good+ ; 32
-James Pond II - Robocod                     ; good+ ; 15
+Impossible Mission                          ; good- ; 32
+James Pond II - Robocod                     ; good- ; 15
 Jurassic Park
-Kenseiden                                   ; good+ ; 24
-Land of Illusion                            ; good+ ; 3
-Legend of Illusion                          ; good+ ; 11
+Kenseiden                                   ; good- ; 24
+Land of Illusion                            ; best ; 3
+Legend of Illusion                          ; good- ; 11
 Lemmings                                    ; good- ; 18
 Machine Gun Joe                  
 Marble Madness                              ; good- ; 23
-Master of Darkness                          ; good+ ; 13
+Master of Darkness                          ; best
 Masters of Combat                           ; good- ; 36
 Maze Hunter 3D
 Micro Machines
@@ -317,7 +317,7 @@ Mortal Kombat                               ; good- ; 56
 Mortal Kombat II                            ; good- ; 31
 Mortal Kombat III                           ; good- ; 95
 The New Zealand Story                       ; good- ; 69
-Ninja Gaiden                                ; good+ ; 11
+Ninja Gaiden                                ; best
 Operation Wolf                              ; good- ; 35
 Out Run
 Phantasy Star                               ; good+ ; 2
@@ -329,7 +329,7 @@ Psychic World                               ; good- ; 56
 Putt & Putter
 R-Type
 R.C. Grand Prix                             ; good- ; 64
-Rainbow Islands                             ; good+ ; 17
+Rainbow Islands                             ; good- ; 17
 Rambo - First Blood Part II                 ; good- ; 67
 Rampart                                     ; good- ; 35
 Rastan
@@ -341,10 +341,10 @@ Scramble Spirit
 Sensible Soccer
 Shinobi
 Slap Shot
-Solomon no Kagi - Oujo Rihita no Namida     ; good+ ; 32 ; Solomons Key
-Sonic Chaos                                 ; good+ ; 39
-Sonic the Hedgehog                          ; good+ ; 7
-Sonic the Hedgehog 2                        ; good+ ; 17
+Solomon no Kagi - Oujo Rihita no Namida     ; good- ; 32 ; Solomons Key
+Sonic Chaos                                 ; good- ; 39
+Sonic the Hedgehog                          ; best ; 7
+Sonic the Hedgehog 2                        ; good- ; 17
 Space Harrier                               ; good- ; 28
 Spellcaster
 Spy vs Spy
@@ -353,13 +353,13 @@ Street Fighter II'                          ; good- ; 86
 Streets of Rage
 Streets of Rage II                          ; good- ; 52
 Strider
-Submarine Attack                            ; good+ ; 24
-The Lucky Dime Caper - Starring Donald Duck ; good+ ; 2
+Submarine Attack                            ; good- ; 24
+The Lucky Dime Caper - Starring Donald Duck ; best ; 2
 The Smurfs
 The Smurfs Travel the World          
 Ultima IV                                   ; good+ ; 28
-Wonder Boy                                  ; good+ ; 27
-Wonder Boy in Monster World                 ; good+ ; 40
+Wonder Boy                                  ; very good ; 27
+Wonder Boy in Monster World                 ; ; 40
 Wonderboy III - Dragon’s Trap
 Wonderboy in Monster Land                   ; best
 Xenon 2
@@ -623,10 +623,10 @@ Shining Force II                                       ; good- ; 62
 Shining in the Darkness
 Shinobi III - Return of the Ninja Master               ; good+ ; 12
 Snake Rattle 'n' Roll
-Sonic and Knuckles                                     ; good+ ; 34
-Sonic the Hedgehog                                     ; good+ ; 17
-Sonic the Hedgehog 2                                   ; good+ ; 8
-Sonic the Hedgehog 3                                   ; good+ ; 20
+Sonic and Knuckles                                     ; good- ; 34
+Sonic the Hedgehog                                     ; good- ; 17
+Sonic the Hedgehog 2                                   ; best ; 8
+Sonic the Hedgehog 3                                   ; good- ; 20
 Splatterhouse 2              
 Splatterhouse 3          
 Star Control            
