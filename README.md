@@ -246,7 +246,7 @@ THe Legend of Zelda                                      ; best
 Teenage Mutant Ninja Turtles                             ; good- ; 44
 Teenage Mutant Ninja Turtles II - The Arcade Game        ; good- ; 20
 Teenage Mutant Ninja Turtles III - The Manhattan Project ; good- ; 48
-Tetris                                                   ; best
+Tetris                                                   ; best ; 15
 Tetris 2
 The Battle of Olympus
 The Guardian Legend                                      ; good- ; 41
@@ -273,14 +273,14 @@ Battle Out Run
 Battlemaniacs                               ; best
 Black Belt
 Bomber Raid
-Bram Stoker's Dracula                       ; good+ ; 29
+Bram Stoker's Dracula                       ; good- ; 29
 Bubble Bobble                               ; good- ; 35
 California Games                            ; good- ; 36
 California Games II
-Castle of Illusion                          ; very good
+Castle of Illusion                          ; best
 Choplifter
 Chuck Rock
-Chuck Rock II                               ; good+ ; 10
+Chuck Rock II                               ; best
 Columns                                     ; good- ; 38
 Cosmic Spacehead                            ; good- ; 75
 Daffy Duck in Hollywood
@@ -291,19 +291,19 @@ Dr. Robotnik's Mean Bean Machine
 Dynamite Headdy                             ; good- ; 16
 Fantastic Dizzy                             ; good- ; 35
 Fantasy Zone
-Fantasy Zone II                             ; good+ ; 15
+Fantasy Zone II                             ; good- ; 15
 Forgotten Worlds                            ; good- ; 33
 Fushigi no Oshiro Pit Pot
 Gain Ground                                 ; good+ ; 20
 Ghouls 'n Ghosts                            ; good- ; 44
 Golden Axe                                  ; good- ; 29
-Golden Axe Warrior                          ; good+ ; 23
-Golvellius                                  ; good+ ; 8
+Golden Axe Warrior                          ; best
+Golvellius                                  ; best
 Impossible Mission                          ; good- ; 32
 James Pond II - Robocod                     ; good- ; 15
 Jurassic Park
 Kenseiden                                   ; good- ; 24
-Land of Illusion                            ; best ; 3
+Land of Illusion                            ; good- ; 3
 Legend of Illusion                          ; good- ; 11
 Lemmings                                    ; good- ; 18
 Machine Gun Joe                  
@@ -320,8 +320,8 @@ The New Zealand Story                       ; good- ; 69
 Ninja Gaiden                                ; best
 Operation Wolf                              ; good- ; 35
 Out Run
-Phantasy Star                               ; good+ ; 2
-Populous                                    ; good+ ; 9
+Phantasy Star                               ; best
+Populous                                    ; good- ; 9
 Power Strike II
 Power Striks
 Prince of Persia                            ; good- ; 41
@@ -348,7 +348,7 @@ Sonic the Hedgehog 2                        ; good- ; 17
 Space Harrier                               ; good- ; 28
 Spellcaster
 Spy vs Spy
-Star Wars                                   ; good+ ; 13
+Star Wars                                   ; good- ; 13
 Street Fighter II'                          ; good- ; 86
 Streets of Rage
 Streets of Rage II                          ; good- ; 52
@@ -357,13 +357,13 @@ Submarine Attack                            ; good- ; 24
 The Lucky Dime Caper - Starring Donald Duck ; best ; 2
 The Smurfs
 The Smurfs Travel the World          
-Ultima IV                                   ; good+ ; 28
+Ultima IV                                   ; best
 Wonder Boy                                  ; very good ; 27
 Wonder Boy in Monster World                 ; ; 40
 Wonderboy III - Dragon’s Trap
 Wonderboy in Monster Land                   ; best
 Xenon 2
-Ys - The Vanished Omens                     ; good+ ; 24
+Ys - The Vanished Omens                     ; good- ; 24
 Zillion                                     ; good- ; 34
 Zillion 2
 Zool
