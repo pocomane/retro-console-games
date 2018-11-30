@@ -392,25 +392,23 @@ ClayFighter
 Clock Tower
 Contra III - The Alien Wars                          ; best
 Cybernator
-Demon's Crest                                        ; good+ ; 58
+Demon's Crest                                        ; good- ; 58
 Donkey Kong Country                                  ; good+ ; 4
 Donkey Kong Country 2 - Diddy's Kong Quest           ; good+ ; 12
 Donkey Kong Country 3 - Dixie Kong's Double Trouble! ; good+ ; 26
 Doom                                                 ; very good
 E.V.O. - Search for Eden                             ; good- ; 60
 EarthBound                                           ; best
-Earthworm Jim                                        ; good+ ; 25
-Earthworm Jim 2
+Earthworm Jim                                        ; very-good ; 25
+Earthworm Jim 2                                      ; best
 Energy Breaker
 Equinox
 F-Zero
 Fatal Fury Special
 Final Fantasy - Mystic Quest Legend
-Final Fantasy II                                     ; good+ ; 70
-Final Fantasy III                                    ; good+ ; 63
-Final Fantasy IV                                     ; good+ ; 21
-Final Fantasy V                                      ; good+ ; 76
-Final Fantasy VI                                     ; best
+Final Fantasy IV                                     ; good+ ; 21 ; USA release: Final Fantasy II
+Final Fantasy V                                      ; good- ; 76 ; USA no release
+Final Fantasy VI                                     ; best ; USA release: Final Fantasy III
 Final Fight                                          ; good- ; 39
 Final Fight 2                                        ; good- ; 69
 Final Fight 3                                        ; good- ; 71
@@ -471,8 +469,8 @@ Sparkster
 Star Fox                                             ; good+ ; 17
 Star Ocean                                           ; good- ; 85
 Street Fighter Alpha 2
-Street Fighter II - the world warrior                ; good+ ; 8
-Street Fighter II Turbo - hyper fighting             ; good+
+Street Fighter II - the world warrior                ; ; 8
+Street Fighter II Turbo - hyper fighting             ; best
 Sunset Riders                                        ; good+ ; 35
 Super Adventure Island
 Super Adventure Island II
@@ -485,8 +483,8 @@ Super Castlevania IV                                 ; best
 Super Double Dragon
 Super Ghouls'n Ghosts                                ; best
 Super James Pond II
-Super Mario All-Stars                                ; good+ ; 11
-Super Mario Kart                                     ; good+ ; 3
+Super Mario All-Stars                                ; very-good ; 11
+Super Mario Kart                                     ; best
 Super Mario RPG - Legend of the Seven Stars          ; best
 Super Mario World                                    ; best
 Super Mario World 2 - Yoshi's Island                 ; best
@@ -496,7 +494,7 @@ Super R-Type                                         ; good- ; 53
 Super Star Wars                                      ; good- ; 40
 Super Star Wars - Return of the Jedi                 ; good- ; 57
 Super Star Wars - The Empire Strikes Back            ; good- ; 62
-Super Street Fighter II - The New Challengers        ; good+ ; 27
+Super Street Fighter II - The New Challengers        ; very-good ; 27
 Super Turrican
 Super Turrican 2
 Tales of Phantasia                                   ; good- ; 68 ; japan: USA on gamboy advance
