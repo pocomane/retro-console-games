@@ -376,7 +376,7 @@ SNES
 ActRaiser                                            ; good- ; 32
 ActRaiser 2
 Advanced Dungeons & Dragons - Eye of the Beholder
-Aero Fighters
+Aero Fighter
 Aladdin
 Axelay                                               ; good- ; 83
 Battletoads in Battlemaniacs                         ; good- ; 112
@@ -393,9 +393,9 @@ Clock Tower
 Contra III - The Alien Wars                          ; best
 Cybernator
 Demon's Crest                                        ; good- ; 58
-Donkey Kong Country                                  ; good+ ; 4
-Donkey Kong Country 2 - Diddy's Kong Quest           ; good+ ; 12
-Donkey Kong Country 3 - Dixie Kong's Double Trouble! ; good+ ; 26
+Donkey Kong Country                                  ; very-good ; 4
+Donkey Kong Country 2 - Diddy's Kong Quest           ; best
+Donkey Kong Country 3 - Dixie Kong's Double Trouble! ; very-good ; 26
 Doom                                                 ; very good
 E.V.O. - Search for Eden                             ; good- ; 60
 EarthBound                                           ; best
@@ -423,8 +423,8 @@ Illusion of Gaia                                     ; good- ; 45
 James Pond 3
 Jurassic Park
 Jurassic Park II - The Chaos Continues
-Killer Instinct                                      ; good+ ; 28
-Kirby Super Star                                     ; good+ ; 31
+Killer Instinct                                      ; good- ; 28
+Kirby Super Star                                     ; good- ; 31
 Kirby's Dream Course
 Kirby's Dream Land 3
 Kirby's Ghost Trap
@@ -466,7 +466,7 @@ SimCity 2000 - The Ultimate City Simulator
 Skyblazer
 Soul Blazer  
 Sparkster
-Star Fox                                             ; good+ ; 17
+Star Fox                                             ; very-good ; 17
 Star Ocean                                           ; good- ; 85
 Street Fighter Alpha 2
 Street Fighter II - the world warrior                ; ; 8
@@ -489,7 +489,7 @@ Super Mario RPG - Legend of the Seven Stars          ; best
 Super Mario World                                    ; best
 Super Mario World 2 - Yoshi's Island                 ; best
 Super Metroid                                        ; best
-Super Punch-Out!!                                    ; good+ ; 24
+Super Punch-Out!!                                    ; best
 Super R-Type                                         ; good- ; 53
 Super Star Wars                                      ; good- ; 40
 Super Star Wars - Return of the Jedi                 ; good- ; 57
