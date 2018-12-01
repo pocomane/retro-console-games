@@ -546,7 +546,7 @@ Castlevania - Bloodlines                               ; best
 Chiki Chiki Boys
 Classic Collection                                     ; very good
 Comix Zone
-Contra - Hard Corps                                    ; good+ ; 35
+Contra - Hard Corps                                    ; best
 Crack Down
 Curse
 DJ Boy
@@ -561,7 +561,7 @@ Dr. Robotnik's Mean Bean Machine
 Dragon Ball Z - Buyuu Retsuden
 Dune - The Battle for Arrakis                          ; good+ ; 22
 Dynamite Headdy                                        ; good+ ; 3
-Earthworm Jim 2                                        ; good+ ; 21
+Earthworm Jim 2                                        ; best
 Ecco the Dolphin                                       ; good- ; 13
 Ecco the Dolphin II
 El Viento                                              ; good- ; 16
@@ -569,9 +569,9 @@ Elemental Master                                       ; good- ; 9
 Flashback                                              ; good+ ; 43
 Forgotten Worlds                                       ; good- ; 39
 Gaiares                                                ; good- ; 43
-Gain Ground                                            ; good+ ; 4
+Gain Ground                                            ; best
 Gauntlet 4                                             ; good- ; 32
-Ghouls 'N Ghosts                                       ; good+ ; 28
+Ghouls 'N Ghosts                                       ; best
 Golden Axe
 Golden Axe II
 Golden Axe III
@@ -583,7 +583,7 @@ Herzog Zwei
 James Pond - Underwater Agent
 Kid Chameleon
 LandStalker - The Treasures of King Nole               ; very good
-Lightening Force - Quest for the Darkstar              ; good+ ; 15
+Lightening Force - Quest for the Darkstar              ; best
 M.U.S.H.A.                                             ; good- ; 10
 Marvel Land                                            ; good+ ; 11
 Mega Bomberman
@@ -611,25 +611,25 @@ Richard Scarry's Busytown
 Ristar                                                 ; good- ; 18
 RoadBlasters
 RoboCop versus The Terminator          
-Rocket Knight Adventures                               ; good+ ; 5
+Rocket Knight Adventures                               ; best
 Rolling Thunder 2
 Rolling Thunder 3
-Samurai Shodown                                        ; good+ ; 20
+Samurai Shodown                                        ; best
 Shadow Dancer - The Secret of Shinobi                  ; good- ; 45
 Shining Force                                          ; good- ; 59
 Shining Force II                                       ; good- ; 62
 Shining in the Darkness
-Shinobi III - Return of the Ninja Master               ; good+ ; 12
+Shinobi III - Return of the Ninja Master               ; best
 Snake Rattle 'n' Roll
 Sonic and Knuckles                                     ; good- ; 34
 Sonic the Hedgehog                                     ; good- ; 17
-Sonic the Hedgehog 2                                   ; best ; 8
+Sonic the Hedgehog 2                                   ; best
 Sonic the Hedgehog 3                                   ; good- ; 20
 Splatterhouse 2              
 Splatterhouse 3          
 Star Control            
 Starflight              
-Street Fighter II - Champion Edition                   ; good- ; 85
+Street Fighter II - Champion Edition                   ; best
 Streets of Rage
 Streets of Rage 2
 Streets of Rage 3
