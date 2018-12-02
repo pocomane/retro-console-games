@@ -874,7 +874,7 @@ Cannon folder
 Crystalis        
 Daikatana                                              ; good- ; 67
 Denki Blocks !
-Donkey Kong Country                                    ; good+ ; 15
+Donkey Kong Country                                    ; good- ; 15
 Donkey Kong GB                                         ; good- ; 47
 Dragon Ball Z - Legendary Super Warrior                ; good- ; 48
 Dragon Warrior I & II
@@ -908,11 +908,11 @@ Lucky Luke                                             ; good- ; 31
 Lucky Luke - Desperado Train
 Lufia - The Legend Returns                             ; good- ; 63
 Magi Nation
-Magical Chase GB - Minarai Mahoutsukai Kenja no Tani e ; good+ ; 17
+Magical Chase GB - Minarai Mahoutsukai Kenja no Tani e ; best
 Mario Tennis                                           ; good- ; 17
 Megaman Xtreme                                         ; good+ ; 10
 Megaman Xtreme 2                                       ; good+ ; 10
-Metal Gear Solid                                       ; good+ ; 7
+Metal Gear Solid                                       ; best
 Metal Walker                                           ; good- ; 16
 Mickey's Racing Adventure
 Micro Machines 1 and 2
@@ -923,16 +923,16 @@ Motocross Maniacs 2
 Mr. Nutz                                               ; good- ; 96
 Oddworld Adventures II
 Pocket Bomberman
-Pokemon Gold / Silver / Cristal                        ; good+ ; 3
+Pokemon Gold / Silver / Cristal                        ; best
 Pokemon Puzzle Challenge                               ; good- ; 36
 Prince of Persia
 Project S-11                                           ; good- ; 68
 Q-Bert
 R-Type DX                                              ; good+ ; 5
 Rampart
-Rayman                                                 ; good+ ; 29
-Rayman 2
-Resident Evil Gaiden                                   ; good+ ; 2
+Rayman                                                 ; very-good
+Rayman 2                                               ; very-good
+Resident Evil Gaiden                                   ; best
 Return of the Ninja                                    ; good- ; 66
 Revelations - The Demon Slayer                         ; good- ; 21
 Shadowgate Classic
@@ -947,16 +947,16 @@ Survival Kids                                          ; good+ ; 21
 Survival Kids 2                                        ; good+ ; 21
 Tarzan                                                 ; good- ; 26
 Tetris DX                                              ; good- ; 6
-The Legend of Zelda - Link's Awakening DX              ; good+ ; 3
-The Legend of Zelda - Oracle of Ages                   ; good+ ; 9
-The Legend of Zelda - Oracle of Seasons                ; good+ ; 6
-The grinch                                             ; good+ ; ?
+The Legend of Zelda - Link's Awakening DX              ; best
+The Legend of Zelda - Oracle of Ages                   ; very-good
+The Legend of Zelda - Oracle of Seasons                ; very-good
+The grinch                                             ; best
 Toki Tori
 Tomb Raider                                            ; good- ; 44
 Tomb Raider - Curse of the Sword
 Wacky races
-Wario Land 2                                           ; good+ ; 10
-Wario Land 3                                           ; good+ ; 4
+Wario Land 2                                           ; very-good
+Wario Land 3                                           ; best
 Warlocked
 Wendy - Every Witch Way
 Worms      
