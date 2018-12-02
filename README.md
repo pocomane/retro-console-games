@@ -677,20 +677,20 @@ Bomberman 93                         ; good- ; 52
 Bomberman 94                         ; good+ ; 09
 Bomberman Users Battle
 Bonk 3                               ; good- ; 60 ; PC Genjin 3 in japan
-Bonk's Adventure                     ; good+ ; 28 ; PC Genjin in japan
-Bonk's Revenge                       ; good+ ; 3  ; PC Genjin 2 in japan
+Bonk's Adventure                     ; good- ; 28 ; PC Genjin in japan
+Bonk's Revenge                       ; best  ; PC Genjin 2 in japan
 Cadash                               ; good- ; 15
 Chew Man Fu/Be Ball
 Coryoon                              ; good- ; 48
 Cratermaze                           ; Doraemon in japan
-Dai Makaimura                        ; good+ ; Ghouls 'n Ghosts
+Dai Makaimura                        ; best ; Ghouls 'n Ghosts
 Darius Alpha                         ; good-
 Darius Plus                          ; good-
 Detana Twinbee                       ; good- ; 25
 Don Doku Don                         ; good- ; 57
 Download
 Dragon Saber
-Dragon's Curse                       ; good+ ; 6  ; Adventure Island in japan
+Dragon's Curse                       ; best  ; Adventure Island in japan
 Dungeon Explorer                     ; good- ; 23
 Fantasy Zone                  
 Final Soldier
@@ -704,39 +704,39 @@ Kyuukyoku Tiger                      ; good- ; 51 ; Twin Cobra in USA
 Legend of Hero Tonma
 Legendary Axe                        ; good+ ; 12
 Legendary Axe II                     ; good+ ; 31
-Magical Chase                        ; good+ ; 8
+Magical Chase                        ; best
 Metal Stoker                         ; good- ; 27
 Military Madness                     ; good+ ; 10
-Mizubaku Daibouken                   ; good+ ; 7  ; Liquid Kids in USA
+Mizubaku Daibouken                   ; good- ; 7  ; Liquid Kids in USA
 Momotarou Katsugeki                  ; good- ; 20
 Neutopia                             ; good- ; 49
 Neutopia II                          ; good+ ; 22
 New Adventure Island                 ; good- ; 38
-Ninja Spirit                         ; good+ ; 18
+Ninja Spirit                         ; good- ; 18
 Order of the Griffin                 ; good- ; 50
 Outrun
 Override                             ; good- ; 47
-Parasol Stars                        ; good+ ; 9
+Parasol Stars                        ; good- ; 9
 Parodius Da!                         ; good- ; 5
 Populous                             ; good+ ; 13
 Psychosis
 Puzzle Boy
-R-Type                               ; good+ ; 11 ; Jap ver split in 2 pats
+R-Type                               ; best ; Japan version was splitted in 2 parts
 Raiden                               ; good- ; 34
 Salamander                           ; good- ; 29
 Shinobi
 Sidearms - Hyperdyne                 ; good- ; 67
 Skweek
-Soldier Blade                        ; good+ ; 1
+Soldier Blade                        ; best
 Son Son II                           ; good- ; 36
 Spin Pair
 Splatterhouse                        ; good- ; 33
-Street Fighter II - Champion Edition ; good+ ; 04
+Street Fighter II - Champion Edition ; best
 Super Star Soldier                   ; good- ; 35
 Tatsujin                             ;    ; Truxton in USA
 The Newzealand Story                 ; very good
 Turrican
-Valkyrie no Densetsu                 ; good+ ; 45
+Valkyrie no Densetsu                 ; best
 Victory Run
 Zipang                               ; good+ ; 26 ; Solomon Key port
 ```
