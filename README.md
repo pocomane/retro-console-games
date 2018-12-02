@@ -969,8 +969,8 @@ Game Boy Advance
 ```
 2 Games in 1 - Dr. Mario & Puzzle league
 Advance Guardian Heroes                                ; good- ; 65
-Advance Wars
-Advance Wars 2 - Black Hole Rising
+Advance Wars                                           ; very-good
+Advance Wars 2 - Black Hole Rising                     ; best
 Astro Boy - Omega Factor
 Boktai - The Sun Is in Your Hand
 Boktai 2 - Solar Boy Django                            ; good- ; 55
@@ -1014,8 +1014,8 @@ F-Zero GP Legend
 Final Fantasy I & II - Dawn of Souls
 Final Fantasy IV Advance
 Final Fantasy Tactics Advance
-Final Fantasy V                                        ; good+ ; 18
-Final Fantasy VI Advance
+Final Fantasy V                                        ; good- ; 18
+Final Fantasy VI Advance                               ; best
 Final Fight One
 Fire Emblem - Fuuin no Tsurugi                          ; good+ ; 29
 Fire Emblem
@@ -1072,7 +1072,7 @@ Rayman - Hoodlums' Revenge
 Rayman - Raving Rabbids
 Rayman 3
 Rayman Advance
-Rhythm Tengoku                                         ; good+ ; 33
+Rhythm Tengoku                                         ; best
 Riviera - The Promised Land                            ; good+ ; 20
 Rock 'N Roll Racing
 Shin Bokura no Taiyou - Gyakushuu no Sabata / Boktai 3 ; good- ; 99
@@ -1088,8 +1088,8 @@ Sonic the hedgehog
 Street Fighter Alpha 3
 Super Ghouls 'n Ghosts
 Super Mario Advance - Super Mario Bros 2               ; good- ; 
-Super Mario Advance 4 - Super Mario Bros 3             ; good+ ; 15
-Super Mario World - Super Mario Advance 2              ; good- ;
+Super Mario Advance 4 - Super Mario Bros 3             ; very-good
+Super Mario World - Super Mario Advance 2              ; best
 Super Robot Taisen - Original Generation 2
 Super Robot Taisen Original Generations                ; good- ; 80
 Super Street Fighter 2 Turbo - Revival                 ; good- ; 44
@@ -1105,10 +1105,9 @@ The King of Fighters EX2 - Howling Blood
 The Legend of Zelda - A Link to the Past               ; best
 The Legend of Zelda - The Minish Cap                   ; good-
 Wade Hixton's Counter Punch
-Wario Land 4
+Wario Land 4                                           ; best
 WarioWare - Twisted!                                   ; good-
 WarioWare, Inc. - Mega Microgame$!                     ; good-
-Warioland 4                                            ; good+
 Wolfenstein 3D
 Yggdra Unionv                                          ; good- ; 47
 Yoshi's Island - Super Mario Advance 3                 ; best
