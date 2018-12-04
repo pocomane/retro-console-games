@@ -1049,8 +1049,8 @@ Mega Man Battle Network 4 blue moon / red sun          ; good- ; 72
 Mega Man Battle Network 5 team colonel / proto man     ; good- ; 58
 Mega Man Battle Network 6 cybeast flazar / gregar      ; good- ; 39
 Mega Man Zero
-Mega Man Zero 2                                        ; good- ; 60
-Mega Man Zero 3                                        ; good- ; 55
+Mega Man Zero 2                                        ; very-good
+Mega Man Zero 3                                        ; best
 Mega Man Zero 4                                        ; good- ; 60
 Metal Slug Advance
 Metroid - Zero Mission
