@@ -747,7 +747,7 @@ Game Boy
 ```
 Adventures of Lolo                       ; good+ ; 3
 Asmik-kun World 2                        ; good- ; 90 ; Boomer's Adventure in ASMIK World 2
-Avenging Spirit                          ; good+ ; 48
+Avenging Spirit                          ; best
 Balloon Kid
 Batman - Return of the Joker
 Batman - The Animated Series
@@ -757,25 +757,25 @@ Battletoads Double Dragon - The Ultimate Team
 Battletoads in Ragnarok's World
 Bill & Ted’s Excellent Game Boy Adventure
 Blaster Master Boy                       ; good+ ; 25
-Bomberman GB                             ; good+ ; 29 ; bomberman GB 2 in japan
-Bomberman GB 3                              
-Bonk's Adventure                         ; good+ ; 53
-Bonk's Revenge                           ; good+ ; 38
+Bomberman GB                             ; best ; bomberman GB 2 in japan
+Bomberman GB 3                           ; good-
+Bonk's Adventure                         ; good- ; 53
+Bonk's Revenge                           ; good- ; 38
 Booby Boys
-Boomer's Adventure in ASMIK World        ; good+ ; 23
+Boomer's Adventure in ASMIK World        ; good- ; 23
 Bubble Bobble                            ; good+ ; 9
 Bubble Bobble Part 2
 BurgerTime Deluxe
 Castlevania - The Adventure              ; good- ; 81
 Castlevania II - Belmont's Revenge       ; good- ; 75
 Castlevania Legends                      ; good- ; 82
-Catrap                                   ; good+ ; 1
-Contra - The Alien Wars
+Catrap                                   ; good- ; 1
+Contra - The Alien Wars                  ; good-
 Dexterity
-Donkey Kong                              ; good+ ;  19
-Donkey Kong Land                         ; good+ ; 14
-Donkey Kong Land 2                       ; good+ ; 
-Donkey Kong Land 3                       ; good+ ; 52
+Donkey Kong                              ; best ; 19
+Donkey Kong Land                         ; good- ; 14
+Donkey Kong Land 2                       ; best
+Donkey Kong Land 3                       ; good- ; 52
 Double Dragon
 Double Dragon II
 Double Dragon III
@@ -792,27 +792,27 @@ Game & Watch Gallery                     ; good- ; 53
 Gargoyle's Quest                         ; good+ ; 37
 Gradius - The Interstellar Assault
 Great Greed                              ; good- ; 59
-Hammerin' Harry - Ghost Building Company ; good+ ; 14
+Hammerin' Harry - Ghost Building Company ; best
 Harvest Moon GB                          ; good- ; 36
-Ikari no Yousai 2                        ; good+ ; 10 ; Fortified Zone sequel
+Ikari no Yousai 2                        ; good- ; 10 ; Fortified Zone sequel
 Joe & Mac - Caveman Ninja
 Kaeru no tame ni Kane wa Naru            ; good- ; 45 ; For Frog the Bell Tolls
-Kid Dracula                              ; good+ ; 8
-Kid Icarus - Of Myths and Monsters       ; good+ ; 27
+Kid Dracula                              ; best
+Kid Icarus - Of Myths and Monsters       ; brest
 King of Fighters '95
 Kirby's Block Ball                       ; good- ; 18
-Kirby's Dream Land                       ; good+ ; 7
-Kirby's Dream Land 2                     ; good+ ; 2
+Kirby's Dream Land                       ; good- ; 7
+Kirby's Dream Land 2                     ; good- ; 2
 Kung-Fu Master
 Mario’s Picross
 Mario’s Picross 2
 Maru's Mission                           ; good- ; 12
 Mega Man - Dr. Wily's Revenge            ; good- ; 57
-Mega Man II                              ; good+ ; 20
+Mega Man II                              ; good- ; 20
 Mega Man III                             ; good- ; 49
 Mega Man IV                              ; good- ; 51
-Mega Man V
-Metroid II - Return of Samus             ; good+ ; 3
+Mega Man V                               ; best
+Metroid II - Return of Samus             ; best
 Micro Machines
 Mole Mania                               ; good- ; 46
 Motocross Maniacs
@@ -822,9 +822,9 @@ Mystical Ninja starring Goemon           ; good+ ; 30
 Ninja Gaiden - Shadow                    ; good- ; 73
 Ninja Spirit                             ; good- ; 67
 Noobow                                   ; good+ ; 39
-Operation C                              ; good+ ; 26
+Operation C                              ; best
 Pocket Bomberman
-Pokemon Blue / Red / yellow              ; good+ ; 5
+Pokemon Blue / Red / yellow              ; best
 Pop'n TwinBee                            ; good+ ; 4
 Qix                                      ; good- ; 50
 R-Type
@@ -835,8 +835,8 @@ SolarStriker                             ; good- ; 48
 Solomon's Club                           ; good- ; 42
 Street Fighter II - The World Warrior    ; good- ; 72
 Super Mario Land                         ; good- ; 76
-Super Mario Land 2 - 6 Golden Coins      ; good+ ; 5
-Tail Gator                               ; good+ ; 32
+Super Mario Land 2 - 6 Golden Coins      ; best
+Tail Gator                               ; good- ; 32
 Tetris                                   ; best
 Tetris 2                                 ; good- ; 44
 Tetris attack
