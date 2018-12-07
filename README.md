@@ -674,7 +674,7 @@ Battle Lode Runner                   ; good- ; 39
 Bloody Wolf                          ; good- ; 37
 Bomberman
 Bomberman 93                         ; good- ; 52
-Bomberman 94                         ; good+ ; 09
+Bomberman 94                         ; best
 Bomberman Users Battle
 Bonk 3                               ; good- ; 60 ; PC Genjin 3 in japan
 Bonk's Adventure                     ; good- ; 28 ; PC Genjin in japan
