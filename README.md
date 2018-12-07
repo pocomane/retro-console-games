@@ -613,7 +613,7 @@ RoadBlasters
 RoboCop versus The Terminator          
 Rocket Knight Adventures                               ; best
 Rolling Thunder 2
-Rolling Thunder 3
+Rolling Thundjjker 3
 Samurai Shodown                                        ; best
 Shadow Dancer - The Secret of Shinobi                  ; good- ; 45
 Shining Force                                          ; good- ; 59
@@ -652,7 +652,7 @@ Wani Wani World                                        ; good- ; 51
 Whip Rush                                              ; good- ; 54
 Wings of Wor
 Wonder Boy III - Monster Lair
-Wonder Boy in Monster World                            ; good+ ; 27
+Wonder Boy in Monster World                            ; best
 Worms
 YuYu Hakusho - Makyou Toitsusen                        ; good- ; 19 ; jojo bizare
 Zero Wing                                              ; good- ; 50
