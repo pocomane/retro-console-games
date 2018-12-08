@@ -433,9 +433,9 @@ Lufia & the Fortress of Doom                         ; good- ; 81
 Lufia II - Rise of the Sinistrals                    ; good- ; 86
 Mario & Wario.smc
 Mega Man 7                                           ; good- ; 93
-Mega Man X2                                          ; good- ; 36
+Mega Man X2                                          ; very-good
 Mega Man X3                                          ; good- ; 56
-Mega Men X
+Mega Men X                                           ; best
 Micro Machines
 Micro Machines 2
 Mortal Kombat                                        ; good- ; 30
