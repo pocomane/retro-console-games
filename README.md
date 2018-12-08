@@ -702,8 +702,8 @@ Hana Taaka Daka
 Jackie Chan Action Kung Fu
 Kyuukyoku Tiger                      ; good- ; 51 ; Twin Cobra in USA
 Legend of Hero Tonma
-Legendary Axe                        ; good+ ; 12
-Legendary Axe II                     ; good+ ; 31
+Legendary Axe                        ; best
+Legendary Axe II                     ; good- ; 31
 Magical Chase                        ; best
 Metal Stoker                         ; good- ; 27
 Military Madness                     ; good+ ; 10
