@@ -910,8 +910,8 @@ Lufia - The Legend Returns                             ; good- ; 63
 Magi Nation
 Magical Chase GB - Minarai Mahoutsukai Kenja no Tani e ; best
 Mario Tennis                                           ; good- ; 17
-Megaman Xtreme                                         ; good+ ; 10
-Megaman Xtreme 2                                       ; good+ ; 10
+Megaman Xtreme                                         ; very-good
+Megaman Xtreme 2                                       ; best
 Metal Gear Solid                                       ; best
 Metal Walker                                           ; good- ; 16
 Mickey's Racing Adventure
@@ -928,7 +928,7 @@ Pokemon Puzzle Challenge                               ; good- ; 36
 Prince of Persia
 Project S-11                                           ; good- ; 68
 Q-Bert
-R-Type DX                                              ; good+ ; 5
+R-Type DX                                              ; best
 Rampart
 Rayman                                                 ; very-good
 Rayman 2                                               ; very-good
