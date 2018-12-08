@@ -738,7 +738,7 @@ The Newzealand Story                 ; very good
 Turrican
 Valkyrie no Densetsu                 ; best
 Victory Run
-Zipang                               ; good+ ; 26 ; Solomon Key port
+Zipang                               ; very-good ; Solomon Key port
 ```
 
 Game Boy
