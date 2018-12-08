@@ -745,7 +745,7 @@ Game Boy
 ========
 
 ```
-Adventures of Lolo                       ; good+ ; 3
+Adventures of Lolo                       ; best
 Asmik-kun World 2                        ; good- ; 90 ; Boomer's Adventure in ASMIK World 2
 Avenging Spirit                          ; best
 Balloon Kid
@@ -756,14 +756,14 @@ Battletoads
 Battletoads Double Dragon - The Ultimate Team
 Battletoads in Ragnarok's World
 Bill & Ted’s Excellent Game Boy Adventure
-Blaster Master Boy                       ; good+ ; 25
+Blaster Master Boy                       ; good ; 25
 Bomberman GB                             ; best ; bomberman GB 2 in japan
 Bomberman GB 3                           ; good-
 Bonk's Adventure                         ; good- ; 53
 Bonk's Revenge                           ; good- ; 38
 Booby Boys
 Boomer's Adventure in ASMIK World        ; good- ; 23
-Bubble Bobble                            ; good+ ; 9
+Bubble Bobble                            ; good- ; 9
 Bubble Bobble Part 2
 BurgerTime Deluxe
 Castlevania - The Adventure              ; good- ; 81
@@ -782,7 +782,7 @@ Double Dragon III
 Dr. Mario Nintendo                       ; good- ; 8
 DuckTales
 DuckTales 2
-Elevator Action EX                       ; good+ ; 15
+Elevator Action EX                       ; good- ; 15
 Final Fantasy Adventure                  ; good+ ; 22
 Final Fantasy Legend II                  ; good- ; 79
 Final Fantasy Legend III                 ; good- ; 91
@@ -825,7 +825,7 @@ Noobow                                   ; good+ ; 39
 Operation C                              ; best
 Pocket Bomberman
 Pokemon Blue / Red / yellow              ; best
-Pop'n TwinBee                            ; good+ ; 4
+Pop'n TwinBee                            ; best
 Qix                                      ; good- ; 50
 R-Type
 R-Type II
@@ -847,7 +847,7 @@ The King of Fighters - Heat of Battle    ; good- ; 41
 The Legend of Zelda - Link’s Awakening   ; best
 Tiny Toons Adventures - Babs' Big Break            
 Tiny Toons Adventures 2 - Montans's Movie      
-Trax                                     ; good+ ; 6
+Trax                                     ; very-good
 Trip World                               ; good- ; 11
 Wario Blast                              ; good- ; 82 ; Bomberman GB in japan
 Wario Land - Super Mario Land 3
