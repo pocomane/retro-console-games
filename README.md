@@ -575,7 +575,7 @@ Ghouls 'N Ghosts                                       ; best
 Golden Axe
 Golden Axe II
 Golden Axe III
-Granada                                                ; good+ ; 23
+Granada                                                ; very-good
 Greatest Heavyweights
 Gunstar Heroes                                         ; best
 Hellfire                                               ; good- ; 48
@@ -604,7 +604,7 @@ Panorama Cotton                                        ; good- ; 13 ; only japan
 Phantasy Star II                                       ; good- ; 84
 Phantasy Star III - Generations of Doom                ; good- ; 80
 Phantasy Star IV - The End of the Millennium           ; good- ; 72
-Pulseman                                               ; good+ ; 14
+Pulseman                                               ; good- ; 14
 Ranger X                                               ; good- ; 2
 Rent A Hero                                            ; good- ; 33
 Richard Scarry's Busytown
