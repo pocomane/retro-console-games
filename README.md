@@ -217,7 +217,7 @@ Mega Man 6                                               ; very-good
 Metal Gear                                               ; good+ ; 32
 Metal Storm                                              ; good- ; 58
 Metroid                                                  ; best
-Micro Machines                                           ; good- ; 66
+Micro Machines
 Mission Impossible
 Monster Party
 Mother                                                   ; ; English officially localized as Earthbound beginning, but never released
@@ -437,7 +437,7 @@ Mega Man X2                                          ; very-good
 Mega Man X3                                          ; very-good
 Mega Men X                                           ; best
 Micro Machines
-Micro Machines 2
+Micro Machines 2                                     ; very-good
 Mortal Kombat                                        ; very-good
 Mortal Kombat 3                                      ; very-good
 Mortal Kombat II                                     ; very-good
@@ -590,9 +590,9 @@ Mega Bomberman
 Mega Man - The Wily Wars                               ; very-good
 Mickey Mania - The Timeless Adventures of Mickey Mouse ; very-good
 Micro Machines
-Micro Machines 2 - Turbo Tournament
-Micro Machines Military          
-Micro Machines Turbo Tournament '96                    ; good+ ; 32
+Micro Machines 2 - Turbo Tournament                    ; very-good
+Micro Machines Military
+Micro Machines Turbo Tournament '96                    ; best
 Mortal Kombat
 Mortal Kombat 2
 Mortal Kombat 3
@@ -915,7 +915,7 @@ Megaman Xtreme 2                                       ; best
 Metal Gear Solid                                       ; best
 Metal Walker                                           ; good- ; 16
 Mickey's Racing Adventure
-Micro Machines 1 and 2
+Micro Machines 1 and 2                                 ; very-good
 Micro Machines V3
 Monster ranch
 Montezuma's Return!
