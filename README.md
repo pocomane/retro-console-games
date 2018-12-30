@@ -27,21 +27,21 @@ Amidar
 Asteroids                           ; very good
 Battlezone
 Beamrider
-Berzerk                             ; best ; 35
-Boxing                              ; very good ; 15
+Berzerk                             ; best
+Boxing                              ; very good
 Breakout
 California Games                    ; very good
-Centipede                           ; very good ; 48
-Chopper Command                     ; best ; 16
+Centipede                           ; very good
+Chopper Command                     ; best
 Circus Atari
 Commando  
 Communist Mutants from Space
 Cosmic Ark                          ; very good
 Cosmic Commuter
-Crystal Castles                     ; very good ; 36
+Crystal Castles                     ; very good
 Dark Cavern
-Defender                            ; best ; 24
-Demon Attack                        ; best ; 8
+Defender                            ; best
+Demon Attack                        ; best
 Desert Falcon
 Dig Dug                             ; very good
 Dodge 'Em                           ; very good
@@ -55,38 +55,38 @@ Escape from Mindmaster
 Fantastic Voyage
 Fathom    
 Freeway
-Frogger                             ; very good ; 3
+Frogger                             ; very good
 Frogger II
-Frostbite                           ; best ; 25
-Galaxian                            ; very good ; 12
+Frostbite                           ; best
+Galaxian                            ; very good
 Ghostbusters          
 Ghostbusters 2        
 Gorf
 Gravitar
-H.E.R.O.                            ; best ; 9
+H.E.R.O.                            ; best
 Haunted House
 Ice Hockey
 Indy 500
-Joust                               ; best ; 44
+Joust                               ; best
 Jr. Pac-Man                         ; very good
 Jungle Hunt
 Kaboom!
-Keystone Kapers                     ; very good ; 17
+Keystone Kapers                     ; very good
 Laser Gates
-Mario Bros.                         ; best ; 13
+Mario Bros.                         ; best
 Maze Craze
-MegaMania - A Space Nightmare       ; best ; 21
+MegaMania - A Space Nightmare       ; best
 Millipede
 Missile Command
 Montezuma's Revenge                 ; very good
-Moon Patrol                         ; best ; 27
-Mouse Trap                          ; very good ; 20
+Moon Patrol                         ; best
+Mouse Trap                          ; very good
 Mr. Postman
 Ms. Pac-Man                         ; best
 Night Driver
 Oystron
 Pac-Man
-Phoenix                             ; best ; 26
+Phoenix                             ; best
 Pitfall                             ; very good
 Pitfall II - Lost Caverns           ; best
 Planet Patrol                       ; very good
@@ -98,12 +98,12 @@ Quadrun
 Radar Lock
 Raiders of the Lost Ark
 RealSports Volleyball
-River Raid                          ; best ; 1
+River Raid                          ; best
 River Raid II
 Robot Tank
 Skeleton+
 Skiing
-Smurf rescue in gargamel's cast     ; very good ; 32
+Smurf rescue in gargamel's cast     ; very good
 Solar Fox
 Solaris
 Space Invaders
@@ -116,19 +116,19 @@ Stargate
 Starmaster
 Subterranea
 Super Breakout
-Superman                            ; very good ; 58
+Superman                            ; very good
 Surround
 SwordQuest - EarthWorld
 Swordquest - Fireworld
 Swordquest - Waterworld
 Tapper
 The Activision Decathlon
-The Official Frogger                ; best ; 73
+The Official Frogger                ; best
 Tron - Deadly Discs
 Vanguard
 Vault Assault
 Venture
-Warlords                            ; very good ; 13
+Warlords                            ; very good
 Wizard of Wor
 Yars' Revenge
 Zaxxon
