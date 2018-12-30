@@ -22,14 +22,14 @@ Atari 2600
 ```
 Adventure                           ; best
 Adventures of Tron
-Air Raiders                         ; good- ; 41
-Amidar                              ; good- ; 93
+Air Raiders
+Amidar
 Asteroids                           ; very good
 Battlezone
 Beamrider
 Berzerk                             ; best ; 35
 Boxing                              ; very good ; 15
-Breakout                            ; good- ; 66
+Breakout
 California Games                    ; very good
 Centipede                           ; very good ; 48
 Chopper Command                     ; best ; 16
@@ -38,8 +38,8 @@ Commando
 Communist Mutants from Space
 Cosmic Ark                          ; very good
 Cosmic Commuter
-Crystal Castles                     ; good- ; 36
-Dark Cavern                         ; good- ; 84
+Crystal Castles                     ; very good ; 36
+Dark Cavern
 Defender                            ; best ; 24
 Demon Attack                        ; best ; 8
 Desert Falcon
@@ -47,45 +47,45 @@ Dig Dug                             ; very good
 Dodge 'Em                           ; very good
 Donkey Kong                         ; best
 Donkey Kong Junior                  ; very good
-DragonStomper                       ; good- ; 70
-Dragonfire                          ; good- ; 71
+DragonStomper                       ; very good
+Dragonfire
 E.T. - The Extra Terrestrial
 Enduro                              ; best
-Escape from Mindmaster              ; good- ; 77
+Escape from Mindmaster
 Fantastic Voyage
 Fathom    
-Freeway                             ; good- ; 29
+Freeway
 Frogger                             ; very good ; 3
 Frogger II
 Frostbite                           ; best ; 25
 Galaxian                            ; very good ; 12
 Ghostbusters          
 Ghostbusters 2        
-Gorf                                ; good- ; 33
-Gravitar                            ; good- ; 95
+Gorf
+Gravitar
 H.E.R.O.                            ; best ; 9
 Haunted House
 Ice Hockey
 Indy 500
 Joust                               ; best ; 44
 Jr. Pac-Man                         ; very good
-Jungle Hunt                         ; good- ; 30
+Jungle Hunt
 Kaboom!
 Keystone Kapers                     ; very good ; 17
 Laser Gates
 Mario Bros.                         ; best ; 13
 Maze Craze
 MegaMania - A Space Nightmare       ; best ; 21
-Millipede                           ; good- ; 99
-Missile Command                     ; good- ; 43
+Millipede
+Missile Command
 Montezuma's Revenge                 ; very good
 Moon Patrol                         ; best ; 27
 Mouse Trap                          ; very good ; 20
-Mr. Postman                         ; good- ; 42
+Mr. Postman
 Ms. Pac-Man                         ; best
 Night Driver
 Oystron
-Pac-Man                             ; good-
+Pac-Man
 Phoenix                             ; best ; 26
 Pitfall                             ; very good
 Pitfall II - Lost Caverns           ; best
@@ -99,39 +99,39 @@ Radar Lock
 Raiders of the Lost Ark
 RealSports Volleyball
 River Raid                          ; best ; 1
-River Raid II                       ; good- ; 78
+River Raid II
 Robot Tank
 Skeleton+
-Skiing                              ; good- ; 51
+Skiing
 Smurf rescue in gargamel's cast     ; very good ; 32
 Solar Fox
-Solaris                             ; good- ; 22
-Space Invaders                      ; good- ; 5
+Solaris
+Space Invaders
 Space Treat Deluxe
 Spider Fighter
-Spider-Man                          ; good- ; 59
+Spider-Man
 Star Wars - The Empire Strikes Back ; very good
 StarMaster
-Stargate                            ; good- ; 30
-Starmaster                          ; good- ; 46
+Stargate
+Starmaster
 Subterranea
-Super Breakout                      ; good- ; 79
+Super Breakout
 Superman                            ; very good ; 58
 Surround
-SwordQuest - EarthWorld             ; good- ; ?
-Swordquest - Fireworld              ; good- ; ?
-Swordquest - Waterworld             ; good- ; ?
-Tapper                              ; good- ; 67
+SwordQuest - EarthWorld
+Swordquest - Fireworld
+Swordquest - Waterworld
+Tapper
 The Activision Decathlon
 The Official Frogger                ; best ; 73
-Tron - Deadly Discs                 ; good- ; 64
+Tron - Deadly Discs
 Vanguard
 Vault Assault
 Venture
 Warlords                            ; very good ; 13
-Wizard of Wor                       ; good- ; 62
-Yars' Revenge                       ; good- ; 47
-Zaxxon                              ; good- ; 37
+Wizard of Wor
+Yars' Revenge
+Zaxxon
 ```
 
 NES
