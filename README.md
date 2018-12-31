@@ -259,57 +259,57 @@ Master system
 ===========
 
 ```
-Action Fighter                              ; good- ; 41
+Action Fighter
 Afterburner
 Alex Kidd - High Tech World
 Alex Kidd - The Losts Stars
 Alex Kidd in Miracle World                  ; best
 Alex Kidd in Shinobi World                  ; best ; 16
 Asterix                                     ; best ; 4
-Asterix and the Great Rescue                ; good- ; 61
-Asterix and the Secret Mission              ; good- ; 34
+Asterix and the Great Rescue                ; very good
+Asterix and the Secret Mission
 Baku Baku
 Battle Out Run
 Battlemaniacs                               ; best
 Black Belt
 Bomber Raid
-Bram Stoker's Dracula                       ; good- ; 29
+Bram Stoker's Dracula                       ; very good
 Bubble Bobble                               ; very-good
-California Games                            ; good- ; 36
+California Games
 California Games II
 Castle of Illusion                          ; best
 Choplifter
 Chuck Rock
 Chuck Rock II                               ; best
-Columns                                     ; good- ; 38
-Cosmic Spacehead                            ; good- ; 75
+Columns
+Cosmic Spacehead
 Daffy Duck in Hollywood
 Danan - The Jungle Fighter
-Desert Strike                               ; good- ; 26
+Desert Strike
 Double Dragon                               ; very-good
 Dr. Robotnik's Mean Bean Machine
-Dynamite Headdy                             ; good- ; 16
-Fantastic Dizzy                             ; good- ; 35
+Dynamite Headdy
+Fantastic Dizzy
 Fantasy Zone
-Fantasy Zone II                             ; good- ; 15
-Forgotten Worlds                            ; good- ; 33
+Fantasy Zone II                             ; very good
+Forgotten Worlds
 Fushigi no Oshiro Pit Pot
 Gain Ground                                 ; good+ ; 20
 Ghouls 'n Ghosts                            ; very-good
 Golden Axe                                  ; very-good
 Golden Axe Warrior                          ; best
 Golvellius                                  ; best
-Impossible Mission                          ; good- ; 32
-James Pond II - Robocod                     ; good- ; 15
+Impossible Mission
+James Pond II - Robocod
 Jurassic Park
-Kenseiden                                   ; good- ; 24
+Kenseiden                                   ; very good
 Land of Illusion                            ; very-good
 Legend of Illusion                          ; very-good
-Lemmings                                    ; good- ; 18
+Lemmings
 Machine Gun Joe                  
-Marble Madness                              ; good- ; 23
+Marble Madness
 Master of Darkness                          ; best
-Masters of Combat                           ; good- ; 36
+Masters of Combat
 Maze Hunter 3D
 Micro Machines
 Miracle Warriors - Seal of The Dark Lord    ; good- ; 29
@@ -318,20 +318,20 @@ Mortal Kombat II                            ; good- ; 31
 Mortal Kombat III                           ; good- ; 95
 The New Zealand Story                       ; very-good
 Ninja Gaiden                                ; best
-Operation Wolf                              ; good- ; 35
+Operation Wolf
 Out Run
 Phantasy Star                               ; best
 Populous                                    ; good- ; 9
 Power Strike II
 Power Striks
 Prince of Persia                            ; very-good
-Psychic World                               ; good- ; 56
+Psychic World
 Putt & Putter
 R-Type
-R.C. Grand Prix                             ; good- ; 64
-Rainbow Islands                             ; good- ; 17
-Rambo - First Blood Part II                 ; good- ; 67
-Rampart                                     ; good- ; 35
+R.C. Grand Prix
+Rainbow Islands
+Rambo - First Blood Part II
+Rampart
 Rastan
 Rescue Mission
 Road Rash
@@ -341,17 +341,17 @@ Scramble Spirit
 Sensible Soccer
 Shinobi
 Slap Shot
-Solomon no Kagi - Oujo Rihita no Namida     ; good- ; 32 ; Solomons Key
+Solomon no Kagi - Oujo Rihita no Namida     ; very good ; Solomons Key
 Sonic Chaos                                 ; very-good
 Sonic the Hedgehog                          ; best ; 7
 Sonic the Hedgehog 2                        ; very-good
-Space Harrier                               ; good- ; 28
+Space Harrier
 Spellcaster
 Spy vs Spy
-Star Wars                                   ; good- ; 13
-Street Fighter II'                          ; good- ; 86
+Star Wars                                   ; very good
+Street Fighter II'
 Streets of Rage
-Streets of Rage II                          ; good- ; 52
+Streets of Rage II                          ; very good
 Strider
 Submarine Attack                            ; very-good
 The Lucky Dime Caper - Starring Donald Duck ; best ; 2
@@ -359,12 +359,12 @@ The Smurfs
 The Smurfs Travel the World          
 Ultima IV                                   ; best
 Wonder Boy                                  ; very good ; 27
-Wonder Boy in Monster World                 ; ; 40
+Wonder Boy in Monster World                 ; good- ; 40
 Wonderboy III - Dragon’s Trap
 Wonderboy in Monster Land                   ; best
 Xenon 2
 Ys - The Vanished Omens                     ; very-good
-Zillion                                     ; good- ; 34
+Zillion                                     ; very good
 Zillion 2
 Zool
 ```
