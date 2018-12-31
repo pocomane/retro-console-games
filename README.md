@@ -139,14 +139,14 @@ NES
 
 ```
 1942    
-1943                                                     ; good- ; 79
+1943                                                     ; very good
 Adventure Island
 Adventure Island II                                      ; good- ; 97
 Adventure Island III
 Adventures of Lolo
 Adventures of Lolo II
 Adventures of Lolo III                                   ; very good
-Balloon Fight                                            ; good- ; 81
+Balloon Fight                                            ; very good
 Batman
 Batman - Return of the Jocker
 Battletoads                                              ; best
@@ -162,7 +162,7 @@ Bucky O'Hare                                             ; good- ; 81
 Castlevania                                              ; very-good
 Castlevania II - Simon's Quest                           ; very-good
 Castlevania III - Dracula's Curse                        ; best
-Chip 'n Dale - Rescue Rangers                            ; good- ; 61
+Chip 'n Dale - Rescue Rangers                            ; very good
 Chip 'n Dale - Rescue Rangers 2
 Clash at Demonhead
 Contra                                                   ; best
@@ -190,11 +190,11 @@ Faxanadu                                                 ; good+ ; 46
 Final Fantasy                                            ; very good
 Final Fantasy 2                                          ;
 Final Fantasy 3                                          ; best
-Gargoyle's Quest II - The Demon Darkness                 ; good- ; 47
+Gargoyle's Quest II - The Demon Darkness                 ; very good
 Ghosts 'n Goblins                                        ; very-good
 Goonies II
 Gradius
-Gradius 2
+Gradius 2                                                ; very good
 Guerilla War
 Ice Climber                                              ; good- ; 90
 Jackal
@@ -217,7 +217,7 @@ Mega Man 6                                               ; very-good
 Metal Gear                                               ; good+ ; 32
 Metal Storm                                              ; good- ; 58
 Metroid                                                  ; best
-Micro Machines
+Micro Machines                                           ; very good
 Mission Impossible
 Monster Party
 Mother                                                   ; ; English officially localized as Earthbound beginning, but never released
@@ -229,7 +229,7 @@ Pac-Man
 Paperboy
 Paperboy 2
 Pirates!
-Punch-Out!!                                              ; good- ; 81
+Punch-Out!!                                              ; very good
 RC Pro Am                                                ; good- ; 56
 River City Ransom                                        ; best
 Shadowgate                                               ; good- ;75
