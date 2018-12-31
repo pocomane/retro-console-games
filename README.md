@@ -264,8 +264,8 @@ Afterburner
 Alex Kidd - High Tech World
 Alex Kidd - The Losts Stars
 Alex Kidd in Miracle World                  ; best
-Alex Kidd in Shinobi World                  ; best ; 16
-Asterix                                     ; best ; 4
+Alex Kidd in Shinobi World                  ; best
+Asterix                                     ; best
 Asterix and the Great Rescue                ; very good
 Asterix and the Secret Mission
 Baku Baku
@@ -343,7 +343,7 @@ Shinobi
 Slap Shot
 Solomon no Kagi - Oujo Rihita no Namida     ; very good ; Solomons Key
 Sonic Chaos                                 ; very-good
-Sonic the Hedgehog                          ; best ; 7
+Sonic the Hedgehog                          ; best
 Sonic the Hedgehog 2                        ; very-good
 Space Harrier
 Spellcaster
@@ -354,11 +354,11 @@ Streets of Rage
 Streets of Rage II                          ; very good
 Strider
 Submarine Attack                            ; very-good
-The Lucky Dime Caper - Starring Donald Duck ; best ; 2
+The Lucky Dime Caper - Starring Donald Duck ; best
 The Smurfs
 The Smurfs Travel the World          
 Ultima IV                                   ; best
-Wonder Boy                                  ; very good ; 27
+Wonder Boy                                  ; very good
 Wonder Boy in Monster World                 ; good- ; 40
 Wonderboy III - Dragon’s Trap
 Wonderboy in Monster Land                   ; best
