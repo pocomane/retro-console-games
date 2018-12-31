@@ -141,7 +141,7 @@ NES
 1942    
 1943                                                     ; very good
 Adventure Island
-Adventure Island II                                      ; good- ; 97
+Adventure Island II
 Adventure Island III
 Adventures of Lolo
 Adventures of Lolo II
@@ -152,13 +152,13 @@ Batman - Return of the Jocker
 Battletoads                                              ; best
 Battletoads & Double Dragon - The Ultimate Team
 Bionic Commando                                          ; good+ ; 25
-Blaster Master                                           ; very good ; 30
+Blaster Master                                           ; very good
 Bomberman
 Bomberman II
 Boy and His Blob                    
 Bubble Bobble                                            ; very-good
 Bubble Bobble Part 2                                     ; very-good
-Bucky O'Hare                                             ; good- ; 81
+Bucky O'Har
 Castlevania                                              ; very-good
 Castlevania II - Simon's Quest                           ; very-good
 Castlevania III - Dracula's Curse                        ; best
@@ -170,22 +170,22 @@ Contra Force                                             ; very-good
 Crystalis                                                ; good+ ; 19
 Deja Vu
 Destiny of an Emperor
-Donkey Kong                                              ; good- ; 78
+Donkey Kong
 Donkey Kong+3
 Donkey Kong Jr.
 Door Door                              
 Double Dragon                                            ; very-good
 Double Dragon II                                         ; very-good
 Double Dragon III - The Sacred Stones
-Dr. Mario                                                ; good- ; 39
+Dr. Mario
 Dragon Warrior                                           ; good- ; 22
 Dragon Warrior II                                        ; good- ; 52
-Dragon Warrior III                                       ; best ; 31
-Dragon Warrior IV                                        ; very ; 24
-Duck Hunt                                                ; good- ; 26
+Dragon Warrior III                                       ; best
+Dragon Warrior IV                                        ; very good
+Duck Hunt
 DuckTales                                                ; very-good
 DuckTales 2
-Excitebike                                               ; good- ; 29
+Excitebike
 Faxanadu                                                 ; good+ ; 46
 Final Fantasy                                            ; very good
 Final Fantasy 2                                          ;
@@ -196,32 +196,32 @@ Goonies II
 Gradius
 Gradius 2                                                ; very good
 Guerilla War
-Ice Climber                                              ; good- ; 90
+Ice Climber
 Jackal
-Kickle Cubicle                                           ; good- ; 71
+Kickle Cubicle
 Kid Icarus                                               ; best
-Kirby's Adventure                                        ; very good ; 14
-Legacy of the Wizard                                     ; good- ; 87
-Life Force                                               ; good- ; 51
+Kirby's Adventure                                        ; very good
+Legacy of the Wizard
+Life Force
 Little Nemo the Dream Master
-Little Samson                                            ; good- ; 73
+Little Samson
 Maniac Mansion                                           ; good+ ; 37
-Marble Madness                                           ; good- ; 57
-Mario Bros.                                              ; good- ; 85
-Mega Man                                                 ; very good ; 36
-Mega Man 2                                               ; best ; 5
-Mega Man 3                                               ; very good ; 12
+Marble Madness
+Mario Bros.
+Mega Man                                                 ; very good
+Mega Man 2                                               ; best
+Mega Man 3                                               ; very good
 Mega Man 4                                               ; very-good
 Mega Man 5                                               ; very-good
 Mega Man 6                                               ; very-good
 Metal Gear                                               ; good+ ; 32
-Metal Storm                                              ; good- ; 58
+Metal Storm
 Metroid                                                  ; best
 Micro Machines                                           ; very good
 Mission Impossible
 Monster Party
 Mother                                                   ; ; English officially localized as Earthbound beginning, but never released
-Ninja Gaiden                                             ; best ; 16
+Ninja Gaiden                                             ; best
 Ninja Gaiden II - The Dark Sword of Chaos                ; very-good
 Ninja Gaiden III - The Ancient Ship of Doom
 North and South
@@ -230,29 +230,29 @@ Paperboy
 Paperboy 2
 Pirates!
 Punch-Out!!                                              ; very good
-RC Pro Am                                                ; good- ; 56
+RC Pro Am
 River City Ransom                                        ; best
-Shadowgate                                               ; good- ;75
+Shadowgate
 Snake Rattle & Roll
 Solstice
 StarTropics                                              ; good+ ; 27
 Startropics II - Zoda's Revenge
-Super C                                                  ; very good ; 40
-Super Dodge Ball                                         ; good- ; 33
+Super C                                                  ; very good
+Super Dodge Ball
 Super Mario Bros.                                        ; best
 Super Mario Bros. 2                                      ; very-good
 Super Mario Bros. 3                                      ; best
 THe Legend of Zelda                                      ; best
-Teenage Mutant Ninja Turtles                             ; good- ; 44
-Teenage Mutant Ninja Turtles II - The Arcade Game        ; good- ; 20
-Teenage Mutant Ninja Turtles III - The Manhattan Project ; good- ; 48
-Tetris                                                   ; best ; 15
+Teenage Mutant Ninja Turtles
+Teenage Mutant Ninja Turtles II - The Arcade Game
+Teenage Mutant Ninja Turtles III - The Manhattan Project
+Tetris                                                   ; best
 Tetris 2
 The Battle of Olympus
-The Guardian Legend                                      ; good- ; 41
+The Guardian Legend
 Willow
 Xevious
-Zelda II - The Adventures of Link                        ; very good ; 13
+Zelda II - The Adventures of Link                        ; very good
 ```
 
 Master system
