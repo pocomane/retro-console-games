@@ -393,13 +393,13 @@ Clock Tower
 Contra III - The Alien Wars                          ; best
 Cybernator
 Demon's Crest                                        ; very good
-Donkey Kong Country                                  ; very-good ; 4
+Donkey Kong Country                                  ; very-good
 Donkey Kong Country 2 - Diddy's Kong Quest           ; best
-Donkey Kong Country 3 - Dixie Kong's Double Trouble! ; very-good ; 26
+Donkey Kong Country 3 - Dixie Kong's Double Trouble! ; very-good
 Doom                                                 ; very good
 E.V.O. - Search for Eden
 EarthBound                                           ; best
-Earthworm Jim                                        ; very-good ; 25
+Earthworm Jim                                        ; very-good
 Earthworm Jim 2                                      ; best
 Energy Breaker
 Equinox
@@ -466,7 +466,7 @@ SimCity 2000 - The Ultimate City Simulator
 Skyblazer
 Soul Blazer  
 Sparkster
-Star Fox                                             ; very-good ; 17
+Star Fox                                             ; very-good
 Star Ocean                                           ; good- ; 85
 Street Fighter Alpha 2
 Street Fighter II - the world warrior
@@ -483,7 +483,7 @@ Super Castlevania IV                                 ; best
 Super Double Dragon
 Super Ghouls'n Ghosts                                ; best
 Super James Pond II
-Super Mario All-Stars                                ; very-good ; 11
+Super Mario All-Stars                                ; very-good
 Super Mario Kart                                     ; best
 Super Mario RPG - Legend of the Seven Stars          ; best
 Super Mario World                                    ; best
