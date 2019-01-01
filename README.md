@@ -378,8 +378,8 @@ ActRaiser 2
 Advanced Dungeons & Dragons - Eye of the Beholder
 Aero Fighter
 Aladdin
-Axelay                                               ; good- ; 83
-Battletoads in Battlemaniacs                         ; good- ; 112
+Axelay
+Battletoads in Battlemaniacs
 Biker Mice from Mars
 Blackthorne                                          ; good- ; 96
 Breath of Fire                                       ; good- ; 94
@@ -397,7 +397,7 @@ Donkey Kong Country                                  ; very-good ; 4
 Donkey Kong Country 2 - Diddy's Kong Quest           ; best
 Donkey Kong Country 3 - Dixie Kong's Double Trouble! ; very-good ; 26
 Doom                                                 ; very good
-E.V.O. - Search for Eden                             ; good- ; 60
+E.V.O. - Search for Eden
 EarthBound                                           ; best
 Earthworm Jim                                        ; very-good ; 25
 Earthworm Jim 2                                      ; best
@@ -410,8 +410,8 @@ Final Fantasy IV                                     ; good+ ; 21 ; USA release:
 Final Fantasy V                                      ; good- ; 76 ; USA no release
 Final Fantasy VI                                     ; best ; USA release: Final Fantasy III
 Final Fight                                          ; very-good
-Final Fight 2                                        ; good- ; 69
-Final Fight 3                                        ; good- ; 71
+Final Fight 2
+Final Fight 3
 Final Fight Guy                                      ; very good
 Flashback
 Fushigi no Dungeon 2 - Fuurai no Shiren              ; good+
@@ -428,7 +428,7 @@ Kirby Super Star                                     ; very good
 Kirby's Dream Course
 Kirby's Dream Land 3
 Kirby's Ghost Trap
-Knights of the Round                                 ; good- ; 79
+Knights of the Round
 Lufia & the Fortress of Doom                         ; good- ; 81
 Lufia II - Rise of the Sinistrals                    ; good- ; 86
 Mario & Wario.smc
@@ -445,8 +445,8 @@ Ninja Gaiden Trilogy
 Ogre Battle - The March of the Black Queen           ; good- ; 65
 Out of This World
 Pang                
-Pilotwings                                           ; good- ; 46
-Pitfall - The Mayan Adventure                        ; good- ; 119
+Pilotwings
+Pitfall - The Mayan Adventure
 Pop'n TwinBee            
 Pop'n TwinBee - Rainbow Bell Adventures
 Popful Mail                                          ; good- ; Japan only, lot of text, localization on sega-cd and pc
@@ -469,7 +469,7 @@ Sparkster
 Star Fox                                             ; very-good ; 17
 Star Ocean                                           ; good- ; 85
 Street Fighter Alpha 2
-Street Fighter II - the world warrior                ; ; 8
+Street Fighter II - the world warrior
 Street Fighter II Turbo - hyper fighting             ; best
 Sunset Riders                                        ; good+ ; 35
 Super Adventure Island
@@ -491,14 +491,14 @@ Super Mario World 2 - Yoshi's Island                 ; best
 Super Metroid                                        ; best
 Super Punch-Out!!                                    ; best
 Super R-Type                                         ; very-good
-Super Star Wars                                      ; good- ; 40
-Super Star Wars - Return of the Jedi                 ; good- ; 57
-Super Star Wars - The Empire Strikes Back            ; good- ; 62
-Super Street Fighter II - The New Challengers        ; very-good ; 27
+Super Star Wars
+Super Star Wars - Return of the Jedi
+Super Star Wars - The Empire Strikes Back
+Super Street Fighter II - The New Challengers        ; very-good
 Super Turrican
 Super Turrican 2
 Tales of Phantasia                                   ; good- ; 68 ; japan: USA on gamboy advance
-Teenage Mutant Ninja Turtles - Tournament Fighters   ; good- ; 59
+Teenage Mutant Ninja Turtles - Tournament Fighters
 Teenage Mutant Ninja Turtles IV - Turtles in Time    ; very good
 Terranigma                                           ; good- ; 34
 Tetris & Dr. Mario                                   ; very good
