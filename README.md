@@ -385,14 +385,14 @@ Blackthorne                                          ; good- ; 96
 Breath of Fire                                       ; good- ; 94
 Breath of Fire II                                    ; good- ; 51
 Bust a move  
-Castlevania - Dracula X                              ; good- ; 78
+Castlevania - Dracula X                              ; good+ ; 78
 Choujikuu Yousai Macross - Scrambled Valkyrie
 Chrono Trigger                                       ; best
 ClayFighter
 Clock Tower
 Contra III - The Alien Wars                          ; best
 Cybernator
-Demon's Crest                                        ; good- ; 58
+Demon's Crest                                        ; very good
 Donkey Kong Country                                  ; very-good ; 4
 Donkey Kong Country 2 - Diddy's Kong Quest           ; best
 Donkey Kong Country 3 - Dixie Kong's Double Trouble! ; very-good ; 26
@@ -412,7 +412,7 @@ Final Fantasy VI                                     ; best ; USA release: Final
 Final Fight                                          ; very-good
 Final Fight 2                                        ; good- ; 69
 Final Fight 3                                        ; good- ; 71
-Final Fight Guy
+Final Fight Guy                                      ; very good
 Flashback
 Fushigi no Dungeon 2 - Fuurai no Shiren              ; good+
 Goof Troop
@@ -474,10 +474,10 @@ Street Fighter II Turbo - hyper fighting             ; best
 Sunset Riders                                        ; good+ ; 35
 Super Adventure Island
 Super Adventure Island II
-Super Bomberman                                      ; good- ; 89
-Super Bomberman 2
-Super Bomberman 3
-Super Bomberman 4
+Super Bomberman
+Super Bomberman 2                                    ; very good
+Super Bomberman 3                                    ; very good
+Super Bomberman 4                                    ; very good
 Super Bomberman 5
 Super Castlevania IV                                 ; best
 Super Double Dragon
@@ -501,13 +501,13 @@ Tales of Phantasia                                   ; good- ; 68 ; japan: USA o
 Teenage Mutant Ninja Turtles - Tournament Fighters   ; good- ; 59
 Teenage Mutant Ninja Turtles - Turtles in Time       ; good- ; 13
 Terranigma                                           ; good- ; 34
-Tetris & Dr. Mario                                   ; good- ; 38
-Tetris Attack                                        ; good- ; 77
+Tetris & Dr. Mario                                   ; very good
+Tetris Attack                                        ; very good
 The Adventures of Batman & Robin
 The Legend of Zelda - A Link to the Past             ; best
 The Legend of the Mystical Ninja / Ganbare Goemon    ; good+ ; 48
 The Lion King
-The Lost Vikings                                     ; good- ; 42
+The Lost Vikings                                     ; very good
 The Magical Quest Starring Mickey Mouse
 Tiny Toon Adventures - Buster Busts Loose!
 Torneco no Daibōken - Fushigi no Dungeon
