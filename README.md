@@ -424,7 +424,7 @@ James Pond 3
 Jurassic Park
 Jurassic Park II - The Chaos Continues
 Killer Instinct                                      ; very-good
-Kirby Super Star                                     ; good- ; 31
+Kirby Super Star                                     ; very good
 Kirby's Dream Course
 Kirby's Dream Land 3
 Kirby's Ghost Trap
@@ -499,7 +499,7 @@ Super Turrican
 Super Turrican 2
 Tales of Phantasia                                   ; good- ; 68 ; japan: USA on gamboy advance
 Teenage Mutant Ninja Turtles - Tournament Fighters   ; good- ; 59
-Teenage Mutant Ninja Turtles - Turtles in Time       ; good- ; 13
+Teenage Mutant Ninja Turtles IV - Turtles in Time    ; very good
 Terranigma                                           ; good- ; 34
 Tetris & Dr. Mario                                   ; very good
 Tetris Attack                                        ; very good
