@@ -1169,5 +1169,140 @@ I added some note after some title e.g. the english name for a japan-only game. 
 - `good+` - like 'very good', but candidate to get the `best` label
 - An indicative positional index
 
--- TODO : better explanation, more label
+-- TODO : Better label explanation.
+
+WIP / TODO
+==========
+
+- Add ~20 "very good" label to gba.
+
+- The following titles needs more time to be evaluated in order to assign to them
+  the proper labels. An indicative positional index is given. 'good+' means that
+  probably a 'best' label should be given. 'good-' means 'very good', maybe.
+
+```
+NES ; good+ ; 25 ; Bionic Commando
+NES ; good+ ; 27 ; StarTropics
+NES ; good+ ; 32 ; Metal Gear
+NES ; good+ ; 37 ; Maniac Mansion
+NES ; good+ ; 46 ; Faxanadu
+NES ; good- ; 19 ; Crystalis
+NES ; good- ; 22 ; Dragon Warrior
+NES ; good- ; 52 ; Dragon Warrior II
+NES ; good- ; 75 ; Shadowgate
+MASTERSYSTEM ; good- ; 09 ; Populous
+MASTERSYSTEM ; good- ; 18 ; Lemmings
+MASTERSYSTEM ; good+ ; 20 ; Gain Ground
+MASTERSYSTEM ; good- ; 29 ; Miracle Warriors - Seal of The Dark Lord
+MASTERSYSTEM ; good- ; 40 ; Wonder Boy in Monster World
+MASTERSYSTEM ; good- ; 09 ; Populous
+MASTERSYSTEM ; good- ; 50 ; Mortal Kombat
+MASTERSYSTEM ; good- ; 31 ; Mortal Kombat II
+MASTERSYSTEM ; good- ; 95 ; Mortal Kombat III
+SNES ; good- ; ?? ; Popful Mail ; Japan only, lot of text, localization on sega-cd and pc
+SNES ; good+ ; 44 ; Secret of Evermore
+SNES ; good+ ; ?? ; Fushigi no Dungeon 2 - Fuurai no Shiren
+SNES ; good+ ; 15 ; Secret of Mana
+SNES ; good+ ; 21 ; Final Fantasy IV / II
+SNES ; good+ ; 35 ; Sunset Riders
+SNES ; good+ ; 48 ; The Legend of the Mystical Ninja / Ganbare Goemon
+SNES ; good+ ; 78 ; Castlevania - Dracula X ; CasIV gia best !
+SNES ; good- ; 32 ; ActRaiser
+SNES ; good- ; 34 ; Terranigma
+SNES ; good- ; 44 ; Secret of Evermore
+SNES ; good- ; 45 ; Illusion of Gaia
+SNES ; good- ; 51 ; Breath of Fire II
+SNES ; good- ; 64 ; Shadowrun
+SNES ; good- ; 65 ; Ogre Battle - The March of the Black Queen
+SNES ; good- ; 68 ; Tales of Phantasia ; japan: USA on gamboy advance
+SNES ; good- ; 76 ; Final Fantasy V ; USA no release
+SNES ; good- ; 81 ; Lufia & the Fortress of Doom
+SNES ; good- ; 82 ; R-Type III - The Third Lightning
+SNES ; good- ; 85 ; Star Ocean
+SNES ; good- ; 86 ; Lufia II - Rise of the Sinistrals
+SNES ; good- ; 94 ; Breath of Fire
+SNES ; good- ; 96 ; Blackthorne
+SNES ; good- ; 110 ; Ultimate Mortal Kombat 3
+MEGADRIVE ; good+ ; 02 ; Aerobiz Supersonic
+MEGADRIVE ; good+ ; 13 ; Ecco the Dolphin
+MEGADRIVE ; good+ ; 22 ; Dune - The Battle for Arrakis
+MEGADRIVE ; good+ ; 43 ; Flashback
+MEGADRIVE ; good+ ; 26 ; Bubba 'n' Stix
+MEGADRIVE ; good- ; 32 ; Gauntlet 4
+MEGADRIVE ; good- ; 18 ; ToeJam & Earl
+MEGADRIVE ; good- ; 23 ; The Faery Tale Adventure
+MEGADRIVE ; good- ; 33 ; Rent A Hero
+MEGADRIVE ; good- ; 47 ; Buck Rogers - Countdown to Doomsday
+MEGADRIVE ; good- ; 59 ; Shining Force
+MEGADRIVE ; good- ; 62 ; Shining Force II
+MEGADRIVE ; good- ; 72 ; Phantasy Star IV - The End of the Millennium
+MEGADRIVE ; good- ; 80 ; Phantasy Star III - Generations of Doom
+MEGADRIVE ; good- ; 84 ; Phantasy Star II
+PCENGINE ; good+ ; 10 ; Military Madness
+PCENGINE ; good+ ; 22 ; Neutopia II
+PCENGINE ; good- ; 20 ; Momotarou Katsugeki
+PCENGINE ; good- ; 49 ; Neutopia
+PCENGINE ; good- ; 50 ; Order of the Griffin
+GAMEBOY ; good+ ; 30 ; Mystical Ninja starring Goemon
+GAMEBOY ; good+ ; 37 ; Gargoyle's Quest
+GAMEBOY ; good+ ; 39 ; Noobow
+GAMEBOY ; good+ ; 17 ; Ganbare Goemon Hoshizorashi Dyamites Arawaru!!
+GAMEBOY ; good+ ; ?? ; Fushigi no Dungeon - Fuurai no Shiren ; japan only, lot of text
+GAMEBOY ; good+ ; 22 ; Final Fantasy Adventure
+GAMEBOY ; good- ; 79 ; Final Fantasy Legend II
+GAMEBOY ; good- ; 91 ; Final Fantasy Legend III
+GAMEBOY ; good+ ; 31 ; Rolan's Curse
+GAMEBOY ; good- ; 50 ; Rolan's Curse 2
+GAMEBOY ; good- ; 36 ; Harvest Moon GB
+GAMEBOY ; good- ; 45 ; Kaeru no tame ni Kane wa Naru
+GAMEBOY ; good- ; 50 ; Rolan's Curse 2
+GAMEBOY ; good- ; 59 ; Great Greed
+GAMEBOY ; good- ; 65 ; The Final Fantasy Legend
+GAMEBOY ; good- ; 79 ; Final Fantasy Legend II
+GAMEBOY ; good- ; 91 ; Final Fantasy Legend III
+GAMEBOYCOLOER ; good+ ; ?? ; Fushigi no Dungeon - Fuurai no Shiren ; japan only, lot of text ; ; ; ; ;
+GAMEBOYCOLOER ; good+ ; 17 ; Ganbare Goemon Hoshizorashi Dyamites Arawaru!!
+GAMEBOYCOLOER ; good+ ; 21 ; Survival Kids
+GAMEBOYCOLOER ; good+ ; 21 ; Survival Kids 2
+GAMEBOYCOLOER ; good- ; 16 ; Metal Walker
+GAMEBOYCOLOER ; good- ; 21 ; Revelations - The Demon Slayer
+GAMEBOYCOLOER ; good- ; 38 ; Bomberman Quest
+GAMEBOYCOLOER ; good- ; 48 ; Dragon Ball Z - Legendary Super Warrior
+GAMEBOYCOLOER ; good- ; 63 ; Lufia - The Legend Returns
+GAMEBOYCOLOER ; good- ; 67 ; Daikatana
+GAMEBOY ADVANCE ; good+ ; 20 ; Riviera - The Promised Land
+GAMEBOY ADVANCE ; good+ ; 33 ; Sword of Mana
+GAMEBOY ADVANCE ; good+ ; 39 ; Kingdom Hearts - Chain of Memories
+GAMEBOY ADVANCE ; good+ ; ?? ; Final Fantasy IV Advance
+GAMEBOY ADVANCE ; good+ ; ?? ; Final Fantasy Tactics Advance
+GAMEBOY ADVANCE ; good+ ; ?? ; Dokkey Kong Country 2
+GAMEBOY ADVANCE ; good+ ; 03 ; Pokemon Ruby / Sapphire / Emerald
+GAMEBOY ADVANCE ; good+ ; 06 ; Pokemon FireRed / LeafGreen ; red-gb remake
+GAMEBOY ADVANCE ; good+ ; 17 ; Mega Man Battle Network 3 blue / white
+GAMEBOY ADVANCE ; good+ ; 31 ; Mega Man Battle Network 2
+GAMEBOY ADVANCE ; good- ; 39 ; Mega Man Battle Network 6 cybeast flazar / gregar
+GAMEBOY ADVANCE ; good- ; 59 ; Mega Man Battle Network 5 team colonel / proto man
+GAMEBOY ADVANCE ; good- ; 72 ; Mega Man Battle Network 4 blue moon / red sun
+GAMEBOY ADVANCE ; good- ; ?? ; Mega Man Battle Network
+GAMEBOY ADVANCE ; good+ ; 29 ; Fire Emblem - Fuuin no Tsurugi
+GAMEBOY ADVANCE ; good- ; ?? ; Fire Emblem
+GAMEBOY ADVANCE ; good- ; ?? ; Fire Emblem - The Sacred Stones
+GAMEBOY ADVANCE ; good- ; ?? ; Golden Sun
+GAMEBOY ADVANCE ; good- ; 18 ; Final Fantasy V
+GAMEBOY ADVANCE ; good- ; 39 ; Mega Man Battle Network 6 cybeast flazar / gregar
+GAMEBOY ADVANCE ; good- ; 58 ; Mega Man Battle Network 5 team colonel / proto man
+GAMEBOY ADVANCE ; good- ; 72 ; Mega Man Battle Network 4 blue moon / red sun
+GAMEBOY ADVANCE ; good- ; 47 ; Yggdra Unionv
+GAMEBOY ADVANCE ; good- ; 51 ; Pokemon Mystery Dungeon - Red Rescue Team
+GAMEBOY ADVANCE ; good- ; 52 ; Shining Soul 2
+GAMEBOY ADVANCE ; good- ; 55 ; Shining Force - Resurrection of the Dark Dragon
+GAMEBOY ADVANCE ; good- ; 55 ; Boktai 2 - Solar Boy Django
+GAMEBOY ADVANCE ; good- ; 56 ; Tales of Phantasia
+GAMEBOY ADVANCE ; good- ; 70 ; Mother 1 & 2
+GAMEBOY ADVANCE ; good- ; 78 ; Phantasy Star Collection
+GAMEBOY ADVANCE ; good- ; 80 ; Super Robot Taisen Original Generations
+GAMEBOY ADVANCE ; good- ; 85 ; Dragon Quest Monsters - Caravan Heart
+GAMEBOY ADVANCE ; good- ; 85 ; Lufia - The Ruins of Lore
+GAMEBOY ADVANCE ; good- ; 99 ; Shin Bokura no Taiyou - Gyakushuu no Sabata ; Boktai 3
+```
 
