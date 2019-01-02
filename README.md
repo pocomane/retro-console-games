@@ -1161,7 +1161,7 @@ Labels
 I added some note after some title e.g. the english name for a japan-only game. More important I use the following labels to highlight some games.
 
 - `excellent` - Top games for the system, play this ones first; redundant games are skipped.
-- `very good` - Very good games; subsidiary games are skipped.
+- `good` - Very good games; subsidiary games are skipped.
 - '?' - Refer to the next section (WIP / TODO)
 
 -- TODO : Better label explanation.
