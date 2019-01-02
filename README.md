@@ -664,75 +664,75 @@ Turbografx
 
 ```
 1941 Counter Attack
-1943 Kai                             ; good- ; 32
-Aero blasters                        ; good- ; 43
+1943 Kai                             ; very good
+Aero blasters                        ; very good
 After Burner II
-Air Zonk                             ; good- ; 21
+Air Zonk                             ; very good
 Atomic robo-kid
 Batman
-Battle Lode Runner                   ; good- ; 39
-Bloody Wolf                          ; good- ; 37
+Battle Lode Runner
+Bloody Wolf
 Bomberman
-Bomberman 93                         ; good- ; 52
+Bomberman 93                         ; very good
 Bomberman 94                         ; best
 Bomberman Users Battle
 Bonk 3                               ; very-good ; PC Genjin 3 in japan
 Bonk's Adventure                     ; very-good ; PC Genjin in japan
 Bonk's Revenge                       ; best  ; PC Genjin 2 in japan
-Cadash                               ; good- ; 15
+Cadash                               ; very good
 Chew Man Fu/Be Ball
-Coryoon                              ; good- ; 48
+Coryoon
 Cratermaze                           ; Doraemon in japan
 Dai Makaimura                        ; best ; Ghouls 'n Ghosts
 Darius Alpha                         ; very-good
 Darius Plus                          ; very-good
 Detana Twinbee                       ; very-good
-Don Doku Don                         ; good- ; 57
+Don Doku Don                         ; very good
 Download
 Dragon Saber
 Dragon's Curse                       ; best  ; Adventure Island in japan
-Dungeon Explorer                     ; good- ; 23
+Dungeon Explorer
 Fantasy Zone                  
 Final Soldier
-Galaga 90                            ; good- ; 41 ; Galaga 88 in japan
-Gomola Speed                         ; good- ; 08
+Galaga 90                            ; ; Galaga 88 in japan
+Gomola Speed
 Gradius                              ; very-good
-Gunhed                               ; good- ; 17 ; Blazing Lazers in japan
+Gunhed                               ; very good ; Blazing Lazers in japan
 Hana Taaka Daka
 Jackie Chan Action Kung Fu
-Kyuukyoku Tiger                      ; good- ; 51 ; Twin Cobra in USA
+Kyuukyoku Tiger                      ; ; Twin Cobra in USA
 Legend of Hero Tonma
 Legendary Axe                        ; best
-Legendary Axe II                     ; good- ; 31
+Legendary Axe II
 Magical Chase                        ; best
-Metal Stoker                         ; good- ; 27
+Metal Stoker
 Military Madness                     ; good+ ; 10
 Mizubaku Daibouken                   ; very-good  ; Liquid Kids in USA
 Momotarou Katsugeki                  ; good- ; 20
 Neutopia                             ; good- ; 49
 Neutopia II                          ; good+ ; 22
 New Adventure Island                 ; very-good
-Ninja Spirit                         ; good- ; 18
+Ninja Spirit                         ; very good
 Order of the Griffin                 ; good- ; 50
 Outrun
-Override                             ; good- ; 47
+Override
 Parasol Stars                        ; very-good
-Parodius Da!                         ; good- ; 5
+Parodius Da!
 Populous                             ; good+ ; 13
 Psychosis
 Puzzle Boy
 R-Type                               ; best ; Japan version was splitted in 2 parts
-Raiden                               ; good- ; 34
-Salamander                           ; good- ; 29
+Raiden                               ; very good
+Salamander
 Shinobi
-Sidearms - Hyperdyne                 ; good- ; 67
+Sidearms - Hyperdyne
 Skweek
 Soldier Blade                        ; best
-Son Son II                           ; good- ; 36
+Son Son II                           ; very good
 Spin Pair
-Splatterhouse                        ; good- ; 33
+Splatterhouse
 Street Fighter II - Champion Edition ; best
-Super Star Soldier                   ; good- ; 35
+Super Star Soldier
 Tatsujin                             ;    ; Truxton in USA
 The Newzealand Story                 ; very good
 Turrican
