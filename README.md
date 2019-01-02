@@ -746,30 +746,30 @@ Game Boy
 
 ```
 Adventures of Lolo                       ; best
-Asmik-kun World 2                        ; good- ; 90 ; Boomer's Adventure in ASMIK World 2
+Asmik-kun World 2                        ; ; Boomer's Adventure in ASMIK World 2
 Avenging Spirit                          ; best
 Balloon Kid
 Batman - Return of the Joker
 Batman - The Animated Series
-Battle Arena Toshinden                   ; good- ; 13
+Battle Arena Toshinden                   ; very good
 Battletoads
 Battletoads Double Dragon - The Ultimate Team
 Battletoads in Ragnarok's World
 Bill & Ted’s Excellent Game Boy Adventure
 Blaster Master Boy                       ; good ; 25
 Bomberman GB                             ; best ; bomberman GB 2 in japan
-Bomberman GB 3                           ; good-
+Bomberman GB 3                           ; very good
 Bonk's Adventure                         ; very-good
 Bonk's Revenge                           ; very-good
 Booby Boys
-Boomer's Adventure in ASMIK World        ; good- ; 23
+Boomer's Adventure in ASMIK World
 Bubble Bobble                            ; very-good
 Bubble Bobble Part 2                     ; very-good
 BurgerTime Deluxe
-Castlevania - The Adventure              ; good- ; 81
-Castlevania II - Belmont's Revenge       ; good- ; 75
-Castlevania Legends                      ; good- ; 82
-Catrap                                   ; good- ; 1
+Castlevania - The Adventure
+Castlevania II - Belmont's Revenge       ; very good
+Castlevania Legends                      ; very good
+Catrap                                   ; very good
 Contra - The Alien Wars                  ; very-good
 Dexterity
 Donkey Kong                              ; best ; 19
@@ -779,34 +779,33 @@ Donkey Kong Land 3                       ; very-good
 Double Dragon
 Double Dragon II
 Double Dragon III
-Dr. Mario Nintendo                       ; good- ; 8
+Dr. Mario Nintendo
 DuckTales
 DuckTales 2
-Elevator Action EX                       ; good- ; 15
+Elevator Action EX                       ; very good
 Final Fantasy Adventure                  ; good+ ; 22
 Final Fantasy Legend II                  ; good- ; 79
 Final Fantasy Legend III                 ; good- ; 91
 Fortified Zone                           ; good- ; 28
 GB Genjin Land - Viva! Chikkun Oukoku
-Game & Watch Gallery                     ; good- ; 53
+Game & Watch Gallery                     ; very good
 Gargoyle's Quest                         ; good+ ; 37
 Gradius - The Interstellar Assault
 Great Greed                              ; good- ; 59
 Hammerin' Harry - Ghost Building Company ; best
 Harvest Moon GB                          ; good- ; 36
-Ikari no Yousai 2                        ; good- ; 10 ; Fortified Zone sequel
+Ikari no Yousai 2                        ; very good ; Fortified Zone sequel
 Joe & Mac - Caveman Ninja
 Kaeru no tame ni Kane wa Naru            ; good- ; 45 ; For Frog the Bell Tolls
 Kid Dracula                              ; best
 Kid Icarus - Of Myths and Monsters       ; brest
-King of Fighters '95
-Kirby's Block Ball                       ; good- ; 18
-Kirby's Dream Land                       ; good- ; 7
-Kirby's Dream Land 2                     ; good- ; 2
+Kirby's Block Ball
+Kirby's Dream Land                       ; very good
+Kirby's Dream Land 2                     ; very good
 Kung-Fu Master
 Mario’s Picross
 Mario’s Picross 2
-Maru's Mission                           ; good- ; 12
+Maru's Mission
 Mega Man - Dr. Wily's Revenge            ; very-good
 Mega Man II                              ; very-good
 Mega Man III                             ; very-good
@@ -814,46 +813,46 @@ Mega Man IV                              ; very-good
 Mega Man V                               ; best
 Metroid II - Return of Samus             ; best
 Micro Machines
-Mole Mania                               ; good- ; 46
+Mole Mania                               ; very good
 Motocross Maniacs
 Mr. Nutz
 Mystic Quest                  
 Mystical Ninja starring Goemon           ; good+ ; 30
-Ninja Gaiden - Shadow                    ; good- ; 73
-Ninja Spirit                             ; good- ; 67
+Ninja Gaiden - Shadow
+Ninja Spirit                             ; very good
 Noobow                                   ; good+ ; 39
 Operation C                              ; best
 Pocket Bomberman
 Pokemon Blue / Red / yellow              ; best
 Pop'n TwinBee                            ; best
-Qix                                      ; good- ; 50
+Qix
 R-Type
 R-Type II
 Rolan's Curse                            ; good+ ; 31
 Rolan's Curse 2                          ; good- ; 50
-SolarStriker                             ; good- ; 48
-Solomon's Club                           ; good- ; 42
-Street Fighter II - The World Warrior    ; good- ; 72
-Super Mario Land                         ; good- ; 76
+SolarStriker
+Solomon's Club                           ; very good
+Street Fighter II - The World Warrior
+Super Mario Land
 Super Mario Land 2 - 6 Golden Coins      ; best
-Tail Gator                               ; good- ; 32
+Tail Gator
 Tetris                                   ; best
-Tetris 2                                 ; good- ; 44
+Tetris 2
 Tetris attack
 Tetris plus
 The Final Fantasy Legend                 ; good- ; 65
-The King of Fighters '95                 ; good- ; 41
-The King of Fighters - Heat of Battle    ; good- ; 41
+The King of Fighters '95                 ; very good
+The King of Fighters - Heat of Battle    ; very good ; jap= king of fighter 96
 The Legend of Zelda - Link’s Awakening   ; best
 Tiny Toons Adventures - Babs' Big Break            
 Tiny Toons Adventures 2 - Montans's Movie      
 Trax                                     ; very-good
-Trip World                               ; good- ; 11
-Wario Blast                              ; good- ; 82 ; Bomberman GB in japan
-Wario Land - Super Mario Land 3
-Wario Land II                            ; good- ; 80
+Trip World                               ; very good
+Wario Blast                              ; ; Bomberman GB in japan
+Wario Land - Super Mario Land 3          ; very good
+Wario Land II                            ; very good
 Worms      
-Yoshi                                    ; good- ; 18
+Yoshi
 Yoshi's Cookie
 ```
 
