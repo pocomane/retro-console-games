@@ -522,25 +522,25 @@ Megadrive
 ========
 
 ```
-Advanced Busterhawk Gleylancer                         ; good- ; 44
-Aero Blasters                                          ; good- ; 37
+Advanced Busterhawk Gleylancer
+Aero Blasters                                          ; very good
 Aerobiz Supersonic                                     ; good+ ; 2
 After Burner II
 Alex Kidd in the Enchanted Castle
-Alien Soldier                                          ; good- ; 4
-Alisia Dragoon                                         ; good- ; 17
+Alien Soldier                                          ; very good
+Alisia Dragoon
 Altered Beast
 Arrow Flash
-Atomic Robo-Kid                                        ; good- ; 40
-Atomic Runner                                          ; good- ; 38
+Atomic Robo-Kid
+Atomic Runner
 Battlemania - Daiginjou                                ; best
-Battletoads & Double Dragon - The Ultimate Team        ; good- ; 67
-Bio-Hazard Battle                                      ; good- ; 52
+Battletoads & Double Dragon - The Ultimate Team        ; very good
+Bio-Hazard Battle
 Bishoujo Senshi Sailor Moon
-Bonanza Bros.                                          ; good- ; 70
-Bubba 'n' Stix                                         ; good- ; 26
+Bonanza Bros.                                          ; very good
+Bubba 'n' Stix                                         ; very good
 Buck Rogers - Countdown to Doomsday                    ; good- ; 47
-Burning Force                                          ; good- ; 42
+Burning Force
 Castle of Illusion Starring Mickey Mouse               ; very-good
 Castlevania - Bloodlines                               ; best
 Chiki Chiki Boys
@@ -550,10 +550,10 @@ Contra - Hard Corps                                    ; best
 Crack Down
 Curse
 DJ Boy
-Dahna - Megami Tanjou                                  ; good- ; 95
+Dahna - Megami Tanjou
 Dashin' Desperadoes
 Disney's Aladdin
-Donald in Maui Mallard                                 ; good- ; 24
+Donald in Maui Mallard                                 ; very good
 Double Dragon
 Double Dragon 2
 Double Dragon 3
@@ -562,13 +562,13 @@ Dragon Ball Z - Buyuu Retsuden
 Dune - The Battle for Arrakis                          ; good+ ; 22
 Dynamite Headdy                                        ; good+ ; 3
 Earthworm Jim 2                                        ; best
-Ecco the Dolphin                                       ; good- ; 13
+Ecco the Dolphin                                       ; very good
 Ecco the Dolphin II
-El Viento                                              ; good- ; 16
-Elemental Master                                       ; good- ; 9
+El Viento
+Elemental Master
 Flashback                                              ; good+ ; 43
-Forgotten Worlds                                       ; good- ; 39
-Gaiares                                                ; good- ; 43
+Forgotten Worlds
+Gaiares
 Gain Ground                                            ; best
 Gauntlet 4                                             ; good- ; 32
 Ghouls 'N Ghosts                                       ; best
@@ -578,14 +578,14 @@ Golden Axe III
 Granada                                                ; very-good
 Greatest Heavyweights
 Gunstar Heroes                                         ; best
-Hellfire                                               ; good- ; 48
+Hellfire
 Herzog Zwei
 James Pond - Underwater Agent
 Kid Chameleon
 LandStalker - The Treasures of King Nole               ; very good
 Lightening Force - Quest for the Darkstar              ; best
-M.U.S.H.A.                                             ; good- ; 10
-Marvel Land                                            ; good- ; 11
+M.U.S.H.A.                                             ; very good
+Marvel Land                                            ; very good
 Mega Bomberman
 Mega Man - The Wily Wars                               ; very-good
 Mickey Mania - The Timeless Adventures of Mickey Mouse ; very-good
@@ -596,16 +596,16 @@ Micro Machines Turbo Tournament '96                    ; best
 Mortal Kombat
 Mortal Kombat 2
 Mortal Kombat 3
-Mystic Defender                                        ; good- ; 22
+Mystic Defender
 OutRun
 OutRunners
 Outlander
-Panorama Cotton                                        ; good- ; 13 ; only japan ; text skippable : shot'em
+Panorama Cotton                                        ; ; only japan ; text skippable : shot'em
 Phantasy Star II                                       ; good- ; 84
 Phantasy Star III - Generations of Doom                ; good- ; 80
 Phantasy Star IV - The End of the Millennium           ; good- ; 72
-Pulseman                                               ; good- ; 14
-Ranger X                                               ; good- ; 2
+Pulseman                                               ; very good
+Ranger X
 Rent A Hero                                            ; good- ; 33
 Richard Scarry's Busytown
 Ristar                                                 ; very-good
@@ -615,7 +615,7 @@ Rocket Knight Adventures                               ; best
 Rolling Thunder 2
 Rolling Thundjjker 3
 Samurai Shodown                                        ; best
-Shadow Dancer - The Secret of Shinobi                  ; good- ; 45
+Shadow Dancer - The Secret of Shinobi
 Shining Force                                          ; good- ; 59
 Shining Force II                                       ; good- ; 62
 Shining in the Darkness
@@ -633,29 +633,29 @@ Street Fighter II - Champion Edition                   ; best
 Streets of Rage
 Streets of Rage 2
 Streets of Rage 3
-Super Fantasy Zone                                     ; good- ; 31
+Super Fantasy Zone                                     ; very good
 Target Earth
 Teenage Mutant Hero Turtles - The Hyperstone Heist
 The Faery Tale Adventure                               ; good- ; 23
 The Revenge of Shinobi
 Thunder Force II
-Thunder Force III                                      ; good- ; 30
-Thunder Force IV                                       ; good- ; 30
+Thunder Force III                                      ; very good
+Thunder Force IV                                       ; very good
 ToeJam & Earl                                          ; good- ; 18
 ToeJam & Earl in Panic on Funkotron
-Trouble Shooter                                        ; good- ; 25
-Twinkle Tale                                           ; good- ; 6
+Trouble Shooter                                        ; very good
+Twinkle Tale                                           ; very good
 Vapor Trail
-Vectorman                                              ; good- ; 16
+Vectorman
 Vectorman 2
-Wani Wani World                                        ; good- ; 51
-Whip Rush                                              ; good- ; 54
+Wani Wani World
+Whip Rush
 Wings of Wor
 Wonder Boy III - Monster Lair
 Wonder Boy in Monster World                            ; best
 Worms
-YuYu Hakusho - Makyou Toitsusen                        ; good- ; 19 ; jojo bizare
-Zero Wing                                              ; good- ; 50
+YuYu Hakusho - Makyou Toitsusen
+Zero Wing
 Zool
 ```
 
