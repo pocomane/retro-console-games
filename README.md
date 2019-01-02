@@ -866,7 +866,7 @@ Arcade Hits - Joust & Defender
 Asteroid
 Balloon fight GB
 Bionic Commando - elite forces
-Bomberman Max - Blue Champion / Red Challanger         ; good- ; 38
+Bomberman Max - Blue Champion / Red Challanger         ; very good
 Bomberman Quest                                        ; good- ; 38
 Bubble Bobble
 Cannon folder
@@ -883,7 +883,7 @@ Dragon Warrior Monsters 2 - Cobi's Journey
 Dragon Warrior Monsters 2 - Tara's Adventure
 Dragon's lair
 Duke Nukem
-Elevator Action EX                                     ; good- ; 96
+Elevator Action EX                                     ; very good
 Frogger 2
 Fushigi no Dungeon - Fuurai no Shiren                  ; good+ ; japan only, lot of text
 Game & Watch Gallery 2
@@ -899,11 +899,11 @@ Konami gb collection vol 2 / Parodius / Block game
 Konami gb collection vol 3 / pop'n twinvee / Gambare Goemon
 Konami gb collection vol 4 / Graddius 2 / castelvania 2 / ye ar kung-fu
 Little Magic
-Looney Tunes                                           ; good- ; 43
+Looney Tunes                                           ; very good
 Looney Tunes - Carrot crazy
-Looney Tunes Collector - Martian Alert!                ; good- ; 24
-Looney Tunes Collector - Martian Revenge!              ; good- ; 33
-Lucky Luke                                             ; good- ; 31
+Looney Tunes Collector - Martian Alert!                ; very good
+Looney Tunes Collector - Martian Revenge!              ; very good
+Lucky Luke                                             ; very good
 Lucky Luke - Desperado Train
 Lufia - The Legend Returns                             ; good- ; 63
 Magi Nation
@@ -919,20 +919,20 @@ Micro Machines V3
 Monster ranch
 Montezuma's Return!
 Motocross Maniacs 2
-Mr. Nutz                                               ; good- ; 96
+Mr. Nutz                                               ; very good
 Oddworld Adventures II
 Pocket Bomberman
 Pokemon Gold / Silver / Cristal                        ; best
-Pokemon Puzzle Challenge                               ; good- ; 36
+Pokemon Puzzle Challenge                               ; very good
 Prince of Persia
-Project S-11                                           ; good- ; 68
+Project S-11
 Q-Bert
 R-Type DX                                              ; best
 Rampart
 Rayman                                                 ; very-good
 Rayman 2                                               ; very-good
 Resident Evil Gaiden                                   ; best
-Return of the Ninja                                    ; good- ; 66
+Return of the Ninja                                    ; very good
 Revelations - The Demon Slayer                         ; good- ; 21
 Shadowgate Classic
 Shantae                                                ; best
@@ -944,7 +944,7 @@ Street Fighter Alpha - Warriors' Dreams                ; very-good
 Super Mario Bros DX                                    ; best
 Survival Kids                                          ; good+ ; 21
 Survival Kids 2                                        ; good+ ; 21
-Tarzan                                                 ; good- ; 26
+Tarzan
 Tetris DX                                              ; very-good
 The Legend of Zelda - Link's Awakening DX              ; best
 The Legend of Zelda - Oracle of Ages                   ; very-good
