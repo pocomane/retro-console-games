@@ -756,7 +756,7 @@ Battletoads
 Battletoads Double Dragon - The Ultimate Team
 Battletoads in Ragnarok's World
 Bill & Ted’s Excellent Game Boy Adventure
-Blaster Master Boy                       ; good ; 25
+Blaster Master Boy
 Bomberman GB                             ; best ; bomberman GB 2 in japan
 Bomberman GB 3                           ; very good
 Bonk's Adventure                         ; very-good
@@ -772,7 +772,7 @@ Castlevania Legends                      ; very good
 Catrap                                   ; very good
 Contra - The Alien Wars                  ; very-good
 Dexterity
-Donkey Kong                              ; best ; 19
+Donkey Kong                              ; best
 Donkey Kong Land                         ; very-good
 Donkey Kong Land 2                       ; best
 Donkey Kong Land 3                       ; very-good
