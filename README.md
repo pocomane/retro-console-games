@@ -511,7 +511,7 @@ The Lost Vikings                                     ; good
 The Magical Quest Starring Mickey Mouse
 Tiny Toon Adventures - Buster Busts Loose!
 Torneco no Daibōken - Fushigi no Dungeon
-Ultimate Mortal Kombat 3                             ; good
+Ultimate Mortal Kombat 3                             ; good ; best of the serie on this platform
 Uniracers                                            ; good
 Worms
 Yoshi's Cookie
