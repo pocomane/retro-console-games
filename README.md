@@ -151,7 +151,7 @@ Batman
 Batman - Return of the Jocker
 Battletoads                                              ; excellent
 Battletoads & Double Dragon - The Ultimate Team
-Bionic Commando                                          ; ?
+Bionic Commando                                          ; excellent
 Blaster Master                                           ; good
 Bomberman
 Bomberman II
@@ -214,7 +214,7 @@ Mega Man 3                                               ; good
 Mega Man 4                                               ; good
 Mega Man 5                                               ; good
 Mega Man 6                                               ; good
-Metal Gear                                               ; ?
+Metal Gear                                               ; good
 Metal Storm
 Metroid                                                  ; excellent
 Micro Machines                                           ; good
@@ -294,7 +294,7 @@ Fantasy Zone
 Fantasy Zone II                             ; good
 Forgotten Worlds
 Fushigi no Oshiro Pit Pot
-Gain Ground                                 ; ?
+Gain Ground                                 ; good
 Ghouls 'n Ghosts                            ; good
 Golden Axe                                  ; good
 Golden Axe Warrior                          ; excellent
@@ -313,9 +313,9 @@ Masters of Combat
 Maze Hunter 3D
 Micro Machines
 Miracle Warriors - Seal of The Dark Lord    ; ?
-Mortal Kombat                               ; ?
-Mortal Kombat II                            ; ?
-Mortal Kombat III                           ; ?
+Mortal Kombat
+Mortal Kombat II
+Mortal Kombat III
 The New Zealand Story                       ; good
 Ninja Gaiden                                ; excellent
 Operation Wolf
@@ -359,7 +359,7 @@ The Smurfs
 The Smurfs Travel the World          
 Ultima IV                                   ; excellent
 Wonder Boy                                  ; good
-Wonder Boy in Monster World                 ; ?
+Wonder Boy in Monster World                 ; good
 Wonderboy III - Dragon’s Trap
 Wonderboy in Monster Land                   ; excellent
 Xenon 2
@@ -454,7 +454,7 @@ Populous
 Populous II
 Prince of Persia
 Prince of Persia 2
-R-Type III - The Third Lightning                     ; ?
+R-Type III - The Third Lightning                     ; good
 Ranma Nibunnoichi - Chougi Ranbu Hen
 Rock n' Roll Racing
 Rockman & Forte
@@ -471,7 +471,7 @@ Star Ocean                                           ; ?
 Street Fighter Alpha 2
 Street Fighter II - the world warrior
 Street Fighter II Turbo - hyper fighting             ; excellent
-Sunset Riders                                        ; ?
+Sunset Riders                                        ; excellent
 Super Adventure Island
 Super Adventure Island II
 Super Bomberman
@@ -511,7 +511,7 @@ The Lost Vikings                                     ; good
 The Magical Quest Starring Mickey Mouse
 Tiny Toon Adventures - Buster Busts Loose!
 Torneco no Daibōken - Fushigi no Dungeon
-Ultimate Mortal Kombat 3                             ; ?
+Ultimate Mortal Kombat 3                             ; good
 Uniracers                                            ; good
 Worms
 Yoshi's Cookie
@@ -820,7 +820,7 @@ Mystic Quest
 Mystical Ninja starring Goemon           ; ?
 Ninja Gaiden - Shadow
 Ninja Spirit                             ; good
-Noobow                                   ; ?
+Noobow                                   ; good
 Operation C                              ; excellent
 Pocket Bomberman
 Pokemon Blue / Red / yellow              ; excellent
@@ -996,7 +996,7 @@ Densetsu no Stafy 3
 Disney's Lilo & Stitch
 Disney's Lilo & Stitch 2
 Donkey Kong Country                                    ; good
-Donkey Kong Country 2                                  ; ?
+Donkey Kong Country 2                                  ; excellent
 Donkey Kong Country 3                                  ; good
 Doom
 Doom 2
@@ -1176,29 +1176,24 @@ WIP / TODO
   probably a 'excellent' label should be given. '-' means 'good', maybe.
 
 ```
-NES ; + ; 25 ; Bionic Commando
+MEGADRIVE ; + ; 03 ; Dynamite Headdy
+MEGADRIVE ; + ; 26 ; Bubba 'n' Stix
+MEGADRIVE ; - ; 32 ; Gauntlet 4
 NES ; + ; 27 ; StarTropics
-NES ; + ; 32 ; Metal Gear
 NES ; + ; 37 ; Maniac Mansion
 NES ; + ; 46 ; Faxanadu
 NES ; - ; 19 ; Crystalis
 NES ; - ; 22 ; Dragon Warrior
 NES ; - ; 52 ; Dragon Warrior II
 NES ; - ; 75 ; Shadowgate
-MASTERSYSTEM ; + ; 20 ; Gain Ground
 MASTERSYSTEM ; - ; 09 ; Populous
 MASTERSYSTEM ; - ; 18 ; Lemmings
 MASTERSYSTEM ; - ; 29 ; Miracle Warriors - Seal of The Dark Lord
-MASTERSYSTEM ; - ; 40 ; Wonder Boy in Monster World
 MASTERSYSTEM ; - ; 09 ; Populous
-MASTERSYSTEM ; - ; 50 ; Mortal Kombat
-MASTERSYSTEM ; - ; 31 ; Mortal Kombat II
-MASTERSYSTEM ; - ; 95 ; Mortal Kombat III
 SNES ; + ; 44 ; Secret of Evermore
 SNES ; + ; ?? ; Fushigi no Dungeon 2 - Fuurai no Shiren
 SNES ; + ; 15 ; Secret of Mana
 SNES ; + ; 21 ; Final Fantasy IV / II
-SNES ; + ; 35 ; Sunset Riders
 SNES ; + ; 48 ; The Legend of the Mystical Ninja / Ganbare Goemon
 SNES ; + ; 78 ; Castlevania - Dracula X ; CasIV gia best !
 SNES ; - ; ?? ; Popful Mail ; Japan only, lot of text, localization on sega-cd and pc
@@ -1212,19 +1207,14 @@ SNES ; - ; 65 ; Ogre Battle - The March of the Black Queen
 SNES ; - ; 68 ; Tales of Phantasia ; japan: USA on gamboy advance
 SNES ; - ; 76 ; Final Fantasy V ; USA no release
 SNES ; - ; 81 ; Lufia & the Fortress of Doom
-SNES ; - ; 82 ; R-Type III - The Third Lightning
 SNES ; - ; 85 ; Star Ocean
 SNES ; - ; 86 ; Lufia II - Rise of the Sinistrals
 SNES ; - ; 94 ; Breath of Fire
 SNES ; - ; 96 ; Blackthorne
-SNES ; - ; 110 ; Ultimate Mortal Kombat 3
 MEGADRIVE ; + ; 02 ; Aerobiz Supersonic
-MEGADRIVE ; + ; 03 ; Dynamite Headdy
 MEGADRIVE ; + ; 13 ; Ecco the Dolphin
 MEGADRIVE ; + ; 22 ; Dune - The Battle for Arrakis
 MEGADRIVE ; + ; 43 ; Flashback
-MEGADRIVE ; + ; 26 ; Bubba 'n' Stix
-MEGADRIVE ; - ; 32 ; Gauntlet 4
 MEGADRIVE ; - ; 18 ; ToeJam & Earl
 MEGADRIVE ; - ; 23 ; The Faery Tale Adventure
 MEGADRIVE ; - ; 33 ; Rent A Hero
@@ -1241,7 +1231,6 @@ PCENGINE ; - ; 49 ; Neutopia
 PCENGINE ; - ; 50 ; Order of the Griffin
 GAMEBOY ; + ; 30 ; Mystical Ninja starring Goemon
 GAMEBOY ; + ; 37 ; Gargoyle's Quest
-GAMEBOY ; + ; 39 ; Noobow
 GAMEBOY ; + ; 17 ; Ganbare Goemon Hoshizorashi Dyamites Arawaru!!
 GAMEBOY ; + ; ?? ; Fushigi no Dungeon - Fuurai no Shiren ; japan only, lot of text
 GAMEBOY ; + ; 22 ; Final Fantasy Adventure
@@ -1271,7 +1260,6 @@ GAMEBOYADVANCE ; + ; 33 ; Sword of Mana
 GAMEBOYADVANCE ; + ; 39 ; Kingdom Hearts - Chain of Memories
 GAMEBOYADVANCE ; + ; ?? ; Final Fantasy IV Advance
 GAMEBOYADVANCE ; + ; ?? ; Final Fantasy Tactics Advance
-GAMEBOYADVANCE ; + ; ?? ; Dokkey Kong Country 2
 GAMEBOYADVANCE ; + ; 03 ; Pokemon Ruby / Sapphire / Emerald
 GAMEBOYADVANCE ; + ; 06 ; Pokemon FireRed / LeafGreen ; red-gb remake
 GAMEBOYADVANCE ; + ; 17 ; Mega Man Battle Network 3 blue / white
