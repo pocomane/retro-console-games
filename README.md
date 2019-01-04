@@ -1242,16 +1242,16 @@ GAMEBOY ; - ; 59 ; Great Greed
 GAMEBOY ; - ; 65 ; The Final Fantasy Legend
 GAMEBOY ; - ; 79 ; Final Fantasy Legend II
 GAMEBOY ; - ; 91 ; Final Fantasy Legend III
-GAMEBOYCOLOER ; + ; ?? ; Fushigi no Dungeon - Fuurai no Shiren ; japan only, lot of text ; ; ; ; ;
-GAMEBOYCOLOER ; + ; 17 ; Ganbare Goemon Hoshizorashi Dyamites Arawaru!!
-GAMEBOYCOLOER ; + ; 21 ; Survival Kids
-GAMEBOYCOLOER ; + ; 21 ; Survival Kids 2
-GAMEBOYCOLOER ; - ; 16 ; Metal Walker
-GAMEBOYCOLOER ; - ; 21 ; Revelations - The Demon Slayer
-GAMEBOYCOLOER ; - ; 38 ; Bomberman Quest
-GAMEBOYCOLOER ; - ; 48 ; Dragon Ball Z - Legendary Super Warrior
-GAMEBOYCOLOER ; - ; 63 ; Lufia - The Legend Returns
-GAMEBOYCOLOER ; - ; 67 ; Daikatana
+GAMEBOYCOLOR ; + ; ?? ; Fushigi no Dungeon - Fuurai no Shiren ; japan only, lot of text ; ; ; ; ;
+GAMEBOYCOLOR ; + ; 17 ; Ganbare Goemon Hoshizorashi Dyamites Arawaru!!
+GAMEBOYCOLOR ; + ; 21 ; Survival Kids
+GAMEBOYCOLOR ; + ; 21 ; Survival Kids 2
+GAMEBOYCOLOR ; - ; 16 ; Metal Walker
+GAMEBOYCOLOR ; - ; 21 ; Revelations - The Demon Slayer
+GAMEBOYCOLOR ; - ; 38 ; Bomberman Quest
+GAMEBOYCOLOR ; - ; 48 ; Dragon Ball Z - Legendary Super Warrior
+GAMEBOYCOLOR ; - ; 63 ; Lufia - The Legend Returns
+GAMEBOYCOLOR ; - ; 67 ; Daikatana
 GAMEBOYADVANCE ; + ; 20 ; Riviera - The Promised Land
 GAMEBOYADVANCE ; + ; 33 ; Sword of Mana
 GAMEBOYADVANCE ; + ; 39 ; Kingdom Hearts - Chain of Memories
