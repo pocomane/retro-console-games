@@ -971,13 +971,13 @@ Advance Guardian Heroes                                ; good
 Advance Wars                                           ; good
 Advance Wars 2 - Black Hole Rising                     ; excellent
 Astro Boy - Omega Factor
-Boktai - The Sun Is in Your Hand
+Boktai - The Sun Is in Your Hand                       ; ?
 Boktai 2 - Solar Boy Django                            ; ?
 Bomberman Max 2 Blue / Red
 Bomberman Tournament
 Boulder Dash EX
-Breath of Fire
-Breath of Fire II
+Breath of Fire                                         ; ?
+Breath of Fire II                                      ; ?
 Castlevania - Aria of Sorrow
 Castlevania - Circle of the Moon
 Castlevania - Harmony of Dissonance
@@ -1255,28 +1255,36 @@ GAMEBOYCOLOER ; - ; 67 ; Daikatana
 GAMEBOYADVANCE ; + ; 20 ; Riviera - The Promised Land
 GAMEBOYADVANCE ; + ; 33 ; Sword of Mana
 GAMEBOYADVANCE ; + ; 39 ; Kingdom Hearts - Chain of Memories
-GAMEBOYADVANCE ; + ; ?? ; Final Fantasy IV Advance
-GAMEBOYADVANCE ; + ; ?? ; Final Fantasy Tactics Advance
+GAMEBOYADVANCE ; + ; 42 ; Final Fantasy IV Advance
+GAMEBOYADVANCE ; + ; 23 ; Final Fantasy Tactics Advance
 GAMEBOYADVANCE ; + ; 03 ; Pokemon Ruby / Sapphire / Emerald
 GAMEBOYADVANCE ; + ; 06 ; Pokemon FireRed / LeafGreen ; red-gb remake
 GAMEBOYADVANCE ; + ; 17 ; Mega Man Battle Network 3 blue / white
+GAMEBOYADVANCE ; + ; 08 ; Mario & Luigi - Superstar Saga
+GAMEBOYADVANCE ; + ; 15 ; Fire Emblem
 GAMEBOYADVANCE ; + ; 29 ; Fire Emblem - Fuuin no Tsurugi
 GAMEBOYADVANCE ; + ; 31 ; Mega Man Battle Network 2
+GAMEBOYADVANCE ; - ; 25 ; Golden Sun - The Lost Age
+GAMEBOYADVANCE ; - ; 14 ; Golden Sun
+GAMEBOYADVANCE ; - ; 18 ; Final Fantasy V
+GAMEBOYADVANCE ; - ; 55 ; Final Fantasy I & II - Dawn of Souls
+GAMEBOYADVANCE ; - ; 32 ; Fire Emblem - The Sacred Stones
+GAMEBOYADVANCE ; - ; 54 ; Harvest Moon - Friends of Mineral Town
+GAMEBOYADVANCE ; - ; 67 ; Harvest Moon - More Friends of Mineral Town
+GAMEBOYADVANCE ; - ; 56 ; Mother 3
+GAMEBOYADVANCE ; - ; 39 ; Tactics Ogre - The Knight of Lodis
 GAMEBOYADVANCE ; - ; 39 ; Mega Man Battle Network 6 cybeast flazar / gregar
 GAMEBOYADVANCE ; - ; 59 ; Mega Man Battle Network 5 team colonel / proto man
 GAMEBOYADVANCE ; - ; 72 ; Mega Man Battle Network 4 blue moon / red sun
-GAMEBOYADVANCE ; - ; ?? ; Mega Man Battle Network
-GAMEBOYADVANCE ; - ; ?? ; Fire Emblem
-GAMEBOYADVANCE ; - ; ?? ; Fire Emblem - The Sacred Stones
-GAMEBOYADVANCE ; - ; ?? ; Golden Sun
-GAMEBOYADVANCE ; - ; 18 ; Final Fantasy V
-GAMEBOYADVANCE ; - ; 39 ; Mega Man Battle Network 6 cybeast flazar / gregar
+GAMEBOYADVANCE ; - ; 47 ; Mega Man Battle Network
 GAMEBOYADVANCE ; - ; 58 ; Mega Man Battle Network 5 team colonel / proto man
 GAMEBOYADVANCE ; - ; 72 ; Mega Man Battle Network 4 blue moon / red sun
+GAMEBOYADVANCE ; - ; 70 ; Lunar Legend
 GAMEBOYADVANCE ; - ; 47 ; Yggdra Unionv
 GAMEBOYADVANCE ; - ; 51 ; Pokemon Mystery Dungeon - Red Rescue Team
 GAMEBOYADVANCE ; - ; 52 ; Shining Soul 2
 GAMEBOYADVANCE ; - ; 55 ; Shining Force - Resurrection of the Dark Dragon
+GAMEBOYADVANCE ; - ; 54 ; Boktai - The Sun Is in Your Hand
 GAMEBOYADVANCE ; - ; 55 ; Boktai 2 - Solar Boy Django
 GAMEBOYADVANCE ; - ; 56 ; Tales of Phantasia
 GAMEBOYADVANCE ; - ; 70 ; Mother 1 & 2
@@ -1285,5 +1293,8 @@ GAMEBOYADVANCE ; - ; 80 ; Super Robot Taisen Original Generations
 GAMEBOYADVANCE ; - ; 85 ; Dragon Quest Monsters - Caravan Heart
 GAMEBOYADVANCE ; - ; 85 ; Lufia - The Ruins of Lore
 GAMEBOYADVANCE ; - ; 99 ; Shin Bokura no Taiyou - Gyakushuu no Sabata ; Boktai 3
+GAMEBOYADVANCE ; - ; 99 ; Breath of Fire
+GAMEBOYADVANCE ; - ; 99 ; Breath of Fire II
+GAMEBOYADVANCE ; - ; 200 ; Mazes of Fate
+GAMEBOYADVANCE ; - ; 300 ; Shining Soul
 ```
-
