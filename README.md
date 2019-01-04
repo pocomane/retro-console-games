@@ -538,7 +538,7 @@ Battletoads & Double Dragon - The Ultimate Team        ; good
 Bio-Hazard Battle
 Bishoujo Senshi Sailor Moon
 Bonanza Bros.                                          ; good
-Bubba 'n' Stix                                         ; good
+Bubba 'n' Stix                                         ; excellent
 Buck Rogers - Countdown to Doomsday                    ; ?
 Burning Force
 Castle of Illusion Starring Mickey Mouse               ; good
@@ -560,7 +560,7 @@ Double Dragon 3
 Dr. Robotnik's Mean Bean Machine
 Dragon Ball Z - Buyuu Retsuden
 Dune - The Battle for Arrakis                          ; ?
-Dynamite Headdy                                        ; ?
+Dynamite Headdy                                        ; excellent
 Earthworm Jim 2                                        ; excellent
 Ecco the Dolphin                                       ; good
 Ecco the Dolphin II
@@ -570,7 +570,7 @@ Flashback                                              ; ?
 Forgotten Worlds
 Gaiares
 Gain Ground                                            ; excellent
-Gauntlet 4                                             ; ?
+Gauntlet 4                                             ; good
 Ghouls 'N Ghosts                                       ; excellent
 Golden Axe
 Golden Axe II
@@ -1176,9 +1176,6 @@ WIP / TODO
   probably a 'excellent' label should be given. '-' means 'good', maybe.
 
 ```
-MEGADRIVE ; + ; 03 ; Dynamite Headdy
-MEGADRIVE ; + ; 26 ; Bubba 'n' Stix
-MEGADRIVE ; - ; 32 ; Gauntlet 4
 NES ; + ; 27 ; StarTropics
 NES ; + ; 37 ; Maniac Mansion
 NES ; + ; 46 ; Faxanadu
