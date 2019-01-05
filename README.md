@@ -970,7 +970,7 @@ Game Boy Advance
 Advance Guardian Heroes                                ; good
 Advance Wars                                           ; good
 Advance Wars 2 - Black Hole Rising                     ; excellent
-Astro Boy - Omega Factor
+Astro Boy - Omega Factor                               ; excellent
 Boktai - The Sun Is in Your Hand                       ; ?
 Boktai 2 - Solar Boy Django                            ; ?
 Bomberman Max 2 Blue / Red
@@ -978,9 +978,9 @@ Bomberman Tournament
 Boulder Dash EX
 Breath of Fire                                         ; ?
 Breath of Fire II                                      ; ?
-Castlevania - Aria of Sorrow
-Castlevania - Circle of the Moon
-Castlevania - Harmony of Dissonance
+Castlevania - Aria of Sorrow                           ; good
+Castlevania - Circle of the Moon                       ; good
+Castlevania - Harmony of Dissonance                    ; good
 Castlevania Double Pack
 ChuChu Rocket!
 Classic NES - Castlevania                            
@@ -1022,7 +1022,7 @@ Fire Emblem - The Sacred Stones
 Golden Sun                                             ; ?
 Golden Sun - The Lost Age
 Gradius Galaxy                                         ; ?
-Gunstar Super Heroes
+Gunstar Super Heroes                                   ; excellent
 Harvest Moon - Friends of Mineral Town
 Harvest Moon - More Friends of Mineral Town
 Kingdom Hearts - Chain of Memories                     ; ?
@@ -1052,8 +1052,8 @@ Mega Man Zero 2                                        ; good
 Mega Man Zero 3                                        ; excellent
 Mega Man Zero 4                                        ; good
 Metal Slug Advance
-Metroid - Zero Mission
-Metroid Fusion
+Metroid - Zero Mission                                 ; good
+Metroid Fusion                                         ; good
 Mortal Kombat - Deadly Alliance
 Mortal Kombat - Tournament edition
 Mortal Kombat Advance
@@ -1252,6 +1252,11 @@ GAMEBOYCOLOR ; - ; 38 ; Bomberman Quest
 GAMEBOYCOLOR ; - ; 48 ; Dragon Ball Z - Legendary Super Warrior
 GAMEBOYCOLOR ; - ; 63 ; Lufia - The Legend Returns
 GAMEBOYCOLOR ; - ; 67 ; Daikatana
+GAMEBOYADVANCE ; + ; 06 ; Metroid Fusion
+GAMEBOYADVANCE ; + ; 10 ; Metroid - Zero Mission
+GAMEBOYADVANCE ; + ; 19 ; Castlevania - Circle of the Moon
+GAMEBOYADVANCE ; + ; 20 ; Castlevania - Aria of Sorrow
+GAMEBOYADVANCE ; + ; 30 ; Castlevania - Harmony of Dissonance
 GAMEBOYADVANCE ; + ; 20 ; Riviera - The Promised Land
 GAMEBOYADVANCE ; + ; 33 ; Sword of Mana
 GAMEBOYADVANCE ; + ; 39 ; Kingdom Hearts - Chain of Memories
