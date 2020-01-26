@@ -235,6 +235,7 @@ River City Ransom                                        ; excellent
 Shadowgate
 Snake Rattle & Roll
 Solstice
+Star Soldier
 StarTropics                                              ; ?
 Startropics II - Zoda's Revenge
 Super C                                                  ; good
@@ -671,6 +672,7 @@ Air Zonk                             ; good
 Atomic robo-kid
 Batman
 Battle Lode Runner
+Blazing Lazers                       ; good ; Gunhed in japan
 Bloody Wolf
 Bomberman
 Bomberman 93                         ; good
@@ -697,7 +699,6 @@ Final Soldier
 Galaga 90                            ; ; Galaga 88 in japan
 Gomola Speed
 Gradius                              ; good
-Gunhed                               ; good ; Blazing Lazers in japan
 Hana Taaka Daka
 Jackie Chan Action Kung Fu
 Kyuukyoku Tiger                      ; ; Twin Cobra in USA
