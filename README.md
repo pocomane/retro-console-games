@@ -714,6 +714,7 @@ Momotarou Katsugeki                  ; ?
 Neutopia                             ; ?
 Neutopia II                          ; ?
 New Adventure Island                 ; good
+Ninja Ryuken den                     ; good ; Ninja gaiden
 Ninja Spirit                         ; good
 Order of the Griffin                 ; ?
 Outrun
