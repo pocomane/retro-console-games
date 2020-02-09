@@ -1176,7 +1176,8 @@ WIP / TODO
 
 - The following titles needs more time to be evaluated in order to assign to them
   the proper labels. An indicative positional index is given. '+' means that
-  probably a 'excellent' label should be given. '-' means 'good', maybe.
+  probably a 'excellent' label should be given. '-' means 'good', maybe. '@' means
+  to add to the list, maybe.
 
 ```
 NES ; + ; 27 ; StarTropics
@@ -1188,6 +1189,7 @@ NES ; - ; 52 ; Dragon Warrior II
 NES ; - ; 75 ; Shadowgate
 MASTERSYSTEM ; - ; 09 ; Populous
 MASTERSYSTEM ; - ; 18 ; Lemmings
+MASTERSYSTEM ; + ; 20 ; Gain Ground
 MASTERSYSTEM ; - ; 29 ; Miracle Warriors - Seal of The Dark Lord
 MASTERSYSTEM ; - ; 09 ; Populous
 SNES ; + ; 44 ; Secret of Evermore
@@ -1229,6 +1231,9 @@ PCENGINE ; + ; 22 ; Neutopia II
 PCENGINE ; - ; 20 ; Momotarou Katsugeki
 PCENGINE ; - ; 49 ; Neutopia
 PCENGINE ; - ; 50 ; Order of the Griffin
+PCENGINE ; - ; ?? ; Populous
+PCENGINE ; @ ; ?? ; Aldynes
+PCENGINE ; @ ; ?? ; Jaseiken Necromancer
 GAMEBOY ; + ; 30 ; Mystical Ninja starring Goemon
 GAMEBOY ; + ; 37 ; Gargoyle's Quest
 GAMEBOY ; + ; 17 ; Ganbare Goemon Hoshizorashi Dyamites Arawaru!!
@@ -1237,7 +1242,6 @@ GAMEBOY ; + ; 22 ; Final Fantasy Adventure
 GAMEBOY ; + ; 31 ; Rolan's Curse
 GAMEBOY ; - ; 79 ; Final Fantasy Legend II
 GAMEBOY ; - ; 91 ; Final Fantasy Legend III
-GAMEBOY ; - ; 50 ; Rolan's Curse 2
 GAMEBOY ; - ; 36 ; Harvest Moon GB
 GAMEBOY ; - ; 45 ; Kaeru no tame ni Kane wa Naru
 GAMEBOY ; - ; 50 ; Rolan's Curse 2
@@ -1306,4 +1310,12 @@ GAMEBOYADVANCE ; - ; 99 ; Breath of Fire
 GAMEBOYADVANCE ; - ; 99 ; Breath of Fire II
 GAMEBOYADVANCE ; - ; 200 ; Mazes of Fate
 GAMEBOYADVANCE ; - ; 300 ; Shining Soul
+GAMEBOYADVANCE ; + ; 29 ; Fire Emblem - Fuuin no Tsurugi
+GAMEBOYADVANCE ; - ; ?? ; Fire Emblem - The Sacred Stones
+GAMEBOYADVANCE ; + ; ?? ; WarioWare - Twisted!
+GAMEBOYADVANCE ; + ; ?? ; WarioWare, Inc. - Mega Microgame$!
+GAMEBOYADVANCE ; - ; 96 ; Gradius Galaxy
+GAMEBOYADVANCE ; - ; 06 ; Dragon Ball Z - The Legacy Goku
+GAMEBOYADVANCE ; - ; 06 ; Dragon Ball Z - The Legacy Goku II
+GAMEBOYADVANCE ; - ; ?? ; Sonic Advance
 ```
