@@ -692,6 +692,7 @@ Detana Twinbee                       ; good
 Don Doku Don                         ; good
 Download
 Dragon Saber
+Dragon Spirit
 Dragon's Curse                       ; excellent  ; Adventure Island in japan
 Dungeon Explorer
 Fantasy Zone                  
@@ -1270,6 +1271,7 @@ GAMEBOYADVANCE ; + ; 08 ; Mario & Luigi - Superstar Saga
 GAMEBOYADVANCE ; + ; 15 ; Fire Emblem
 GAMEBOYADVANCE ; + ; 29 ; Fire Emblem - Fuuin no Tsurugi
 GAMEBOYADVANCE ; + ; 31 ; Mega Man Battle Network 2
+GAMEBOYADVANCE ; - ; 38 ; Bomberman Tournament
 GAMEBOYADVANCE ; - ; 25 ; Golden Sun - The Lost Age
 GAMEBOYADVANCE ; - ; 14 ; Golden Sun
 GAMEBOYADVANCE ; - ; 18 ; Final Fantasy V
