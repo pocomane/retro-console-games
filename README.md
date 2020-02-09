@@ -1172,7 +1172,7 @@ I added some note after some title e.g. the english name for a japan-only game. 
 WIP / TODO
 ==========
 
-- Add ~20 "very good" label to gba.
+- Add ~7 "very good" label to gba.
 
 - The following titles needs more time to be evaluated in order to assign to them
   the proper labels. An indicative positional index is given. '+' means that
