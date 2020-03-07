@@ -672,6 +672,7 @@ Air Zonk                             ; good
 Atomic robo-kid
 Batman
 Battle Lode Runner
+Bikkuriman world                     ; good ; Wonder boy in Monster land re-brand
 Blazing Lazers                       ; good ; Gunhed in japan
 Bloody Wolf
 Bomberman
