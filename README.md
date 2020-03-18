@@ -13,8 +13,16 @@ Home:
 
 Handheld:
 - Game Boy (1989)
+- TurboExpress (1990)
+- Sega Nomad (1995)
 - Game Boy Color (1998)
 - Game Boy Advance (2001)
+
+Note: Sega Nomad runs same games of the Sega Megadrive; the TurboExpress runs same games of Turbografx.
+
+Note: Sega Game Gear (October 1990 - 366 games) meets the selection criteria. Its games will be soon added to the list.
+
+TODO : Add game gear games !!!
 
 Atari 2600
 ========
@@ -519,8 +527,8 @@ Yoshi's Cookie
 Zombies Ate My Neighbors                             ; good
 ```
 
-Megadrive
-========
+Megadrive / Nomad
+=================
 
 ```
 Advanced Busterhawk Gleylancer
@@ -660,8 +668,8 @@ Zero Wing
 Zool
 ```
 
-Turbografx
-========
+Turbografx / TurboExpress
+=========================
 
 ```
 1941 Counter Attack
@@ -686,7 +694,7 @@ Cadash                               ; good
 Chew Man Fu/Be Ball
 Coryoon
 Cratermaze                           ; Doraemon in japan
-Dai Makaimura                        ; excellent ; Ghouls 'n Ghosts
+Dai Makaimura                        ; excellent ; Ghouls 'n Ghosts - This is compatible with SuperGrafx only so it should be escluded. However it is a wonderful arcade port that you really should play.
 Darius Alpha                         ; good
 Darius Plus                          ; good
 Detana Twinbee                       ; good
@@ -1129,9 +1137,9 @@ For 'Cosole' we mean a 'Personal entertainment system' i.e.:
 
 I also would like to enforce a popularity constraint:
 
-4) More than 300 titles must be puiblished for the system, excluding back-compatible games released on previous systems (e.g. no Atari jaguar).
+4) More than 250 titles must be puiblished for the system, excluding back-compatible games released on previous systems (e.g. no Atari jaguar).
 
-The games that needs special expansion hardware is not take in consideration (e.g. no Sega CD). An exception was made for the Turbografx CD-reader, since there are Turbografx models that can read all the medium without the external device.
+The games that needs special expansion hardware are threated as independent system, so they have to fullfill the selection criteria by itsown (e.g. no Sega CD).
 
 Next, the term 'Retro' is very subjective. Of course it deals with the release date, but to select the right one, some analysis must be done about what seems 'Retro' to us. We mainly perceive something to be 'Retro' if it has few resources: a videogame is not 'Retro' if it has a CD-quality audio theme or detailed textures. So I chose  release date of the first playstation as the deadline, since from that point on, the games start to be ~10 times bigger than before. Similar reasoning is for the handheld systems, but due to tecnical limitation, the market changes later: here the release date of the Nintendo DS is taken. So:
 
@@ -1157,7 +1165,27 @@ Note: I do not like the sport simulation, so only an handfull of them are added.
 
 Last note: somewhere during the game boy era, multiple versions of the same game starts to came out contemporary, on the same system and with minimal differences. Here I will list them as a single title (e.g. Pokemon red / blue / yellow).
 
-I will try to make as few exception as I can.
+I will try to make as few exception as I can. Some informations about excluded systems follows:
+
+```
+Home
+Atari 7800 - May 1986 - 59 games - 50 kb
+Atari jaguar - November 1993 -  50 games - 2 Mb
+Nintendo Virtual Boy - July 1995 - 22 games - 300 kb
+Panasonic 3DO - October 1993 - 321 games - 100 Mb
+Philips CDi - December 1991 - 194 games - 100 Mb
+Sega Saturn - November 1994 - 1094 games - 200 Mb
+Sega CD - December 1991 - 210 games - 200 Mb
+Sega 32x - November 1994 - 42 games - 1 Mb
+Turbografx Supergrafx - December 1988 - 6 - 100 kb
+Turbografx CD - December 1988 - 122 - 200 Mb
+Turbografx Super CD - 1991 - 257 - 200 Mb
+Turbografx Arcade CD - 1994 - 11 - 200 Mb
+
+Handled
+Atari Lynx - September 1989 - 76 games - 100 kb
+Bandai WonderSwan - March 1999 - 103 games - 1 Mb
+```
 
 Labels
 ======
