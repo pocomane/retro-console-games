@@ -1139,7 +1139,7 @@ I also would like to enforce a popularity constraint:
 
 4) More than 250 titles must be puiblished for the system, excluding back-compatible games released on previous systems (e.g. no Atari jaguar).
 
-The games that needs special expansion hardware are threated as independent system, so they have to fullfill the selection criteria by itsown (e.g. no Sega CD).
+Expansion hardware or console revisions are threated as independent systems, compatible with the base ones. So they have to fullfill the selection criteria by itsown (e.g. no Sega CD).
 
 Next, the term 'Retro' is very subjective. Of course it deals with the release date, but to select the right one, some analysis must be done about what seems 'Retro' to us. We mainly perceive something to be 'Retro' if it has few resources: a videogame is not 'Retro' if it has a CD-quality audio theme or detailed textures. So I chose  release date of the first playstation as the deadline, since from that point on, the games start to be ~10 times bigger than before. Similar reasoning is for the handheld systems, but due to tecnical limitation, the market changes later: here the release date of the Nintendo DS is taken. So:
 
