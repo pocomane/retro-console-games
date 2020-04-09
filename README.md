@@ -423,6 +423,7 @@ Flashback
 Fushigi no Dungeon 2 - Fuurai no Shiren              ; ?
 Goof Troop
 Gradius III
+Hagane
 Hammer Hamming
 Harvest Moon
 Illusion of Gaia                                     ; ?
