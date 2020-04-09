@@ -13,16 +13,13 @@ Home:
 
 Handheld:
 - Game Boy (1989)
+- Game Gear (1990)
 - TurboExpress (1990)
 - Sega Nomad (1995)
 - Game Boy Color (1998)
 - Game Boy Advance (2001)
 
 Note: Sega Nomad runs same games of the Sega Megadrive; the TurboExpress runs same games of Turbografx.
-
-Note: Sega Game Gear (October 1990 - 366 games) meets the selection criteria. Its games will be soon added to the list.
-
-TODO : Add game gear games !!!
 
 Atari 2600
 ========
@@ -42,7 +39,7 @@ California Games                    ; good
 Centipede                           ; good
 Chopper Command                     ; excellent
 Circus Atari
-Commando  
+Commando
 Communist Mutants from Space
 Cosmic Ark                          ; good
 Cosmic Commuter
@@ -61,14 +58,14 @@ E.T. - The Extra Terrestrial
 Enduro                              ; excellent
 Escape from Mindmaster
 Fantastic Voyage
-Fathom    
+Fathom
 Freeway
 Frogger                             ; good
 Frogger II
 Frostbite                           ; excellent
 Galaxian                            ; good
-Ghostbusters          
-Ghostbusters 2        
+Ghostbusters
+Ghostbusters 2
 Gorf
 Gravitar
 H.E.R.O.                            ; excellent
@@ -102,7 +99,7 @@ Pong Sports
 Pressure Cooker                     ; good
 Q-bert                              ; good
 Q-bert's Qubes
-Quadrun                  
+Quadrun
 Radar Lock
 Raiders of the Lost Ark
 RealSports Volleyball
@@ -146,7 +143,7 @@ NES
 ===
 
 ```
-1942    
+1942
 1943                                                     ; good
 Adventure Island
 Adventure Island II
@@ -163,7 +160,7 @@ Bionic Commando                                          ; excellent
 Blaster Master                                           ; good
 Bomberman
 Bomberman II
-Boy and His Blob                    
+Boy and His Blob
 Bubble Bobble                                            ; good
 Bubble Bobble Part 2                                     ; good
 Bucky O'Har
@@ -181,7 +178,7 @@ Destiny of an Emperor
 Donkey Kong
 Donkey Kong+3
 Donkey Kong Jr.
-Door Door                              
+Door Door
 Double Dragon                                            ; good
 Double Dragon II                                         ; good
 Double Dragon III - The Sacred Stones
@@ -315,7 +312,7 @@ Kenseiden                                   ; good
 Land of Illusion                            ; good
 Legend of Illusion                          ; good
 Lemmings
-Machine Gun Joe                  
+Machine Gun Joe
 Marble Madness
 Master of Darkness                          ; excellent
 Masters of Combat
@@ -332,7 +329,7 @@ Out Run
 Phantasy Star                               ; excellent
 Populous                                    ; ?
 Power Strike II
-Power Striks
+Power Strike
 Prince of Persia                            ; good
 Psychic World
 Putt & Putter
@@ -365,7 +362,7 @@ Strider
 Submarine Attack                            ; good
 The Lucky Dime Caper - Starring Donald Duck ; excellent
 The Smurfs
-The Smurfs Travel the World          
+The Smurfs Travel the World
 Ultima IV                                   ; excellent
 Wonder Boy                                  ; good
 Wonder Boy in Monster World                 ; good
@@ -393,7 +390,7 @@ Biker Mice from Mars
 Blackthorne                                          ; ?
 Breath of Fire                                       ; ?
 Breath of Fire II                                    ; ?
-Bust a move  
+Bust a move
 Castlevania - Dracula X                              ; ?
 Choujikuu Yousai Macross - Scrambled Valkyrie
 Chrono Trigger                                       ; excellent
@@ -426,8 +423,8 @@ Flashback
 Fushigi no Dungeon 2 - Fuurai no Shiren              ; ?
 Goof Troop
 Gradius III
-Hammer Hamming  
-Harvest Moon    
+Hammer Hamming
+Harvest Moon
 Illusion of Gaia                                     ; ?
 James Pond 3
 Jurassic Park
@@ -440,7 +437,7 @@ Kirby's Ghost Trap
 Knights of the Round
 Lufia & the Fortress of Doom                         ; ?
 Lufia II - Rise of the Sinistrals                    ; ?
-Mario & Wario.smc
+Mario & Wario
 Mega Man 7                                           ; good
 Mega Man X2                                          ; good
 Mega Man X3                                          ; good
@@ -453,10 +450,10 @@ Mortal Kombat II                                     ; good
 Ninja Gaiden Trilogy
 Ogre Battle - The March of the Black Queen           ; ?
 Out of This World
-Pang                
+Pang
 Pilotwings
 Pitfall - The Mayan Adventure
-Pop'n TwinBee            
+Pop'n TwinBee
 Pop'n TwinBee - Rainbow Bell Adventures
 Popful Mail                                          ; ? ; Japan only, lot of text, localization on sega-cd and pc
 Populous
@@ -473,7 +470,7 @@ Shadowrun                                            ; ?
 SimCity                                              ; good
 SimCity 2000 - The Ultimate City Simulator
 Skyblazer
-Soul Blazer  
+Soul Blazer
 Sparkster
 Star Fox                                             ; good
 Star Ocean                                           ; ?
@@ -561,6 +558,7 @@ Curse
 DJ Boy
 Dahna - Megami Tanjou
 Dashin' Desperadoes
+Devilish
 Disney's Aladdin
 Donald in Maui Mallard                                 ; good
 Double Dragon
@@ -609,6 +607,8 @@ Mystic Defender
 OutRun
 OutRunners
 Outlander
+Puyo Puyo
+Puyo Puyo 2
 Panorama Cotton                                        ; ; only japan ; text skippable : shot'em
 Phantasy Star II                                       ; ?
 Phantasy Star III - Generations of Doom                ; ?
@@ -619,7 +619,7 @@ Rent A Hero                                            ; ?
 Richard Scarry's Busytown
 Ristar                                                 ; good
 RoadBlasters
-RoboCop versus The Terminator          
+RoboCop versus The Terminator
 Rocket Knight Adventures                               ; excellent
 Rolling Thunder 2
 Rolling Thundjjker 3
@@ -634,10 +634,10 @@ Sonic and Knuckles                                     ; good
 Sonic the Hedgehog                                     ; good
 Sonic the Hedgehog 2                                   ; excellent
 Sonic the Hedgehog 3                                   ; good
-Splatterhouse 2              
-Splatterhouse 3          
-Star Control            
-Starflight              
+Splatterhouse 2
+Splatterhouse 3
+Star Control
+Starflight
 Street Fighter II - Champion Edition                   ; excellent
 Streets of Rage
 Streets of Rage 2
@@ -704,7 +704,7 @@ Dragon Saber
 Dragon Spirit
 Dragon's Curse                       ; excellent  ; Adventure Island in japan
 Dungeon Explorer
-Fantasy Zone                  
+Fantasy Zone
 Final Soldier
 Galaga 90                            ; ; Galaga 88 in japan
 Gomola Speed
@@ -828,7 +828,7 @@ Micro Machines
 Mole Mania                               ; good
 Motocross Maniacs
 Mr. Nutz
-Mystic Quest                  
+Mystic Quest
 Mystical Ninja starring Goemon           ; ?
 Ninja Gaiden - Shadow
 Ninja Spirit                             ; good
@@ -856,16 +856,125 @@ The Final Fantasy Legend                 ; ?
 The King of Fighters '95                 ; good
 The King of Fighters - Heat of Battle    ; good ; jap= king of fighter 96
 The Legend of Zelda - Link’s Awakening   ; excellent
-Tiny Toons Adventures - Babs' Big Break            
-Tiny Toons Adventures 2 - Montans's Movie      
+Tiny Toons Adventures - Babs' Big Break
+Tiny Toons Adventures 2 - Montans's Movie
 Trax                                     ; good
 Trip World                               ; good
 Wario Blast                              ; ; Bomberman GB in japan
 Wario Land - Super Mario Land 3          ; good
 Wario Land II                            ; good
-Worms      
+Worms
 Yoshi
 Yoshi's Cookie
+```
+
+Game Gear
+=========
+
+```
+Alien Syndrome
+Asterix and the Great Rescue
+Asterix and the Secret Mission
+Ax Battler: A Legend of Golden Axe              ; good
+Baku Baku Animal
+Batman Returns
+Battletoads
+Berlin no Kabe                                  ; good ; title translation: Berlin Wall
+Bram Stoker's Dracula
+Bubble Bobble                                   ; good
+Bust-A-Move
+Castle of Illusion Starring Mickey Mouse        ; good
+Choplifter III
+Coca-Cola Kid                                   ; excellent ; full title Sassou Shounen Eiyuuden: Coca-Cola Kid
+Columns                                         ; good
+Crystal Warriors
+Deep Duck Trouble Starring Donald Duck          ; good
+Defenders of Oasis
+Devilish
+Disney's Aladdin
+Dr Robotnik's Mean Bean Machine
+Dragon Crystal
+Dynamite Headdy                                 ; good
+Ecco the Dolphin
+Ecco: The Tides of Time
+Eternal Legend
+Factory Panic
+Fantastic Dizzy
+Fantasy Zone
+Fatal Fury Special
+Fray: Shuugyou hen                              ; ; title translation: Fray In Magical Adventure
+GG Aleste                                       ; good
+Griffin
+Gunstar Heroes                                  ; excellent
+Halley Wars
+Head Buster
+James Pond 2: Robocod
+James Pond 3: Operation Starfish
+Jurassic Park
+Kishin Douji Zenki                              ; good
+Klax
+Land of Illusion Starring Mickey Mouse          ; excellent
+Legend Of Illusion Starring Mickey Mouse        ; good
+Lemmings
+Lunar: Walking School
+Madou Monogatari I
+Madou Monogatari II: Arle 16-sai
+Madou Monogatari III: Kyuukyoku Joou-sama
+Magic Knight Rayearth
+Magic Knight Rayearth 2: Making of Magic Knight
+Magical Taruruuto-kun
+Mappy
+Marble Madness
+Mega Man                                        ; excellent
+Micro Machines
+Micro Machines 2: Turbo Tournament              ; good
+Mighty Morphin Power Rangers: The Movie
+Mighty Morphin’ Power Rangers
+Moldorian
+Ninja Gaiden
+Panzer Dragoon Mini
+Phantasy Star Adventure
+Phantasy Star Gaiden
+Power Strike II                                 ; excellent ; japan title: GG Aleste II
+Prince of Persia                                ; excellent
+Psychic World                                   ; excellent ; better than mastersystem version
+Puyo Puyo
+Puyo Puyo 2
+Puzzle & Action: Tant-R
+Ristar                                          ; excellent
+Ronald McDonald in Magical World
+Royal Stone
+Samurai Shodown
+Shining Force Gaiden
+Shining Force Gaiden: Final Conflict
+Shining Force II: The Sword Of Hajya
+Shinobi                                         ; good
+Shinobi II: The Silent Fury                     ; excellent
+Sonic Blast
+Sonic Chaos                                     ; good
+Sonic Drift
+Sonic Drift 2
+Sonic Labyrinth
+Sonic the Hedgehog                              ; excellent
+Sonic the Hedgehog 2                            ; good
+Sonic the Hedgehog: Triple Trouble              ; good ; japan title: Sonic & Tails 2
+Star Wars                                       ; good
+Streets Of Rage                                 ; good
+Streets Of Rage 2                               ; excellent
+Super Columns
+Super Space Invaders
+Super Star Wars: Return of the Jedi
+Sylvan Tale
+Tails Adventure                                 ; excellent
+Tails' Skypatrol
+The Lucky Dime Caper Starring Donald Duck       ; excellent
+The excellent Dizzy Collection
+Vampire: Master of Darkness                     ; good
+Virtua Fighter Animation
+Wagyan Land
+Wonder Boy
+Wonder Boy: The Dragon’s Trap                   ; excellent
+YuYu Hakusho: Horobishi Mono no Gyakushuu
 ```
 
 Game Boy Color
@@ -882,7 +991,7 @@ Bomberman Max - Blue Champion / Red Challanger         ; good
 Bomberman Quest                                        ; ?
 Bubble Bobble
 Cannon folder
-Crystalis        
+Crystalis
 Daikatana                                              ; ?
 Denki Blocks !
 Donkey Kong Country                                    ; good
@@ -950,7 +1059,7 @@ Shadowgate Classic
 Shantae                                                ; excellent
 Space Invaders
 Spider-Man 2 - The Sinister Six
-Spirer-Man                  
+Spirer-Man
 Star Ocean - Blue Sphere
 Street Fighter Alpha - Warriors' Dreams                ; good
 Super Mario Bros DX                                    ; excellent
@@ -970,7 +1079,7 @@ Wario Land 2                                           ; good
 Wario Land 3                                           ; excellent
 Warlocked
 Wendy - Every Witch Way
-Worms      
+Worms
 Worms Armageddon
 ```
 
@@ -995,16 +1104,16 @@ Castlevania - Circle of the Moon                       ; good
 Castlevania - Harmony of Dissonance                    ; good
 Castlevania Double Pack
 ChuChu Rocket!
-Classic NES - Castlevania                            
+Classic NES - Castlevania
 Classic NES Series - Bomberman
 Classic NES Series - Donkey Kong
 Classic NES Series - Metroid
 Classic NES Series - Super Mario Bros.
 Classic NES Series - The Legend of Zelda
 Classic NES Series - Zelda II
-Densetsu no Stafy 1                                
-Densetsu no Stafy 2                                
-Densetsu no Stafy 3                                
+Densetsu no Stafy 1
+Densetsu no Stafy 2
+Densetsu no Stafy 3
 Disney's Lilo & Stitch
 Disney's Lilo & Stitch 2
 Donkey Kong Country                                    ; good
@@ -1288,6 +1397,25 @@ GAMEBOYCOLOR ; - ; 38 ; Bomberman Quest
 GAMEBOYCOLOR ; - ; 48 ; Dragon Ball Z - Legendary Super Warrior
 GAMEBOYCOLOR ; - ; 63 ; Lufia - The Legend Returns
 GAMEBOYCOLOR ; - ; 67 ; Daikatana
+GAMEGEAR ; + ; 01 ; Sylvan Tale ; japan only, lot of text
+GAMEGEAR ; + ; 02 ; Royal Stone ; japan only, lot of text
+GAMEGEAR ; + ; 04 ; Shining Force II: The Sword Of Hajya
+GAMEGEAR ; + ; 06 ; Dragon Crystal
+GAMEGEAR ; + ; 07 ; Defenders of Oasis Jan 01 1992
+GAMEGEAR ; + ; 10 ; Head Buster ; japan only, lot of text
+GAMEGEAR ; + ; 14 ; Shining Force Gaiden: Final Conflict 1995 ; japan only, lot of text
+GAMEGEAR ; + ; 15 ; Madou Monogatari I ; japan only, lot of text
+GAMEGEAR ; + ; 17 ; Magic Knight Rayearth ; japan only, lot of text
+GAMEGEAR ; + ; 27 ; Magic Knight Rayearth 2: Making of Magic Knight ; japan only, lot of text
+GAMEGEAR ; + ; 31 ; Lunar: Walking School ; japan only, lot of text
+GAMEGEAR ; - ; 41 ; Madou Monogatari III: Kyuukyoku Joou-sama ; japan only, lot of text
+GAMEGEAR ; - ; 47 ; Phantasy Star Adventure ; japan only, lot of text
+GAMEGEAR ; - ; 48 ; Phantasy Star Gaiden ; japan only, lot of text
+GAMEGEAR ; - ; 73 ; Crystal Warriors
+GAMEGEAR ; @ ; 53 ; Shining Force Gaiden ; japan only, lot of text
+GAMEGEAR ; @ ; 54 ; Madou Monogatari II: Arle 16-sai ; japan only, lot of text
+GAMEGEAR ; @ ; 63 ; Moldorian ; japan only, lot of text
+GAMEGEAR ; @ ; 83 ; Eternal Legend ; japan only, lot of text
 GAMEBOYADVANCE ; + ; 06 ; Metroid Fusion
 GAMEBOYADVANCE ; + ; 10 ; Metroid - Zero Mission
 GAMEBOYADVANCE ; + ; 19 ; Castlevania - Circle of the Moon
