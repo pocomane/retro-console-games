@@ -307,7 +307,6 @@ Golden Axe Warrior                          ; excellent
 Golvellius                                  ; excellent
 Impossible Mission
 James Pond II - Robocod
-Jurassic Park
 Kenseiden                                   ; good
 Land of Illusion                            ; good
 Legend of Illusion                          ; good
@@ -428,8 +427,6 @@ Hammer Hamming
 Harvest Moon
 Illusion of Gaia                                     ; ?
 James Pond 3
-Jurassic Park
-Jurassic Park II - The Chaos Continues
 Killer Instinct                                      ; good
 Kirby Super Star                                     ; good
 Kirby's Dream Course
@@ -911,7 +908,6 @@ Halley Wars
 Head Buster
 James Pond 2: Robocod
 James Pond 3: Operation Starfish
-Jurassic Park
 Kishin Douji Zenki                              ; good
 Klax
 Land of Illusion Starring Mickey Mouse          ; excellent
