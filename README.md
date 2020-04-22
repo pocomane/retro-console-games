@@ -1327,6 +1327,7 @@ MASTERSYSTEM ; - ; 18 ; Lemmings
 MASTERSYSTEM ; + ; 20 ; Gain Ground
 MASTERSYSTEM ; - ; 29 ; Miracle Warriors - Seal of The Dark Lord
 MASTERSYSTEM ; - ; 09 ; Populous
+MASTERSYSTEM ; @ ; ?? ; mercs
 SNES ; + ; 44 ; Secret of Evermore
 SNES ; + ; ?? ; Fushigi no Dungeon 2 - Fuurai no Shiren
 SNES ; + ; 15 ; Secret of Mana
@@ -1348,6 +1349,13 @@ SNES ; - ; 85 ; Star Ocean
 SNES ; - ; 86 ; Lufia II - Rise of the Sinistrals
 SNES ; - ; 94 ; Breath of Fire
 SNES ; - ; 96 ; Blackthorne
+SNES ; @ ; ?? ; sexy parodius
+SNES ; @ ; ?? ; U.N. Squadron
+SNES ; @ ; ?? ; biometal
+SNES ; @ ; ?? ; king of dragons
+SNES ; @ ; ?? ; darius twin
+SNES ; @ ; ?? ; captain commando
+SNES ; @ ; ?? ; Magic sword
 MEGADRIVE ; + ; 02 ; Aerobiz Supersonic
 MEGADRIVE ; + ; 13 ; Ecco the Dolphin
 MEGADRIVE ; + ; 22 ; Dune - The Battle for Arrakis
@@ -1361,6 +1369,9 @@ MEGADRIVE ; - ; 62 ; Shining Force II
 MEGADRIVE ; - ; 72 ; Phantasy Star IV - The End of the Millennium
 MEGADRIVE ; - ; 80 ; Phantasy Star III - Generations of Doom
 MEGADRIVE ; - ; 84 ; Phantasy Star II
+MEGADRIVE ; @ ; ?? ; mercs
+MEGADRIVE ; @ ; ?? ; Super Smash TV
+MEGADRIVE ; @ ; ?? ; mega turrican
 PCENGINE ; + ; 10 ; Military Madness
 PCENGINE ; + ; 22 ; Neutopia II
 PCENGINE ; - ; 20 ; Momotarou Katsugeki
@@ -1413,6 +1424,7 @@ GAMEGEAR ; @ ; 53 ; Shining Force Gaiden ; japan only, lot of text
 GAMEGEAR ; @ ; 54 ; Madou Monogatari II: Arle 16-sai ; japan only, lot of text
 GAMEGEAR ; @ ; 63 ; Moldorian ; japan only, lot of text
 GAMEGEAR ; @ ; 83 ; Eternal Legend ; japan only, lot of text
+GAMEGEAR ; @ ; ?? ; Super Smash TV
 GAMEBOYADVANCE ; + ; 06 ; Metroid Fusion
 GAMEBOYADVANCE ; + ; 10 ; Metroid - Zero Mission
 GAMEBOYADVANCE ; + ; 19 ; Castlevania - Circle of the Moon
