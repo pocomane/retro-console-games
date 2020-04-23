@@ -1328,6 +1328,7 @@ MASTERSYSTEM ; + ; 20 ; Gain Ground
 MASTERSYSTEM ; - ; 29 ; Miracle Warriors - Seal of The Dark Lord
 MASTERSYSTEM ; - ; 09 ; Populous
 MASTERSYSTEM ; @ ; ?? ; mercs
+MASTERSYSTEM ; @ ; ?? ; Super Smash TV
 SNES ; + ; 44 ; Secret of Evermore
 SNES ; + ; ?? ; Fushigi no Dungeon 2 - Fuurai no Shiren
 SNES ; + ; 15 ; Secret of Mana
@@ -1356,6 +1357,8 @@ SNES ; @ ; ?? ; king of dragons
 SNES ; @ ; ?? ; darius twin
 SNES ; @ ; ?? ; captain commando
 SNES ; @ ; ?? ; Magic sword
+SNES ; @ ; ?? ; Super Smash TV
+SNES ; @ ; ?? ; Thunder spirits (thunder force series)
 MEGADRIVE ; + ; 02 ; Aerobiz Supersonic
 MEGADRIVE ; + ; 13 ; Ecco the Dolphin
 MEGADRIVE ; + ; 22 ; Dune - The Battle for Arrakis
@@ -1369,6 +1372,7 @@ MEGADRIVE ; - ; 62 ; Shining Force II
 MEGADRIVE ; - ; 72 ; Phantasy Star IV - The End of the Millennium
 MEGADRIVE ; - ; 80 ; Phantasy Star III - Generations of Doom
 MEGADRIVE ; - ; 84 ; Phantasy Star II
+MEGADRIVE ; @ ; ?? ; Battle Mania Daiginjou ; Trouble Shooter 2
 MEGADRIVE ; @ ; ?? ; mercs
 MEGADRIVE ; @ ; ?? ; Super Smash TV
 MEGADRIVE ; @ ; ?? ; mega turrican
