@@ -632,6 +632,7 @@ Sonic and Knuckles                                     ; good
 Sonic the Hedgehog                                     ; good
 Sonic the Hedgehog 2                                   ; excellent
 Sonic the Hedgehog 3                                   ; good
+Sparkster                                              ; ; Rocket Knight Adventures 2
 Splatterhouse 2
 Splatterhouse 3
 Star Control
@@ -1359,6 +1360,9 @@ SNES ; @ ; ?? ; captain commando
 SNES ; @ ; ?? ; Magic sword
 SNES ; @ ; ?? ; Super Smash TV
 SNES ; @ ; ?? ; Thunder spirits (thunder force series)
+SNES ; @ ; ?? ; Lady stalker ; (landstalker 2) jap lot of text
+SNES ; @ ; ?? ; Wild Guns
+SNES ; @ ; ?? ; Kendo Rage (1 and 2 ??)
 MEGADRIVE ; + ; 02 ; Aerobiz Supersonic
 MEGADRIVE ; + ; 13 ; Ecco the Dolphin
 MEGADRIVE ; + ; 22 ; Dune - The Battle for Arrakis
@@ -1376,6 +1380,7 @@ MEGADRIVE ; @ ; ?? ; Battle Mania Daiginjou ; Trouble Shooter 2
 MEGADRIVE ; @ ; ?? ; mercs
 MEGADRIVE ; @ ; ?? ; Super Smash TV
 MEGADRIVE ; @ ; ?? ; mega turrican
+MEGADRIVE ; @ ; ?? ; Devil Hunter Yohko
 PCENGINE ; + ; 10 ; Military Madness
 PCENGINE ; + ; 22 ; Neutopia II
 PCENGINE ; - ; 20 ; Momotarou Katsugeki
@@ -1384,6 +1389,7 @@ PCENGINE ; - ; 50 ; Order of the Griffin
 PCENGINE ; - ; ?? ; Populous
 PCENGINE ; @ ; ?? ; Aldynes
 PCENGINE ; @ ; ?? ; Jaseiken Necromancer
+PCENGINE ; @ ; ?? ; Valis (1-2-3-4) ???
 GAMEBOY ; + ; 30 ; Mystical Ninja starring Goemon
 GAMEBOY ; + ; 37 ; Gargoyle's Quest
 GAMEBOY ; + ; 17 ; Ganbare Goemon Hoshizorashi Dyamites Arawaru!!
