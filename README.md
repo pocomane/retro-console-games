@@ -1351,6 +1351,8 @@ SNES ; - ; 85 ; Star Ocean
 SNES ; - ; 86 ; Lufia II - Rise of the Sinistrals
 SNES ; - ; 94 ; Breath of Fire
 SNES ; - ; 96 ; Blackthorne
+SNES ; @ ; ?? ; Fantastic Journey ; Gokujo Parodius – Pursuing the Past Glory[a]
+SNES ; @ ; ?? ; Jikkyō Oshaberi Parodius
 SNES ; @ ; ?? ; sexy parodius
 SNES ; @ ; ?? ; U.N. Squadron
 SNES ; @ ; ?? ; biometal
