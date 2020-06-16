@@ -1392,6 +1392,7 @@ PCENGINE ; - ; ?? ; Populous
 PCENGINE ; @ ; ?? ; Aldynes
 PCENGINE ; @ ; ?? ; Jaseiken Necromancer
 PCENGINE ; @ ; ?? ; Valis (1-2-3-4) ???
+PCENGINE ; @ ; ?? ; j.j. and jeff ????? 
 GAMEBOY ; + ; 30 ; Mystical Ninja starring Goemon
 GAMEBOY ; + ; 37 ; Gargoyle's Quest
 GAMEBOY ; + ; 17 ; Ganbare Goemon Hoshizorashi Dyamites Arawaru!!
