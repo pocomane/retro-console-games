@@ -26,193 +26,193 @@ Atari 2600
 
 ```
 Adventure                           ; excellent
-Adventures of Tron
-Air Raiders
-Amidar
+Adventures of Tron                  ;
+Air Raiders                         ;
+Amidar                              ;
 Asteroids                           ; good
-Battlezone
-Beamrider
+Battlezone                          ;
+Beamrider                           ;
 Berzerk                             ; excellent
 Boxing                              ; good
-Breakout
+Breakout                            ;
 California Games                    ; good
 Centipede                           ; good
 Chopper Command                     ; excellent
-Circus Atari
-Commando
-Communist Mutants from Space
+Circus Atari                        ;
+Commando                            ;
+Communist Mutants from Space        ;
 Cosmic Ark                          ; good
-Cosmic Commuter
+Cosmic Commuter                     ;
 Crystal Castles                     ; good
-Dark Cavern
+Dark Cavern                         ;
 Defender                            ; excellent
 Demon Attack                        ; excellent
-Desert Falcon
+Desert Falcon                       ;
 Dig Dug                             ; good
 Dodge 'Em                           ; good
 Donkey Kong                         ; excellent
 Donkey Kong Junior                  ; good
 DragonStomper                       ; good
-Dragonfire
-E.T. - The Extra Terrestrial
+Dragonfire                          ;
+E.T. - The Extra Terrestrial        ;
 Enduro                              ; excellent
-Escape from Mindmaster
-Fantastic Voyage
-Fathom
-Freeway
+Escape from Mindmaster              ;
+Fantastic Voyage                    ;
+Fathom                              ;
+Freeway                             ;
 Frogger                             ; good
-Frogger II
+Frogger II                          ;
 Frostbite                           ; excellent
 Galaxian                            ; good
-Ghostbusters
-Ghostbusters 2
-Gorf
-Gravitar
+Ghostbusters                        ;
+Ghostbusters 2                      ;
+Gorf                                ;
+Gravitar                            ;
 H.E.R.O.                            ; excellent
-Haunted House
-Ice Hockey
-Indy 500
+Haunted House                       ;
+Ice Hockey                          ;
+Indy 500                            ;
 Joust                               ; excellent
 Jr. Pac-Man                         ; good
-Jungle Hunt
-Kaboom!
+Jungle Hunt                         ;
+Kaboom!                             ;
 Keystone Kapers                     ; good
-Laser Gates
+Laser Gates                         ;
 Mario Bros.                         ; excellent
-Maze Craze
+Maze Craze                          ;
 MegaMania - A Space Nightmare       ; excellent
-Millipede
-Missile Command
+Millipede                           ;
+Missile Command                     ;
 Montezuma's Revenge                 ; good
 Moon Patrol                         ; excellent
 Mouse Trap                          ; good
-Mr. Postman
+Mr. Postman                         ;
 Ms. Pac-Man                         ; excellent
-Night Driver
-Oystron
-Pac-Man
+Night Driver                        ;
+Oystron                             ;
+Pac-Man                             ;
 Phoenix                             ; excellent
 Pitfall                             ; good
 Pitfall II - Lost Caverns           ; excellent
 Planet Patrol                       ; good
-Pong Sports
+Pong Sports                         ;
 Pressure Cooker                     ; good
 Q-bert                              ; good
-Q-bert's Qubes
-Quadrun
-Radar Lock
-Raiders of the Lost Ark
-RealSports Volleyball
+Q-bert's Qubes                      ;
+Quadrun                             ;
+Radar Lock                          ;
+Raiders of the Lost Ark             ;
+RealSports Volleyball               ;
 River Raid                          ; excellent
-River Raid II
-Robot Tank
-Skeleton+
-Skiing
+River Raid II                       ;
+Robot Tank                          ;
+Skeleton+                           ;
+Skiing                              ;
 Smurf rescue in gargamel's cast     ; good
-Solar Fox
-Solaris
-Space Invaders
-Space Treat Deluxe
-Spider Fighter
-Spider-Man
+Solar Fox                           ;
+Solaris                             ;
+Space Invaders                      ;
+Space Treat Deluxe                  ;
+Spider Fighter                      ;
+Spider-Man                          ;
 Star Wars - The Empire Strikes Back ; good
-StarMaster
-Stargate
-Starmaster
-Subterranea
-Super Breakout
+StarMaster                          ;
+Stargate                            ;
+Starmaster                          ;
+Subterranea                         ;
+Super Breakout                      ;
 Superman                            ; good
-Surround
-SwordQuest - EarthWorld
-Swordquest - Fireworld
-Swordquest - Waterworld
-Tapper
-The Activision Decathlon
+Surround                            ;
+SwordQuest - EarthWorld             ;
+Swordquest - Fireworld              ;
+Swordquest - Waterworld             ;
+Tapper                              ;
+The Activision Decathlon            ;
 The Official Frogger                ; excellent
-Tron - Deadly Discs
-Vanguard
-Vault Assault
-Venture
+Tron - Deadly Discs                 ;
+Vanguard                            ;
+Vault Assault                       ;
+Venture                             ;
 Warlords                            ; good
-Wizard of Wor
-Yars' Revenge
-Zaxxon
+Wizard of Wor                       ;
+Yars' Revenge                       ;
+Zaxxon                              ;
 ```
 
 NES
 ===
 
 ```
-1942
+1942                                                     ;
 1943                                                     ; good
-Adventure Island
-Adventure Island II
-Adventure Island III
-Adventures of Lolo
-Adventures of Lolo II
+Adventure Island                                         ;
+Adventure Island II                                      ;
+Adventure Island III                                     ;
+Adventures of Lolo                                       ;
+Adventures of Lolo II                                    ;
 Adventures of Lolo III                                   ; good
 Balloon Fight                                            ; good
-Batman
-Batman - Return of the Jocker
+Batman                                                   ;
+Batman - Return of the Jocker                            ;
 Battletoads                                              ; excellent
-Battletoads & Double Dragon - The Ultimate Team
+Battletoads & Double Dragon - The Ultimate Team          ;
 Bionic Commando                                          ; excellent
 Blaster Master                                           ; good
-Bomberman
-Bomberman II
-Boy and His Blob
+Bomberman                                                ;
+Bomberman II                                             ;
+Boy and His Blob                                         ;
 Bubble Bobble                                            ; good
 Bubble Bobble Part 2                                     ; good
-Bucky O'Har
+Bucky O'Har                                              ;
 Castlevania                                              ; good
 Castlevania II - Simon's Quest                           ; good
 Castlevania III - Dracula's Curse                        ; excellent
 Chip 'n Dale - Rescue Rangers                            ; good
-Chip 'n Dale - Rescue Rangers 2
-Clash at Demonhead
+Chip 'n Dale - Rescue Rangers 2                          ;
+Clash at Demonhead                                       ;
 Contra                                                   ; excellent
 Contra Force                                             ; good
 Crystalis                                                ; ?
-Deja Vu
-Destiny of an Emperor
-Donkey Kong
-Donkey Kong+3
-Donkey Kong Jr.
-Door Door
+Deja Vu                                                  ;
+Destiny of an Emperor                                    ;
+Donkey Kong                                              ;
+Donkey Kong+3                                            ;
+Donkey Kong Jr.                                          ;
+Door Door                                                ;
 Double Dragon                                            ; good
 Double Dragon II                                         ; good
-Double Dragon III - The Sacred Stones
-Dr. Mario
+Double Dragon III - The Sacred Stones                    ;
+Dr. Mario                                                ;
 Dragon Warrior                                           ; ?
 Dragon Warrior II                                        ; ?
 Dragon Warrior III                                       ; excellent
 Dragon Warrior IV                                        ; good
-Duck Hunt
+Duck Hunt                                                ;
 DuckTales                                                ; good
-DuckTales 2
-Excitebike
+DuckTales 2                                              ;
+Excitebike                                               ;
 Faxanadu                                                 ; ?
 Final Fantasy                                            ; good
 Final Fantasy 2                                          ;
 Final Fantasy 3                                          ; excellent
 Gargoyle's Quest II - The Demon Darkness                 ; good
 Ghosts 'n Goblins                                        ; good
-Goonies II
-Gradius
+Goonies II                                               ;
+Gradius                                                  ;
 Gradius 2                                                ; good
-Guerilla War
-Ice Climber
-Jackal
-Kickle Cubicle
+Guerilla War                                             ;
+Ice Climber                                              ;
+Jackal                                                   ;
+Kickle Cubicle                                           ;
 Kid Icarus                                               ; excellent
 Kirby's Adventure                                        ; good
-Legacy of the Wizard
-Life Force
-Little Nemo the Dream Master
-Little Samson
+Legacy of the Wizard                                     ;
+Life Force                                               ;
+Little Nemo the Dream Master                             ;
+Little Samson                                            ;
 Maniac Mansion                                           ; ?
-Marble Madness
-Mario Bros.
+Marble Madness                                           ;
+Mario Bros.                                              ;
 Mega Man                                                 ; good
 Mega Man 2                                               ; excellent
 Mega Man 3                                               ; good
@@ -220,44 +220,44 @@ Mega Man 4                                               ; good
 Mega Man 5                                               ; good
 Mega Man 6                                               ; good
 Metal Gear                                               ; good
-Metal Storm
+Metal Storm                                              ;
 Metroid                                                  ; excellent
 Micro Machines                                           ; good
-Mission Impossible
-Monster Party
-Mother                                                   ; ; English officially localized as Earthbound beginning, but never released
+Mission Impossible                                       ;
+Monster Party                                            ;
+Mother                                                   ;      ; English officially localized as Earthbound beginning, but never released
 Ninja Gaiden                                             ; excellent
 Ninja Gaiden II - The Dark Sword of Chaos                ; good
-Ninja Gaiden III - The Ancient Ship of Doom
-North and South
-Pac-Man
-Paperboy
-Paperboy 2
-Pirates!
+Ninja Gaiden III - The Ancient Ship of Doom              ;
+North and South                                          ;
+Pac-Man                                                  ;
+Paperboy                                                 ;
+Paperboy 2                                               ;
+Pirates!                                                 ;
 Punch-Out!!                                              ; good
-RC Pro Am
+RC Pro Am                                                ;
 River City Ransom                                        ; excellent
-Shadowgate
-Snake Rattle & Roll
-Solstice
-Star Soldier
+Shadowgate                                               ;
+Snake Rattle & Roll                                      ;
+Solstice                                                 ;
+Star Soldier                                             ;
 StarTropics                                              ; ?
-Startropics II - Zoda's Revenge
+Startropics II - Zoda's Revenge                          ;
 Super C                                                  ; good
-Super Dodge Ball
+Super Dodge Ball                                         ;
 Super Mario Bros.                                        ; excellent
 Super Mario Bros. 2                                      ; good
 Super Mario Bros. 3                                      ; excellent
 THe Legend of Zelda                                      ; excellent
-Teenage Mutant Ninja Turtles
-Teenage Mutant Ninja Turtles II - The Arcade Game
-Teenage Mutant Ninja Turtles III - The Manhattan Project
+Teenage Mutant Ninja Turtles                             ;
+Teenage Mutant Ninja Turtles II - The Arcade Game        ;
+Teenage Mutant Ninja Turtles III - The Manhattan Project ;
 Tetris                                                   ; excellent
-Tetris 2
-The Battle of Olympus
-The Guardian Legend
-Willow
-Xevious
+Tetris 2                                                 ;
+The Battle of Olympus                                    ;
+The Guardian Legend                                      ;
+Willow                                                   ;
+Xevious                                                  ;
 Zelda II - The Adventures of Link                        ; good
 ```
 
@@ -265,113 +265,113 @@ Master system
 ===========
 
 ```
-Action Fighter
-Afterburner
-Alex Kidd - High Tech World
-Alex Kidd - The Losts Stars
+Action Fighter                              ;
+Afterburner                                 ;
+Alex Kidd - High Tech World                 ;
+Alex Kidd - The Losts Stars                 ;
 Alex Kidd in Miracle World                  ; excellent
 Alex Kidd in Shinobi World                  ; excellent
 Asterix                                     ; excellent
 Asterix and the Great Rescue                ; good
-Asterix and the Secret Mission
-Baku Baku
-Battle Out Run
+Asterix and the Secret Mission              ;
+Baku Baku                                   ;
+Battle Out Run                              ;
 Battlemaniacs                               ; excellent
-Black Belt
-Bomber Raid
+Black Belt                                  ;
+Bomber Raid                                 ;
 Bram Stoker's Dracula                       ; good
 Bubble Bobble                               ; good
-California Games
-California Games II
+California Games                            ;
+California Games II                         ;
 Castle of Illusion                          ; excellent
-Choplifter
-Chuck Rock
+Choplifter                                  ;
+Chuck Rock                                  ;
 Chuck Rock II                               ; excellent
-Columns
-Cosmic Spacehead
-Daffy Duck in Hollywood
-Danan - The Jungle Fighter
-Desert Strike
+Columns                                     ;
+Cosmic Spacehead                            ;
+Daffy Duck in Hollywood                     ;
+Danan - The Jungle Fighter                  ;
+Desert Strike                               ;
 Double Dragon                               ; good
-Dr. Robotnik's Mean Bean Machine
-Dynamite Headdy
-Fantastic Dizzy
-Fantasy Zone
+Dr. Robotnik's Mean Bean Machine            ;
+Dynamite Headdy                             ;
+Fantastic Dizzy                             ;
+Fantasy Zone                                ;
 Fantasy Zone II                             ; good
-Forgotten Worlds
-Fushigi no Oshiro Pit Pot
+Forgotten Worlds                            ;
+Fushigi no Oshiro Pit Pot                   ;
 Gain Ground                                 ; good
 Ghouls 'n Ghosts                            ; good
 Golden Axe                                  ; good
 Golden Axe Warrior                          ; excellent
 Golvellius                                  ; excellent
-Impossible Mission
-James Pond II - Robocod
+Impossible Mission                          ;
+James Pond II - Robocod                     ;
 Kenseiden                                   ; good
 Land of Illusion                            ; good
 Legend of Illusion                          ; good
-Lemmings
-Machine Gun Joe
-Marble Madness
+Lemmings                                    ;
+Machine Gun Joe                             ;
+Marble Madness                              ;
 Master of Darkness                          ; excellent
-Masters of Combat
-Maze Hunter 3D
-Micro Machines
+Masters of Combat                           ;
+Maze Hunter 3D                              ;
+Micro Machines                              ;
 Miracle Warriors - Seal of The Dark Lord    ; ?
-Mortal Kombat
-Mortal Kombat II
-Mortal Kombat III
+Mortal Kombat                               ;
+Mortal Kombat II                            ;
+Mortal Kombat III                           ;
 The New Zealand Story                       ; good
 Ninja Gaiden                                ; excellent
-Operation Wolf
-Out Run
+Operation Wolf                              ;
+Out Run                                     ;
 Phantasy Star                               ; excellent
 Populous                                    ; ?
-Power Strike II
-Power Strike
+Power Strike II                             ;
+Power Strike                                ;
 Prince of Persia                            ; good
-Psychic World
-Putt & Putter
-R-Type
-R.C. Grand Prix
-Rainbow Islands
-Rambo - First Blood Part II
-Rampart
-Rastan
-Rescue Mission
-Road Rash
-RoboCop vs. The Terminator
+Psychic World                               ;
+Putt & Putter                               ;
+R-Type                                      ;
+R.C. Grand Prix                             ;
+Rainbow Islands                             ;
+Rambo - First Blood Part II                 ;
+Rampart                                     ;
+Rastan                                      ;
+Rescue Mission                              ;
+Road Rash                                   ;
+RoboCop vs. The Terminator                  ;
 Sagaia                                      ; good
-Scramble Spirit
-Sensible Soccer
-Shinobi
-Slap Shot
+Scramble Spirit                             ;
+Sensible Soccer                             ;
+Shinobi                                     ;
+Slap Shot                                   ;
 Solomon no Kagi - Oujo Rihita no Namida     ; good ; Solomons Key
 Sonic Chaos                                 ; good
 Sonic the Hedgehog                          ; excellent
 Sonic the Hedgehog 2                        ; good
-Space Harrier
-Spellcaster
-Spy vs Spy
+Space Harrier                               ;
+Spellcaster                                 ;
+Spy vs Spy                                  ;
 Star Wars                                   ; good
-Street Fighter II'
-Streets of Rage
+Street Fighter II'                          ;
+Streets of Rage                             ;
 Streets of Rage II                          ; good
-Strider
+Strider                                     ;
 Submarine Attack                            ; good
 The Lucky Dime Caper - Starring Donald Duck ; excellent
-The Smurfs
-The Smurfs Travel the World
+The Smurfs                                  ;
+The Smurfs Travel the World                 ;
 Ultima IV                                   ; excellent
 Wonder Boy                                  ; good
 Wonder Boy in Monster World                 ; good
-Wonderboy III - Dragon’s Trap
+Wonderboy III - Dragon’s Trap               ;
 Wonderboy in Monster Land                   ; excellent
-Xenon 2
+Xenon 2                                     ;
 Ys - The Vanished Omens                     ; good
 Zillion                                     ; good
-Zillion 2
-Zool
+Zillion 2                                   ;
+Zool                                        ;
 ```
 
 SNES
@@ -379,114 +379,114 @@ SNES
 
 ```
 ActRaiser                                            ; ?
-ActRaiser 2
-Advanced Dungeons & Dragons - Eye of the Beholder
-Aero Fighter
-Aladdin
-Axelay
-Battletoads in Battlemaniacs
-Biker Mice from Mars
+ActRaiser 2                                          ;
+Advanced Dungeons & Dragons - Eye of the Beholder    ;
+Aero Fighter                                         ;
+Aladdin                                              ;
+Axelay                                               ;
+Battletoads in Battlemaniacs                         ;
+Biker Mice from Mars                                 ;
 Blackthorne                                          ; ?
 Breath of Fire                                       ; ?
 Breath of Fire II                                    ; ?
-Bust a move
+Bust a move                                          ;
 Castlevania - Dracula X                              ; ?
-Choujikuu Yousai Macross - Scrambled Valkyrie
+Choujikuu Yousai Macross - Scrambled Valkyrie        ;
 Chrono Trigger                                       ; excellent
-ClayFighter
-Clock Tower
+ClayFighter                                          ;
+Clock Tower                                          ;
 Contra III - The Alien Wars                          ; excellent
-Cybernator
+Cybernator                                           ;
 Demon's Crest                                        ; good
 Donkey Kong Country                                  ; good
 Donkey Kong Country 2 - Diddy's Kong Quest           ; excellent
 Donkey Kong Country 3 - Dixie Kong's Double Trouble! ; good
 Doom                                                 ; good
-E.V.O. - Search for Eden
+E.V.O. - Search for Eden                             ;
 EarthBound                                           ; excellent
 Earthworm Jim                                        ; good
 Earthworm Jim 2                                      ; excellent
-Energy Breaker
-Equinox
-F-Zero
-Fatal Fury Special
-Final Fantasy - Mystic Quest Legend
-Final Fantasy IV                                     ; ? ; USA release: Final Fantasy II
-Final Fantasy V                                      ; ? ; USA no release
+Energy Breaker                                       ;
+Equinox                                              ;
+F-Zero                                               ;
+Fatal Fury Special                                   ;
+Final Fantasy - Mystic Quest Legend                  ;
+Final Fantasy IV                                     ; ?         ; USA release: Final Fantasy II
+Final Fantasy V                                      ; ?         ; USA no release
 Final Fantasy VI                                     ; excellent ; USA release: Final Fantasy III
 Final Fight                                          ; good
-Final Fight 2
-Final Fight 3
+Final Fight 2                                        ;
+Final Fight 3                                        ;
 Final Fight Guy                                      ; good
-Flashback
+Flashback                                            ;
 Fushigi no Dungeon 2 - Fuurai no Shiren              ; ?
-Goof Troop
-Gradius III
-Hagane
-Hammer Hamming
-Harvest Moon
+Goof Troop                                           ;
+Gradius III                                          ;
+Hagane                                               ;
+Hammer Hamming                                       ;
+Harvest Moon                                         ;
 Illusion of Gaia                                     ; ?
-James Pond 3
+James Pond 3                                         ;
 Killer Instinct                                      ; good
 Kirby Super Star                                     ; good
-Kirby's Dream Course
-Kirby's Dream Land 3
-Kirby's Ghost Trap
-Knights of the Round
+Kirby's Dream Course                                 ;
+Kirby's Dream Land 3                                 ;
+Kirby's Ghost Trap                                   ;
+Knights of the Round                                 ;
 Lufia & the Fortress of Doom                         ; ?
 Lufia II - Rise of the Sinistrals                    ; ?
-Mario & Wario
+Mario & Wario                                        ;
 Mega Man 7                                           ; good
 Mega Man X2                                          ; good
 Mega Man X3                                          ; good
 Mega Men X                                           ; excellent
-Micro Machines
+Micro Machines                                       ;
 Micro Machines 2                                     ; good
 Mortal Kombat                                        ; good
 Mortal Kombat 3                                      ; good
 Mortal Kombat II                                     ; good
-Ninja Gaiden Trilogy
+Ninja Gaiden Trilogy                                 ;
 Ogre Battle - The March of the Black Queen           ; ?
-Out of This World
-Pang
-Pilotwings
-Pitfall - The Mayan Adventure
-Pop'n TwinBee
-Pop'n TwinBee - Rainbow Bell Adventures
-Popful Mail                                          ; ? ; Japan only, lot of text, localization on sega-cd and pc
-Populous
-Populous II
-Prince of Persia
-Prince of Persia 2
+Out of This World                                    ;
+Pang                                                 ;
+Pilotwings                                           ;
+Pitfall - The Mayan Adventure                        ;
+Pop'n TwinBee                                        ;
+Pop'n TwinBee - Rainbow Bell Adventures              ;
+Popful Mail                                          ; ?         ; Japan only, lot of text, localization on sega-cd and pc
+Populous                                             ;
+Populous II                                          ;
+Prince of Persia                                     ;
+Prince of Persia 2                                   ;
 R-Type III - The Third Lightning                     ; good
-Ranma Nibunnoichi - Chougi Ranbu Hen
-Rock n' Roll Racing
-Rockman & Forte
+Ranma Nibunnoichi - Chougi Ranbu Hen                 ;
+Rock n' Roll Racing                                  ;
+Rockman & Forte                                      ;
 Secret of Evermore                                   ; ?
 Secret of Mana                                       ; ?
 Shadowrun                                            ; ?
 SimCity                                              ; good
-SimCity 2000 - The Ultimate City Simulator
-Skyblazer
-Soul Blazer
-Sparkster
+SimCity 2000 - The Ultimate City Simulator           ;
+Skyblazer                                            ;
+Soul Blazer                                          ;
+Sparkster                                            ;
 Star Fox                                             ; good
 Star Ocean                                           ; ?
-Street Fighter Alpha 2
-Street Fighter II - the world warrior
+Street Fighter Alpha 2                               ;
+Street Fighter II - the world warrior                ;
 Street Fighter II Turbo - hyper fighting             ; excellent
 Sunset Riders                                        ; excellent
-Super Adventure Island
-Super Adventure Island II
-Super Bomberman
+Super Adventure Island                               ;
+Super Adventure Island II                            ;
+Super Bomberman                                      ;
 Super Bomberman 2                                    ; good
 Super Bomberman 3                                    ; good
 Super Bomberman 4                                    ; good
-Super Bomberman 5
+Super Bomberman 5                                    ;
 Super Castlevania IV                                 ; excellent
-Super Double Dragon
+Super Double Dragon                                  ;
 Super Ghouls'n Ghosts                                ; excellent
-Super James Pond II
+Super James Pond II                                  ;
 Super Mario All-Stars                                ; good
 Super Mario Kart                                     ; excellent
 Super Mario RPG - Legend of the Seven Stars          ; excellent
@@ -495,30 +495,30 @@ Super Mario World 2 - Yoshi's Island                 ; excellent
 Super Metroid                                        ; excellent
 Super Punch-Out!!                                    ; excellent
 Super R-Type                                         ; good
-Super Star Wars
-Super Star Wars - Return of the Jedi
-Super Star Wars - The Empire Strikes Back
+Super Star Wars                                      ;
+Super Star Wars - Return of the Jedi                 ;
+Super Star Wars - The Empire Strikes Back            ;
 Super Street Fighter II - The New Challengers        ; good
-Super Turrican
-Super Turrican 2
-Tales of Phantasia                                   ; ? ; japan: USA on gamboy advance
-Teenage Mutant Ninja Turtles - Tournament Fighters
+Super Turrican                                       ;
+Super Turrican 2                                     ;
+Tales of Phantasia                                   ; ?         ; japan: USA on gamboy advance
+Teenage Mutant Ninja Turtles - Tournament Fighters   ;
 Teenage Mutant Ninja Turtles IV - Turtles in Time    ; good
 Terranigma                                           ; ?
 Tetris & Dr. Mario                                   ; good
 Tetris Attack                                        ; good
-The Adventures of Batman & Robin
+The Adventures of Batman & Robin                     ;
 The Legend of Zelda - A Link to the Past             ; excellent
 The Legend of the Mystical Ninja / Ganbare Goemon    ; ?
-The Lion King
+The Lion King                                        ;
 The Lost Vikings                                     ; good
-The Magical Quest Starring Mickey Mouse
-Tiny Toon Adventures - Buster Busts Loose!
-Torneco no Daibōken - Fushigi no Dungeon
-Ultimate Mortal Kombat 3                             ; good ; best of the serie on this platform
+The Magical Quest Starring Mickey Mouse              ;
+Tiny Toon Adventures - Buster Busts Loose!           ;
+Torneco no Daibōken - Fushigi no Dungeon             ;
+Ultimate Mortal Kombat 3                             ; good      ; best of the serie on this platform
 Uniracers                                            ; good
-Worms
-Yoshi's Cookie
+Worms                                                ;
+Yoshi's Cookie                                       ;
 Zombies Ate My Neighbors                             ; good
 ```
 
@@ -526,641 +526,641 @@ Megadrive / Nomad
 =================
 
 ```
-Advanced Busterhawk Gleylancer
+Advanced Busterhawk Gleylancer                         ;
 Aero Blasters                                          ; good
 Aerobiz Supersonic                                     ; ?
-After Burner II
-Alex Kidd in the Enchanted Castle
+After Burner II                                        ;
+Alex Kidd in the Enchanted Castle                      ;
 Alien Soldier                                          ; good
-Alisia Dragoon
-Altered Beast
-Arrow Flash
-Atomic Robo-Kid
-Atomic Runner
+Alisia Dragoon                                         ;
+Altered Beast                                          ;
+Arrow Flash                                            ;
+Atomic Robo-Kid                                        ;
+Atomic Runner                                          ;
 Battlemania - Daiginjou                                ; excellent
 Battletoads & Double Dragon - The Ultimate Team        ; good
-Bio-Hazard Battle
-Bishoujo Senshi Sailor Moon
+Bio-Hazard Battle                                      ;
+Bishoujo Senshi Sailor Moon                            ;
 Bonanza Bros.                                          ; good
 Bubba 'n' Stix                                         ; excellent
 Buck Rogers - Countdown to Doomsday                    ; ?
-Burning Force
+Burning Force                                          ;
 Castle of Illusion Starring Mickey Mouse               ; good
 Castlevania - Bloodlines                               ; excellent
-Chiki Chiki Boys
+Chiki Chiki Boys                                       ;
 Classic Collection                                     ; good
-Comix Zone
+Comix Zone                                             ;
 Contra - Hard Corps                                    ; excellent
-Crack Down
-Curse
-DJ Boy
-Dahna - Megami Tanjou
-Dashin' Desperadoes
-Devilish
-Disney's Aladdin
+Crack Down                                             ;
+Curse                                                  ;
+DJ Boy                                                 ;
+Dahna - Megami Tanjou                                  ;
+Dashin' Desperadoes                                    ;
+Devilish                                               ;
+Disney's Aladdin                                       ;
 Donald in Maui Mallard                                 ; good
-Double Dragon
-Double Dragon 2
-Double Dragon 3
-Dr. Robotnik's Mean Bean Machine
-Dragon Ball Z - Buyuu Retsuden
+Double Dragon                                          ;
+Double Dragon 2                                        ;
+Double Dragon 3                                        ;
+Dr. Robotnik's Mean Bean Machine                       ;
+Dragon Ball Z - Buyuu Retsuden                         ;
 Dune - The Battle for Arrakis                          ; ?
 Dynamite Headdy                                        ; excellent
 Earthworm Jim 2                                        ; excellent
 Ecco the Dolphin                                       ; good
-Ecco the Dolphin II
-El Viento
-Elemental Master
+Ecco the Dolphin II                                    ;
+El Viento                                              ;
+Elemental Master                                       ;
 Flashback                                              ; ?
-Forgotten Worlds
-Gaiares
+Forgotten Worlds                                       ;
+Gaiares                                                ;
 Gain Ground                                            ; excellent
 Gauntlet 4                                             ; good
 Ghouls 'N Ghosts                                       ; excellent
-Golden Axe
-Golden Axe II
-Golden Axe III
+Golden Axe                                             ;
+Golden Axe II                                          ;
+Golden Axe III                                         ;
 Granada                                                ; good
-Greatest Heavyweights
+Greatest Heavyweights                                  ;
 Gunstar Heroes                                         ; excellent
-Hellfire
-Herzog Zwei
-James Pond - Underwater Agent
-Kid Chameleon
+Hellfire                                               ;
+Herzog Zwei                                            ;
+James Pond - Underwater Agent                          ;
+Kid Chameleon                                          ;
 LandStalker - The Treasures of King Nole               ; good
 Lightening Force - Quest for the Darkstar              ; excellent
 M.U.S.H.A.                                             ; good
 Marvel Land                                            ; good
-Mega Bomberman
+Mega Bomberman                                         ;
 Mega Man - The Wily Wars                               ; good
 Mickey Mania - The Timeless Adventures of Mickey Mouse ; good
-Micro Machines
+Micro Machines                                         ;
 Micro Machines 2 - Turbo Tournament                    ; good
-Micro Machines Military
+Micro Machines Military                                ;
 Micro Machines Turbo Tournament '96                    ; excellent
-Mortal Kombat
-Mortal Kombat 2
-Mortal Kombat 3
-Mystic Defender
-OutRun
-OutRunners
-Outlander
-Puyo Puyo
-Puyo Puyo 2
-Panorama Cotton                                        ; ; only japan ; text skippable : shot'em
+Mortal Kombat                                          ;
+Mortal Kombat 2                                        ;
+Mortal Kombat 3                                        ;
+Mystic Defender                                        ;
+OutRun                                                 ;
+OutRunners                                             ;
+Outlander                                              ;
+Puyo Puyo                                              ;
+Puyo Puyo 2                                            ;
+Panorama Cotton                                        ;  ; only japan ; text skippable : shot'em
 Phantasy Star II                                       ; ?
 Phantasy Star III - Generations of Doom                ; ?
 Phantasy Star IV - The End of the Millennium           ; ?
 Pulseman                                               ; good
-Ranger X
+Ranger X                                               ;
 Rent A Hero                                            ; ?
-Richard Scarry's Busytown
+Richard Scarry's Busytown                              ;
 Ristar                                                 ; good
-RoadBlasters
-RoboCop versus The Terminator
+RoadBlasters                                           ;
+RoboCop versus The Terminator                          ;
 Rocket Knight Adventures                               ; excellent
-Rolling Thunder 2
-Rolling Thundjjker 3
+Rolling Thunder 2                                      ;
+Rolling Thundjjker 3                                   ;
 Samurai Shodown                                        ; excellent
-Shadow Dancer - The Secret of Shinobi
+Shadow Dancer - The Secret of Shinobi                  ;
 Shining Force                                          ; ?
 Shining Force II                                       ; ?
-Shining in the Darkness
+Shining in the Darkness                                ;
 Shinobi III - Return of the Ninja Master               ; excellent
-Snake Rattle 'n' Roll
+Snake Rattle 'n' Roll                                  ;
 Sonic and Knuckles                                     ; good
 Sonic the Hedgehog                                     ; good
 Sonic the Hedgehog 2                                   ; excellent
 Sonic the Hedgehog 3                                   ; good
-Sparkster                                              ; ; Rocket Knight Adventures 2
-Splatterhouse 2
-Splatterhouse 3
-Star Control
-Starflight
+Sparkster                                              ;  ; Rocket Knight Adventures 2
+Splatterhouse 2                                        ;
+Splatterhouse 3                                        ;
+Star Control                                           ;
+Starflight                                             ;
 Street Fighter II - Champion Edition                   ; excellent
-Streets of Rage
-Streets of Rage 2
-Streets of Rage 3
+Streets of Rage                                        ;
+Streets of Rage 2                                      ;
+Streets of Rage 3                                      ;
 Super Fantasy Zone                                     ; good
-Target Earth
-Teenage Mutant Hero Turtles - The Hyperstone Heist
+Target Earth                                           ;
+Teenage Mutant Hero Turtles - The Hyperstone Heist     ;
 The Faery Tale Adventure                               ; ?
-The Revenge of Shinobi
-Thunder Force II
+The Revenge of Shinobi                                 ;
+Thunder Force II                                       ;
 Thunder Force III                                      ; good
 Thunder Force IV                                       ; good
 ToeJam & Earl                                          ; ?
-ToeJam & Earl in Panic on Funkotron
+ToeJam & Earl in Panic on Funkotron                    ;
 Trouble Shooter                                        ; good
 Twinkle Tale                                           ; good
-Vapor Trail
-Vectorman
-Vectorman 2
-Wani Wani World
-Whip Rush
-Wings of Wor
-Wonder Boy III - Monster Lair
+Vapor Trail                                            ;
+Vectorman                                              ;
+Vectorman 2                                            ;
+Wani Wani World                                        ;
+Whip Rush                                              ;
+Wings of Wor                                           ;
+Wonder Boy III - Monster Lair                          ;
 Wonder Boy in Monster World                            ; excellent
-Worms
-YuYu Hakusho - Makyou Toitsusen
-Zero Wing
-Zool
+Worms                                                  ;
+YuYu Hakusho - Makyou Toitsusen                        ;
+Zero Wing                                              ;
+Zool                                                   ;
 ```
 
 Turbografx / TurboExpress
 =========================
 
 ```
-1941 Counter Attack
+1941 Counter Attack                  ;
 1943 Kai                             ; good
 Aero blasters                        ; good
-After Burner II
+After Burner II                      ;
 Air Zonk                             ; good
-Atomic robo-kid
-Batman
-Battle Lode Runner
-Bikkuriman world                     ; good ; Wonder boy in Monster land re-brand
-Blazing Lazers                       ; good ; Gunhed in japan
-Bloody Wolf
-Bomberman
+Atomic robo-kid                      ;
+Batman                               ;
+Battle Lode Runner                   ;
+Bikkuriman world                     ; good      ; Wonder boy in Monster land re-brand
+Blazing Lazers                       ; good      ; Gunhed in japan
+Bloody Wolf                          ;
+Bomberman                            ;
 Bomberman 93                         ; good
 Bomberman 94                         ; excellent
-Bomberman Users Battle
-Bonk 3                               ; good ; PC Genjin 3 in japan
-Bonk's Adventure                     ; good ; PC Genjin in japan
-Bonk's Revenge                       ; excellent  ; PC Genjin 2 in japan
+Bomberman Users Battle               ;
+Bonk 3                               ; good      ; PC Genjin 3 in japan
+Bonk's Adventure                     ; good      ; PC Genjin in japan
+Bonk's Revenge                       ; excellent ; PC Genjin 2 in japan
 Cadash                               ; good
-Chew Man Fu/Be Ball
-Coryoon
+Chew Man Fu/Be Ball                  ;
+Coryoon                              ;
 Cratermaze                           ; Doraemon in japan
 Dai Makaimura                        ; excellent ; Ghouls 'n Ghosts - This is compatible with SuperGrafx only so it should be escluded. However it is a wonderful arcade port that you really should play.
 Darius Alpha                         ; good
 Darius Plus                          ; good
 Detana Twinbee                       ; good
 Don Doku Don                         ; good
-Download
-Dragon Saber
-Dragon Spirit
-Dragon's Curse                       ; excellent  ; Adventure Island in japan
-Dungeon Explorer
-Fantasy Zone
-Final Soldier
-Galaga 90                            ; ; Galaga 88 in japan
-Gomola Speed
+Download                             ;
+Dragon Saber                         ;
+Dragon Spirit                        ;
+Dragon's Curse                       ; excellent ; Adventure Island in japan
+Dungeon Explorer                     ;
+Fantasy Zone                         ;
+Final Soldier                        ;
+Galaga 90                            ;           ; Galaga 88 in japan
+Gomola Speed                         ;
 Gradius                              ; good
-Hana Taaka Daka
-Jackie Chan Action Kung Fu
-Kyuukyoku Tiger                      ; ; Twin Cobra in USA
-Legend of Hero Tonma
+Hana Taaka Daka                      ;
+Jackie Chan Action Kung Fu           ;
+Kyuukyoku Tiger                      ;           ; Twin Cobra in USA
+Legend of Hero Tonma                 ;
 Legendary Axe                        ; excellent
-Legendary Axe II
+Legendary Axe II                     ;
 Magical Chase                        ; excellent
-Metal Stoker
+Metal Stoker                         ;
 Military Madness                     ; ?
-Mizubaku Daibouken                   ; good  ; Liquid Kids in USA
+Mizubaku Daibouken                   ; good      ; Liquid Kids in USA
 Momotarou Katsugeki                  ; ?
 Neutopia                             ; ?
 Neutopia II                          ; ?
 New Adventure Island                 ; good
-Ninja Ryuken den                     ; good ; Ninja gaiden
+Ninja Ryuken den                     ; good      ; Ninja gaiden
 Ninja Spirit                         ; good
 Order of the Griffin                 ; ?
-Outrun
-Override
+Outrun                               ;
+Override                             ;
 Parasol Stars                        ; good
-Parodius Da!
+Parodius Da!                         ;
 Populous                             ; ?
-Psychosis
-Puzzle Boy
+Psychosis                            ;
+Puzzle Boy                           ;
 R-Type                               ; excellent ; Japan version was splitted in 2 parts
 Raiden                               ; good
-Salamander
-Shinobi
-Sidearms - Hyperdyne
-Skweek
+Salamander                           ;
+Shinobi                              ;
+Sidearms - Hyperdyne                 ;
+Skweek                               ;
 Soldier Blade                        ; excellent
 Son Son II                           ; good
-Spin Pair
-Splatterhouse
+Spin Pair                            ;
+Splatterhouse                        ;
 Street Fighter II - Champion Edition ; excellent
-Super Star Soldier
-Tatsujin                             ;    ; Truxton in USA
+Super Star Soldier                   ;
+Tatsujin                             ;           ; Truxton in USA
 The Newzealand Story                 ; good
-Turrican
+Turrican                             ;
 Valkyrie no Densetsu                 ; excellent
-Victory Run
-Zipang                               ; good ; Solomon Key port
+Victory Run                          ;
+Zipang                               ; good      ; Solomon Key port
 ```
 
 Game Boy
 ========
 
 ```
-Adventures of Lolo                       ; excellent
-Asmik-kun World 2                        ; ; Boomer's Adventure in ASMIK World 2
-Avenging Spirit                          ; excellent
-Balloon Kid
-Batman - Return of the Joker
-Batman - The Animated Series
-Battle Arena Toshinden                   ; good
-Battletoads
-Battletoads Double Dragon - The Ultimate Team
-Battletoads in Ragnarok's World
-Bill & Ted’s Excellent Game Boy Adventure
-Blaster Master Boy
-Bomberman GB                             ; excellent ; bomberman GB 2 in japan
-Bomberman GB 3                           ; good
-Bonk's Adventure                         ; good
-Bonk's Revenge                           ; good
-Booby Boys
-Boomer's Adventure in ASMIK World
-Bubble Bobble                            ; good
-Bubble Bobble Part 2                     ; good
-BurgerTime Deluxe
-Castlevania - The Adventure
-Castlevania II - Belmont's Revenge       ; good
-Castlevania Legends                      ; good
-Catrap                                   ; good
-Contra - The Alien Wars                  ; good
-Dexterity
-Donkey Kong                              ; excellent
-Donkey Kong Land                         ; good
-Donkey Kong Land 2                       ; excellent
-Donkey Kong Land 3                       ; good
-Double Dragon
-Double Dragon II
-Double Dragon III
-Dr. Mario Nintendo
-DuckTales
-DuckTales 2
-Elevator Action EX                       ; good
-Final Fantasy Adventure                  ; ?
-Final Fantasy Legend II                  ; ?
-Final Fantasy Legend III                 ; ?
-Fortified Zone
-GB Genjin Land - Viva! Chikkun Oukoku
-Game & Watch Gallery                     ; good
-Gargoyle's Quest                         ; ?
-Gradius - The Interstellar Assault
-Great Greed                              ; ?
-Hammerin' Harry - Ghost Building Company ; excellent
-Harvest Moon GB                          ; ?
-Ikari no Yousai 2                        ; good ; Fortified Zone sequel
-Joe & Mac - Caveman Ninja
-Kaeru no tame ni Kane wa Naru            ; ? ; For Frog the Bell Tolls
-Kid Dracula                              ; excellent
-Kid Icarus - Of Myths and Monsters       ; brest
-Kirby's Block Ball
-Kirby's Dream Land                       ; good
-Kirby's Dream Land 2                     ; good
-Kung-Fu Master
-Mario’s Picross
-Mario’s Picross 2
-Maru's Mission
-Mega Man - Dr. Wily's Revenge            ; good
-Mega Man II                              ; good
-Mega Man III                             ; good
-Mega Man IV                              ; good
-Mega Man V                               ; excellent
-Metroid II - Return of Samus             ; excellent
-Micro Machines
-Mole Mania                               ; good
-Motocross Maniacs
-Mr. Nutz
-Mystic Quest
-Mystical Ninja starring Goemon           ; ?
-Ninja Gaiden - Shadow
-Ninja Spirit                             ; good
-Noobow                                   ; good
-Operation C                              ; excellent
-Pocket Bomberman
-Pokemon Blue / Red / yellow              ; excellent
-Pop'n TwinBee                            ; excellent
-Qix
-R-Type
-R-Type II
-Rolan's Curse                            ; ?
-Rolan's Curse 2                          ; ?
-SolarStriker
-Solomon's Club                           ; good
-Street Fighter II - The World Warrior
-Super Mario Land
-Super Mario Land 2 - 6 Golden Coins      ; excellent
-Tail Gator
-Tetris                                   ; excellent
-Tetris 2
-Tetris attack
-Tetris plus
-The Final Fantasy Legend                 ; ?
-The King of Fighters '95                 ; good
-The King of Fighters - Heat of Battle    ; good ; jap= king of fighter 96
-The Legend of Zelda - Link’s Awakening   ; excellent
-Tiny Toons Adventures - Babs' Big Break
-Tiny Toons Adventures 2 - Montans's Movie
-Trax                                     ; good
-Trip World                               ; good
-Wario Blast                              ; ; Bomberman GB in japan
-Wario Land - Super Mario Land 3          ; good
-Wario Land II                            ; good
-Worms
-Yoshi
-Yoshi's Cookie
+Adventures of Lolo                            ; excellent
+Asmik-kun World 2                             ;           ; Boomer's Adventure in ASMIK World 2
+Avenging Spirit                               ; excellent
+Balloon Kid                                   ;
+Batman - Return of the Joker                  ;
+Batman - The Animated Series                  ;
+Battle Arena Toshinden                        ; good
+Battletoads                                   ;
+Battletoads Double Dragon - The Ultimate Team ;
+Battletoads in Ragnarok's World               ;
+Bill & Ted’s Excellent Game Boy Adventure     ;
+Blaster Master Boy                            ;
+Bomberman GB                                  ; excellent ; bomberman GB 2 in japan
+Bomberman GB 3                                ; good
+Bonk's Adventure                              ; good
+Bonk's Revenge                                ; good
+Booby Boys                                    ;
+Boomer's Adventure in ASMIK World             ;
+Bubble Bobble                                 ; good
+Bubble Bobble Part 2                          ; good
+BurgerTime Deluxe                             ;
+Castlevania - The Adventure                   ;
+Castlevania II - Belmont's Revenge            ; good
+Castlevania Legends                           ; good
+Catrap                                        ; good
+Contra - The Alien Wars                       ; good
+Dexterity                                     ;
+Donkey Kong                                   ; excellent
+Donkey Kong Land                              ; good
+Donkey Kong Land 2                            ; excellent
+Donkey Kong Land 3                            ; good
+Double Dragon                                 ;
+Double Dragon II                              ;
+Double Dragon III                             ;
+Dr. Mario Nintendo                            ;
+DuckTales                                     ;
+DuckTales 2                                   ;
+Elevator Action EX                            ; good
+Final Fantasy Adventure                       ; ?
+Final Fantasy Legend II                       ; ?
+Final Fantasy Legend III                      ; ?
+Fortified Zone                                ;
+GB Genjin Land - Viva! Chikkun Oukoku         ;
+Game & Watch Gallery                          ; good
+Gargoyle's Quest                              ; ?
+Gradius - The Interstellar Assault            ;
+Great Greed                                   ; ?
+Hammerin' Harry - Ghost Building Company      ; excellent
+Harvest Moon GB                               ; ?
+Ikari no Yousai 2                             ; good      ; Fortified Zone sequel
+Joe & Mac - Caveman Ninja                     ;
+Kaeru no tame ni Kane wa Naru                 ; ?         ; For Frog the Bell Tolls
+Kid Dracula                                   ; excellent
+Kid Icarus - Of Myths and Monsters            ; brest
+Kirby's Block Ball                            ;
+Kirby's Dream Land                            ; good
+Kirby's Dream Land 2                          ; good
+Kung-Fu Master                                ;
+Mario’s Picross                               ;
+Mario’s Picross 2                             ;
+Maru's Mission                                ;
+Mega Man - Dr. Wily's Revenge                 ; good
+Mega Man II                                   ; good
+Mega Man III                                  ; good
+Mega Man IV                                   ; good
+Mega Man V                                    ; excellent
+Metroid II - Return of Samus                  ; excellent
+Micro Machines                                ;
+Mole Mania                                    ; good
+Motocross Maniacs                             ;
+Mr. Nutz                                      ;
+Mystic Quest                                  ;
+Mystical Ninja starring Goemon                ; ?
+Ninja Gaiden - Shadow                         ;
+Ninja Spirit                                  ; good
+Noobow                                        ; good
+Operation C                                   ; excellent
+Pocket Bomberman                              ;
+Pokemon Blue / Red / yellow                   ; excellent
+Pop'n TwinBee                                 ; excellent
+Qix                                           ;
+R-Type                                        ;
+R-Type II                                     ;
+Rolan's Curse                                 ; ?
+Rolan's Curse 2                               ; ?
+SolarStriker                                  ;
+Solomon's Club                                ; good
+Street Fighter II - The World Warrior         ;
+Super Mario Land                              ;
+Super Mario Land 2 - 6 Golden Coins           ; excellent
+Tail Gator                                    ;
+Tetris                                        ; excellent
+Tetris 2                                      ;
+Tetris attack                                 ;
+Tetris plus                                   ;
+The Final Fantasy Legend                      ; ?
+The King of Fighters '95                      ; good
+The King of Fighters - Heat of Battle         ; good      ; jap= king of fighter 96
+The Legend of Zelda - Link’s Awakening        ; excellent
+Tiny Toons Adventures - Babs' Big Break       ;
+Tiny Toons Adventures 2 - Montans's Movie     ;
+Trax                                          ; good
+Trip World                                    ; good
+Wario Blast                                   ;           ; Bomberman GB in japan
+Wario Land - Super Mario Land 3               ; good
+Wario Land II                                 ; good
+Worms                                         ;
+Yoshi                                         ;
+Yoshi's Cookie                                ;
 ```
 
 Game Gear
 =========
 
 ```
-Alien Syndrome
-Asterix and the Great Rescue
-Asterix and the Secret Mission
+Alien Syndrome                                  ;
+Asterix and the Great Rescue                    ;
+Asterix and the Secret Mission                  ;
 Ax Battler: A Legend of Golden Axe              ; good
-Baku Baku Animal
-Batman Returns
-Battletoads
-Berlin no Kabe                                  ; good ; title translation: Berlin Wall
-Bram Stoker's Dracula
+Baku Baku Animal                                ;
+Batman Returns                                  ;
+Battletoads                                     ;
+Berlin no Kabe                                  ; good      ; title translation: Berlin Wall
+Bram Stoker's Dracula                           ;
 Bubble Bobble                                   ; good
-Bust-A-Move
+Bust-A-Move                                     ;
 Castle of Illusion Starring Mickey Mouse        ; good
-Choplifter III
+Choplifter III                                  ;
 Coca-Cola Kid                                   ; excellent ; full title Sassou Shounen Eiyuuden: Coca-Cola Kid
 Columns                                         ; good
-Crystal Warriors
+Crystal Warriors                                ;
 Deep Duck Trouble Starring Donald Duck          ; good
-Defenders of Oasis
-Devilish
-Disney's Aladdin
-Dr Robotnik's Mean Bean Machine
-Dragon Crystal
+Defenders of Oasis                              ;
+Devilish                                        ;
+Disney's Aladdin                                ;
+Dr Robotnik's Mean Bean Machine                 ;
+Dragon Crystal                                  ;
 Dynamite Headdy                                 ; good
-Ecco the Dolphin
-Ecco: The Tides of Time
-Eternal Legend
-Factory Panic
-Fantastic Dizzy
-Fantasy Zone
-Fatal Fury Special
-Fray: Shuugyou hen                              ; ; title translation: Fray In Magical Adventure
+Ecco the Dolphin                                ;
+Ecco: The Tides of Time                         ;
+Eternal Legend                                  ;
+Factory Panic                                   ;
+Fantastic Dizzy                                 ;
+Fantasy Zone                                    ;
+Fatal Fury Special                              ;
+Fray: Shuugyou hen                              ;           ; title translation: Fray In Magical Adventure
 GG Aleste                                       ; good
-Griffin
+Griffin                                         ;
 Gunstar Heroes                                  ; excellent
-Halley Wars
-Head Buster
-James Pond 2: Robocod
-James Pond 3: Operation Starfish
+Halley Wars                                     ;
+Head Buster                                     ;
+James Pond 2: Robocod                           ;
+James Pond 3: Operation Starfish                ;
 Kishin Douji Zenki                              ; good
-Klax
+Klax                                            ;
 Land of Illusion Starring Mickey Mouse          ; excellent
 Legend Of Illusion Starring Mickey Mouse        ; good
-Lemmings
-Lunar: Walking School
-Madou Monogatari I
-Madou Monogatari II: Arle 16-sai
-Madou Monogatari III: Kyuukyoku Joou-sama
-Magic Knight Rayearth
-Magic Knight Rayearth 2: Making of Magic Knight
-Magical Taruruuto-kun
-Mappy
-Marble Madness
+Lemmings                                        ;
+Lunar: Walking School                           ;
+Madou Monogatari I                              ;
+Madou Monogatari II: Arle 16-sai                ;
+Madou Monogatari III: Kyuukyoku Joou-sama       ;
+Magic Knight Rayearth                           ;
+Magic Knight Rayearth 2: Making of Magic Knight ;
+Magical Taruruuto-kun                           ;
+Mappy                                           ;
+Marble Madness                                  ;
 Mega Man                                        ; excellent
-Micro Machines
+Micro Machines                                  ;
 Micro Machines 2: Turbo Tournament              ; good
-Mighty Morphin Power Rangers: The Movie
-Mighty Morphin’ Power Rangers
-Moldorian
-Ninja Gaiden
-Panzer Dragoon Mini
-Phantasy Star Adventure
-Phantasy Star Gaiden
+Mighty Morphin Power Rangers: The Movie         ;
+Mighty Morphin’ Power Rangers                   ;
+Moldorian                                       ;
+Ninja Gaiden                                    ;
+Panzer Dragoon Mini                             ;
+Phantasy Star Adventure                         ;
+Phantasy Star Gaiden                            ;
 Power Strike II                                 ; excellent ; japan title: GG Aleste II
 Prince of Persia                                ; excellent
 Psychic World                                   ; excellent ; better than mastersystem version
-Puyo Puyo
-Puyo Puyo 2
-Puzzle & Action: Tant-R
+Puyo Puyo                                       ;
+Puyo Puyo 2                                     ;
+Puzzle & Action: Tant-R                         ;
 Ristar                                          ; excellent
-Ronald McDonald in Magical World
-Royal Stone
-Samurai Shodown
-Shining Force Gaiden
-Shining Force Gaiden: Final Conflict
-Shining Force II: The Sword Of Hajya
+Ronald McDonald in Magical World                ;
+Royal Stone                                     ;
+Samurai Shodown                                 ;
+Shining Force Gaiden                            ;
+Shining Force Gaiden: Final Conflict            ;
+Shining Force II: The Sword Of Hajya            ;
 Shinobi                                         ; good
 Shinobi II: The Silent Fury                     ; excellent
-Sonic Blast
+Sonic Blast                                     ;
 Sonic Chaos                                     ; good
-Sonic Drift
-Sonic Drift 2
-Sonic Labyrinth
+Sonic Drift                                     ;
+Sonic Drift 2                                   ;
+Sonic Labyrinth                                 ;
 Sonic the Hedgehog                              ; excellent
 Sonic the Hedgehog 2                            ; good
-Sonic the Hedgehog: Triple Trouble              ; good ; japan title: Sonic & Tails 2
+Sonic the Hedgehog: Triple Trouble              ; good      ; japan title: Sonic & Tails 2
 Star Wars                                       ; good
 Streets Of Rage                                 ; good
 Streets Of Rage 2                               ; excellent
-Super Columns
-Super Space Invaders
-Super Star Wars: Return of the Jedi
-Sylvan Tale
+Super Columns                                   ;
+Super Space Invaders                            ;
+Super Star Wars: Return of the Jedi             ;
+Sylvan Tale                                     ;
 Tails Adventure                                 ; excellent
-Tails' Skypatrol
+Tails' Skypatrol                                ;
 The Lucky Dime Caper Starring Donald Duck       ; excellent
-The excellent Dizzy Collection
+The excellent Dizzy Collection                  ;
 Vampire: Master of Darkness                     ; good
-Virtua Fighter Animation
-Wagyan Land
-Wonder Boy
+Virtua Fighter Animation                        ;
+Wagyan Land                                     ;
+Wonder Boy                                      ;
 Wonder Boy: The Dragon’s Trap                   ; excellent
-YuYu Hakusho: Horobishi Mono no Gyakushuu
+YuYu Hakusho: Horobishi Mono no Gyakushuu       ;
 ```
 
 Game Boy Color
 =============
 
 ```
-Aladdin
-Alone in the Dark - The New Nightmare
-Arcade Hits - Joust & Defender
-Asteroid
-Balloon fight GB
-Bionic Commando - elite forces
-Bomberman Max - Blue Champion / Red Challanger         ; good
-Bomberman Quest                                        ; ?
-Bubble Bobble
-Cannon folder
-Crystalis
-Daikatana                                              ; ?
-Denki Blocks !
-Donkey Kong Country                                    ; good
-Donkey Kong GB                                         ; good
-Dragon Ball Z - Legendary Super Warrior                ; ?
-Dragon Warrior I & II
-Dragon Warrior III
-Dragon Warrior Monsters
-Dragon Warrior Monsters 2 - Cobi's Journey
-Dragon Warrior Monsters 2 - Tara's Adventure
-Dragon's lair
-Duke Nukem
-Elevator Action EX                                     ; good
-Frogger 2
-Fushigi no Dungeon - Fuurai no Shiren                  ; ?
-Game & Watch Gallery 2
-Game & Watch Gallery 3
-Ganbare Goemon Hoshizorashi Dyamites Arawaru!!         ; ?
-Ghost and Goblin
-Harvest Moon 2 GBC
-Harvest Moon 3 GBC
-Harvest Moon GBC
-Klax
-Konami gb collection vol 1 / Gradius / Castlevania / Contra
-Konami gb collection vol 2 / Parodius / Block game
-Konami gb collection vol 3 / pop'n twinvee / Gambare Goemon
-Konami gb collection vol 4 / Graddius 2 / castelvania 2 / ye ar kung-fu
-Little Magic
-Looney Tunes                                           ; good
-Looney Tunes - Carrot crazy
-Looney Tunes Collector - Martian Alert!                ; good
-Looney Tunes Collector - Martian Revenge!              ; good
-Lucky Luke                                             ; good
-Lucky Luke - Desperado Train
-Lufia - The Legend Returns                             ; ?
-Magi Nation
-Magical Chase GB - Minarai Mahoutsukai Kenja no Tani e ; excellent
-Mario Tennis                                           ; good
-Megaman Xtreme                                         ; good
-Megaman Xtreme 2                                       ; excellent
-Metal Gear Solid                                       ; excellent
-Metal Walker                                           ; ?
-Mickey's Racing Adventure
-Micro Machines 1 and 2                                 ; good
-Micro Machines V3
-Monster ranch
-Montezuma's Return!
-Motocross Maniacs 2
-Mr. Nutz                                               ; good
-Oddworld Adventures II
-Pocket Bomberman
-Pokemon Gold / Silver / Cristal                        ; excellent
-Pokemon Puzzle Challenge                               ; good
-Prince of Persia
-Project S-11
-Q-Bert
-R-Type DX                                              ; excellent
-Rampart
-Rayman                                                 ; good
-Rayman 2                                               ; good
-Resident Evil Gaiden                                   ; excellent
-Return of the Ninja                                    ; good
-Revelations - The Demon Slayer                         ; ?
-Shadowgate Classic
-Shantae                                                ; excellent
-Space Invaders
-Spider-Man 2 - The Sinister Six
-Spirer-Man
-Star Ocean - Blue Sphere
-Street Fighter Alpha - Warriors' Dreams                ; good
-Super Mario Bros DX                                    ; excellent
-Survival Kids                                          ; ?
-Survival Kids 2                                        ; ?
-Tarzan
-Tetris DX                                              ; good
-The Legend of Zelda - Link's Awakening DX              ; excellent
-The Legend of Zelda - Oracle of Ages                   ; good
-The Legend of Zelda - Oracle of Seasons                ; good
-The grinch                                             ; excellent
-Toki Tori
-Tomb Raider                                            ; good
-Tomb Raider - Curse of the Sword                       ; good
-Wacky races
-Wario Land 2                                           ; good
-Wario Land 3                                           ; excellent
-Warlocked
-Wendy - Every Witch Way
-Worms
-Worms Armageddon
+Aladdin                                                                 ;
+Alone in the Dark - The New Nightmare                                   ;
+Arcade Hits - Joust & Defender                                          ;
+Asteroid                                                                ;
+Balloon fight GB                                                        ;
+Bionic Commando - elite forces                                          ;
+Bomberman Max - Blue Champion / Red Challanger                          ; good
+Bomberman Quest                                                         ; ?
+Bubble Bobble                                                           ;
+Cannon folder                                                           ;
+Crystalis                                                               ;
+Daikatana                                                               ; ?
+Denki Blocks !                                                          ;
+Donkey Kong Country                                                     ; good
+Donkey Kong GB                                                          ; good
+Dragon Ball Z - Legendary Super Warrior                                 ; ?
+Dragon Warrior I & II                                                   ;
+Dragon Warrior III                                                      ;
+Dragon Warrior Monsters                                                 ;
+Dragon Warrior Monsters 2 - Cobi's Journey                              ;
+Dragon Warrior Monsters 2 - Tara's Adventure                            ;
+Dragon's lair                                                           ;
+Duke Nukem                                                              ;
+Elevator Action EX                                                      ; good
+Frogger 2                                                               ;
+Fushigi no Dungeon - Fuurai no Shiren                                   ; ?
+Game & Watch Gallery 2                                                  ;
+Game & Watch Gallery 3                                                  ;
+Ganbare Goemon Hoshizorashi Dyamites Arawaru!!                          ; ?
+Ghost and Goblin                                                        ;
+Harvest Moon 2 GBC                                                      ;
+Harvest Moon 3 GBC                                                      ;
+Harvest Moon GBC                                                        ;
+Klax                                                                    ;
+Konami gb collection vol 1 / Gradius / Castlevania / Contra             ;
+Konami gb collection vol 2 / Parodius / Block game                      ;
+Konami gb collection vol 3 / pop'n twinvee / Gambare Goemon             ;
+Konami gb collection vol 4 / Graddius 2 / castelvania 2 / ye ar kung-fu ;
+Little Magic                                                            ;
+Looney Tunes                                                            ; good
+Looney Tunes - Carrot crazy                                             ;
+Looney Tunes Collector - Martian Alert!                                 ; good
+Looney Tunes Collector - Martian Revenge!                               ; good
+Lucky Luke                                                              ; good
+Lucky Luke - Desperado Train                                            ;
+Lufia - The Legend Returns                                              ; ?
+Magi Nation                                                             ;
+Magical Chase GB - Minarai Mahoutsukai Kenja no Tani e                  ; excellent
+Mario Tennis                                                            ; good
+Megaman Xtreme                                                          ; good
+Megaman Xtreme 2                                                        ; excellent
+Metal Gear Solid                                                        ; excellent
+Metal Walker                                                            ; ?
+Mickey's Racing Adventure                                               ;
+Micro Machines 1 and 2                                                  ; good
+Micro Machines V3                                                       ;
+Monster ranch                                                           ;
+Montezuma's Return!                                                     ;
+Motocross Maniacs 2                                                     ;
+Mr. Nutz                                                                ; good
+Oddworld Adventures II                                                  ;
+Pocket Bomberman                                                        ;
+Pokemon Gold / Silver / Cristal                                         ; excellent
+Pokemon Puzzle Challenge                                                ; good
+Prince of Persia                                                        ;
+Project S-11                                                            ;
+Q-Bert                                                                  ;
+R-Type DX                                                               ; excellent
+Rampart                                                                 ;
+Rayman                                                                  ; good
+Rayman 2                                                                ; good
+Resident Evil Gaiden                                                    ; excellent
+Return of the Ninja                                                     ; good
+Revelations - The Demon Slayer                                          ; ?
+Shadowgate Classic                                                      ;
+Shantae                                                                 ; excellent
+Space Invaders                                                          ;
+Spider-Man 2 - The Sinister Six                                         ;
+Spirer-Man                                                              ;
+Star Ocean - Blue Sphere                                                ;
+Street Fighter Alpha - Warriors' Dreams                                 ; good
+Super Mario Bros DX                                                     ; excellent
+Survival Kids                                                           ; ?
+Survival Kids 2                                                         ; ?
+Tarzan                                                                  ;
+Tetris DX                                                               ; good
+The Legend of Zelda - Link's Awakening DX                               ; excellent
+The Legend of Zelda - Oracle of Ages                                    ; good
+The Legend of Zelda - Oracle of Seasons                                 ; good
+The grinch                                                              ; excellent
+Toki Tori                                                               ;
+Tomb Raider                                                             ; good
+Tomb Raider - Curse of the Sword                                        ; good
+Wacky races                                                             ;
+Wario Land 2                                                            ; good
+Wario Land 3                                                            ; excellent
+Warlocked                                                               ;
+Wendy - Every Witch Way                                                 ;
+Worms                                                                   ;
+Worms Armageddon                                                        ;
 ```
 
 Game Boy Advance
 ===============
 
 ```
-2 Games in 1 - Dr. Mario & Puzzle league
+2 Games in 1 - Dr. Mario & Puzzle league               ;
 Advance Guardian Heroes                                ; good
 Advance Wars                                           ; good
 Advance Wars 2 - Black Hole Rising                     ; excellent
 Astro Boy - Omega Factor                               ; excellent
 Boktai - The Sun Is in Your Hand                       ; ?
 Boktai 2 - Solar Boy Django                            ; ?
-Bomberman Max 2 Blue / Red
-Bomberman Tournament
-Boulder Dash EX
+Bomberman Max 2 Blue / Red                             ;
+Bomberman Tournament                                   ;
+Boulder Dash EX                                        ;
 Breath of Fire                                         ; ?
 Breath of Fire II                                      ; ?
 Castlevania - Aria of Sorrow                           ; good
 Castlevania - Circle of the Moon                       ; good
 Castlevania - Harmony of Dissonance                    ; good
-Castlevania Double Pack
-ChuChu Rocket!
-Classic NES - Castlevania
-Classic NES Series - Bomberman
-Classic NES Series - Donkey Kong
-Classic NES Series - Metroid
-Classic NES Series - Super Mario Bros.
-Classic NES Series - The Legend of Zelda
-Classic NES Series - Zelda II
-Densetsu no Stafy 1
-Densetsu no Stafy 2
-Densetsu no Stafy 3
-Disney's Lilo & Stitch
-Disney's Lilo & Stitch 2
+Castlevania Double Pack                                ;
+ChuChu Rocket!                                         ;
+Classic NES - Castlevania                              ;
+Classic NES Series - Bomberman                         ;
+Classic NES Series - Donkey Kong                       ;
+Classic NES Series - Metroid                           ;
+Classic NES Series - Super Mario Bros.                 ;
+Classic NES Series - The Legend of Zelda               ;
+Classic NES Series - Zelda II                          ;
+Densetsu no Stafy 1                                    ;
+Densetsu no Stafy 2                                    ;
+Densetsu no Stafy 3                                    ;
+Disney's Lilo & Stitch                                 ;
+Disney's Lilo & Stitch 2                               ;
 Donkey Kong Country                                    ; good
 Donkey Kong Country 2                                  ; excellent
 Donkey Kong Country 3                                  ; good
-Doom
-Doom 2
+Doom                                                   ;
+Doom 2                                                 ;
 Dragon Ball Z - The Legacy Goku                        ; ?
 Dragon Ball Z - The Legacy Goku II                     ; ?
 Dragon Quest Monsters - Caravan Heart                  ; ?
-Drill Dozer
-Duke Nukem Advance
-Ecks vs. Sever
-Ecks vs. Sever 2
-F-Zero - Maximum Velocity
-F-Zero Climax
-F-Zero GP Legend
-Final Fantasy I & II - Dawn of Souls
-Final Fantasy IV Advance
-Final Fantasy Tactics Advance
+Drill Dozer                                            ;
+Duke Nukem Advance                                     ;
+Ecks vs. Sever                                         ;
+Ecks vs. Sever 2                                       ;
+F-Zero - Maximum Velocity                              ;
+F-Zero Climax                                          ;
+F-Zero GP Legend                                       ;
+Final Fantasy I & II - Dawn of Souls                   ;
+Final Fantasy IV Advance                               ;
+Final Fantasy Tactics Advance                          ;
 Final Fantasy V                                        ; ?
 Final Fantasy VI Advance                               ; excellent
-Final Fight One
-Fire Emblem - Fuuin no Tsurugi                          ; ?
-Fire Emblem
-Fire Emblem - The Sacred Stones
+Final Fight One                                        ;
+Fire Emblem - Fuuin no Tsurugi                         ; ?
+Fire Emblem                                            ;
+Fire Emblem - The Sacred Stones                        ;
 Golden Sun                                             ; ?
-Golden Sun - The Lost Age
+Golden Sun - The Lost Age                              ;
 Gradius Galaxy                                         ; ?
 Gunstar Super Heroes                                   ; excellent
-Harvest Moon - Friends of Mineral Town
-Harvest Moon - More Friends of Mineral Town
+Harvest Moon - Friends of Mineral Town                 ;
+Harvest Moon - More Friends of Mineral Town            ;
 Kingdom Hearts - Chain of Memories                     ; ?
-Kirby & the Amazing Mirror
-Kirby - Nightmare in Dream Land
-Klonoa
-Klonoa 2 - Dream Champ Tournament
-Konami Collector's Series - Arcade Advanced
-Legend of Spyro - Eternal Nigh
-Legend of Spyro - New Beginning
+Kirby & the Amazing Mirror                             ;
+Kirby - Nightmare in Dream Land                        ;
+Klonoa                                                 ;
+Klonoa 2 - Dream Champ Tournament                      ;
+Konami Collector's Series - Arcade Advanced            ;
+Legend of Spyro - Eternal Nigh                         ;
+Legend of Spyro - New Beginning                        ;
 Lufia - The Ruins of Lore                              ; ?
-Lunar Legend
-Mario & Luigi - Superstar Saga
-Mario Kart Super Circuit
-Mario Tennis - Power Tour
-Mario vs. Donkey Kong
-Mazes of Fate
-Mega Man & Bass
-Mega Man Battle Network
+Lunar Legend                                           ;
+Mario & Luigi - Superstar Saga                         ;
+Mario Kart Super Circuit                               ;
+Mario Tennis - Power Tour                              ;
+Mario vs. Donkey Kong                                  ;
+Mazes of Fate                                          ;
+Mega Man & Bass                                        ;
+Mega Man Battle Network                                ;
 Mega Man Battle Network 2                              ; ?
 Mega Man Battle Network 3 blue / white                 ; ?
 Mega Man Battle Network 4 blue moon / red sun          ; ?
@@ -1170,63 +1170,63 @@ Mega Man Zero                                          ; good
 Mega Man Zero 2                                        ; good
 Mega Man Zero 3                                        ; excellent
 Mega Man Zero 4                                        ; good
-Metal Slug Advance
+Metal Slug Advance                                     ;
 Metroid - Zero Mission                                 ; good
 Metroid Fusion                                         ; good
-Mortal Kombat - Deadly Alliance
-Mortal Kombat - Tournament edition
-Mortal Kombat Advance
+Mortal Kombat - Deadly Alliance                        ;
+Mortal Kombat - Tournament edition                     ;
+Mortal Kombat Advance                                  ;
 Mother 1 & 2                                           ; ?
-Mother 3
-Ninja Five-0
+Mother 3                                               ;
+Ninja Five-0                                           ;
 Phantasy Star Collection                               ; ?
 Pokemon FireRed / LeafGreen                            ; ?
 Pokemon Mystery Dungeon - Red Rescue Team              ; ?
 Pokemon Ruby / Sapphire / Emerald                      ; ?
-Puyo Pop
-Puyo Pop Fever
-Racing Gears Advance
-Rayman - Hoodlums' Revenge
-Rayman - Raving Rabbids
-Rayman 3
-Rayman Advance
+Puyo Pop                                               ;
+Puyo Pop Fever                                         ;
+Racing Gears Advance                                   ;
+Rayman - Hoodlums' Revenge                             ;
+Rayman - Raving Rabbids                                ;
+Rayman 3                                               ;
+Rayman Advance                                         ;
 Rhythm Tengoku                                         ; excellent
 Riviera - The Promised Land                            ; ?
-Rock 'N Roll Racing
+Rock 'N Roll Racing                                    ;
 Shin Bokura no Taiyou - Gyakushuu no Sabata / Boktai 3 ; ?
 Shining Force - Resurrection of the Dark Dragon        ; ?
-Shining Soul
+Shining Soul                                           ;
 Shining Soul 2                                         ; ?
-Sigma Star Saga
+Sigma Star Saga                                        ;
 Sonic Advance                                          ; ?
-Sonic Advance 2
-Sonic Advance 3
+Sonic Advance 2                                        ;
+Sonic Advance 3                                        ;
 Sonic Battle                                           ; good
-Sonic the hedgehog
-Street Fighter Alpha 3
-Super Ghouls 'n Ghosts
+Sonic the hedgehog                                     ;
+Street Fighter Alpha 3                                 ;
+Super Ghouls 'n Ghosts                                 ;
 Super Mario Advance - Super Mario Bros 2               ; good
 Super Mario Advance 4 - Super Mario Bros 3             ; good
 Super Mario World - Super Mario Advance 2              ; excellent
-Super Robot Taisen - Original Generation 2
+Super Robot Taisen - Original Generation 2             ;
 Super Robot Taisen Original Generations                ; ?
 Super Street Fighter 2 Turbo - Revival                 ; good
 Sword of Mana                                          ; ?
-TMNT
-Tactics Ogre - The Knight of Lodis
-Tak 2 - The Staff of Dreamss
-Tak and the Power of Juju
+TMNT                                                   ;
+Tactics Ogre - The Knight of Lodis                     ;
+Tak 2 - The Staff of Dreamss                           ;
+Tak and the Power of Juju                              ;
 Tales of Phantasia                                     ; ?
-Tekken Advance
-The King of Fighters EX - Neo Blood
-The King of Fighters EX2 - Howling Blood
+Tekken Advance                                         ;
+The King of Fighters EX - Neo Blood                    ;
+The King of Fighters EX2 - Howling Blood               ;
 The Legend of Zelda - A Link to the Past               ; excellent
 The Legend of Zelda - The Minish Cap                   ; good
-Wade Hixton's Counter Punch
+Wade Hixton's Counter Punch                            ;
 Wario Land 4                                           ; excellent
 WarioWare - Twisted!                                   ; ?
 WarioWare, Inc. - Mega Microgame$!                     ; ?
-Wolfenstein 3D
+Wolfenstein 3D                                         ;
 Yggdra Unionv                                          ; ?
 Yoshi's Island - Super Mario Advance 3                 ; excellent
 ```
