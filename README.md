@@ -7,8 +7,8 @@ Home:
 - Atari 2600 - 1977
 - Nintendo Entertainment System (NES) - 1983
 - Sega Master System - 1985
-- Turbografx - 1987
-- Sega Mega Drive - 1988
+- Turbografx-16 - 1987
+- Sega Genesis - 1988
 - Super Nintento Entertainment System (SNES) - 1990
 
 Handheld:
@@ -19,7 +19,7 @@ Handheld:
 - Game Boy Color - 1998
 - Game Boy Advance - 2001
 
-Note: Sega Nomad runs same games of the Sega Megadrive; the TurboExpress runs same games of Turbografx.
+Note: Sega Nomad runs same games of the Sega Genesis; the TurboExpress runs same games of Turbografx.
 
 Atari 2600
 ========
@@ -522,149 +522,149 @@ Yoshi's Cookie                                       ;           ; SNES
 Zombies Ate My Neighbors                             ; good      ; SNES
 ```
 
-Megadrive / Nomad
+Genesis / Nomad
 =================
 
 ```
-Advanced Busterhawk Gleylancer                         ;           ; mega-drive
-Aero Blasters                                          ; good      ; mega-drive
-Aerobiz Supersonic                                     ; ?         ; mega-drive
-After Burner II                                        ;           ; mega-drive
-Alex Kidd in the Enchanted Castle                      ;           ; mega-drive
-Alien Soldier                                          ; good      ; mega-drive
-Alisia Dragoon                                         ;           ; mega-drive
-Altered Beast                                          ;           ; mega-drive
-Arrow Flash                                            ;           ; mega-drive
-Atomic Robo-Kid                                        ;           ; mega-drive
-Atomic Runner                                          ;           ; mega-drive
-Battlemania - Daiginjou                                ; excellent ; mega-drive
-Battletoads & Double Dragon - The Ultimate Team        ; good      ; mega-drive
-Bio-Hazard Battle                                      ;           ; mega-drive
-Bishoujo Senshi Sailor Moon                            ;           ; mega-drive
-Bonanza Bros.                                          ; good      ; mega-drive
-Bubba 'n' Stix                                         ; excellent ; mega-drive
-Buck Rogers - Countdown to Doomsday                    ; ?         ; mega-drive
-Burning Force                                          ;           ; mega-drive
-Castle of Illusion Starring Mickey Mouse               ; good      ; mega-drive
-Castlevania - Bloodlines                               ; excellent ; mega-drive
-Chiki Chiki Boys                                       ;           ; mega-drive
-Classic Collection                                     ; good      ; mega-drive
-Comix Zone                                             ;           ; mega-drive
-Contra - Hard Corps                                    ; excellent ; mega-drive
-Crack Down                                             ;           ; mega-drive
-Curse                                                  ;           ; mega-drive
-DJ Boy                                                 ;           ; mega-drive
-Dahna - Megami Tanjou                                  ;           ; mega-drive
-Dashin' Desperadoes                                    ;           ; mega-drive
-Devilish                                               ;           ; mega-drive
-Disney's Aladdin                                       ;           ; mega-drive
-Donald in Maui Mallard                                 ; good      ; mega-drive
-Double Dragon                                          ;           ; mega-drive
-Double Dragon 2                                        ;           ; mega-drive
-Double Dragon 3                                        ;           ; mega-drive
-Dr. Robotnik's Mean Bean Machine                       ;           ; mega-drive
-Dragon Ball Z - Buyuu Retsuden                         ;           ; mega-drive
-Dune - The Battle for Arrakis                          ; ?         ; mega-drive
-Dynamite Headdy                                        ; excellent ; mega-drive
-Earthworm Jim 2                                        ; excellent ; mega-drive
-Ecco the Dolphin                                       ; good      ; mega-drive
-Ecco the Dolphin II                                    ;           ; mega-drive
-El Viento                                              ;           ; mega-drive
-Elemental Master                                       ;           ; mega-drive
-Flashback                                              ; ?         ; mega-drive
-Forgotten Worlds                                       ;           ; mega-drive
-Gaiares                                                ;           ; mega-drive
-Gain Ground                                            ; excellent ; mega-drive
-Gauntlet 4                                             ; good      ; mega-drive
-Ghouls 'N Ghosts                                       ; excellent ; mega-drive
-Golden Axe                                             ;           ; mega-drive
-Golden Axe II                                          ;           ; mega-drive
-Golden Axe III                                         ;           ; mega-drive
-Granada                                                ; good      ; mega-drive
-Greatest Heavyweights                                  ;           ; mega-drive
-Gunstar Heroes                                         ; excellent ; mega-drive
-Hellfire                                               ;           ; mega-drive
-Herzog Zwei                                            ;           ; mega-drive
-James Pond - Underwater Agent                          ;           ; mega-drive
-Kid Chameleon                                          ;           ; mega-drive
-LandStalker - The Treasures of King Nole               ; good      ; mega-drive
-Lightening Force - Quest for the Darkstar              ; excellent ; mega-drive
-M.U.S.H.A.                                             ; good      ; mega-drive
-Marvel Land                                            ; good      ; mega-drive
-Mega Bomberman                                         ;           ; mega-drive
-Mega Man - The Wily Wars                               ; good      ; mega-drive
-Mickey Mania - The Timeless Adventures of Mickey Mouse ; good      ; mega-drive
-Micro Machines                                         ;           ; mega-drive
-Micro Machines 2 - Turbo Tournament                    ; good      ; mega-drive
-Micro Machines Military                                ;           ; mega-drive
-Micro Machines Turbo Tournament '96                    ; excellent ; mega-drive
-Mortal Kombat                                          ;           ; mega-drive
-Mortal Kombat 2                                        ;           ; mega-drive
-Mortal Kombat 3                                        ;           ; mega-drive
-Mystic Defender                                        ;           ; mega-drive
-OutRun                                                 ;           ; mega-drive
-OutRunners                                             ;           ; mega-drive
-Outlander                                              ;           ; mega-drive
-Puyo Puyo                                              ;           ; mega-drive
-Puyo Puyo 2                                            ;           ; mega-drive
-Panorama Cotton                                        ;           ; mega-drive ; only japan ; text skippable : shot'em
-Phantasy Star II                                       ; ?         ; mega-drive
-Phantasy Star III - Generations of Doom                ; ?         ; mega-drive
-Phantasy Star IV - The End of the Millennium           ; ?         ; mega-drive
-Pulseman                                               ; good      ; mega-drive
-Ranger X                                               ;           ; mega-drive
-Rent A Hero                                            ; ?         ; mega-drive
-Richard Scarry's Busytown                              ;           ; mega-drive
-Ristar                                                 ; good      ; mega-drive
-RoadBlasters                                           ;           ; mega-drive
-RoboCop versus The Terminator                          ;           ; mega-drive
-Rocket Knight Adventures                               ; excellent ; mega-drive
-Rolling Thunder 2                                      ;           ; mega-drive
-Rolling Thundjjker 3                                   ;           ; mega-drive
-Samurai Shodown                                        ; excellent ; mega-drive
-Shadow Dancer - The Secret of Shinobi                  ;           ; mega-drive
-Shining Force                                          ; ?         ; mega-drive
-Shining Force II                                       ; ?         ; mega-drive
-Shining in the Darkness                                ;           ; mega-drive
-Shinobi III - Return of the Ninja Master               ; excellent ; mega-drive
-Snake Rattle 'n' Roll                                  ;           ; mega-drive
-Sonic and Knuckles                                     ; good      ; mega-drive
-Sonic the Hedgehog                                     ; good      ; mega-drive
-Sonic the Hedgehog 2                                   ; excellent ; mega-drive
-Sonic the Hedgehog 3                                   ; good      ; mega-drive
-Sparkster                                              ;           ; mega-drive ; Rocket Knight Adventures 2
-Splatterhouse 2                                        ;           ; mega-drive
-Splatterhouse 3                                        ;           ; mega-drive
-Star Control                                           ;           ; mega-drive
-Starflight                                             ;           ; mega-drive
-Street Fighter II - Champion Edition                   ; excellent ; mega-drive
-Streets of Rage                                        ;           ; mega-drive
-Streets of Rage 2                                      ;           ; mega-drive
-Streets of Rage 3                                      ;           ; mega-drive
-Super Fantasy Zone                                     ; good      ; mega-drive
-Target Earth                                           ;           ; mega-drive
-Teenage Mutant Hero Turtles - The Hyperstone Heist     ;           ; mega-drive
-The Faery Tale Adventure                               ; ?         ; mega-drive
-The Revenge of Shinobi                                 ;           ; mega-drive
-Thunder Force II                                       ;           ; mega-drive
-Thunder Force III                                      ; good      ; mega-drive
-Thunder Force IV                                       ; good      ; mega-drive
-ToeJam & Earl                                          ; ?         ; mega-drive
-ToeJam & Earl in Panic on Funkotron                    ;           ; mega-drive
-Trouble Shooter                                        ; good      ; mega-drive
-Twinkle Tale                                           ; good      ; mega-drive
-Vapor Trail                                            ;           ; mega-drive
-Vectorman                                              ;           ; mega-drive
-Vectorman 2                                            ;           ; mega-drive
-Wani Wani World                                        ;           ; mega-drive
-Whip Rush                                              ;           ; mega-drive
-Wings of Wor                                           ;           ; mega-drive
-Wonder Boy III - Monster Lair                          ;           ; mega-drive
-Wonder Boy in Monster World                            ; excellent ; mega-drive
-Worms                                                  ;           ; mega-drive
-YuYu Hakusho - Makyou Toitsusen                        ;           ; mega-drive
-Zero Wing                                              ;           ; mega-drive
-Zool                                                   ;           ; mega-drive
+Advanced Busterhawk Gleylancer                         ;           ; genesis
+Aero Blasters                                          ; good      ; genesis
+Aerobiz Supersonic                                     ; ?         ; genesis
+After Burner II                                        ;           ; genesis
+Alex Kidd in the Enchanted Castle                      ;           ; genesis
+Alien Soldier                                          ; good      ; genesis
+Alisia Dragoon                                         ;           ; genesis
+Altered Beast                                          ;           ; genesis
+Arrow Flash                                            ;           ; genesis
+Atomic Robo-Kid                                        ;           ; genesis
+Atomic Runner                                          ;           ; genesis
+Battlemania - Daiginjou                                ; excellent ; genesis
+Battletoads & Double Dragon - The Ultimate Team        ; good      ; genesis
+Bio-Hazard Battle                                      ;           ; genesis
+Bishoujo Senshi Sailor Moon                            ;           ; genesis
+Bonanza Bros.                                          ; good      ; genesis
+Bubba 'n' Stix                                         ; excellent ; genesis
+Buck Rogers - Countdown to Doomsday                    ; ?         ; genesis
+Burning Force                                          ;           ; genesis
+Castle of Illusion Starring Mickey Mouse               ; good      ; genesis
+Castlevania - Bloodlines                               ; excellent ; genesis
+Chiki Chiki Boys                                       ;           ; genesis
+Classic Collection                                     ; good      ; genesis
+Comix Zone                                             ;           ; genesis
+Contra - Hard Corps                                    ; excellent ; genesis
+Crack Down                                             ;           ; genesis
+Curse                                                  ;           ; genesis
+DJ Boy                                                 ;           ; genesis
+Dahna - Megami Tanjou                                  ;           ; genesis
+Dashin' Desperadoes                                    ;           ; genesis
+Devilish                                               ;           ; genesis
+Disney's Aladdin                                       ;           ; genesis
+Donald in Maui Mallard                                 ; good      ; genesis
+Double Dragon                                          ;           ; genesis
+Double Dragon 2                                        ;           ; genesis
+Double Dragon 3                                        ;           ; genesis
+Dr. Robotnik's Mean Bean Machine                       ;           ; genesis
+Dragon Ball Z - Buyuu Retsuden                         ;           ; genesis
+Dune - The Battle for Arrakis                          ; ?         ; genesis
+Dynamite Headdy                                        ; excellent ; genesis
+Earthworm Jim 2                                        ; excellent ; genesis
+Ecco the Dolphin                                       ; good      ; genesis
+Ecco the Dolphin II                                    ;           ; genesis
+El Viento                                              ;           ; genesis
+Elemental Master                                       ;           ; genesis
+Flashback                                              ; ?         ; genesis
+Forgotten Worlds                                       ;           ; genesis
+Gaiares                                                ;           ; genesis
+Gain Ground                                            ; excellent ; genesis
+Gauntlet 4                                             ; good      ; genesis
+Ghouls 'N Ghosts                                       ; excellent ; genesis
+Golden Axe                                             ;           ; genesis
+Golden Axe II                                          ;           ; genesis
+Golden Axe III                                         ;           ; genesis
+Granada                                                ; good      ; genesis
+Greatest Heavyweights                                  ;           ; genesis
+Gunstar Heroes                                         ; excellent ; genesis
+Hellfire                                               ;           ; genesis
+Herzog Zwei                                            ;           ; genesis
+James Pond - Underwater Agent                          ;           ; genesis
+Kid Chameleon                                          ;           ; genesis
+LandStalker - The Treasures of King Nole               ; good      ; genesis
+Lightening Force - Quest for the Darkstar              ; excellent ; genesis
+M.U.S.H.A.                                             ; good      ; genesis
+Marvel Land                                            ; good      ; genesis
+Mega Bomberman                                         ;           ; genesis
+Mega Man - The Wily Wars                               ; good      ; genesis
+Mickey Mania - The Timeless Adventures of Mickey Mouse ; good      ; genesis
+Micro Machines                                         ;           ; genesis
+Micro Machines 2 - Turbo Tournament                    ; good      ; genesis
+Micro Machines Military                                ;           ; genesis
+Micro Machines Turbo Tournament '96                    ; excellent ; genesis
+Mortal Kombat                                          ;           ; genesis
+Mortal Kombat 2                                        ;           ; genesis
+Mortal Kombat 3                                        ;           ; genesis
+Mystic Defender                                        ;           ; genesis
+OutRun                                                 ;           ; genesis
+OutRunners                                             ;           ; genesis
+Outlander                                              ;           ; genesis
+Puyo Puyo                                              ;           ; genesis
+Puyo Puyo 2                                            ;           ; genesis
+Panorama Cotton                                        ;           ; genesis ; only japan ; text skippable : shot'em
+Phantasy Star II                                       ; ?         ; genesis
+Phantasy Star III - Generations of Doom                ; ?         ; genesis
+Phantasy Star IV - The End of the Millennium           ; ?         ; genesis
+Pulseman                                               ; good      ; genesis
+Ranger X                                               ;           ; genesis
+Rent A Hero                                            ; ?         ; genesis
+Richard Scarry's Busytown                              ;           ; genesis
+Ristar                                                 ; good      ; genesis
+RoadBlasters                                           ;           ; genesis
+RoboCop versus The Terminator                          ;           ; genesis
+Rocket Knight Adventures                               ; excellent ; genesis
+Rolling Thunder 2                                      ;           ; genesis
+Rolling Thundjjker 3                                   ;           ; genesis
+Samurai Shodown                                        ; excellent ; genesis
+Shadow Dancer - The Secret of Shinobi                  ;           ; genesis
+Shining Force                                          ; ?         ; genesis
+Shining Force II                                       ; ?         ; genesis
+Shining in the Darkness                                ;           ; genesis
+Shinobi III - Return of the Ninja Master               ; excellent ; genesis
+Snake Rattle 'n' Roll                                  ;           ; genesis
+Sonic and Knuckles                                     ; good      ; genesis
+Sonic the Hedgehog                                     ; good      ; genesis
+Sonic the Hedgehog 2                                   ; excellent ; genesis
+Sonic the Hedgehog 3                                   ; good      ; genesis
+Sparkster                                              ;           ; genesis ; Rocket Knight Adventures 2
+Splatterhouse 2                                        ;           ; genesis
+Splatterhouse 3                                        ;           ; genesis
+Star Control                                           ;           ; genesis
+Starflight                                             ;           ; genesis
+Street Fighter II - Champion Edition                   ; excellent ; genesis
+Streets of Rage                                        ;           ; genesis
+Streets of Rage 2                                      ;           ; genesis
+Streets of Rage 3                                      ;           ; genesis
+Super Fantasy Zone                                     ; good      ; genesis
+Target Earth                                           ;           ; genesis
+Teenage Mutant Hero Turtles - The Hyperstone Heist     ;           ; genesis
+The Faery Tale Adventure                               ; ?         ; genesis
+The Revenge of Shinobi                                 ;           ; genesis
+Thunder Force II                                       ;           ; genesis
+Thunder Force III                                      ; good      ; genesis
+Thunder Force IV                                       ; good      ; genesis
+ToeJam & Earl                                          ; ?         ; genesis
+ToeJam & Earl in Panic on Funkotron                    ;           ; genesis
+Trouble Shooter                                        ; good      ; genesis
+Twinkle Tale                                           ; good      ; genesis
+Vapor Trail                                            ;           ; genesis
+Vectorman                                              ;           ; genesis
+Vectorman 2                                            ;           ; genesis
+Wani Wani World                                        ;           ; genesis
+Whip Rush                                              ;           ; genesis
+Wings of Wor                                           ;           ; genesis
+Wonder Boy III - Monster Lair                          ;           ; genesis
+Wonder Boy in Monster World                            ; excellent ; genesis
+Worms                                                  ;           ; genesis
+YuYu Hakusho - Makyou Toitsusen                        ;           ; genesis
+Zero Wing                                              ;           ; genesis
+Zool                                                   ;           ; genesis
 ```
 
 Turbografx / TurboExpress
@@ -935,7 +935,7 @@ Phantasy Star Adventure                         ;           ; game-gear
 Phantasy Star Gaiden                            ;           ; game-gear
 Power Strike II                                 ; excellent ; game-gear ; japan title: GG Aleste II
 Prince of Persia                                ; excellent ; game-gear
-Psychic World                                   ; excellent ; game-gear ; better than mastersystem version
+Psychic World                                   ; excellent ; game-gear ; better than master-system version
 Puyo Puyo                                       ;           ; game-gear
 Puyo Puyo 2                                     ;           ; game-gear
 Puzzle & Action: Tant-R                         ;           ; game-gear
@@ -1365,34 +1365,34 @@ SNES ; @ ; ?? ; Thunder spirits (thunder force series)
 SNES ; @ ; ?? ; Lady stalker ; (landstalker 2) jap lot of text
 SNES ; @ ; ?? ; Wild Guns
 SNES ; @ ; ?? ; Kendo Rage (1 and 2 ??)
-MEGADRIVE ; + ; 02 ; Aerobiz Supersonic
-MEGADRIVE ; + ; 13 ; Ecco the Dolphin
-MEGADRIVE ; + ; 22 ; Dune - The Battle for Arrakis
-MEGADRIVE ; + ; 43 ; Flashback
-MEGADRIVE ; - ; 18 ; ToeJam & Earl
-MEGADRIVE ; - ; 23 ; The Faery Tale Adventure
-MEGADRIVE ; - ; 33 ; Rent A Hero
-MEGADRIVE ; - ; 47 ; Buck Rogers - Countdown to Doomsday
-MEGADRIVE ; - ; 59 ; Shining Force
-MEGADRIVE ; - ; 62 ; Shining Force II
-MEGADRIVE ; - ; 72 ; Phantasy Star IV - The End of the Millennium
-MEGADRIVE ; - ; 80 ; Phantasy Star III - Generations of Doom
-MEGADRIVE ; - ; 84 ; Phantasy Star II
-MEGADRIVE ; @ ; ?? ; Battle Mania Daiginjou ; Trouble Shooter 2
-MEGADRIVE ; @ ; ?? ; mercs
-MEGADRIVE ; @ ; ?? ; Super Smash TV
-MEGADRIVE ; @ ; ?? ; mega turrican
-MEGADRIVE ; @ ; ?? ; Devil Hunter Yohko
-PCENGINE ; + ; 10 ; Military Madness
-PCENGINE ; + ; 22 ; Neutopia II
-PCENGINE ; - ; 20 ; Momotarou Katsugeki
-PCENGINE ; - ; 49 ; Neutopia
-PCENGINE ; - ; 50 ; Order of the Griffin
-PCENGINE ; - ; ?? ; Populous
-PCENGINE ; @ ; ?? ; Aldynes
-PCENGINE ; @ ; ?? ; Jaseiken Necromancer
-PCENGINE ; @ ; ?? ; Valis (1-2-3-4) ???
-PCENGINE ; @ ; ?? ; j.j. and jeff ????? 
+GENEIS ; + ; 02 ; Aerobiz Supersonic
+GENEIS ; + ; 13 ; Ecco the Dolphin
+GENEIS ; + ; 22 ; Dune - The Battle for Arrakis
+GENEIS ; + ; 43 ; Flashback
+GENEIS ; - ; 18 ; ToeJam & Earl
+GENEIS ; - ; 23 ; The Faery Tale Adventure
+GENEIS ; - ; 33 ; Rent A Hero
+GENEIS ; - ; 47 ; Buck Rogers - Countdown to Doomsday
+GENEIS ; - ; 59 ; Shining Force
+GENEIS ; - ; 62 ; Shining Force II
+GENEIS ; - ; 72 ; Phantasy Star IV - The End of the Millennium
+GENEIS ; - ; 80 ; Phantasy Star III - Generations of Doom
+GENEIS ; - ; 84 ; Phantasy Star II
+GENEIS ; @ ; ?? ; Battle Mania Daiginjou ; Trouble Shooter 2
+GENEIS ; @ ; ?? ; mercs
+GENEIS ; @ ; ?? ; Super Smash TV
+GENEIS ; @ ; ?? ; mega turrican
+GENEIS ; @ ; ?? ; Devil Hunter Yohko
+TURBOGRAFX ; + ; 10 ; Military Madness
+TURBOGRAFX ; + ; 22 ; Neutopia II
+TURBOGRAFX ; - ; 20 ; Momotarou Katsugeki
+TURBOGRAFX ; - ; 49 ; Neutopia
+TURBOGRAFX ; - ; 50 ; Order of the Griffin
+TURBOGRAFX ; - ; ?? ; Populous
+TURBOGRAFX ; @ ; ?? ; Aldynes
+TURBOGRAFX ; @ ; ?? ; Jaseiken Necromancer
+TURBOGRAFX ; @ ; ?? ; Valis (1-2-3-4) ???
+TURBOGRAFX ; @ ; ?? ; j.j. and jeff ?????
 GAMEBOY ; + ; 30 ; Mystical Ninja starring Goemon
 GAMEBOY ; + ; 37 ; Gargoyle's Quest
 GAMEBOY ; + ; 17 ; Ganbare Goemon Hoshizorashi Dyamites Arawaru!!
