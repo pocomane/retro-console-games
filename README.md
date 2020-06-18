@@ -14,7 +14,7 @@ Home:
 Handheld:
 - Game Boy - 1989
 - Game Gear - 1990
-- TurboExpress - 199
+- TurboExpress - 1999
 - Sega Nomad - 1995
 - Game Boy Color - 1998
 - Game Boy Advance - 2001
