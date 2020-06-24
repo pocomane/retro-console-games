@@ -692,7 +692,7 @@ Bonk's Revenge                       ; excellent         ; turbografx game-boy ;
 Cadash                               ; good              ; turbografx
 Chew Man Fu/Be Ball                  ;                   ; turbografx
 Coryoon                              ;                   ; turbografx
-Cratermaze                           ; Doraemon in japan ; turbografx
+Cratermaze                           ;                   ; turbografx ; Doraemon in japan
 Dai Makaimura                        ; excellent         ; turbografx ; Ghouls 'n Ghosts - This is compatible with SuperGrafx only so it should be escluded. However it is a wonderful arcade port that you really should play.
 Darius Alpha                         ; good              ; turbografx
 Darius Plus                          ; good              ; turbografx
@@ -826,7 +826,7 @@ Metroid II - Return of Samus                  ; excellent ; game-boy
 Micro Machines                                ;           ; game-boy NES SNES game-gear master-system genesis game-boy-color ; GBC-PACK Micro Machines I & II
 Mole Mania                                    ; good      ; game-boy
 Motocross Maniacs                             ;           ; game-boy
-Mr. Nutz                                      ;           ; game-boy game-boy-color
+Mr. Nutz                                      ;           ; game-boy game-boy-color ; Other platforms?
 Mystic Quest                                  ;           ; game-boy
 Mystical Ninja starring Goemon                ; ?         ; game-boy
 Ninja Gaiden - Shadow                         ;           ; game-boy
@@ -1038,7 +1038,7 @@ Micro Machines V3                                      ;           ; game-boy-co
 Monster ranch                                          ;           ; game-boy-color
 Montezuma's Return!                                    ;           ; game-boy-color
 Motocross Maniacs 2                                    ;           ; game-boy-color
-Mr. Nutz                                               ; good      ; game-boy-color game-boy
+Mr. Nutz                                               ; good      ; game-boy-color game-boy ; Ohter platfroms?
 Oddworld Adventures II                                 ;           ; game-boy-color
 Pocket Bomberman                                       ;           ; game-boy-color game-boy
 Pokemon Gold / Silver / Cristal                        ; excellent ; game-boy-color
