@@ -1214,6 +1214,8 @@ GENEIS ; @ ; ?? ; mercs
 GENEIS ; @ ; ?? ; Super Smash TV
 GENEIS ; @ ; ?? ; mega turrican
 GENEIS ; @ ; ?? ; Devil Hunter Yohko
+GENEIS ; @ ; ?? ; Blaster Master 2
+GENEIS ; @ ; ?? ; Mazinger
 TURBOGRAFX ; + ; 10 ; Military Madness
 TURBOGRAFX ; + ; 22 ; Neutopia II
 TURBOGRAFX ; - ; 20 ; Momotarou Katsugeki
