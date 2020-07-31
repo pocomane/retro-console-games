@@ -1229,6 +1229,7 @@ TURBOGRAFX ; @ ; ?? ; j.j. and jeff ?????
 TURBOGRAFX ; @ ; ?? ; Barumba ?????
 TURBOGRAFX ; @ ; ?? ; hana taka daka ?
 TURBOGRAFX ; @ ; ?? ; god panic ?
+TURBOGRAFX ; @ ; ?? ; kiki kai kai ?
 GAMEBOY ; + ; 30 ; Mystical Ninja starring Goemon
 GAMEBOY ; + ; 37 ; Gargoyle's Quest
 GAMEBOY ; + ; 17 ; Ganbare Goemon Hoshizorashi Dyamites Arawaru!!
