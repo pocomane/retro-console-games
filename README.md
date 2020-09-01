@@ -649,7 +649,7 @@ Gomola Speed                         ;                   ; turbografx
 Gradius                              ; good              ; turbografx NES ; GBC-PACK Konami GB Collection Vol.1 ; nes version was a sensible down-grade
 Hana Taaka Daka                      ;                   ; turbografx
 Jackie Chan Action Kung Fu           ;                   ; turbografx
-Kyuukyoku Tiger                      ;                   ; turbografx ; Twin Cobra in USA
+Twin Cobra                           ;                   ; turbografx genesis ; Kyuukyoku Tiger in JAP
 Legend of Hero Tonma                 ;                   ; turbografx
 Legendary Axe                        ; excellent         ; turbografx
 Legendary Axe II                     ;                   ; turbografx
@@ -678,7 +678,7 @@ Son Son II                           ; good              ; turbografx
 Spin Pair                            ;                   ; turbografx
 Splatterhouse                        ;                   ; turbografx
 Super Star Soldier                   ;                   ; turbografx
-Tatsujin                             ;                   ; turbografx ; Truxton in USA
+Truxton                              ;                   ; turbografx genesis ; Tatsujin in JAP
 The New Zealand Story                ; good              ; turbografx master-system
 Turrican                             ;                   ; turbografx
 Valkyrie no Densetsu                 ; excellent         ; turbografx
@@ -1154,6 +1154,7 @@ NES ; - ; 19 ; Crystalis
 NES ; - ; 22 ; Dragon Warrior
 NES ; - ; 52 ; Dragon Warrior II
 NES ; - ; 75 ; Shadowgate
+NES ; @ ; ?? ; Image Fight
 MASTERSYSTEM ; - ; 09 ; Populous
 MASTERSYSTEM ; - ; 18 ; Lemmings
 MASTERSYSTEM ; + ; 20 ; Gain Ground
@@ -1216,6 +1217,10 @@ GENEIS ; @ ; ?? ; mega turrican
 GENEIS ; @ ; ?? ; Devil Hunter Yohko
 GENEIS ; @ ; ?? ; Blaster Master 2
 GENEIS ; @ ; ?? ; Mazinger
+GENEIS ; @ ; ?? ; Undeadline
+GENEIS ; @ ; ?? ; Air buster
+GENEIS ; @ ; ?? ; Grind stormer / V V
+GENEIS ; @ ; ?? ; Elimineted Down
 TURBOGRAFX ; + ; 10 ; Military Madness
 TURBOGRAFX ; + ; 22 ; Neutopia II
 TURBOGRAFX ; - ; 20 ; Momotarou Katsugeki
@@ -1230,6 +1235,7 @@ TURBOGRAFX ; @ ; ?? ; Barumba ?????
 TURBOGRAFX ; @ ; ?? ; hana taka daka ?
 TURBOGRAFX ; @ ; ?? ; god panic ?
 TURBOGRAFX ; @ ; ?? ; kiki kai kai ?
+TURBOGRAFX ; @ ; ?? ; Keith Courage in Alpha Zones
 GAMEBOY ; + ; 30 ; Mystical Ninja starring Goemon
 GAMEBOY ; + ; 37 ; Gargoyle's Quest
 GAMEBOY ; + ; 17 ; Ganbare Goemon Hoshizorashi Dyamites Arawaru!!
