@@ -1070,21 +1070,34 @@ Yggdra Unionv                                          ; ?         ; game-boy-ad
 The selection
 =============
 
-In the introduction I used the expression "Curated list of notable retro games for consoles"; let try to clearify some vague or subjective terms.
+In the introduction I used the expression "Curated list of notable retro games
+for consoles"; let try to clearify some vague or subjective terms.
 
 For 'Cosole' I mean a 'Personal entertainment system' i.e.:
 
 1) A computer able to run external software
-2) A system dedicated to the entertainment (e.g. no Home Computers like Commodore64)
+2) A system dedicated to the entertainment (e.g. no Home Computers like
+   Commodore64)
 3) A product sold to the end user (e.g. no Coin-op)
 
 I also would like to enforce a popularity constraint:
 
-4) More than 250 titles must be puiblished for the system, excluding back-compatible games released on previous systems (e.g. no Atari jaguar).
+4) More than 250 titles must be puiblished for the system, excluding
+   back-compatible games released on previous systems (e.g. no Atari jaguar).
 
-Expansion hardware or console revisions are threated as independent systems, compatible with the base ones. So they have to fullfill the selection criteria by itsown (e.g. no Sega CD).
+Expansion hardware or console revisions are threated as independent systems,
+compatible with the base ones. So they have to fullfill the selection criteria
+by itsown (e.g. no Sega CD).
 
-Next, the term 'Retro' is very subjective. Of course it deals with the release date, but to select the right one, some analysis must be done about what seems 'Retro' to us. We mainly perceive something to be 'Retro' if it has few resources: a videogame is not 'Retro' if it has a CD-quality audio theme or detailed textures. So I chose  release date of the first playstation as the deadline, since from that point on, the games start to be ~10 times bigger than before. Similar reasoning is for the handheld systems, but due to tecnical limitation, the market changes later: here the release date of the Nintendo DS is taken. So:
+Next, the term 'Retro' is very subjective. Of course it deals with the release
+date, but to select the right one, some analysis must be done about what seems
+'Retro' to us. We mainly perceive something to be 'Retro' if it has few
+resources: a videogame is not 'Retro' if it has a CD-quality audio theme or
+detailed textures. So I chose  release date of the first playstation as the
+deadline, since from that point on, the games start to be ~10 times bigger than
+before. Similar reasoning is for the handheld systems, but due to tecnical
+limitation, the market changes later: here the release date of the Nintendo DS
+is taken. So:
 
 6) An home system must be released before the 1994 (e.g no Sega Saturn)
 7) An handheld system must be released before the 2004 (e.g no Nintendo DS)
@@ -1092,23 +1105,34 @@ Next, the term 'Retro' is very subjective. Of course it deals with the release d
 Last but not the least, the constraints on the single games are:
 
 - The game must be officially relesed before the system discontinuation
-- The game size must be less than 32 Mb (for the same 'Retro' reason discussed before)
+- The game size must be less than 32 Mb (for the same 'Retro' reason discussed
+  before)
 - When multiple version are released, the USA title will be used.
 
-Note: I included also titles that were released in Japanese only, since today it is quite simple to find patches, or english versions in subsequent collections. The japanese title is used in this case with a reference to the USA title. (e.g. Torneko no Daibōken / Mystery dungeon)
+Note: I included also titles that were released in Japanese only, since today
+it is quite simple to find patches, or english versions in subsequent
+collections. The japanese title is used in this case with a reference to the
+USA title. (e.g. Torneko no Daibōken / Mystery dungeon)
 
-Moreover, this is a 'Curated' list, meaning that I will select games based personal opinions. General criteria are:
+Moreover, this is a 'Curated' list, meaning that I will select games based
+personal opinions. General criteria are:
 
 - It can be one of the best games of the system (in my opinion)
 - It can be a decent game that is a sequel or prequel of another game in the list
 - It can have some importance for the history of the videogame
 - I can just be attached to it
 
-Note: I do not like the sport simulation, so only an handfull of them are added. However, they are kept if the sport is just an ispiration for some nice mechanic. E.g. no to 'Pro evolution soccer', yes to 'Sensible soccer'.
+Note: I do not like the sport simulation, so only an handfull of them are
+added. However, they are kept if the sport is just an ispiration for some nice
+mechanic. E.g. no to 'Pro evolution soccer', yes to 'Sensible soccer'.
 
-Last note: somewhere during the game boy era, multiple versions of the same game starts to came out contemporary, on the same system and with minimal differences. Here I will list them as a single title (e.g. Pokemon red / blue / yellow).
+Last note: somewhere during the game boy era, multiple versions of the same
+game starts to came out contemporary, on the same system and with minimal
+differences. Here I will list them as a single title (e.g. Pokemon red / blue /
+yellow).
 
-I will try to make as few exception as I can. Some informations about excluded systems follows:
+I will try to make as few exception as I can. Some informations about excluded
+systems follows:
 
 ```
 Home
@@ -1133,9 +1157,11 @@ Bandai WonderSwan - March 1999 - 103 games - 1 Mb
 Labels
 ======
 
-I added some note after some title e.g. the english name for a japan-only game. More important I use the following labels to highlight some games.
+I added some note after some title e.g. the english name for a japan-only game.
+More important I use the following labels to highlight some games.
 
-- `excellent` - Top games for the system, play this ones first; redundant games are skipped.
+- `excellent` - Top games for the system, play this ones first; redundant games
+                are skipped.
 - `good` - Very good games; subsidiary games are skipped.
 - '?' - Refer to the next section (WIP / TODO)
 
@@ -1146,10 +1172,10 @@ WIP / TODO
 
 - Add ~7 "very good" label to gba.
 
-- The following titles needs more time to be evaluated in order to assign to them
-  the proper labels. An indicative positional index is given. '+' means that
-  probably a 'excellent' label should be given. '-' means 'good', maybe. '@' means
-  to add to the list, maybe.
+- The following titles needs more time to be evaluated in order to assign to
+  them the proper labels. An indicative positional index is given. '+' means
+  that probably a 'excellent' label should be given. '-' means probably 'good'.
+  '@' means to add to the list, maybe.
 
 ```
 ATARI2600 ; @@ ; ?? ; Canyon Bomber
