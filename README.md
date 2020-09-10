@@ -1,7 +1,10 @@
 Retro Console Game
 =================
 
-This is a curated list of notable retro games for consoles. In the last sections there is an explanation of what I mean as well as a description of several "Labels" I used in the lists. To make a long story short, this is a list of the most interesting games (in my opinion) for the following systems:
+This is a curated list of notable retro games for consoles. In the last
+sections there is an explanation of what I mean as well as a description of
+several "Labels" I used in the lists. To make a long story short, this is a
+list of the most interesting games (in my opinion) for the following systems:
 
 Home:
 - Atari 2600 - 1977
@@ -19,11 +22,13 @@ Handheld:
 - Game Boy Color - 1998
 - Game Boy Advance - 2001
 
-Note 1: The games are divided in a per-platform list, but each game is listed
-just once, in the section within we think it si most relevant. However each
-game has a list of all the platform where it can be played.
+Note 1: The games are divided in a per-platform sections. If the same game is
+avaiable for more than one platform, I list it only in the section where I
+think it is more relevant.  However each game has a list of all the platform
+where it can be played.
 
-Note 2: Sega Nomad runs same games of the Sega Genesis; the TurboExpress runs same games of Turbografx.
+Note 2: The references for the Nomad and the TurboExpress are missing since
+they runs Genesis and Turbografx games respectively.
 
 Atari 2600
 ========
@@ -1067,7 +1072,7 @@ The selection
 
 In the introduction I used the expression "Curated list of notable retro games for consoles"; let try to clearify some vague or subjective terms.
 
-For 'Cosole' we mean a 'Personal entertainment system' i.e.:
+For 'Cosole' I mean a 'Personal entertainment system' i.e.:
 
 1) A computer able to run external software
 2) A system dedicated to the entertainment (e.g. no Home Computers like Commodore64)
@@ -1090,7 +1095,7 @@ Last but not the least, the constraints on the single games are:
 - The game size must be less than 32 Mb (for the same 'Retro' reason discussed before)
 - When multiple version are released, the USA title will be used.
 
-Note: we included also titles that were released in Japanese only, since today it is quite simple to find patches, or english versions in subsequent collections. The japanese title is used in this case with a reference to the USA title. (e.g. Torneko no Daibōken / Mystery dungeon)
+Note: I included also titles that were released in Japanese only, since today it is quite simple to find patches, or english versions in subsequent collections. The japanese title is used in this case with a reference to the USA title. (e.g. Torneko no Daibōken / Mystery dungeon)
 
 Moreover, this is a 'Curated' list, meaning that I will select games based personal opinions. General criteria are:
 
