@@ -1,4 +1,4 @@
-Retro Console Games
+Retro Console Game
 =================
 
 This is a curated list of notable retro games for consoles. In the last sections there is an explanation of what I mean as well as a description of several "Labels" I used in the lists. To make a long story short, this is a list of the most interesting games (in my opinion) for the following systems:
@@ -1147,6 +1147,13 @@ WIP / TODO
   to add to the list, maybe.
 
 ```
+ATARI2600 ; @@ ; ?? ; Canyon Bomber
+ATARI2600 ; @@ ; ?? ; Steeplechase
+ATARI2600 ; @@ ; ?? ; Tempest
+ATARI2600 ; @@ ; ?? ; Aquaventure
+ATARI2600 ; @@ ; ?? ; Wizard
+ATARI2600 ; @@ ; ?? ; Air Sea Battle ?
+ATARI2600 ; @@ ; ?? ; Dark Chambers
 NES ; + ; 27 ; StarTropics
 NES ; + ; 37 ; Maniac Mansion
 NES ; + ; 46 ; Faxanadu
@@ -1155,6 +1162,12 @@ NES ; - ; 22 ; Dragon Warrior
 NES ; - ; 52 ; Dragon Warrior II
 NES ; - ; 75 ; Shadowgate
 NES ; @ ; ?? ; Image Fight
+NES ; @ ; ?? ; Bad dudes
+NES ; @ ; ?? ; Renegade
+NES ; @ ; ?? ; Crash 'n' the Boys: Street Challenge
+NES ; @ ; ?? ; Tower of druaga ?
+NES ; @ ; ?? ; The Adventures of Rad Gravity ?
+NES ; @ ; ?? ; Commando ; (Mercs prequel)
 MASTERSYSTEM ; - ; 09 ; Populous
 MASTERSYSTEM ; - ; 18 ; Lemmings
 MASTERSYSTEM ; + ; 20 ; Gain Ground
@@ -1183,9 +1196,9 @@ SNES ; - ; 85 ; Star Ocean
 SNES ; - ; 86 ; Lufia II - Rise of the Sinistrals
 SNES ; - ; 94 ; Breath of Fire
 SNES ; - ; 96 ; Blackthorne
-SNES ; @ ; ?? ; Fantastic Journey ; Gokujo Parodius – Pursuing the Past Glory[a]
+SNES ; @ ; ?? ; Fantastic Journey ; Gokujo Parodius – Pursuing the Past Glory[a] ?
 SNES ; @ ; ?? ; Jikkyō Oshaberi Parodius
-SNES ; @ ; ?? ; sexy parodius
+SNES ; @ ; ?? ; sexy parodius ?
 SNES ; @ ; ?? ; U.N. Squadron
 SNES ; @ ; ?? ; biometal
 SNES ; @ ; ?? ; king of dragons
@@ -1196,7 +1209,13 @@ SNES ; @ ; ?? ; Super Smash TV
 SNES ; @ ; ?? ; Thunder spirits (thunder force series)
 SNES ; @ ; ?? ; Lady stalker ; (landstalker 2) jap lot of text
 SNES ; @ ; ?? ; Wild Guns
-SNES ; @ ; ?? ; Kendo Rage (1 and 2 ??)
+SNES ; @ ; ?? ; Kendo Rage
+SNES ; @ ; ?? ; Kendo Rage 2 ?
+SNES ; @ ; ?? ; Boogerman
+SNES ; @ ; ?? ; Incantation
+SNES ; @ ; ?? ; Fighter's History
+SNES ; @ ; ?? ; Metal Marines
+SNES ; @ ; ?? ; Chaos Engine
 GENEIS ; + ; 02 ; Aerobiz Supersonic
 GENEIS ; + ; 13 ; Ecco the Dolphin
 GENEIS ; + ; 22 ; Dune - The Battle for Arrakis
@@ -1211,16 +1230,19 @@ GENEIS ; - ; 72 ; Phantasy Star IV - The End of the Millennium
 GENEIS ; - ; 80 ; Phantasy Star III - Generations of Doom
 GENEIS ; - ; 84 ; Phantasy Star II
 GENEIS ; @ ; ?? ; Battle Mania Daiginjou ; Trouble Shooter 2
-GENEIS ; @ ; ?? ; mercs
+GENEIS ; @ ; ?? ; mercs ; Senjou no Ookami II
 GENEIS ; @ ; ?? ; Super Smash TV
 GENEIS ; @ ; ?? ; mega turrican
-GENEIS ; @ ; ?? ; Devil Hunter Yohko
+GENEIS ; @ ; ?? ; Devil Hunter Yohko ?
 GENEIS ; @ ; ?? ; Blaster Master 2
-GENEIS ; @ ; ?? ; Mazinger
+GENEIS ; @ ; ?? ; Mazinger ?
 GENEIS ; @ ; ?? ; Undeadline
 GENEIS ; @ ; ?? ; Air buster
 GENEIS ; @ ; ?? ; Grind stormer / V V
 GENEIS ; @ ; ?? ; Elimineted Down
+GENEIS ; @ ; ?? ; Two Crude
+GENEIS ; @ ; ?? ; Phelios
+GENEIS ; @ ; ?? ; Weaponlord
 TURBOGRAFX ; + ; 10 ; Military Madness
 TURBOGRAFX ; + ; 22 ; Neutopia II
 TURBOGRAFX ; - ; 20 ; Momotarou Katsugeki
