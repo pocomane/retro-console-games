@@ -1090,29 +1090,26 @@ compatible with the base ones. So they have to fullfill the selection criteria
 by itsown (e.g. no Sega CD).
 
 Next, the term 'Retro' is very subjective. Of course it deals with the release
-date, but to select the right one, some analysis must be done about what seems
-'Retro' to us. We mainly perceive something to be 'Retro' if it has few
-resources: a videogame is not 'Retro' if it has a CD-quality audio theme or
-detailed textures. So I chose  release date of the first playstation as the
-deadline, since from that point on, the games start to be ~10 times bigger than
-before. Similar reasoning is for the handheld systems, but due to tecnical
+date, but it should somehow mark a change in the market. The most evident shift
+I cant think to is embodied by the first 32 bits consoles (e.g. playstation):
+with them the standard changed from 2D to 3D and form simple syntesized sounds
+to CD quality ones. So I chose the release date of the FM Towns Marty as the
+deadline.  Similar reasoning is for the handheld systems, but due to tecnical
 limitation, the market changes later: here the release date of the Nintendo DS
-is taken. So:
+is taken.  So:
 
-6) An home system must be released before the 1994 (e.g no Sega Saturn)
+6) An home system must be released before the 1993 (e.g no Sega Saturn)
 7) An handheld system must be released before the 2004 (e.g no Nintendo DS)
 
 Last but not the least, the constraints on the single games are:
 
 - The game must be officially relesed before the system discontinuation
-- The game size must be less than 32 Mb (for the same 'Retro' reason discussed
-  before)
 - When multiple version are released, the USA title will be used.
 
-Note: I included also titles that were released in Japanese only, since today
-it is quite simple to find patches, or english versions in subsequent
-collections. The japanese title is used in this case with a reference to the
-USA title. (e.g. Torneko no Daibōken / Mystery dungeon)
+I included also titles that were released in Japanese only, since today it is
+quite simple to find patches, or english versions in subsequent collections.
+The japanese title is used in this case with a reference to the USA title.
+(e.g. Torneko no Daibōken / Mystery dungeon)
 
 Moreover, this is a 'Curated' list, meaning that I will select games based
 personal opinions. General criteria are:
@@ -1280,7 +1277,6 @@ TURBOGRAFX ; - ; 20 ; Momotarou Katsugeki
 TURBOGRAFX ; - ; 49 ; Neutopia
 TURBOGRAFX ; - ; 50 ; Order of the Griffin
 TURBOGRAFX ; - ; ?? ; Populous
-TURBOGRAFX ; @ ; ?? ; Aldynes
 TURBOGRAFX ; @ ; ?? ; Jaseiken Necromancer
 TURBOGRAFX ; @ ; ?? ; Valis (1-2-3-4) ???
 TURBOGRAFX ; @ ; ?? ; j.j. and jeff ?????
@@ -1351,46 +1347,46 @@ GAMEBOYADVANCE ; + ; 08 ; Mario & Luigi - Superstar Saga
 GAMEBOYADVANCE ; + ; 15 ; Fire Emblem
 GAMEBOYADVANCE ; + ; 29 ; Fire Emblem - Fuuin no Tsurugi
 GAMEBOYADVANCE ; + ; 31 ; Mega Man Battle Network 2
-GAMEBOYADVANCE ; - ; 38 ; Bomberman Tournament
-GAMEBOYADVANCE ; - ; 25 ; Golden Sun - The Lost Age
+GAMEBOYADVANCE ; + ; 29 ; Fire Emblem - Fuuin no Tsurugi
+GAMEBOYADVANCE ; + ; ?? ; WarioWare - Twisted!
+GAMEBOYADVANCE ; + ; ?? ; WarioWare, Inc. - Mega Microgame$!
+GAMEBOYADVANCE ; - ; 06 ; Dragon Ball Z - The Legacy Goku
+GAMEBOYADVANCE ; - ; 06 ; Dragon Ball Z - The Legacy Goku II
 GAMEBOYADVANCE ; - ; 14 ; Golden Sun
 GAMEBOYADVANCE ; - ; 18 ; Final Fantasy V
-GAMEBOYADVANCE ; - ; 55 ; Final Fantasy I & II - Dawn of Souls
+GAMEBOYADVANCE ; - ; 25 ; Golden Sun - The Lost Age
 GAMEBOYADVANCE ; - ; 32 ; Fire Emblem - The Sacred Stones
-GAMEBOYADVANCE ; - ; 54 ; Harvest Moon - Friends of Mineral Town
-GAMEBOYADVANCE ; - ; 67 ; Harvest Moon - More Friends of Mineral Town
-GAMEBOYADVANCE ; - ; 56 ; Mother 3
-GAMEBOYADVANCE ; - ; 39 ; Tactics Ogre - The Knight of Lodis
+GAMEBOYADVANCE ; - ; 38 ; Bomberman Tournament
 GAMEBOYADVANCE ; - ; 39 ; Mega Man Battle Network 6 cybeast flazar / gregar
-GAMEBOYADVANCE ; - ; 59 ; Mega Man Battle Network 5 team colonel / proto man
-GAMEBOYADVANCE ; - ; 72 ; Mega Man Battle Network 4 blue moon / red sun
+GAMEBOYADVANCE ; - ; 39 ; Tactics Ogre - The Knight of Lodis
 GAMEBOYADVANCE ; - ; 47 ; Mega Man Battle Network
-GAMEBOYADVANCE ; - ; 58 ; Mega Man Battle Network 5 team colonel / proto man
-GAMEBOYADVANCE ; - ; 72 ; Mega Man Battle Network 4 blue moon / red sun
-GAMEBOYADVANCE ; - ; 70 ; Lunar Legend
 GAMEBOYADVANCE ; - ; 47 ; Yggdra Unionv
 GAMEBOYADVANCE ; - ; 51 ; Pokemon Mystery Dungeon - Red Rescue Team
 GAMEBOYADVANCE ; - ; 52 ; Shining Soul 2
-GAMEBOYADVANCE ; - ; 55 ; Shining Force - Resurrection of the Dark Dragon
 GAMEBOYADVANCE ; - ; 54 ; Boktai - The Sun Is in Your Hand
+GAMEBOYADVANCE ; - ; 54 ; Harvest Moon - Friends of Mineral Town
 GAMEBOYADVANCE ; - ; 55 ; Boktai 2 - Solar Boy Django
+GAMEBOYADVANCE ; - ; 55 ; Final Fantasy I & II - Dawn of Souls
+GAMEBOYADVANCE ; - ; 55 ; Shining Force - Resurrection of the Dark Dragon
+GAMEBOYADVANCE ; - ; 56 ; Mother 3
 GAMEBOYADVANCE ; - ; 56 ; Tales of Phantasia
+GAMEBOYADVANCE ; - ; 58 ; Mega Man Battle Network 5 team colonel / proto man
+GAMEBOYADVANCE ; - ; 59 ; Mega Man Battle Network 5 team colonel / proto man
+GAMEBOYADVANCE ; - ; 67 ; Harvest Moon - More Friends of Mineral Town
+GAMEBOYADVANCE ; - ; 70 ; Lunar Legend
 GAMEBOYADVANCE ; - ; 70 ; Mother 1 & 2
+GAMEBOYADVANCE ; - ; 72 ; Mega Man Battle Network 4 blue moon / red sun
+GAMEBOYADVANCE ; - ; 72 ; Mega Man Battle Network 4 blue moon / red sun
 GAMEBOYADVANCE ; - ; 78 ; Phantasy Star Collection
 GAMEBOYADVANCE ; - ; 80 ; Super Robot Taisen Original Generations
 GAMEBOYADVANCE ; - ; 85 ; Dragon Quest Monsters - Caravan Heart
 GAMEBOYADVANCE ; - ; 85 ; Lufia - The Ruins of Lore
-GAMEBOYADVANCE ; - ; 99 ; Shin Bokura no Taiyou - Gyakushuu no Sabata ; Boktai 3
+GAMEBOYADVANCE ; - ; 96 ; Gradius Galaxy
 GAMEBOYADVANCE ; - ; 99 ; Breath of Fire
 GAMEBOYADVANCE ; - ; 99 ; Breath of Fire II
+GAMEBOYADVANCE ; - ; 99 ; Shin Bokura no Taiyou - Gyakushuu no Sabata ; Boktai 3
 GAMEBOYADVANCE ; - ; 200 ; Mazes of Fate
 GAMEBOYADVANCE ; - ; 300 ; Shining Soul
-GAMEBOYADVANCE ; + ; 29 ; Fire Emblem - Fuuin no Tsurugi
 GAMEBOYADVANCE ; - ; ?? ; Fire Emblem - The Sacred Stones
-GAMEBOYADVANCE ; + ; ?? ; WarioWare - Twisted!
-GAMEBOYADVANCE ; + ; ?? ; WarioWare, Inc. - Mega Microgame$!
-GAMEBOYADVANCE ; - ; 96 ; Gradius Galaxy
-GAMEBOYADVANCE ; - ; 06 ; Dragon Ball Z - The Legacy Goku
-GAMEBOYADVANCE ; - ; 06 ; Dragon Ball Z - The Legacy Goku II
 GAMEBOYADVANCE ; - ; ?? ; Sonic Advance
 ```
