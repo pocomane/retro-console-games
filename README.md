@@ -617,7 +617,7 @@ Turbografx / TurboExpress
 =========================
 
 ```
-1941 Counter Attack                  ;                   ; turbografx
+1941 Counter Attack                  ; good              ; turbografx
 1943 Kai                             ; good              ; turbografx
 Aero blasters                        ; good              ; turbografx genesis
 After Burner II                      ;                   ; turbografx genesis
@@ -626,7 +626,7 @@ Atomic robo-kid                      ;                   ; turbografx genesis
 Batman                               ;                   ; turbografx
 Battle Lode Runner                   ;                   ; turbografx
 Bikkuriman world                     ; good              ; turbografx ; Wonder boy in Monster land re-brand
-Blazing Lazers                       ; good              ; turbografx ; Gunhed in japan
+Blazing Lazers                       ;                   ; turbografx ; Gunhed in japan
 Bloody Wolf                          ;                   ; turbografx
 Bomberman                            ;                   ; turbografx ; it is an expanded-remake of the nes game with the same title
 Bomberman 93                         ; good              ; turbografx
@@ -639,16 +639,16 @@ Cadash                               ; good              ; turbografx
 Chew Man Fu/Be Ball                  ;                   ; turbografx
 Coryoon                              ;                   ; turbografx
 Cratermaze                           ;                   ; turbografx ; Doraemon in japan
-Darius Alpha                         ; good              ; turbografx
+Darius Alpha                         ;                   ; turbografx
 Darius Plus                          ; good              ; turbografx
-Detana Twinbee                       ; good              ; turbografx
-Don Doku Don                         ; good              ; turbografx
+Detana Twinbee                       ;                   ; turbografx
+Don Doku Don                         ;                   ; turbografx
 Download                             ;                   ; turbografx
 Dragon Saber                         ;                   ; turbografx
 Dragon Spirit                        ;                   ; turbografx
 Dragon's Curse                       ; excellent         ; turbografx ; Adventure Island in japan
 Dungeon Explorer                     ;                   ; turbografx
-Final Soldier                        ;                   ; turbografx
+Final Soldier                        ; good              ; turbografx
 Galaga 90                            ;                   ; turbografx ; Galaga 88 in japan
 Gomola Speed                         ;                   ; turbografx
 Gradius                              ; good              ; turbografx NES ; GBC-PACK Konami GB Collection Vol.1 ; nes version was a sensible down-grade
@@ -658,33 +658,33 @@ Twin Cobra                           ;                   ; turbografx genesis ; 
 Legend of Hero Tonma                 ;                   ; turbografx
 Legendary Axe                        ; excellent         ; turbografx
 Legendary Axe II                     ;                   ; turbografx
-Magical Chase                        ; excellent         ; turbografx game-boy-color ; GBC-NAME Magical Chase GB - Minarai Mahoutsukai Kenja no Tani e
+Magical Chase                        ; good              ; turbografx game-boy-color ; GBC-NAME Magical Chase GB - Minarai Mahoutsukai Kenja no Tani e
 Metal Stoker                         ;                   ; turbografx
 Military Madness                     ; ?                 ; turbografx
-Mizubaku Daibouken                   ; good              ; turbografx ; Liquid Kids in USA
+Mizubaku Daibouken                   ;                   ; turbografx ; Liquid Kids in USA
 Momotarou Katsugeki                  ; ?                 ; turbografx
 Neutopia                             ; ?                 ; turbografx
 Neutopia II                          ; ?                 ; turbografx
-New Adventure Island                 ; good              ; turbografx
+New Adventure Island                 ;                   ; turbografx
 Ninja Spirit                         ; good              ; turbografx game-boy
 Order of the Griffin                 ; ?                 ; turbografx
 Override                             ;                   ; turbografx
-Parasol Stars                        ; good              ; turbografx
+Parasol Stars                        ;                   ; turbografx
 Parodius Da!                         ;                   ; turbografx game-boy-color ; GB-PACK Konami GB Collection vol 4
 Psychosis                            ;                   ; turbografx
 Puzzle Boy                           ;                   ; turbografx
 R-Type                               ; excellent         ; turbografx master-system game-boy game-boy-color ; GBC-PACK R-Type DX ; PC-Engine Japan version was splitted in 2 parts
-Raiden                               ; good              ; turbografx
-Salamander                           ;                   ; turbografx
+Raiden                               ;                   ; turbografx
+Salamander                           ; excellent         ; turbografx
 Sidearms - Hyperdyne                 ;                   ; turbografx
 Skweek                               ;                   ; turbografx
 Soldier Blade                        ; excellent         ; turbografx
-Son Son II                           ; good              ; turbografx
+Son Son II                           ;                   ; turbografx
 Spin Pair                            ;                   ; turbografx
 Splatterhouse                        ;                   ; turbografx
-Super Star Soldier                   ;                   ; turbografx
+Super Star Soldier                   ; good              ; turbografx
 Truxton                              ;                   ; turbografx genesis ; Tatsujin in JAP
-The New Zealand Story                ; good              ; turbografx master-system
+The New Zealand Story                ;                   ; turbografx master-system
 Turrican                             ;                   ; turbografx
 Valkyrie no Densetsu                 ; excellent         ; turbografx
 Victory Run                          ;                   ; turbografx
