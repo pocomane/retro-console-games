@@ -322,7 +322,6 @@ Road Rash                                   ;           ; master-system
 Sagaia                                      ; good      ; master-system
 Scramble Spirit                             ;           ; master-system
 Sensible Soccer                             ;           ; master-system
-Shinobi                                     ;           ; master-system turbografx game-gear
 Slap Shot                                   ;           ; master-system
 Solomon no Kagi - Oujo Rihita no Namida     ; good      ; master-system ; Solomons Key
 Sonic Chaos                                 ; good      ; master-system game-gear
@@ -680,6 +679,7 @@ Puzzle Boy                           ;                   ; turbografx
 R-Type                               ; excellent         ; turbografx master-system game-boy game-boy-color ; GBC-PACK R-Type DX ; PC-Engine Japan version was splitted in 2 parts
 Raiden                               ;                   ; turbografx
 Salamander                           ; excellent         ; turbografx
+Shinobi                              ;                   ; turbografx nes master-system game-gear
 Sidearms - Hyperdyne                 ;                   ; turbografx
 Skweek                               ;                   ; turbografx
 Soldier Blade                        ; excellent         ; turbografx
