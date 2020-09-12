@@ -831,7 +831,7 @@ Phantasy Star Adventure                         ;           ; game-gear
 Phantasy Star Gaiden                            ;           ; game-gear
 Power Strike II                                 ; excellent ; game-gear ; different from the master-system game with the same name; japan title: GG Aleste II
 Prince of Persia                                ; excellent ; game-gear SNES game-boy-color master-system
-Psychic World                                   ; excellent ; master-system game-gear ; Very different versions, GG best
+Psychic World                                   ; excellent ; game-gear master-system ; Very different versions, GG best
 Puyo Puyo                                       ;           ; game-gear game-boy-advance genesis ; game-boy-advance name: Puyo Pop
 Puyo Puyo 2                                     ;           ; game-gear genesis
 Puzzle & Action: Tant-R                         ;           ; game-gear
