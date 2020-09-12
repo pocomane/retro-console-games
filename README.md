@@ -158,7 +158,7 @@ Adventure Island II                                      ;           ; NES
 Adventure Island III                                     ;           ; NES
 Adventures of Lolo                                       ;           ; NES
 Adventures of Lolo II                                    ;           ; NES
-Adventures of Lolo III                                   ; good      ; NES
+Adventures of Lolo III                                   ;           ; NES
 Balloon Fight                                            ; good      ; NES game-boy-color
 Batman                                                   ;           ; NES
 Batman - Return of the Jocker                            ;           ; NES
@@ -174,7 +174,7 @@ Bucky O'Har                                              ;           ; NES
 Castlevania                                              ; good      ; NES game-boy-advance ; GBA-NAME Classic NES series - Castlevania
 Castlevania II - Simon's Quest                           ; good      ; NES
 Castlevania III - Dracula's Curse                        ; excellent ; NES
-Chip 'n Dale - Rescue Rangers                            ; good      ; NES
+Chip 'n Dale - Rescue Rangers                            ;           ; NES
 Chip 'n Dale - Rescue Rangers 2                          ;           ; NES
 Clash at Demonhead                                       ;           ; NES
 Contra                                                   ; excellent ; NES
@@ -199,7 +199,7 @@ Faxanadu                                                 ; ?         ; NES
 Final Fantasy                                            ; good      ; NES game-boy-advance ; GBA-PACK Final Fantasy I & II
 Final Fantasy 2                                          ;           ; NES game-boy-advance ; GBA-PACK Final Fantasy I & II
 Final Fantasy 3                                          ; excellent ; NES
-Gargoyle's Quest II - The Demon Darkness                 ; good      ; NES
+Gargoyle's Quest II - The Demon Darkness                 ;           ; NES
 Ghosts 'n Goblins                                        ; good      ; NES game-boy-color
 Goonies II                                               ;           ; NES
 Gradius 2                                                ; good      ; NES
@@ -208,7 +208,7 @@ Ice Climber                                              ;           ; NES
 Jackal                                                   ;           ; NES
 Kickle Cubicle                                           ;           ; NES
 Kid Icarus                                               ; excellent ; NES
-Kirby's Adventure                                        ; good      ; NES
+Kirby's Adventure                                        ;           ; NES
 Legacy of the Wizard                                     ;           ; NES
 Life Force                                               ;           ; NES
 Little Nemo the Dream Master                             ;           ; NES
@@ -247,7 +247,7 @@ Startropics II - Zoda's Revenge                          ;           ; NES
 Super C                                                  ; good      ; NES
 Super Dodge Ball                                         ;           ; NES
 Super Mario Bros.                                        ; excellent ; NES game-boy-advance SNES game-boy-color ; SNES-PACK Super Mario All-Stars GBC-NAME Super Mario Bros DX GBA-NAME Classic NES Series - Super Mario Bros.
-Super Mario Bros. 2                                      ; good      ; NES game-boy-advance SNES ; GBA-NAME Super Mario Advance - Super Mario Bros 2 SNES-PACK Super Mario All-Stars ; Different from the title with the same name released in Japan on Famicom Disk System: the latter is renamed "Lost levels" in "Super Mario All-Stars" for SNES.
+Super Mario Bros. 2                                      ;           ; NES game-boy-advance SNES ; GBA-NAME Super Mario Advance - Super Mario Bros 2 SNES-PACK Super Mario All-Stars ; Different from the title with the same name released in Japan on Famicom Disk System: the latter is renamed "Lost levels" in "Super Mario All-Stars" for SNES.
 Super Mario Bros. 3                                      ; excellent ; NES game-boy-advance SNES ; GBA-NAME Super Mario Advance 4 - Super Mario Bros 3 SNES-PACK Super Mario All-Stars
 THe Legend of Zelda                                      ; excellent ; NES game-boy-advance ; GBA-NAME Classic NES Series - The Legend of Zelda
 Teenage Mutant Ninja Turtles                             ;           ; NES
@@ -257,7 +257,7 @@ The Battle of Olympus                                    ;           ; NES
 The Guardian Legend                                      ;           ; NES
 Willow                                                   ;           ; NES
 Xevious                                                  ;           ; NES
-Zelda II - The Adventures of Link                        ; good      ; NES game-boy-advance ; GBA-NAME Classic NES Series - Zelda II
+Zelda II - The Adventures of Link                        ;           ; NES game-boy-advance ; GBA-NAME Classic NES Series - Zelda II
 ```
 
 Master system
