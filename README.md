@@ -516,7 +516,7 @@ Dashin' Desperadoes                                    ;           ; genesis
 Devilish                                               ;           ; genesis game-gear
 Disney's Aladdin                                       ;           ; genesis game-boy-color ; Different from the snes/game-boy-advance one
 Donald in Maui Mallard                                 ; good      ; genesis
-Double Dragon 3                                        ;           ; genesid ; different from Double Dragon 3 for nes and game-boy
+Double Dragon 3                                        ;           ; genesis ; different from Double Dragon 3 for nes and game-boy
 Dragon Ball Z - Buyuu Retsuden                         ;           ; genesis
 Dune - The Battle for Arrakis                          ; ?         ; genesis
 Dynamite Headdy                                        ; excellent ; genesis master-system game-gear
@@ -679,7 +679,7 @@ Puzzle Boy                           ;                   ; turbografx
 R-Type                               ; excellent         ; turbografx master-system game-boy game-boy-color ; GBC-PACK R-Type DX ; PC-Engine Japan version was splitted in 2 parts
 Raiden                               ;                   ; turbografx
 Salamander                           ; excellent         ; turbografx
-Shinobi                              ;                   ; turbografx nes master-system game-gear
+Shinobi                              ;                   ; turbografx NES master-system game-gear
 Sidearms - Hyperdyne                 ;                   ; turbografx
 Skweek                               ;                   ; turbografx
 Soldier Blade                        ; excellent         ; turbografx
@@ -734,7 +734,7 @@ Ikari no Yousai 2                             ; good      ; game-boy ; Fortified
 Joe & Mac - Caveman Ninja                     ;           ; game-boy
 Kaeru no tame ni Kane wa Naru                 ; ?         ; game-boy ; For Frog the Bell Tolls
 Kid Dracula                                   ; excellent ; game-boy
-Kid Icarus - Of Myths and Monsters            ; brest     ; game-boy
+Kid Icarus - Of Myths and Monsters            ; excellent ; game-boy
 Kirby's Block Ball                            ;           ; game-boy
 Kirby's Dream Land                            ; good      ; game-boy
 Kirby's Dream Land 2                          ; good      ; game-boy
@@ -851,7 +851,7 @@ Super Space Invaders                            ;           ; game-gear
 Sylvan Tale                                     ;           ; game-gear
 Tails Adventure                                 ; excellent ; game-gear
 Tails' Skypatrol                                ;           ; game-gear
-The Excellent Dizzy Collection                  ;           ; game-gear sega-master-system ; SMS-NAME-1 Fantastic Dizzy ORIG-NAME-2 Panic Dizzy ORIG-NAME-3 Go! Dizzy! Go!
+The Excellent Dizzy Collection                  ;           ; game-gear master-system ; SMS-NAME-1 Fantastic Dizzy ORIG-NAME-2 Panic Dizzy ORIG-NAME-3 Go! Dizzy! Go!
 Vampire: Master of Darkness                     ; good      ; game-gear
 Virtua Fighter Animation                        ;           ; game-gear
 Wagyan Land                                     ;           ; game-gear
