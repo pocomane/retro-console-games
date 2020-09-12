@@ -159,6 +159,7 @@ Adventure Island III                                     ;           ; NES
 Adventures of Lolo                                       ;           ; NES
 Adventures of Lolo II                                    ;           ; NES
 Adventures of Lolo III                                   ;           ; NES
+Bad dudes                                                ;           ; NES
 Balloon Fight                                            ; good      ; NES game-boy-color
 Batman                                                   ;           ; NES
 Batman - Return of the Jocker                            ;           ; NES
@@ -177,6 +178,7 @@ Castlevania III - Dracula's Curse                        ; excellent ; NES
 Chip 'n Dale - Rescue Rangers                            ;           ; NES
 Chip 'n Dale - Rescue Rangers 2                          ;           ; NES
 Clash at Demonhead                                       ;           ; NES
+Commando                                                 ;           ; NES ; Mercs prequel``
 Contra                                                   ; excellent ; NES
 Contra Force                                             ; good      ; NES
 Crystalis                                                ; ?         ; NES game-boy-color ; game-boy-color version has several differencies
@@ -205,6 +207,7 @@ Goonies II                                               ;           ; NES
 Gradius 2                                                ; good      ; NES
 Guerilla War                                             ;           ; NES
 Ice Climber                                              ;           ; NES
+Image Fight                                              ;           ; NES turbografx
 Jackal                                                   ;           ; NES
 Kickle Cubicle                                           ;           ; NES
 Kid Icarus                                               ; excellent ; NES
@@ -237,6 +240,7 @@ Paperboy 2                                               ;           ; NES
 Pirates!                                                 ;           ; NES
 Punch-Out!!                                              ; good      ; NES
 RC Pro Am                                                ;           ; NES
+Renegade                                                 ;           ; NES master-system
 River City Ransom                                        ; excellent ; NES
 Shadowgate                                               ;           ; NES game-boy-color ; GBC-NAME Shadowgate Classic
 Snake Rattle & Roll                                      ;           ; NES genesis
@@ -1189,13 +1193,9 @@ NES ; - ; 19 ; Crystalis
 NES ; - ; 22 ; Dragon Warrior
 NES ; - ; 52 ; Dragon Warrior II
 NES ; - ; 75 ; Shadowgate
-NES ; @ ; ?? ; Image Fight
-NES ; @ ; ?? ; Bad dudes
-NES ; @ ; ?? ; Renegade
 NES ; @ ; ?? ; Crash 'n' the Boys: Street Challenge
 NES ; @ ; ?? ; Tower of druaga ?
 NES ; @ ; ?? ; The Adventures of Rad Gravity ?
-NES ; @ ; ?? ; Commando ; (Mercs prequel)
 MASTERSYSTEM ; - ; 09 ; Populous
 MASTERSYSTEM ; - ; 18 ; Lemmings
 MASTERSYSTEM ; + ; 20 ; Gain Ground
