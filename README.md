@@ -344,7 +344,7 @@ The Smurfs                                  ;           ; master-system
 The Smurfs Travel the World                 ;           ; master-system
 Ultima IV                                   ; excellent ; master-system
 Wonder Boy                                  ; good      ; master-system game-gear
-Wonder Boy III - Dragon’s Trap              ;           ; master-system game-gear ; GG-NAME Wonder Boy: The Dragon's Trap
+Wonder Boy III - Dragon’s Trap              ; excellent ; master-system turbografx game-gear ; GG-NAME Wonder Boy: The Dragon's Trap ; TGX-USA-NAME Dragon's Curse ; TGX-JAP-NAME Adventure Island
 Wonder Boy in Monster Land                  ; excellent ; master-system
 Xenon 2                                     ;           ; master-system
 Ys - The Vanished Omens                     ; good      ; master-system
@@ -654,7 +654,6 @@ Don Doku Don                         ;                   ; turbografx
 Download                             ;                   ; turbografx
 Dragon Saber                         ;                   ; turbografx
 Dragon Spirit                        ;                   ; turbografx
-Dragon's Curse                       ; excellent         ; turbografx ; Adventure Island in japan
 Dungeon Explorer                     ;                   ; turbografx
 Final Soldier                        ; good              ; turbografx
 Galaga 90                            ;                   ; turbografx ; Galaga 88 in japan
