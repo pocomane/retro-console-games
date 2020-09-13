@@ -680,7 +680,7 @@ Psychosis                            ;                   ; turbografx
 Puzzle Boy                           ;                   ; turbografx
 R-Type                               ; excellent         ; turbografx master-system game-boy game-boy-color ; GBC-PACK R-Type DX ; PC-Engine Japan version was splitted in 2 parts
 Raiden                               ;                   ; turbografx
-Salamander                           ; excellent         ; turbografx
+Salamander                           ; good              ; turbografx
 Shinobi                              ;                   ; turbografx NES master-system game-gear
 Sidearms - Hyperdyne                 ;                   ; turbografx
 Skweek                               ;                   ; turbografx
