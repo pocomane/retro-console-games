@@ -510,7 +510,6 @@ Buck Rogers - Countdown to Doomsday                    ; ?         ; genesis
 Burning Force                                          ;           ; genesis
 Castlevania - Bloodlines                               ; excellent ; genesis
 Chiki Chiki Boys                                       ;           ; genesis
-Classic Collection                                     ; good      ; genesis
 Comix Zone                                             ;           ; genesis
 Contra - Hard Corps                                    ; excellent ; genesis
 Crack Down                                             ;           ; genesis
