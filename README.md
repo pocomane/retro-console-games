@@ -87,7 +87,7 @@ Jungle Hunt                         ;           ; atari-2600
 Kaboom!                             ;           ; atari-2600
 Keystone Kapers                     ; good      ; atari-2600
 Laser Gates                         ;           ; atari-2600
-Mario Bros.                         ; excellent ; atari-2600 NES
+Mario Bros.                         ; good      ; atari-2600 NES
 Maze Craze                          ;           ; atari-2600
 MegaMania - A Space Nightmare       ; good      ; atari-2600
 Millipede                           ;           ; atari-2600
@@ -164,7 +164,7 @@ Balloon Fight                                            ; good      ; NES game-
 Batman                                                   ;           ; NES
 Batman - Return of the Jocker                            ;           ; NES
 Battletoads                                              ; excellent ; NES game-boy game-gear
-Bionic Commando                                          ; excellent ; NES
+Bionic Commando                                          ; good      ; NES
 Blaster Master                                           ; good      ; NES
 Bomberman                                                ;           ; NES game-boy-advance ; there is a expanded-ramake for turbografx with the same name ; GBA-NAME Classic NES series - Bomberman
 Bomberman II                                             ;           ; NES
@@ -180,13 +180,13 @@ Chip 'n Dale - Rescue Rangers 2                          ;           ; NES
 Clash at Demonhead                                       ;           ; NES
 Commando                                                 ;           ; NES ; Mercs prequel``
 Contra                                                   ; excellent ; NES
-Contra Force                                             ; good      ; NES
+Contra Force                                             ;           ; NES
 Crystalis                                                ; ?         ; NES game-boy-color ; game-boy-color version has several differencies
 Deja Vu                                                  ;           ; NES
 Destiny of an Emperor                                    ;           ; NES
 Donkey Kong 3                                            ;           ; NES
 Door Door                                                ;           ; NES
-Double Dragon                                            ; good      ; NES game-boy master-system genesis ; game-boy version have some differences
+Double Dragon                                            ;           ; NES game-boy master-system genesis ; game-boy version have some differences
 Double Dragon II                                         ; good      ; NES game-boy genesis
 Double Dragon III - The Sacred Stones                    ;           ; NES game-boy ; different from Double Dragon 3 for genesis
 Dragon Warrior                                           ; ?         ; NES game-boy-color ; GBC-PACK Dragon Warrior I & II
@@ -241,7 +241,7 @@ Pirates!                                                 ;           ; NES
 Punch-Out!!                                              ; good      ; NES
 RC Pro Am                                                ;           ; NES
 Renegade                                                 ;           ; NES master-system
-River City Ransom                                        ; excellent ; NES
+River City Ransom                                        ; good      ; NES
 Shadowgate                                               ;           ; NES game-boy-color ; GBC-NAME Shadowgate Classic
 Snake Rattle & Roll                                      ;           ; NES genesis
 Solstice                                                 ;           ; NES
