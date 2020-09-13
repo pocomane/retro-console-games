@@ -381,7 +381,7 @@ Donkey Kong Country 2 - Diddy's Kong Quest           ; excellent ; SNES game-boy
 Donkey Kong Country 3 - Dixie Kong's Double Trouble! ; good      ; SNES game-boy-advance
 Doom                                                 ; good      ; SNES game-boy-advance
 E.V.O. - Search for Eden                             ;           ; SNES
-EarthBound                                           ; excellent ; SNES game-boy-advance ; GBA-PACK Mother I & II ; Earthbound is the english title of Mother 2
+EarthBound                                           ; good      ; SNES game-boy-advance ; GBA-PACK Mother I & II ; Earthbound is the english title of Mother 2
 Energy Breaker                                       ;           ; SNES
 Equinox                                              ;           ; SNES
 F-Zero                                               ;           ; SNES
@@ -446,7 +446,7 @@ Star Ocean                                           ; ?         ; SNES
 Street Fighter Alpha 2                               ;           ; SNES
 Street Fighter II - the world warrior                ;           ; SNES game-boy
 Street Fighter II Turbo - hyper fighting             ; excellent ; SNES
-Sunset Riders                                        ; excellent ; SNES
+Sunset Riders                                        ; good      ; SNES
 Super Adventure Island                               ;           ; SNES
 Super Adventure Island II                            ;           ; SNES
 Super Bomberman                                      ;           ; SNES
@@ -458,12 +458,12 @@ Super Castlevania IV                                 ; excellent ; SNES
 Super Double Dragon                                  ;           ; SNES
 Super Ghouls'n Ghosts                                ; excellent ; SNES game-boy-advance
 Super James Pond II                                  ;           ; SNES master-system game-gear ; ORIG-NAME James Pond II
-Super Mario Kart                                     ; excellent ; SNES
-Super Mario RPG - Legend of the Seven Stars          ; excellent ; SNES
+Super Mario Kart                                     ; good      ; SNES
+Super Mario RPG - Legend of the Seven Stars          ; good      ; SNES
 Super Mario World                                    ; excellent ; SNES game-boy-advance ; GBA-NAME Super Mario World - Super Mario Advance 2
 Super Mario World 2 - Yoshi's Island                 ; excellent ; SNES game-boy-advance ; GBA-NAME Yoshi's Island - Super Mario Advance 3
 Super Metroid                                        ; excellent ; SNES
-Super Punch-Out!!                                    ; excellent ; SNES
+Super Punch-Out!!                                    ; good      ; SNES
 Super R-Type                                         ; good      ; SNES ; semi-port of R-Type 2 (half levels are new)
 Super Star Wars                                      ;           ; SNES
 Super Star Wars - Return of the Jedi                 ;           ; SNES game-gear
