@@ -504,8 +504,8 @@ Battlemania - Daiginjou                                ; excellent ; genesis
 Battletoads & Double Dragon - The Ultimate Team        ; good      ; genesis NES game-boy
 Bio-Hazard Battle                                      ;           ; genesis
 Bishoujo Senshi Sailor Moon                            ;           ; genesis
-Bonanza Bros.                                          ; good      ; genesis
-Bubba 'n' Stix                                         ; excellent ; genesis
+Bonanza Bros.                                          ;           ; genesis
+Bubba 'n' Stix                                         ; good      ; genesis
 Buck Rogers - Countdown to Doomsday                    ; ?         ; genesis
 Burning Force                                          ;           ; genesis
 Castlevania - Bloodlines                               ; excellent ; genesis
@@ -533,7 +533,7 @@ Elemental Master                                       ;           ; genesis
 Flashback                                              ; ?         ; genesis SNES
 Forgotten Worlds                                       ;           ; genesis master-system
 Gaiares                                                ;           ; genesis
-Gain Ground                                            ; excellent ; genesis
+Gain Ground                                            ; good      ; genesis
 Gauntlet 4                                             ; good      ; genesis
 Ghouls 'N Ghosts                                       ; excellent ; genesis turbografx ; the master-system version is a severe downgrade. Named Daimakaimura on turbografx: it is compatible with SuperGrafx only so it should be escluded. However it is a wonderful arcade port that you really should play.
 Golden Axe                                             ;           ; genesis master-system
@@ -547,7 +547,7 @@ Herzog Zwei                                            ;           ; genesis
 James Pond - Underwater Agent                          ;           ; genesis
 Kid Chameleon                                          ;           ; genesis
 LandStalker - The Treasures of King Nole               ; good      ; genesis
-Lightening Force - Quest for the Darkstar              ; excellent ; genesis
+Lightening Force - Quest for the Darkstar              ; excellent ; genesis ; EUR-JAP-Name Thunder Force IV
 M.U.S.H.A.                                             ; good      ; genesis
 Marvel Land                                            ; good      ; genesis
 Mega Bomberman                                         ;           ; genesis
@@ -575,7 +575,7 @@ RoboCop Versus The Terminator                          ;           ; genesis mas
 Rocket Knight Adventures                               ; excellent ; genesis
 Rolling Thunder 2                                      ;           ; genesis
 Rolling Thundjjker 3                                   ;           ; genesis
-Samurai Shodown                                        ; excellent ; genesis game-gear
+Samurai Shodown                                        ; good      ; genesis game-gear
 Shadow Dancer - The Secret of Shinobi                  ;           ; genesis
 Shining Force                                          ; ?         ; genesis game-boy-advance ; GBA-NAME Shining Force - Resurrection of the  Dark Dragon ; The GBA version is a remake with extended story and english translation
 Shining Force II                                       ; ?         ; genesis
@@ -601,7 +601,6 @@ The Faery Tale Adventure                               ; ?         ; genesis
 The Revenge of Shinobi                                 ;           ; genesis
 Thunder Force II                                       ;           ; genesis
 Thunder Force III                                      ; good      ; genesis
-Thunder Force IV                                       ; good      ; genesis
 ToeJam & Earl                                          ; ?         ; genesis
 ToeJam & Earl in Panic on Funkotron                    ;           ; genesis
 Trouble Shooter                                        ; good      ; genesis
