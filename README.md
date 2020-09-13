@@ -295,6 +295,7 @@ Desert Strike                               ;           ; master-system
 Fantasy Zone                                ;           ; master-system turbografx game-gear
 Fantasy Zone II                             ; good      ; master-system
 Fushigi no Oshiro Pit Pot                   ;           ; master-system
+Ghouls 'N Ghosts                            ;           ; master-system ; The genesis and turbografx versions are much better.
 Golden Axe Warrior                          ; excellent ; master-system
 Golvellius                                  ; excellent ; master-system
 Impossible Mission                          ;           ; master-system
@@ -307,6 +308,9 @@ Master of Darkness                          ; excellent ; master-system
 Masters of Combat                           ;           ; master-system
 Maze Hunter 3D                              ;           ; master-system
 Miracle Warriors - Seal of The Dark Lord    ; ?         ; master-system
+Mortal Kombat                               ;           ; master-system ; The SNES and genesis version are much better.
+Mortal Kombat 3                             ;           ; master-system ; The SNES and genesis version are much better.
+Mortal Kombat II                            ;           ; master-system ; The SNES and genesis version are much better.
 Ninja Gaiden                                ;           ; master-system ; different game from NES, SNES, turbografx and game-gear versions
 Operation Wolf                              ;           ; master-system
 Out Run                                     ;           ; master-system
@@ -411,9 +415,9 @@ Mega Man 7                                           ; good      ; SNES
 Mega Man X2                                          ; good      ; SNES
 Mega Man X3                                          ; good      ; SNES
 Mega Men X                                           ; excellent ; SNES
-Mortal Kombat                                        ; good      ; SNES master-system genesis ; SNES version is less violent
-Mortal Kombat 3                                      ; good      ; SNES master-system genesis ; SNES version is less violent
-Mortal Kombat II                                     ; good      ; SNES master-system genesis ; SNES version is less violent
+Mortal Kombat                                        ; good      ; SNES genesis ; SNES version is less violent. The master-system version is a severe downgrage.
+Mortal Kombat 3                                      ; good      ; SNES genesis ; SNES version is less violent. The master-system version is a severe downgrage.
+Mortal Kombat II                                     ; good      ; SNES genesis ; SNES version is less violent. The master-system version is a severe downgrage.
 Ogre Battle - The March of the Black Queen           ; ?         ; SNES
 Out of This World                                    ;           ; SNES
 Pang                                                 ;           ; SNES
@@ -532,7 +536,7 @@ Forgotten Worlds                                       ;           ; genesis mas
 Gaiares                                                ;           ; genesis
 Gain Ground                                            ; excellent ; genesis
 Gauntlet 4                                             ; good      ; genesis
-Ghouls 'N Ghosts                                       ; excellent ; genesis master-system turbografx ; Named Daimakaimura on turbografx: it is compatible with SuperGrafx only so it should be escluded. However it is a wonderful arcade port that you really should play.
+Ghouls 'N Ghosts                                       ; excellent ; genesis turbografx ; the master-system version is a severe downgrade. Named Daimakaimura on turbografx: it is compatible with SuperGrafx only so it should be escluded. However it is a wonderful arcade port that you really should play.
 Golden Axe                                             ;           ; genesis master-system
 Golden Axe II                                          ;           ; genesis
 Golden Axe III                                         ;           ; genesis
