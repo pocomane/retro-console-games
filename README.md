@@ -38,13 +38,13 @@ Adventure                           ; excellent ; atari-2600
 Adventures of Tron                  ;           ; atari-2600
 Air Raiders                         ;           ; atari-2600
 Amidar                              ;           ; atari-2600
-Asteroids                           ; good      ; atari-2600
+Asteroids                           ;           ; atari-2600
 Battlezone                          ;           ; atari-2600
 Beamrider                           ;           ; atari-2600
 Berzerk                             ; excellent ; atari-2600
 Boxing                              ; good      ; atari-2600
 Breakout                            ;           ; atari-2600
-California Games                    ; good      ; atari-2600 master-system
+California Games                    ;           ; atari-2600 master-system
 Centipede                           ; good      ; atari-2600
 Chopper Command                     ; excellent ; atari-2600
 Circus Atari                        ;           ; atari-2600
@@ -55,23 +55,23 @@ Cosmic Commuter                     ;           ; atari-2600
 Crystal Castles                     ; good      ; atari-2600
 Dark Cavern                         ;           ; atari-2600
 Defender                            ; excellent ; atari-2600
-Demon Attack                        ; excellent ; atari-2600
+Demon Attack                        ; good      ; atari-2600
 Desert Falcon                       ;           ; atari-2600
 Dig Dug                             ; good      ; atari-2600
-Dodge 'Em                           ; good      ; atari-2600
+Dodge 'Em                           ;           ; atari-2600
 Donkey Kong                         ; excellent ; atari-2600 NES game-boy game-boy-color game-boy-advance ; DBC-NAME Donkey Kong GB GBA-NAME Classic NES Series - Donkey Kong
 Donkey Kong Junior                  ; good      ; atari-2600 NES
 DragonStomper                       ; good      ; atari-2600
 Dragonfire                          ;           ; atari-2600
 E.T. - The Extra Terrestrial        ;           ; atari-2600
-Enduro                              ; excellent ; atari-2600
+Enduro                              ; good      ; atari-2600
 Escape from Mindmaster              ;           ; atari-2600
 Fantastic Voyage                    ;           ; atari-2600
 Fathom                              ;           ; atari-2600
 Freeway                             ;           ; atari-2600
 Frogger                             ; good      ; atari-2600
 Frogger 2                           ;           ; atari-2600 game-boy-color
-Frostbite                           ; excellent ; atari-2600
+Frostbite                           ; good      ; atari-2600
 Galaxian                            ; good      ; atari-2600
 Ghostbusters                        ;           ; atari-2600
 Ghostbusters 2                      ;           ; atari-2600
@@ -89,7 +89,7 @@ Keystone Kapers                     ; good      ; atari-2600
 Laser Gates                         ;           ; atari-2600
 Mario Bros.                         ; excellent ; atari-2600 NES
 Maze Craze                          ;           ; atari-2600
-MegaMania - A Space Nightmare       ; excellent ; atari-2600
+MegaMania - A Space Nightmare       ; good      ; atari-2600
 Millipede                           ;           ; atari-2600
 Missile Command                     ;           ; atari-2600
 Montezuma's Revenge                 ; good      ; atari-2600
@@ -99,7 +99,7 @@ Mr. Postman                         ;           ; atari-2600
 Ms. Pac-Man                         ; excellent ; atari-2600
 Night Driver                        ;           ; atari-2600
 Oystron                             ;           ; atari-2600
-Phoenix                             ; excellent ; atari-2600
+Phoenix                             ; good      ; atari-2600
 Pitfall                             ; good      ; atari-2600
 Pitfall II - Lost Caverns           ; excellent ; atari-2600
 Planet Patrol                       ; good      ; atari-2600
@@ -116,14 +116,14 @@ River Raid II                       ;           ; atari-2600
 Robot Tank                          ;           ; atari-2600
 Skeleton+                           ;           ; atari-2600
 Skiing                              ;           ; atari-2600
-Smurf rescue in gargamel's cast     ; good      ; atari-2600
+Smurf rescue in gargamel's cast     ;           ; atari-2600
 Solar Fox                           ;           ; atari-2600
 Solaris                             ;           ; atari-2600
 Space Invaders                      ;           ; atari-2600
 Space Treat Deluxe                  ;           ; atari-2600
 Spider Fighter                      ;           ; atari-2600
 Spider-Man                          ;           ; atari-2600
-Star Wars - The Empire Strikes Back ; good      ; atari-2600
+Star Wars - The Empire Strikes Back ;           ; atari-2600
 StarMaster                          ;           ; atari-2600
 Stargate                            ;           ; atari-2600
 Starmaster                          ;           ; atari-2600
@@ -141,7 +141,7 @@ Tron - Deadly Discs                 ;           ; atari-2600
 Vanguard                            ;           ; atari-2600
 Vault Assault                       ;           ; atari-2600
 Venture                             ;           ; atari-2600
-Warlords                            ; good      ; atari-2600
+Warlords                            ;           ; atari-2600
 Wizard of Wor                       ;           ; atari-2600
 Yars' Revenge                       ;           ; atari-2600
 Zaxxon                              ;           ; atari-2600
