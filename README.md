@@ -273,13 +273,13 @@ Afterburner                                 ;           ; master-system
 Alex Kidd - High Tech World                 ;           ; master-system
 Alex Kidd - The Losts Stars                 ;           ; master-system
 Alex Kidd in Miracle World                  ; excellent ; master-system
-Alex Kidd in Shinobi World                  ; excellent ; master-system
+Alex Kidd in Shinobi World                  ; good      ; master-system
 Asterix                                     ; excellent ; master-system
-Asterix and the Great Rescue                ; good      ; master-system
+Asterix and the Great Rescue                ;           ; master-system
 Asterix and the Secret Mission              ;           ; master-system
 Baku Baku                                   ;           ; master-system
 Battle Out Run                              ;           ; master-system
-Battlemaniacs                               ; excellent ; master-system
+Battlemaniacs                               ; good      ; master-system
 Black Belt                                  ;           ; master-system
 Bomber Raid                                 ;           ; master-system
 Bram Stoker's Dracula                       ; good      ; master-system game-gear
@@ -287,17 +287,17 @@ California Games II                         ;           ; master-system
 Castle of Illusion                          ; excellent ; master-system genesis game-gear
 Choplifter                                  ;           ; master-system
 Chuck Rock                                  ;           ; master-system
-Chuck Rock II                               ; excellent ; master-system
+Chuck Rock II                               ; good      ; master-system
 Cosmic Spacehead                            ;           ; master-system
 Daffy Duck in Hollywood                     ;           ; master-system
-Danan - The Jungle Fighter                  ;           ; master-system
+Danan - The Jungle Fighter                  ; good      ; master-system
 Desert Strike                               ;           ; master-system
 Fantasy Zone                                ;           ; master-system turbografx game-gear
 Fantasy Zone II                             ; good      ; master-system
 Fushigi no Oshiro Pit Pot                   ;           ; master-system
 Ghouls 'N Ghosts                            ;           ; master-system ; The genesis and turbografx versions are much better.
 Golden Axe Warrior                          ; excellent ; master-system
-Golvellius                                  ; excellent ; master-system
+Golvellius                                  ; good      ; master-system
 Impossible Mission                          ;           ; master-system
 Kenseiden                                   ; good      ; master-system
 Land of Illusion                            ; good      ; master-system game-gear
@@ -326,7 +326,7 @@ Rescue Mission                              ;           ; master-system
 Road Rash                                   ;           ; master-system
 Sagaia                                      ; good      ; master-system
 Scramble Spirit                             ;           ; master-system
-Sensible Soccer                             ;           ; master-system
+Sensible Soccer                             ; good      ; master-system
 Slap Shot                                   ;           ; master-system
 Solomon no Kagi - Oujo Rihita no Namida     ; good      ; master-system ; Solomons Key
 Sonic Chaos                                 ; good      ; master-system game-gear
@@ -339,7 +339,7 @@ Star Wars                                   ; good      ; master-system game-gea
 Street Fighter II'                          ;           ; master-system
 Strider                                     ;           ; master-system
 Submarine Attack                            ; good      ; master-system
-The Lucky Dime Caper - Starring Donald Duck ; excellent ; master-system game-gear
+The Lucky Dime Caper - Starring Donald Duck ; good      ; master-system game-gear
 The Smurfs                                  ;           ; master-system
 The Smurfs Travel the World                 ;           ; master-system
 Ultima IV                                   ; excellent ; master-system
@@ -835,7 +835,7 @@ Phantasy Star Adventure                         ;           ; game-gear
 Phantasy Star Gaiden                            ;           ; game-gear
 Power Strike II                                 ; excellent ; game-gear ; different from the master-system game with the same name; japan title: GG Aleste II
 Prince of Persia                                ; excellent ; game-gear SNES game-boy-color master-system
-Psychic World                                   ; excellent ; game-gear master-system ; Very different versions, GG best
+Psychic World                                   ; good      ; game-gear master-system ; Very different versions, GG best
 Puyo Puyo                                       ;           ; game-gear game-boy-advance genesis ; game-boy-advance name: Puyo Pop
 Puyo Puyo 2                                     ;           ; game-gear genesis
 Puzzle & Action: Tant-R                         ;           ; game-gear
@@ -1207,6 +1207,7 @@ MASTERSYSTEM ; - ; 29 ; Miracle Warriors - Seal of The Dark Lord
 MASTERSYSTEM ; - ; 09 ; Populous
 MASTERSYSTEM ; @ ; ?? ; mercs
 MASTERSYSTEM ; @ ; ?? ; Super Smash TV
+MASTERSYSTEM ; @ ; ?? ; Psycho Fox
 SNES ; + ; 44 ; Secret of Evermore
 SNES ; + ; ?? ; Fushigi no Dungeon 2 - Fuurai no Shiren
 SNES ; + ; 15 ; Secret of Mana
