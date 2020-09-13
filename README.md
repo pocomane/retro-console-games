@@ -230,7 +230,7 @@ Metroid                                                  ; excellent ; NES game-
 Mission Impossible                                       ;           ; NES
 Monster Party                                            ;           ; NES
 Mother                                                   ;           ; NES game-boy-advance ; GBC-PACK Mother I & II ; Subsequently localized as Earthbound beginning, but never released for NES in english ; English sequel: Earthbound for SNES
-Ninja Gaiden                                             ; excellent ; NES SNES master-system turbografx game-gear ; SNES-PACK Ninja Gaiden Trilogy ; TURBOGRAFX-NAME Ninja Ryuken den
+Ninja Gaiden                                             ; excellent ; NES SNES turbografx ; SNES-PACK Ninja Gaiden Trilogy ; TURBOGRAFX-NAME Ninja Ryuken den ; different game from master-system and game-gear version
 Ninja Gaiden II - The Dark Sword of Chaos                ; good      ; NES SNES ; SNES-PACK Ninja Gaiden Trilogy
 Ninja Gaiden III - The Ancient Ship of Doom              ;           ; NES SNES ; SNES-PACK Ninja Gaiden Trilogy
 North and South                                          ;           ; NES
@@ -307,11 +307,12 @@ Master of Darkness                          ; excellent ; master-system
 Masters of Combat                           ;           ; master-system
 Maze Hunter 3D                              ;           ; master-system
 Miracle Warriors - Seal of The Dark Lord    ; ?         ; master-system
+Ninja Gaiden                                ;           ; master-system ; different game from NES, SNES, turbografx and game-gear versions
 Operation Wolf                              ;           ; master-system
 Out Run                                     ;           ; master-system
 Phantasy Star                               ; excellent ; master-system game-boy-advance ; GBA-PACK Phantasy Star Collection (I, II and III)
-Power Strike II                             ;           ; master-system ; different from the game-gear game with the same name
 Power Strike                                ;           ; master-system
+Power Strike II                             ;           ; master-system ; different from the game-gear game with the same name
 Putt & Putter                               ;           ; master-system
 R.C. Grand Prix                             ;           ; master-system
 Rainbow Islands                             ;           ; master-system
@@ -825,7 +826,7 @@ Mega Man                                        ; excellent ; game-gear ; It is 
 Mighty Morphin Power Rangers: The Movie         ;           ; game-gear
 Mighty Morphin’ Power Rangers                   ;           ; game-gear
 Moldorian                                       ;           ; game-gear
-Ninja Gaiden                                    ;           ; game-gear
+Ninja Gaiden                                    ;           ; game-gear ; different game from NES, master-system, SNES and turbografx versions
 Panzer Dragoon Mini                             ;           ; game-gear
 Phantasy Star Adventure                         ;           ; game-gear
 Phantasy Star Gaiden                            ;           ; game-gear
