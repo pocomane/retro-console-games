@@ -163,7 +163,7 @@ Bad dudes                                                ;           ; NES
 Balloon Fight                                            ; good      ; NES game-boy-color
 Batman                                                   ;           ; NES
 Batman - Return of the Jocker                            ;           ; NES
-Battletoads                                              ; excellent ; NES game-boy game-gear
+Battletoads                                              ; excellent ; NES game-gear ; The game-boy game is a different one
 Bionic Commando                                          ; good      ; NES
 Blaster Master                                           ; good      ; NES
 Bomberman                                                ;           ; NES game-boy-advance ; there is a expanded-ramake for turbografx with the same name ; GBA-NAME Classic NES series - Bomberman
@@ -678,7 +678,7 @@ Parasol Stars                        ;                   ; turbografx
 Parodius Da!                         ;                   ; turbografx game-boy-color ; GB-PACK Konami GB Collection vol 4
 Psychosis                            ;                   ; turbografx
 Puzzle Boy                           ;                   ; turbografx
-R-Type                               ; excellent         ; turbografx master-system game-boy game-boy-color ; GBC-PACK R-Type DX ; PC-Engine Japan version was splitted in 2 parts
+R-Type                               ; excellent         ; turbografx master-system ; PC-Engine Japan version was splitted in 2 parts ; game-boy and game-boy-color version are a severe downgrade
 Raiden                               ;                   ; turbografx
 Salamander                           ; good              ; turbografx
 Shinobi                              ;                   ; turbografx NES master-system game-gear
@@ -701,18 +701,19 @@ Game Boy
 ========
 
 ```
-Adventures of Lolo                            ; excellent ; game-boy
+Adventures of Lolo                            ;           ; game-boy
 Asmik-kun World 2                             ;           ; game-boy ; Boomer's Adventure in ASMIK World 2
-Avenging Spirit                               ; excellent ; game-boy
+Avenging Spirit                               ; good      ; game-boy
 Balloon Kid                                   ;           ; game-boy
 Batman - Return of the Joker                  ;           ; game-boy
 Batman - The Animated Series                  ;           ; game-boy
-Battle Arena Toshinden                        ; good      ; game-boy
+Battle Arena Toshinden                        ;           ; game-boy
+Battletoads                                   ;           ; game-boy ; The nes and game-gear games are different ones
 Battletoads in Ragnarok's World               ;           ; game-boy
 Bill & Ted’s Excellent Game Boy Adventure     ;           ; game-boy
 Blaster Master Boy                            ;           ; game-boy
-Bomberman GB                                  ; excellent ; game-boy ; bomberman GB 2 in japan
-Bomberman GB 3                                ; good      ; game-boy
+Bomberman GB                                  ;           ; game-boy ; bomberman GB 2 in japan
+Bomberman GB 3                                ;           ; game-boy
 Booby Boys                                    ;           ; game-boy
 Boomer's Adventure in ASMIK World             ;           ; game-boy
 BurgerTime Deluxe                             ;           ; game-boy
@@ -720,7 +721,7 @@ Castlevania Legends                           ; good      ; game-boy
 Catrap                                        ; good      ; game-boy
 Dexterity                                     ;           ; game-boy
 Donkey Kong Land                              ; good      ; game-boy
-Donkey Kong Land 2                            ; excellent ; game-boy
+Donkey Kong Land 2                            ; good      ; game-boy
 Donkey Kong Land 3                            ; good      ; game-boy
 Dr. Mario                                     ;           ; game-boy NES SNES ; SNES-PACK Tetris & Dr. Mario
 Final Fantasy Adventure                       ; ?         ; game-boy
@@ -728,18 +729,18 @@ Final Fantasy Legend II                       ; ?         ; game-boy
 Final Fantasy Legend III                      ; ?         ; game-boy
 Fortified Zone                                ;           ; game-boy
 GB Genjin Land - Viva! Chikkun Oukoku         ;           ; game-boy
-Game & Watch Gallery                          ; good      ; game-boy
+Game & Watch Gallery                          ;           ; game-boy
 Gargoyle's Quest                              ; ?         ; game-boy
 Great Greed                                   ; ?         ; game-boy
-Hammerin' Harry - Ghost Building Company      ; excellent ; game-boy
+Hammerin' Harry - Ghost Building Company      ; good      ; game-boy
 Ikari no Yousai 2                             ; good      ; game-boy ; Fortified Zone sequel
 Joe & Mac - Caveman Ninja                     ;           ; game-boy
 Kaeru no tame ni Kane wa Naru                 ; ?         ; game-boy ; For Frog the Bell Tolls
 Kid Dracula                                   ; excellent ; game-boy
 Kid Icarus - Of Myths and Monsters            ; excellent ; game-boy
 Kirby's Block Ball                            ;           ; game-boy
-Kirby's Dream Land                            ; good      ; game-boy
-Kirby's Dream Land 2                          ; good      ; game-boy
+Kirby's Dream Land                            ;           ; game-boy
+Kirby's Dream Land 2                          ;           ; game-boy
 Kung-Fu Master                                ;           ; game-boy
 Mario’s Picross                               ;           ; game-boy
 Mario’s Picross 2                             ;           ; game-boy
@@ -750,7 +751,7 @@ Mega Man III                                  ; good      ; game-boy ; Mix of II
 Mega Man IV                                   ; good      ; game-boy ; Mix of IV and V from NES
 Mega Man V                                    ; excellent ; game-boy ; It is different from the NES game with the same title
 Metroid II - Return of Samus                  ; excellent ; game-boy
-Mole Mania                                    ; good      ; game-boy
+Mole Mania                                    ;           ; game-boy
 Motocross Maniacs                             ;           ; game-boy
 Mystic Quest                                  ;           ; game-boy
 Mystical Ninja starring Goemon                ; ?         ; game-boy
@@ -759,7 +760,8 @@ Noobow                                        ; good      ; game-boy
 Operation C                                   ; excellent ; game-boy game-boy-color; GBC-PACK Konami GB Collection vol 1
 Pokemon Blue / Red / yellow                   ; excellent ; game-boy
 Qix                                           ;           ; game-boy
-R-Type II                                     ;           ; game-boy
+R-Type                                        ;           ; game-boy game-boy-color ; turbografx and master-system versions are much better ; GBC-PACK R-Type DX
+R-Type II                                     ;           ; game-boy game-boy-color ; turbografx and master-system versions are much better ; GBC-PACK R-Type DX
 Rolan's Curse                                 ; ?         ; game-boy
 Rolan's Curse 2                               ; ?         ; game-boy
 SolarStriker                                  ;           ; game-boy
@@ -772,11 +774,11 @@ Tetris 2                                      ;           ; game-boy NES
 Tetris attack                                 ;           ; game-boy SNES
 Tetris plus                                   ;           ; game-boy
 The Final Fantasy Legend                      ; ?         ; game-boy
-The King of Fighters '95                      ; good      ; game-boy
-The King of Fighters - Heat of Battle         ; good      ; game-boy ; jap= king of fighter 96
+The King of Fighters '95                      ;           ; game-boy
+The King of Fighters - Heat of Battle         ;           ; game-boy ; jap= king of fighter 96
 Tiny Toons Adventures - Babs' Big Break       ;           ; game-boy
 Tiny Toons Adventures 2 - Montans's Movie     ;           ; game-boy
-Trax                                          ; good      ; game-boy
+Trax                                          ;           ; game-boy
 Trip World                                    ; good      ; game-boy
 Wario Blast                                   ;           ; game-boy ; Bomberman GB in japan
 Wario Land - Super Mario Land 3               ; good      ; game-boy
@@ -868,7 +870,7 @@ Alone in the Dark - The New Nightmare                  ;           ; game-boy-co
 Arcade Hits - Joust & Defender                         ;           ; game-boy-color
 Asteroid                                               ;           ; game-boy-color
 Bionic Commando - elite forces                         ;           ; game-boy-color
-Bomberman Max - Blue Champion / Red Challanger         ; good      ; game-boy-color
+Bomberman Max - Blue Champion / Red Challanger         ;           ; game-boy-color
 Bomberman Quest                                        ; ?         ; game-boy-color
 Cannon folder                                          ;           ; game-boy-color
 Daikatana                                              ; ?         ; game-boy-color
@@ -893,11 +895,11 @@ Konami GB Collection vol 2                             ;           ; game-boy-co
 Konami GB Collection vol 3                             ;           ; game-boy-color ; GB-NAME-1 Gradius - The Interstellar Assault GB-NAME-2 Castelvania 2 - Belmont's Revenge ORIG-NAME-3 Ye Ar Kung-Fu ORIG-NAME-4 Antarctic Adventure
 Konami GB Collection vol 4                             ;           ; game-boy-color ; TGX-NAME-1 Parodius Da! ORIG-NAME-2 Block game ORIG-NAME-3 Track & Field ORIG-NAME-4 Frogger
 Little Magic                                           ;           ; game-boy-color
-Looney Tunes                                           ; good      ; game-boy-color
+Looney Tunes                                           ;           ; game-boy-color
 Looney Tunes - Carrot crazy                            ;           ; game-boy-color
-Looney Tunes Collector - Martian Alert!                ; good      ; game-boy-color
-Looney Tunes Collector - Martian Revenge!              ; good      ; game-boy-color
-Lucky Luke                                             ; good      ; game-boy-color
+Looney Tunes Collector - Martian Alert!                ;           ; game-boy-color
+Looney Tunes Collector - Martian Revenge!              ;           ; game-boy-color
+Lucky Luke                                             ;           ; game-boy-color
 Lucky Luke - Desperado Train                           ;           ; game-boy-color
 Lufia - The Legend Returns                             ; ?         ; game-boy-color
 Magi Nation                                            ;           ; game-boy-color
@@ -915,9 +917,8 @@ Mr. Nutz                                               ; good      ; game-boy-co
 Oddworld Adventures II                                 ;           ; game-boy-color
 Pocket Bomberman                                       ;           ; game-boy-color game-boy
 Pokemon Gold / Silver / Cristal                        ; excellent ; game-boy-color
-Pokemon Puzzle Challenge                               ; good      ; game-boy-color
+Pokemon Puzzle Challenge                               ;           ; game-boy-color
 Project S-11                                           ;           ; game-boy-color
-R-Type DX                                              ; excellent ; game-boy-color ; TURBOGRAFX-ORIG-1 R-Type GB-ORIG-2 R-Type II ; It contains special 1/2 merged mode
 Rampart                                                ;           ; game-boy-color master-system
 Rayman                                                 ; good      ; game-boy-color game-boy-advance ; GBA-NAME Rayman Advance
 Rayman 2                                               ; good      ; game-boy-color
@@ -937,7 +938,7 @@ Tetris DX                                              ; good      ; game-boy-co
 The Legend of Zelda - Link's Awakening DX              ; excellent ; game-boy-color game-boy ; GB-NAME The Legend of Zelda - Link’s Awakening
 The Legend of Zelda - Oracle of Ages                   ; good      ; game-boy-color
 The Legend of Zelda - Oracle of Seasons                ; good      ; game-boy-color
-The grinch                                             ; excellent ; game-boy-color
+The grinch                                             ; good      ; game-boy-color
 Toki Tori                                              ;           ; game-boy-color
 Tomb Raider                                            ; good      ; game-boy-color
 Tomb Raider - Curse of the Sword                       ; good      ; game-boy-color
@@ -1198,6 +1199,7 @@ NES ; - ; 75 ; Shadowgate
 NES ; @ ; ?? ; Crash 'n' the Boys: Street Challenge
 NES ; @ ; ?? ; Tower of druaga ?
 NES ; @ ; ?? ; The Adventures of Rad Gravity ?
+NES ; @ ; ?? ; Shadow of the Ninja ?
 MASTERSYSTEM ; - ; 09 ; Populous
 MASTERSYSTEM ; - ; 18 ; Lemmings
 MASTERSYSTEM ; + ; 20 ; Gain Ground
@@ -1303,6 +1305,10 @@ GAMEBOY ; - ; 59 ; Great Greed
 GAMEBOY ; - ; 65 ; The Final Fantasy Legend
 GAMEBOY ; - ; 79 ; Final Fantasy Legend II
 GAMEBOY ; - ; 91 ; Final Fantasy Legend III
+GAMEBOY ; @ ; 30 ; Solar Striker
+GAMEBOY ; @ ; 30 ; Boxxie
+GAMEBOY ; @ ; 30 ; Boxxie 2
+GAMEBOY ; @ ; 30 ; Heiankyo Alien
 GAMEBOYCOLOR ; + ; ?? ; Fushigi no Dungeon - Fuurai no Shiren ; japan only, lot of text ; ; ; ; ;
 GAMEBOYCOLOR ; + ; 17 ; Ganbare Goemon Hoshizorashi Dyamites Arawaru!!
 GAMEBOYCOLOR ; + ; 21 ; Survival Kids
