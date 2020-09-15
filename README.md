@@ -387,9 +387,9 @@ Equinox                                              ;           ; SNES
 F-Zero                                               ;           ; SNES
 Fatal Fury Special                                   ;           ; SNES game-gear
 Final Fantasy - Mystic Quest Legend                  ;           ; SNES
-Final Fantasy IV                                     ; ?         ; SNES ; USA release: Final Fantasy II ; GBA-NAME Final Fantasy IV Advance
+Final Fantasy IV                                     ; ?         ; SNES game-boy-advance ; USA release: Final Fantasy II ; GBA-NAME Final Fantasy IV Advance
 Final Fantasy V                                      ; ?         ; SNES game-boy-advance ; USA no release
-Final Fantasy VI                                     ; excellent ; SNES ; USA release: Final Fantasy III
+Final Fantasy VI                                     ; excellent ; SNES game-boy-advance ; USA release: Final Fantasy III ; GBA-NAME Final Fantasy VI Advance
 Final Fight                                          ; good      ; SNES
 Final Fight 2                                        ;           ; SNES
 Final Fight 3                                        ;           ; SNES
@@ -985,10 +985,7 @@ Ecks vs. Sever 2                                       ;           ; game-boy-ad
 F-Zero - Maximum Velocity                              ;           ; game-boy-advance
 F-Zero Climax                                          ;           ; game-boy-advance
 F-Zero GP Legend                                       ;           ; game-boy-advance
-Final Fantasy IV Advance                               ;           ; game-boy-advance SNES
 Final Fantasy Tactics Advance                          ;           ; game-boy-advance
-Final Fantasy V                                        ; ?         ; game-boy-advance
-Final Fantasy VI Advance                               ; excellent ; game-boy-advance
 Final Fight One                                        ;           ; game-boy-advance
 Fire Emblem - Fuuin no Tsurugi                         ; good      ; game-boy-advance
 Fire Emblem                                            ; good      ; game-boy-advance
