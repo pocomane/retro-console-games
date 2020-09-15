@@ -967,19 +967,18 @@ Boulder Dash EX                                        ;           ; game-boy-ad
 Castlevania - Aria of Sorrow                           ; good      ; game-boy-advance ; GBA-PACK Castlevania Double Pack
 Castlevania - Circle of the Moon                       ; good      ; game-boy-advance
 Castlevania - Harmony of Dissonance                    ; good      ; game-boy-advance ; GBA-PACK Castlevania Double Pack
-Castlevania Double Pack                                ;           ; game-boy-advance ; +GBA Castlevania - Aria of Sorrow +GBA Castlevania - Harmony of Dissonance
 ChuChu Rocket!                                         ;           ; game-boy-advance
 Densetsu no Stafy 1                                    ;           ; game-boy-advance
 Densetsu no Stafy 2                                    ;           ; game-boy-advance
 Densetsu no Stafy 3                                    ;           ; game-boy-advance
-Disney's Lilo & Stitch                                 ;           ; game-boy-advance
+Disney's Lilo & Stitch                                 ; good      ; game-boy-advance
 Disney's Lilo & Stitch 2                               ;           ; game-boy-advance
 Doom                                                   ;           ; game-boy-advance SNES
 Doom 2                                                 ;           ; game-boy-advance
 Dragon Ball Z - The Legacy Goku                        ; ?         ; game-boy-advance
 Dragon Ball Z - The Legacy Goku II                     ; ?         ; game-boy-advance
 Dragon Quest Monsters - Caravan Heart                  ; ?         ; game-boy-advance
-Drill Dozer                                            ;           ; game-boy-advance
+Drill Dozer                                            ; good      ; game-boy-advance
 Duke Nukem Advance                                     ;           ; game-boy-advance
 Ecks vs. Sever                                         ;           ; game-boy-advance
 Ecks vs. Sever 2                                       ;           ; game-boy-advance
@@ -991,9 +990,9 @@ Final Fantasy Tactics Advance                          ;           ; game-boy-ad
 Final Fantasy V                                        ; ?         ; game-boy-advance
 Final Fantasy VI Advance                               ; excellent ; game-boy-advance
 Final Fight One                                        ;           ; game-boy-advance
-Fire Emblem - Fuuin no Tsurugi                         ; ?         ; game-boy-advance
-Fire Emblem                                            ;           ; game-boy-advance
-Fire Emblem - The Sacred Stones                        ;           ; game-boy-advance
+Fire Emblem - Fuuin no Tsurugi                         ; good      ; game-boy-advance
+Fire Emblem                                            ; good      ; game-boy-advance
+Fire Emblem - The Sacred Stones                        ; good      ; game-boy-advance
 Golden Sun                                             ; ?         ; game-boy-advance
 Golden Sun - The Lost Age                              ;           ; game-boy-advance
 Gradius Galaxy                                         ; ?         ; game-boy-advance
@@ -1003,17 +1002,17 @@ Harvest Moon - More Friends of Mineral Town            ;           ; game-boy-ad
 Kingdom Hearts - Chain of Memories                     ; ?         ; game-boy-advance
 Kirby & the Amazing Mirror                             ;           ; game-boy-advance
 Kirby - Nightmare in Dream Land                        ;           ; game-boy-advance
-Klonoa                                                 ;           ; game-boy-advance
-Klonoa 2 - Dream Champ Tournament                      ;           ; game-boy-advance
+Klonoa                                                 ; good      ; game-boy-advance
+Klonoa 2 - Dream Champ Tournament                      ; good      ; game-boy-advance
 Konami Collector's Series - Arcade Advanced            ;           ; game-boy-advance ; ORIG-NAME-1 Frogger ORIG-NAME-2 Scramble ORIG-NAME-3 Gyruss ORIG-NAME-4 Time Pilot ORIG-NAME-5 Yie Air Kung-fu ORIG-NAME-6 Rush'n Attack
 Legend of Spyro - Eternal Nigh                         ;           ; game-boy-advance
 Legend of Spyro - New Beginning                        ;           ; game-boy-advance
 Lufia - The Ruins of Lore                              ; ?         ; game-boy-advance
 Lunar Legend                                           ;           ; game-boy-advance
-Mario & Luigi - Superstar Saga                         ;           ; game-boy-advance
+Mario & Luigi - Superstar Saga                         ; good      ; game-boy-advance ; It contains Mario Bros.
 Mario Kart Super Circuit                               ;           ; game-boy-advance
 Mario Tennis - Power Tour                              ;           ; game-boy-advance
-Mario vs. Donkey Kong                                  ;           ; game-boy-advance
+Mario vs. Donkey Kong                                  ; good      ; game-boy-advance
 Mazes of Fate                                          ;           ; game-boy-advance
 Mega Man & Bass                                        ;           ; game-boy-advance
 Mega Man Battle Network                                ;           ; game-boy-advance
@@ -1026,14 +1025,14 @@ Mega Man Zero                                          ; good      ; game-boy-ad
 Mega Man Zero 2                                        ; good      ; game-boy-advance
 Mega Man Zero 3                                        ; excellent ; game-boy-advance
 Mega Man Zero 4                                        ; good      ; game-boy-advance
-Metal Slug Advance                                     ;           ; game-boy-advance
+Metal Slug Advance                                     ; good      ; game-boy-advance
 Metroid - Zero Mission                                 ; good      ; game-boy-advance
 Metroid Fusion                                         ; good      ; game-boy-advance
 Mortal Kombat - Deadly Alliance                        ;           ; game-boy-advance ; AKA Mortal Kombat 4 ; Tournament Edition is an updated version of Deadly Alliance
 Mortal Kombat - Tournament edition                     ;           ; game-boy-advance ; AKA Mortal Kombat 4 ; Tournament Edition is an updated version of Deadly Alliance
 Mortal Kombat Advance                                  ;           ; game-boy-advance
 Mother 3                                               ;           ; game-boy-advance
-Ninja Five-0                                           ;           ; game-boy-advance
+Ninja Five-0                                           ; good      ; game-boy-advance
 Pokemon FireRed / LeafGreen                            ; ?         ; game-boy-advance
 Pokemon Mystery Dungeon - Red Rescue Team              ; ?         ; game-boy-advance
 Pokemon Ruby / Sapphire / Emerald                      ; ?         ; game-boy-advance
@@ -1356,7 +1355,6 @@ GAMEBOYADVANCE ; + ; 08 ; Mario & Luigi - Superstar Saga
 GAMEBOYADVANCE ; + ; 15 ; Fire Emblem
 GAMEBOYADVANCE ; + ; 29 ; Fire Emblem - Fuuin no Tsurugi
 GAMEBOYADVANCE ; + ; 31 ; Mega Man Battle Network 2
-GAMEBOYADVANCE ; + ; 29 ; Fire Emblem - Fuuin no Tsurugi
 GAMEBOYADVANCE ; + ; ?? ; WarioWare - Twisted!
 GAMEBOYADVANCE ; + ; ?? ; WarioWare, Inc. - Mega Microgame$!
 GAMEBOYADVANCE ; - ; 06 ; Dragon Ball Z - The Legacy Goku
@@ -1364,7 +1362,6 @@ GAMEBOYADVANCE ; - ; 06 ; Dragon Ball Z - The Legacy Goku II
 GAMEBOYADVANCE ; - ; 14 ; Golden Sun
 GAMEBOYADVANCE ; - ; 18 ; Final Fantasy V
 GAMEBOYADVANCE ; - ; 25 ; Golden Sun - The Lost Age
-GAMEBOYADVANCE ; - ; 32 ; Fire Emblem - The Sacred Stones
 GAMEBOYADVANCE ; - ; 38 ; Bomberman Tournament
 GAMEBOYADVANCE ; - ; 39 ; Mega Man Battle Network 6 cybeast flazar / gregar
 GAMEBOYADVANCE ; - ; 39 ; Tactics Ogre - The Knight of Lodis
