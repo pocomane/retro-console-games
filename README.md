@@ -454,8 +454,10 @@ Super Bomberman 2                                    ; good      ; SNES
 Super Bomberman 3                                    ; good      ; SNES
 Super Bomberman 4                                    ; good      ; SNES
 Super Bomberman 5                                    ;           ; SNES
+Super Bonk                                           ;           ; SNES ; Super Genjin in japan
 Super Castlevania IV                                 ; excellent ; SNES
 Super Double Dragon                                  ;           ; SNES
+Super Genjin 2                                       ;           ; SNES ; Sequel to Super Bonk, released in japan only
 Super Ghouls'n Ghosts                                ; excellent ; SNES game-boy-advance
 Super James Pond II                                  ;           ; SNES master-system game-gear ; ORIG-NAME James Pond II
 Super Mario Kart                                     ; good      ; SNES
@@ -639,8 +641,8 @@ Bomberman 93                         ; good              ; turbografx
 Bomberman 94                         ; excellent         ; turbografx
 Bomberman Users Battle               ;                   ; turbografx
 Bonk 3                               ; good              ; turbografx ; PC Genjin 3 in japan
-Bonk's Adventure                     ; good              ; turbografx game-boy ; PC Genjin in japan
-Bonk's Revenge                       ; excellent         ; turbografx game-boy ; PC Genjin 2 in japan
+Bonk's Adventure                     ; good              ; turbografx nes ; PC Genjin in japan ; game-boy game is a different one
+Bonk's Revenge                       ; excellent         ; turbografx ; PC Genjin 2 in japan ; game-boy game is a different one
 Cadash                               ; good              ; turbografx
 Chew Man Fu/Be Ball                  ;                   ; turbografx
 Coryoon                              ;                   ; turbografx
@@ -714,6 +716,8 @@ Bill & Ted’s Excellent Game Boy Adventure     ;           ; game-boy
 Blaster Master Boy                            ;           ; game-boy
 Bomberman GB                                  ;           ; game-boy ; bomberman GB 2 in japan
 Bomberman GB 3                                ;           ; game-boy
+Bonk's Adventure                              ; good      ; game-boy ; turbografx game is a different one
+Bonk's Revenge                                ;           ; game-boy ; turbografx game is a different one
 Booby Boys                                    ;           ; game-boy
 Boomer's Adventure in ASMIK World             ;           ; game-boy
 BurgerTime Deluxe                             ;           ; game-boy
