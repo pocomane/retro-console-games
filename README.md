@@ -721,6 +721,8 @@ Bonk's Revenge                                ;           ; game-boy ; turbograf
 Booby Boys                                    ;           ; game-boy
 Boomer's Adventure in ASMIK World             ;           ; game-boy
 BurgerTime Deluxe                             ;           ; game-boy
+Castlevania - The Adventure                   ;           ; game-boy game-boy-color ; GBC-PACK Konami GB Collection vol 1
+Castlevania II - Belmont's Revenge            ; good      ; game-boy game-boy-color ; GBC-PACK Konami GB Collection vol 3
 Castlevania Legends                           ; good      ; game-boy
 Catrap                                        ; good      ; game-boy
 Dexterity                                     ;           ; game-boy
