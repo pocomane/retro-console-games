@@ -810,7 +810,7 @@ Columns                                         ; good      ; game-gear master-s
 Crystal Warriors                                ;           ; game-gear
 Deep Duck Trouble Starring Donald Duck          ; good      ; game-gear
 Defenders of Oasis                              ;           ; game-gear
-Disney's Aladdin                                ;           ; game-gear ; Different from the other versions
+Disney's Aladdin                                ;           ; game-gear master-system ; Different from the other versions
 Dr Robotnik's Mean Bean Machine                 ;           ; game-gear master-system genesis
 Dragon Crystal                                  ;           ; game-gear
 Ecco: The Tides of Time                         ;           ; game-gear
