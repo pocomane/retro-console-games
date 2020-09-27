@@ -1242,6 +1242,7 @@ MASTERSYSTEM ; @ ; ?? ; Transbot
 MASTERSYSTEM ; @ ; ?? ; Cyborg Hunter
 MASTERSYSTEM ; @ ; ?? ; Zaxxon 3d
 MASTERSYSTEM ; @ ; ?? ; Altered beast
+MASTERSYSTEM ; @ ; ?? ; Alien syndrome ; different from game-gear ?
 SNES ; + ; 44 ; Secret of Evermore
 SNES ; + ; ?? ; Fushigi no Dungeon 2 - Fuurai no Shiren
 SNES ; + ; 15 ; Secret of Mana
@@ -1284,6 +1285,10 @@ SNES ; @ ; ?? ; Fighter's History
 SNES ; @ ; ?? ; Metal Marines
 SNES ; @ ; ?? ; Chaos Engine
 SNES ; @ ; ?? ; Rendering Ranger ; Turrican series
+SNES ; @ ; ?? ; Nosferatu
+SNES ; @ ; ?? ; Plok
+SNES ; @ ; ?? ; Ninjawarriors
+SNES ; @ ; ?? ; Space Megaforce
 GENEIS ; + ; 02 ; Aerobiz Supersonic
 GENEIS ; + ; 13 ; Ecco the Dolphin
 GENEIS ; + ; 22 ; Dune - The Battle for Arrakis
@@ -1451,4 +1456,6 @@ GAMEBOYADVANCE ; @ ; ?? ; Driver
 GAMEBOYADVANCE ; @ ; ?? ; Driver 2 Advance
 GAMEBOYADVANCE ; @ ; ?? ; Driv3r
 GAMEBOYADVANCE ; @ ; ?? ; Ice Nine
+GAMEBOYADVANCE ; @ ; ?? ; Iridion 3d
+GAMEBOYADVANCE ; @ ; ?? ; Iridion 2
 ```
