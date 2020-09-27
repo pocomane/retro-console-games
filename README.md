@@ -1202,6 +1202,26 @@ NES ; @ ; ?? ; Crash 'n' the Boys: Street Challenge
 NES ; @ ; ?? ; Tower of druaga ?
 NES ; @ ; ?? ; The Adventures of Rad Gravity ?
 NES ; @ ; ?? ; Shadow of the Ninja ?
+NES ; @ ; ?? ; kabuki quantum fighter
+NES ; @ ; ?? ; Shatterhand
+NES ; @ ; ?? ; Dragon Fighter
+NES ; @ ; ?? ; Spy Hunter
+NES ; @ ; ?? ; Super Spy Hunter
+NES ; @ ; ?? ; Cosmic Epsilon
+NES ; @ ; ?? ; Summer Carnival
+NES ; @ ; ?? ; S.C.A.T.
+NES ; @ ; ?? ; Crisis Force
+NES ; @ ; ?? ; Tetrastar
+NES ; @ ; ?? ; Moon Crystal
+NES ; @ ; ?? ; Mitsume ga Tooru
+NES ; @ ; ?? ; Akumajō Special: Boku Dracula-kun ; aka Kid Dracula (Castlevania series) ; some section need to underdtand japanese (hint: english translation in castlvani anniversary collection); different from the game-boy one (remake) ?
+NES ; @ ; ?? ; Legend of Kage
+NES ; @ ; ?? ; Demons sword ; Sequel to Legeend of Kage
+NES ; @ ; ?? ; Zombie Nation
+NES ; @ ; ?? ; Kid Niki
+NES ; @ ; ?? ; Kid Niki 2 ; jap only: Kaiketsu Yancha Maru 2
+NES ; @ ; ?? ; Kid Niki 3 ; jap only: Kaiketsu Yancha Maru 3
+NES ; @ ; ?? ; Vice - Project Doom
 MASTERSYSTEM ; - ; 09 ; Populous
 MASTERSYSTEM ; - ; 18 ; Lemmings
 MASTERSYSTEM ; + ; 20 ; Gain Ground
@@ -1210,6 +1230,18 @@ MASTERSYSTEM ; - ; 09 ; Populous
 MASTERSYSTEM ; @ ; ?? ; mercs
 MASTERSYSTEM ; @ ; ?? ; Super Smash TV
 MASTERSYSTEM ; @ ; ?? ; Psycho Fox
+MASTERSYSTEM ; @ ; ?? ; The Ninja
+MASTERSYSTEM ; @ ; ?? ; Cloud Master
+MASTERSYSTEM ; @ ; ?? ; Rescue Mission
+MASTERSYSTEM ; @ ; ?? ; Global defense
+MASTERSYSTEM ; @ ; ?? ; My Hero
+MASTERSYSTEM ; @ ; ?? ; Astro Warrior
+MASTERSYSTEM ; @ ; ?? ; Lord of the sword
+MASTERSYSTEM ; @ ; ?? ; Vigilante
+MASTERSYSTEM ; @ ; ?? ; Transbot
+MASTERSYSTEM ; @ ; ?? ; Cyborg Hunter
+MASTERSYSTEM ; @ ; ?? ; Zaxxon 3d
+MASTERSYSTEM ; @ ; ?? ; Altered beast
 SNES ; + ; 44 ; Secret of Evermore
 SNES ; + ; ?? ; Fushigi no Dungeon 2 - Fuurai no Shiren
 SNES ; + ; 15 ; Secret of Mana
@@ -1251,6 +1283,7 @@ SNES ; @ ; ?? ; Incantation
 SNES ; @ ; ?? ; Fighter's History
 SNES ; @ ; ?? ; Metal Marines
 SNES ; @ ; ?? ; Chaos Engine
+SNES ; @ ; ?? ; Rendering Ranger ; Turrican series
 GENEIS ; + ; 02 ; Aerobiz Supersonic
 GENEIS ; + ; 13 ; Ecco the Dolphin
 GENEIS ; + ; 22 ; Dune - The Battle for Arrakis
@@ -1267,7 +1300,7 @@ GENEIS ; - ; 84 ; Phantasy Star II
 GENEIS ; @ ; ?? ; Battle Mania Daiginjou ; Trouble Shooter 2
 GENEIS ; @ ; ?? ; mercs ; Senjou no Ookami II
 GENEIS ; @ ; ?? ; Super Smash TV
-GENEIS ; @ ; ?? ; mega turrican
+GENEIS ; @ ; ?? ; mega turrican ; named Turrican 3 on Amiga
 GENEIS ; @ ; ?? ; Devil Hunter Yohko ?
 GENEIS ; @ ; ?? ; Blaster Master 2
 GENEIS ; @ ; ?? ; Mazinger ?
@@ -1278,6 +1311,15 @@ GENEIS ; @ ; ?? ; Elimineted Down
 GENEIS ; @ ; ?? ; Two Crude
 GENEIS ; @ ; ?? ; Phelios
 GENEIS ; @ ; ?? ; Weaponlord
+GENEIS ; @ ; ?? ; Mystical fighter
+GENEIS ; @ ; ?? ; Growl
+GENEIS ; @ ; ?? ; Adventures of Batman and Robin ; different from snes and game-gear
+GENEIS ; @ ; ?? ; Dynamite Duke
+GENEIS ; @ ; ?? ; Fire Shark
+GENEIS ; @ ; ?? ; Master of Monsters
+GENEIS ; @ ; ?? ; Warsong
+GENEIS ; @ ; ?? ; Light Crusader
+GENEIS ; @ ; ?? ; Ghostbusters
 TURBOGRAFX ; + ; 10 ; Military Madness
 TURBOGRAFX ; + ; 22 ; Neutopia II
 TURBOGRAFX ; - ; 20 ; Momotarou Katsugeki
@@ -1311,6 +1353,12 @@ GAMEBOY ; @ ; 30 ; Solar Striker
 GAMEBOY ; @ ; 30 ; Boxxie
 GAMEBOY ; @ ; 30 ; Boxxie 2
 GAMEBOY ; @ ; 30 ; Heiankyo Alien
+GAMEBOY ; @ ; 99 ; Chikyu Kaihou Fun ZAS
+GAMEBOY ; @ ; 99 ; Parodius
+GAMEBOY ; @ ; 99 ; Burai Fighter
+GAMEBOY ; @ ; 99 ; The sword of hope
+GAMEBOY ; @ ; 99 ; The sword of hope 2
+GAMEBOY ; @ ; 99 ; Nemesis ; gradius linked ?
 GAMEBOYCOLOR ; + ; ?? ; Fushigi no Dungeon - Fuurai no Shiren ; japan only, lot of text ; ; ; ; ;
 GAMEBOYCOLOR ; + ; 17 ; Ganbare Goemon Hoshizorashi Dyamites Arawaru!!
 GAMEBOYCOLOR ; + ; 21 ; Survival Kids
@@ -1336,11 +1384,12 @@ GAMEGEAR ; - ; 41 ; Madou Monogatari III: Kyuukyoku Joou-sama ; japan only, lot 
 GAMEGEAR ; - ; 47 ; Phantasy Star Adventure ; japan only, lot of text
 GAMEGEAR ; - ; 48 ; Phantasy Star Gaiden ; japan only, lot of text
 GAMEGEAR ; - ; 73 ; Crystal Warriors
-GAMEGEAR ; @ ; 53 ; Shining Force Gaiden ; japan only, lot of text
-GAMEGEAR ; @ ; 54 ; Madou Monogatari II: Arle 16-sai ; japan only, lot of text
-GAMEGEAR ; @ ; 63 ; Moldorian ; japan only, lot of text
-GAMEGEAR ; @ ; 83 ; Eternal Legend ; japan only, lot of text
+GAMEGEAR ; @ ; 53 ; Shining Force Gaiden ; japan only, lot of text ?
+GAMEGEAR ; @ ; 54 ; Madou Monogatari II: Arle 16-sai ; japan only, lot of text ?
+GAMEGEAR ; @ ; 63 ; Moldorian ; japan only, lot of text ?
+GAMEGEAR ; @ ; 83 ; Eternal Legend ; japan only, lot of text ?
 GAMEGEAR ; @ ; ?? ; Super Smash TV
+GAMEGEAR ; @ ; ?? ; Adventures of Batman and Robin ; different from snes and genesis
 GAMEBOYADVANCE ; + ; 06 ; Metroid Fusion
 GAMEBOYADVANCE ; + ; 10 ; Metroid - Zero Mission
 GAMEBOYADVANCE ; + ; 19 ; Castlevania - Circle of the Moon
@@ -1398,4 +1447,8 @@ GAMEBOYADVANCE ; - ; 200 ; Mazes of Fate
 GAMEBOYADVANCE ; - ; 300 ; Shining Soul
 GAMEBOYADVANCE ; - ; ?? ; Fire Emblem - The Sacred Stones
 GAMEBOYADVANCE ; - ; ?? ; Sonic Advance
+GAMEBOYADVANCE ; @ ; ?? ; Driver
+GAMEBOYADVANCE ; @ ; ?? ; Driver 2 Advance
+GAMEBOYADVANCE ; @ ; ?? ; Driv3r
+GAMEBOYADVANCE ; @ ; ?? ; Ice Nine
 ```
