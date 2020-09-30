@@ -1458,4 +1458,5 @@ GAMEBOYADVANCE ; @ ; ?? ; Driv3r
 GAMEBOYADVANCE ; @ ; ?? ; Ice Nine
 GAMEBOYADVANCE ; @ ; ?? ; Iridion 3d
 GAMEBOYADVANCE ; @ ; ?? ; Iridion 2
+GAMEBOYADVANCE ; @ ; ?? ; Invaders
 ```
