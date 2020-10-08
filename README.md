@@ -54,6 +54,7 @@ Cosmic Ark                          ; good      ; atari-2600
 Cosmic Commuter                     ;           ; atari-2600
 Crystal Castles                     ; good      ; atari-2600
 Dark Cavern                         ;           ; atari-2600
+Dark Chambers                       ;           ; atari-2600
 Defender                            ; excellent ; atari-2600
 Demon Attack                        ; good      ; atari-2600
 Desert Falcon                       ;           ; atari-2600
@@ -159,6 +160,7 @@ Adventure Island III                                     ;           ; NES
 Adventures of Lolo                                       ;           ; NES
 Adventures of Lolo II                                    ;           ; NES
 Adventures of Lolo III                                   ;           ; NES
+Akumajō Special: Boku Dracula-kun                        ;           ; NES ; aka Kid Dracula (Castlevania series) ; some section need to underdtand japanese (hint: english translation in castlvani anniversary collection); different from the game-boy one (remake) ?
 Bad dudes                                                ;           ; NES
 Balloon Fight                                            ; good      ; NES game-boy-color
 Batman                                                   ;           ; NES
@@ -178,9 +180,10 @@ Castlevania III - Dracula's Curse                        ; excellent ; NES
 Chip 'n Dale - Rescue Rangers                            ;           ; NES
 Chip 'n Dale - Rescue Rangers 2                          ;           ; NES
 Clash at Demonhead                                       ;           ; NES
-Commando                                                 ;           ; NES ; Mercs prequel``
+Commando                                                 ;           ; NES ; Mercs prequel
 Contra                                                   ; excellent ; NES
 Contra Force                                             ;           ; NES
+Crisis Force                                             ;           ; NES
 Crystalis                                                ; ?         ; NES game-boy-color ; game-boy-color version has several differencies
 Deja Vu                                                  ;           ; NES
 Destiny of an Emperor                                    ;           ; NES
@@ -242,26 +245,33 @@ Punch-Out!!                                              ; good      ; NES
 RC Pro Am                                                ;           ; NES
 Renegade                                                 ;           ; NES master-system
 River City Ransom                                        ; good      ; NES
+Shadow of the Ninja                                      ;           ; NES
 Shadowgate                                               ;           ; NES game-boy-color ; GBC-NAME Shadowgate Classic
+Shatterhand                                              ;           ; NES
 Snake Rattle & Roll                                      ;           ; NES genesis
 Solstice                                                 ;           ; NES
+Spy Hunter                                               ;           ; NES
 Star Soldier                                             ;           ; NES
 StarTropics                                              ; ?         ; NES
 Startropics II - Zoda's Revenge                          ;           ; NES
+Summer Carnival                                          ;           ; NES
 Super C                                                  ; good      ; NES
 Super Dodge Ball                                         ;           ; NES
 Super Mario Bros.                                        ; excellent ; NES game-boy-advance SNES game-boy-color ; SNES-PACK Super Mario All-Stars GBC-NAME Super Mario Bros DX GBA-NAME Classic NES Series - Super Mario Bros.
 Super Mario Bros. 2                                      ;           ; NES game-boy-advance SNES ; GBA-NAME Super Mario Advance - Super Mario Bros 2 SNES-PACK Super Mario All-Stars ; Different from the title with the same name released in Japan on Famicom Disk System: the latter is renamed "Lost levels" in "Super Mario All-Stars" for SNES.
 Super Mario Bros. 3                                      ; excellent ; NES game-boy-advance SNES ; GBA-NAME Super Mario Advance 4 - Super Mario Bros 3 SNES-PACK Super Mario All-Stars
+Super Spy Hunter                                         ;           ; NES
 THe Legend of Zelda                                      ; excellent ; NES game-boy-advance ; GBA-NAME Classic NES Series - The Legend of Zelda
 Teenage Mutant Ninja Turtles                             ;           ; NES
 Teenage Mutant Ninja Turtles II - The Arcade Game        ;           ; NES
 Teenage Mutant Ninja Turtles III - The Manhattan Project ;           ; NES
 The Battle of Olympus                                    ;           ; NES
 The Guardian Legend                                      ;           ; NES
+Vice - Project Doom                                      ;           ; NES
 Willow                                                   ;           ; NES
 Xevious                                                  ;           ; NES
 Zelda II - The Adventures of Link                        ;           ; NES game-boy-advance ; GBA-NAME Classic NES Series - Zelda II
+kabuki quantum fighter                                   ;           ; NES
 ```
 
 Master system
@@ -274,9 +284,12 @@ Alex Kidd - High Tech World                 ;           ; master-system
 Alex Kidd - The Losts Stars                 ;           ; master-system
 Alex Kidd in Miracle World                  ; excellent ; master-system
 Alex Kidd in Shinobi World                  ; good      ; master-system
+Alien syndrome                              ;           ; master-system ; different from game-gear ?
+Altered beast                               ;           ; master-system
 Asterix                                     ; excellent ; master-system
 Asterix and the Great Rescue                ;           ; master-system
 Asterix and the Secret Mission              ;           ; master-system
+Astro Warior                                ;           ; master-system
 Baku Baku                                   ;           ; master-system
 Battle Out Run                              ;           ; master-system
 Battlemaniacs                               ; good      ; master-system
@@ -307,6 +320,7 @@ Machine Gun Joe                             ;           ; master-system
 Master of Darkness                          ; excellent ; master-system
 Masters of Combat                           ;           ; master-system
 Maze Hunter 3D                              ;           ; master-system
+Mercs                                       ;           ; master-system
 Miracle Warriors - Seal of The Dark Lord    ; ?         ; master-system
 Mortal Kombat                               ;           ; master-system ; The SNES and genesis version are much better.
 Mortal Kombat 3                             ;           ; master-system ; The SNES and genesis version are much better.
@@ -343,6 +357,7 @@ The Lucky Dime Caper - Starring Donald Duck ; good      ; master-system game-gea
 The Smurfs                                  ;           ; master-system
 The Smurfs Travel the World                 ;           ; master-system
 Ultima IV                                   ; excellent ; master-system
+Vigilante                                   ;           ; master-system
 Wonder Boy                                  ; good      ; master-system game-gear
 Wonder Boy III - Dragon’s Trap              ; excellent ; master-system turbografx game-gear ; GG-NAME Wonder Boy: The Dragon's Trap ; TGX-USA-NAME Dragon's Curse ; TGX-JAP-NAME Adventure Island
 Wonder Boy in Monster Land                  ; excellent ; master-system
@@ -364,17 +379,21 @@ Aladdin                                              ;           ; SNES game-boy
 Axelay                                               ;           ; SNES
 Battletoads in Battlemaniacs                         ;           ; SNES
 Biker Mice from Mars                                 ;           ; SNES
+Biometal                                             ;           ; SNES
 Blackthorne                                          ; ?         ; SNES
 Breath of Fire                                       ; ?         ; SNES game-boy-advance
 Breath of Fire II                                    ; ?         ; SNES game-boy-advance
 Bust a move                                          ;           ; SNES
+Captain Commando                                     ;           ; SNES
 Castlevania - Dracula X                              ; ?         ; SNES
+Chaos Engine                                         ;           ; SNES
 Choujikuu Yousai Macross - Scrambled Valkyrie        ;           ; SNES
 Chrono Trigger                                       ; excellent ; SNES
 ClayFighter                                          ;           ; SNES
 Clock Tower                                          ;           ; SNES
 Contra III - The Alien Wars                          ; excellent ; SNES game-boy ; GB-NAME Contra - The Alien Wars
 Cybernator                                           ;           ; SNES
+Darius twin                                          ;           ; SNES
 Demon's Crest                                        ; good      ; SNES
 Donkey Kong Country                                  ; good      ; SNES game-boy-color game-boy-advance
 Donkey Kong Country 2 - Diddy's Kong Quest           ; excellent ; SNES game-boy-advance
@@ -385,6 +404,7 @@ EarthBound                                           ; good      ; SNES game-boy
 Energy Breaker                                       ;           ; SNES
 Equinox                                              ;           ; SNES
 F-Zero                                               ;           ; SNES
+Fantastic Journey                                    ;           ; SNES ; Gokujo Parodius – Pursuing the Past Glory[a] ?
 Fatal Fury Special                                   ;           ; SNES game-gear
 Final Fantasy - Mystic Quest Legend                  ;           ; SNES
 Final Fantasy IV                                     ; ?         ; SNES game-boy-advance ; USA release: Final Fantasy II ; GBA-NAME Final Fantasy IV Advance
@@ -402,12 +422,15 @@ Hammer Hamming                                       ;           ; SNES
 Harvest Moon                                         ;           ; SNES
 Illusion of Gaia                                     ; ?         ; SNES
 James Pond 3                                         ;           ; SNES game-gear
+Jikkyō Oshaberi Parodius                             ;           ; SNES
 Killer Instinct                                      ; good      ; SNES
+King of Dragons                                      ;           ; SNES
 Kirby Super Star                                     ; good      ; SNES
 Kirby's Dream Course                                 ;           ; SNES
 Kirby's Dream Land 3                                 ;           ; SNES
 Kirby's Ghost Trap                                   ;           ; SNES
 Knights of the Round                                 ;           ; SNES
+Lady stalker                                         ;           ; SNES ; Landstalker 2 - jap lot of text
 Lufia & the Fortress of Doom                         ; ?         ; SNES
 Lufia II - Rise of the Sinistrals                    ; ?         ; SNES
 Mario & Wario                                        ;           ; SNES
@@ -418,6 +441,7 @@ Mega Men X                                           ; excellent ; SNES
 Mortal Kombat                                        ; good      ; SNES genesis ; SNES version is less violent. The master-system version is a severe downgrage.
 Mortal Kombat 3                                      ; good      ; SNES genesis ; SNES version is less violent. The master-system version is a severe downgrage.
 Mortal Kombat II                                     ; good      ; SNES genesis ; SNES version is less violent. The master-system version is a severe downgrage.
+Nosferatu                                            ;           ; SNES
 Ogre Battle - The March of the Black Queen           ; ?         ; SNES
 Out of This World                                    ;           ; SNES
 Pang                                                 ;           ; SNES
@@ -440,6 +464,7 @@ SimCity                                              ; good      ; SNES
 SimCity 2000 - The Ultimate City Simulator           ;           ; SNES
 Skyblazer                                            ;           ; SNES
 Soul Blazer                                          ;           ; SNES
+Space Megaforce                                      ;           ; SNES
 Sparkster                                            ;           ; SNES ; Different from the genesis one with the same name
 Star Fox                                             ; good      ; SNES
 Star Ocean                                           ; ?         ; SNES
@@ -482,10 +507,13 @@ The Legend of the Mystical Ninja / Ganbare Goemon    ; ?         ; SNES
 The Lion King                                        ;           ; SNES
 The Lost Vikings                                     ; good      ; SNES
 The Magical Quest Starring Mickey Mouse              ;           ; SNES
+Thunder spirits                                      ;           ; SNES ; Thunder Force series
 Tiny Toon Adventures - Buster Busts Loose!           ;           ; SNES
 Torneco no Daibōken - Fushigi no Dungeon             ;           ; SNES
+U.N. Squadron                                        ;           ; SNES
 Ultimate Mortal Kombat 3                             ; good      ; SNES ; best of the serie on this list
 Uniracers                                            ; good      ; SNES
+Wild Guns                                            ;           ; SNES
 Zombies Ate My Neighbors                             ; good      ; SNES
 ```
 
@@ -494,6 +522,7 @@ Genesis / Nomad
 
 ```
 Advanced Busterhawk Gleylancer                         ;           ; genesis
+Adventures of Batman and Robin                         ;           ; genesis ; different from snes and game-gear
 Aero Blasters                                          ; good      ; genesis turbografx
 Aerobiz Supersonic                                     ; ?         ; genesis
 Alex Kidd in the Enchanted Castle                      ;           ; genesis
@@ -502,6 +531,7 @@ Alisia Dragoon                                         ;           ; genesis
 Altered Beast                                          ;           ; genesis
 Arrow Flash                                            ;           ; genesis
 Atomic Runner                                          ;           ; genesis
+Battle Mania Daiginjou                                 ;           ; genesis ; Trouble Shooter 2
 Battlemania - Daiginjou                                ; excellent ; genesis
 Battletoads & Double Dragon - The Ultimate Team        ; good      ; genesis NES game-boy
 Bio-Hazard Battle                                      ;           ; genesis
@@ -532,6 +562,8 @@ Ecco the Dolphin                                       ; good      ; genesis gam
 Ecco the Dolphin II                                    ;           ; genesis
 El Viento                                              ;           ; genesis
 Elemental Master                                       ;           ; genesis
+Elimineted Down                                        ;           ; genesis
+Fire Shark                                             ;           ; genesis
 Flashback                                              ; ?         ; genesis SNES
 Forgotten Worlds                                       ;           ; genesis master-system
 Gaiares                                                ;           ; genesis
@@ -543,6 +575,8 @@ Golden Axe II                                          ;           ; genesis
 Golden Axe III                                         ;           ; genesis
 Granada                                                ; good      ; genesis
 Greatest Heavyweights                                  ;           ; genesis
+Grind stormer / V V                                    ;           ; genesis
+Growl                                                  ;           ; genesis
 Gunstar Heroes                                         ; excellent ; genesis game-gear
 Hellfire                                               ;           ; genesis
 Herzog Zwei                                            ;           ; genesis
@@ -554,19 +588,21 @@ M.U.S.H.A.                                             ; good      ; genesis
 Marvel Land                                            ; good      ; genesis
 Mega Bomberman                                         ;           ; genesis
 Mega Man - The Wily Wars                               ; good      ; genesis
+Mercs                                                  ;           ; genesis ; Senjou no Ookami II
 Mickey Mania - The Timeless Adventures of Mickey Mouse ; good      ; genesis
 Micro Machines                                         ;           ; genesis NES SNES game-boy game-gear master-system game-boy-color ; GBC-PACK Micro Machines I & II
 Micro Machines 2 - Turbo Tournament                    ; good      ; genesis SNES game-gear game-boy-color ; GBC-PACK Micro Machines I & II
 Micro Machines Military                                ;           ; genesis
 Micro Machines Turbo Tournament '96                    ; excellent ; genesis
 Mystic Defender                                        ;           ; genesis
-Outrun                                                 ;           ; genesis master-system turbografx
 OutRunners                                             ;           ; genesis
 Outlander                                              ;           ; genesis
+Outrun                                                 ;           ; genesis master-system turbografx
 Panorama Cotton                                        ;           ; genesis ; only japan ; text skippable : shot'em
 Phantasy Star II                                       ; ?         ; genesis game-boy-advance ; GBA-PACK Phantasy Star Collection (I, II and III)
 Phantasy Star III - Generations of Doom                ; ?         ; genesis game-boy-advance ; GBA-PACK Phantasy Star Collection (I, II and III)
 Phantasy Star IV - The End of the Millennium           ; ?         ; genesis
+Phelios                                                ;           ; genesis
 Pulseman                                               ; good      ; genesis
 Ranger X                                               ;           ; genesis
 Rent A Hero                                            ; ?         ; genesis
@@ -607,6 +643,8 @@ ToeJam & Earl                                          ; ?         ; genesis
 ToeJam & Earl in Panic on Funkotron                    ;           ; genesis
 Trouble Shooter                                        ; good      ; genesis
 Twinkle Tale                                           ; good      ; genesis
+Two Crude                                              ;           ; genesis
+Undeadline                                             ;           ; genesis
 Vapor Trail                                            ;           ; genesis
 Vectorman                                              ;           ; genesis
 Vectorman 2                                            ;           ; genesis
@@ -619,6 +657,7 @@ Worms                                                  ;           ; genesis SNE
 YuYu Hakusho - Makyou Toitsusen                        ;           ; genesis
 Zero Wing                                              ;           ; genesis
 Zool                                                   ;           ; genesis master-system
+mega turrican                                          ;           ; genesis ; Turrican 3 on Amiga
 ```
 
 Turbografx / TurboExpress
@@ -725,6 +764,7 @@ Castlevania - The Adventure                   ;           ; game-boy game-boy-co
 Castlevania II - Belmont's Revenge            ; good      ; game-boy game-boy-color ; GBC-PACK Konami GB Collection vol 3
 Castlevania Legends                           ; good      ; game-boy
 Catrap                                        ; good      ; game-boy
+Chikyu Kaihou Fun ZAS                         ;           ; game-boy
 Dexterity                                     ;           ; game-boy
 Donkey Kong Land                              ; good      ; game-boy
 Donkey Kong Land 2                            ; good      ; game-boy
@@ -761,9 +801,11 @@ Mole Mania                                    ;           ; game-boy
 Motocross Maniacs                             ;           ; game-boy
 Mystic Quest                                  ;           ; game-boy
 Mystical Ninja starring Goemon                ; ?         ; game-boy
+Nemesis                                       ;           ; game-boy ; gradius linked ?
 Ninja Gaiden - Shadow                         ;           ; game-boy
 Noobow                                        ; good      ; game-boy
 Operation C                                   ; excellent ; game-boy game-boy-color; GBC-PACK Konami GB Collection vol 1
+Parodius                                      ;           ; game-boy
 Pokemon Blue / Red / yellow                   ; excellent ; game-boy
 Qix                                           ;           ; game-boy
 R-Type                                        ;           ; game-boy game-boy-color ; turbografx and master-system versions are much better ; GBC-PACK R-Type DX
@@ -993,8 +1035,8 @@ F-Zero Climax                                          ;           ; game-boy-ad
 F-Zero GP Legend                                       ;           ; game-boy-advance
 Final Fantasy Tactics Advance                          ;           ; game-boy-advance
 Final Fight One                                        ;           ; game-boy-advance
-Fire Emblem - Fuuin no Tsurugi                         ; good      ; game-boy-advance
 Fire Emblem                                            ; good      ; game-boy-advance
+Fire Emblem - Fuuin no Tsurugi                         ; good      ; game-boy-advance
 Fire Emblem - The Sacred Stones                        ; good      ; game-boy-advance
 Golden Sun                                             ; ?         ; game-boy-advance
 Golden Sun - The Lost Age                              ;           ; game-boy-advance
@@ -1002,6 +1044,7 @@ Gradius Galaxy                                         ; ?         ; game-boy-ad
 Gunstar Super Heroes                                   ; excellent ; game-boy-advance
 Harvest Moon - Friends of Mineral Town                 ;           ; game-boy-advance
 Harvest Moon - More Friends of Mineral Town            ;           ; game-boy-advance
+Invader                                                ;           ; game-boy-advance
 Kingdom Hearts - Chain of Memories                     ; ?         ; game-boy-advance
 Kirby & the Amazing Mirror                             ;           ; game-boy-advance
 Kirby - Nightmare in Dream Land                        ;           ; game-boy-advance
@@ -1184,13 +1227,12 @@ WIP / TODO
   '@' means to add to the list, maybe.
 
 ```
-ATARI2600 ; @@ ; ?? ; Canyon Bomber
-ATARI2600 ; @@ ; ?? ; Steeplechase
-ATARI2600 ; @@ ; ?? ; Tempest
 ATARI2600 ; @@ ; ?? ; Aquaventure
+ATARI2600 ; @@ ; ?? ; Tempest
+ATARI2600 ; @@ ; ?? ; Steeplechase
+ATARI2600 ; @@ ; ?? ; Canyon Bomber
 ATARI2600 ; @@ ; ?? ; Wizard
 ATARI2600 ; @@ ; ?? ; Air Sea Battle ?
-ATARI2600 ; @@ ; ?? ; Dark Chambers
 NES ; + ; 27 ; StarTropics
 NES ; + ; 37 ; Maniac Mansion
 NES ; + ; 46 ; Faxanadu
@@ -1198,51 +1240,36 @@ NES ; - ; 19 ; Crystalis
 NES ; - ; 22 ; Dragon Warrior
 NES ; - ; 52 ; Dragon Warrior II
 NES ; - ; 75 ; Shadowgate
-NES ; @ ; ?? ; Crash 'n' the Boys: Street Challenge
-NES ; @ ; ?? ; Tower of druaga ?
-NES ; @ ; ?? ; The Adventures of Rad Gravity ?
-NES ; @ ; ?? ; Shadow of the Ninja ?
-NES ; @ ; ?? ; kabuki quantum fighter
-NES ; @ ; ?? ; Shatterhand
-NES ; @ ; ?? ; Dragon Fighter
-NES ; @ ; ?? ; Spy Hunter
-NES ; @ ; ?? ; Super Spy Hunter
-NES ; @ ; ?? ; Cosmic Epsilon
-NES ; @ ; ?? ; Summer Carnival
-NES ; @ ; ?? ; S.C.A.T.
-NES ; @ ; ?? ; Crisis Force
-NES ; @ ; ?? ; Tetrastar
 NES ; @ ; ?? ; Moon Crystal
+NES ; @ ; ?? ; S.C.A.T.
+NES ; @ ; ?? ; Dragon Fighter
 NES ; @ ; ?? ; Mitsume ga Tooru
-NES ; @ ; ?? ; Akumajō Special: Boku Dracula-kun ; aka Kid Dracula (Castlevania series) ; some section need to underdtand japanese (hint: english translation in castlvani anniversary collection); different from the game-boy one (remake) ?
-NES ; @ ; ?? ; Legend of Kage
 NES ; @ ; ?? ; Demons sword ; Sequel to Legeend of Kage
+NES ; @ ; ?? ; Cosmic Epsilon
+NES ; @ ; ?? ; Tetrastar
+NES ; @ ; ?? ; The Adventures of Rad Gravity
 NES ; @ ; ?? ; Zombie Nation
 NES ; @ ; ?? ; Kid Niki
 NES ; @ ; ?? ; Kid Niki 2 ; jap only: Kaiketsu Yancha Maru 2
 NES ; @ ; ?? ; Kid Niki 3 ; jap only: Kaiketsu Yancha Maru 3
-NES ; @ ; ?? ; Vice - Project Doom
+NES ; @ ; ?? ; Legend of Kage
+NES ; @ ; ?? ; Crash 'n' the Boys: Street Challenge
+NES ; @ ; ?? ; Tower of druaga
 MASTERSYSTEM ; - ; 09 ; Populous
 MASTERSYSTEM ; - ; 18 ; Lemmings
 MASTERSYSTEM ; + ; 20 ; Gain Ground
 MASTERSYSTEM ; - ; 29 ; Miracle Warriors - Seal of The Dark Lord
 MASTERSYSTEM ; - ; 09 ; Populous
-MASTERSYSTEM ; @ ; ?? ; mercs
-MASTERSYSTEM ; @ ; ?? ; Super Smash TV
 MASTERSYSTEM ; @ ; ?? ; Psycho Fox
 MASTERSYSTEM ; @ ; ?? ; The Ninja
-MASTERSYSTEM ; @ ; ?? ; Cloud Master
-MASTERSYSTEM ; @ ; ?? ; Rescue Mission
-MASTERSYSTEM ; @ ; ?? ; Global defense
 MASTERSYSTEM ; @ ; ?? ; My Hero
-MASTERSYSTEM ; @ ; ?? ; Astro Warrior
+MASTERSYSTEM ; @ ; ?? ; Super Smash TV
+MASTERSYSTEM ; @ ; ?? ; Cloud Master
 MASTERSYSTEM ; @ ; ?? ; Lord of the sword
-MASTERSYSTEM ; @ ; ?? ; Vigilante
 MASTERSYSTEM ; @ ; ?? ; Transbot
-MASTERSYSTEM ; @ ; ?? ; Cyborg Hunter
 MASTERSYSTEM ; @ ; ?? ; Zaxxon 3d
-MASTERSYSTEM ; @ ; ?? ; Altered beast
-MASTERSYSTEM ; @ ; ?? ; Alien syndrome ; different from game-gear ?
+MASTERSYSTEM ; @ ; ?? ; Cyborg Hunter
+MASTERSYSTEM ; @ ; ?? ; Global defense ?
 SNES ; + ; 44 ; Secret of Evermore
 SNES ; + ; ?? ; Fushigi no Dungeon 2 - Fuurai no Shiren
 SNES ; + ; 15 ; Secret of Mana
@@ -1264,31 +1291,17 @@ SNES ; - ; 85 ; Star Ocean
 SNES ; - ; 86 ; Lufia II - Rise of the Sinistrals
 SNES ; - ; 94 ; Breath of Fire
 SNES ; - ; 96 ; Blackthorne
-SNES ; @ ; ?? ; Fantastic Journey ; Gokujo Parodius – Pursuing the Past Glory[a] ?
-SNES ; @ ; ?? ; Jikkyō Oshaberi Parodius
-SNES ; @ ; ?? ; sexy parodius ?
-SNES ; @ ; ?? ; U.N. Squadron
-SNES ; @ ; ?? ; biometal
-SNES ; @ ; ?? ; king of dragons
-SNES ; @ ; ?? ; darius twin
-SNES ; @ ; ?? ; captain commando
-SNES ; @ ; ?? ; Magic sword
-SNES ; @ ; ?? ; Super Smash TV
-SNES ; @ ; ?? ; Thunder spirits (thunder force series)
-SNES ; @ ; ?? ; Lady stalker ; (landstalker 2) jap lot of text
-SNES ; @ ; ?? ; Wild Guns
-SNES ; @ ; ?? ; Kendo Rage
-SNES ; @ ; ?? ; Kendo Rage 2 ?
-SNES ; @ ; ?? ; Boogerman
-SNES ; @ ; ?? ; Incantation
-SNES ; @ ; ?? ; Fighter's History
-SNES ; @ ; ?? ; Metal Marines
-SNES ; @ ; ?? ; Chaos Engine
 SNES ; @ ; ?? ; Rendering Ranger ; Turrican series
-SNES ; @ ; ?? ; Nosferatu
+SNES ; @ ; ?? ; Fighter's History
 SNES ; @ ; ?? ; Plok
 SNES ; @ ; ?? ; Ninjawarriors
-SNES ; @ ; ?? ; Space Megaforce
+SNES ; @ ; ?? ; Magic sword
+SNES ; @ ; ?? ; Super Smash TV
+SNES ; @ ; ?? ; Incantation
+SNES ; @ ; ?? ; Boogerman
+SNES ; @ ; ?? ; Metal Marines
+SNES ; @ ; ?? ; Kendo Rage
+SNES ; @ ; ?? ; Kendo Rage 2 ?
 GENEIS ; + ; 02 ; Aerobiz Supersonic
 GENEIS ; + ; 13 ; Ecco the Dolphin
 GENEIS ; + ; 22 ; Dune - The Battle for Arrakis
@@ -1302,29 +1315,18 @@ GENEIS ; - ; 62 ; Shining Force II
 GENEIS ; - ; 72 ; Phantasy Star IV - The End of the Millennium
 GENEIS ; - ; 80 ; Phantasy Star III - Generations of Doom
 GENEIS ; - ; 84 ; Phantasy Star II
-GENEIS ; @ ; ?? ; Battle Mania Daiginjou ; Trouble Shooter 2
-GENEIS ; @ ; ?? ; mercs ; Senjou no Ookami II
-GENEIS ; @ ; ?? ; Super Smash TV
-GENEIS ; @ ; ?? ; mega turrican ; named Turrican 3 on Amiga
-GENEIS ; @ ; ?? ; Devil Hunter Yohko ?
-GENEIS ; @ ; ?? ; Blaster Master 2
-GENEIS ; @ ; ?? ; Mazinger ?
-GENEIS ; @ ; ?? ; Undeadline
-GENEIS ; @ ; ?? ; Air buster
-GENEIS ; @ ; ?? ; Grind stormer / V V
-GENEIS ; @ ; ?? ; Elimineted Down
-GENEIS ; @ ; ?? ; Two Crude
-GENEIS ; @ ; ?? ; Phelios
-GENEIS ; @ ; ?? ; Weaponlord
-GENEIS ; @ ; ?? ; Mystical fighter
-GENEIS ; @ ; ?? ; Growl
-GENEIS ; @ ; ?? ; Adventures of Batman and Robin ; different from snes and game-gear
-GENEIS ; @ ; ?? ; Dynamite Duke
-GENEIS ; @ ; ?? ; Fire Shark
 GENEIS ; @ ; ?? ; Master of Monsters
 GENEIS ; @ ; ?? ; Warsong
-GENEIS ; @ ; ?? ; Light Crusader
+GENEIS ; @ ; ?? ; Weaponlord
+GENEIS ; @ ; ?? ; Air buster
+GENEIS ; @ ; ?? ; Super Smash TV
+GENEIS ; @ ; ?? ; Blaster Master 2
+GENEIS ; @ ; ?? ; Mystical fighter
+GENEIS ; @ ; ?? ; Dynamite Duke
 GENEIS ; @ ; ?? ; Ghostbusters
+GENEIS ; @ ; ?? ; Light Crusader
+GENEIS ; @ ; ?? ; Devil Hunter Yohko ?
+GENEIS ; @ ; ?? ; Mazinger ?
 TURBOGRAFX ; + ; 10 ; Military Madness
 TURBOGRAFX ; + ; 22 ; Neutopia II
 TURBOGRAFX ; - ; 20 ; Momotarou Katsugeki
@@ -1332,13 +1334,13 @@ TURBOGRAFX ; - ; 49 ; Neutopia
 TURBOGRAFX ; - ; 50 ; Order of the Griffin
 TURBOGRAFX ; - ; ?? ; Populous
 TURBOGRAFX ; @ ; ?? ; Jaseiken Necromancer
+TURBOGRAFX ; @ ; ?? ; Keith Courage in Alpha Zones
 TURBOGRAFX ; @ ; ?? ; Valis (1-2-3-4) ???
 TURBOGRAFX ; @ ; ?? ; j.j. and jeff ?????
 TURBOGRAFX ; @ ; ?? ; Barumba ?????
 TURBOGRAFX ; @ ; ?? ; hana taka daka ?
 TURBOGRAFX ; @ ; ?? ; god panic ?
 TURBOGRAFX ; @ ; ?? ; kiki kai kai ?
-TURBOGRAFX ; @ ; ?? ; Keith Courage in Alpha Zones
 GAMEBOY ; + ; 30 ; Mystical Ninja starring Goemon
 GAMEBOY ; + ; 37 ; Gargoyle's Quest
 GAMEBOY ; + ; 17 ; Ganbare Goemon Hoshizorashi Dyamites Arawaru!!
@@ -1355,15 +1357,12 @@ GAMEBOY ; - ; 65 ; The Final Fantasy Legend
 GAMEBOY ; - ; 79 ; Final Fantasy Legend II
 GAMEBOY ; - ; 91 ; Final Fantasy Legend III
 GAMEBOY ; @ ; 30 ; Solar Striker
+GAMEBOY ; @ ; 99 ; Burai Fighter
 GAMEBOY ; @ ; 30 ; Boxxie
 GAMEBOY ; @ ; 30 ; Boxxie 2
 GAMEBOY ; @ ; 30 ; Heiankyo Alien
-GAMEBOY ; @ ; 99 ; Chikyu Kaihou Fun ZAS
-GAMEBOY ; @ ; 99 ; Parodius
-GAMEBOY ; @ ; 99 ; Burai Fighter
 GAMEBOY ; @ ; 99 ; The sword of hope
 GAMEBOY ; @ ; 99 ; The sword of hope 2
-GAMEBOY ; @ ; 99 ; Nemesis ; gradius linked ?
 GAMEBOYCOLOR ; + ; ?? ; Fushigi no Dungeon - Fuurai no Shiren ; japan only, lot of text ; ; ; ; ;
 GAMEBOYCOLOR ; + ; 17 ; Ganbare Goemon Hoshizorashi Dyamites Arawaru!!
 GAMEBOYCOLOR ; + ; 21 ; Survival Kids
@@ -1389,12 +1388,12 @@ GAMEGEAR ; - ; 41 ; Madou Monogatari III: Kyuukyoku Joou-sama ; japan only, lot 
 GAMEGEAR ; - ; 47 ; Phantasy Star Adventure ; japan only, lot of text
 GAMEGEAR ; - ; 48 ; Phantasy Star Gaiden ; japan only, lot of text
 GAMEGEAR ; - ; 73 ; Crystal Warriors
+GAMEGEAR ; @ ; ?? ; Super Smash TV
+GAMEGEAR ; @ ; ?? ; Adventures of Batman and Robin ; different from snes and genesis
 GAMEGEAR ; @ ; 53 ; Shining Force Gaiden ; japan only, lot of text ?
 GAMEGEAR ; @ ; 54 ; Madou Monogatari II: Arle 16-sai ; japan only, lot of text ?
 GAMEGEAR ; @ ; 63 ; Moldorian ; japan only, lot of text ?
 GAMEGEAR ; @ ; 83 ; Eternal Legend ; japan only, lot of text ?
-GAMEGEAR ; @ ; ?? ; Super Smash TV
-GAMEGEAR ; @ ; ?? ; Adventures of Batman and Robin ; different from snes and genesis
 GAMEBOYADVANCE ; + ; 06 ; Metroid Fusion
 GAMEBOYADVANCE ; + ; 10 ; Metroid - Zero Mission
 GAMEBOYADVANCE ; + ; 19 ; Castlevania - Circle of the Moon
@@ -1456,7 +1455,6 @@ GAMEBOYADVANCE ; @ ; ?? ; Driver
 GAMEBOYADVANCE ; @ ; ?? ; Driver 2 Advance
 GAMEBOYADVANCE ; @ ; ?? ; Driv3r
 GAMEBOYADVANCE ; @ ; ?? ; Ice Nine
-GAMEBOYADVANCE ; @ ; ?? ; Iridion 3d
 GAMEBOYADVANCE ; @ ; ?? ; Iridion 2
-GAMEBOYADVANCE ; @ ; ?? ; Invaders
+GAMEBOYADVANCE ; @ ; ?? ; Iridion 3d
 ```
