@@ -212,6 +212,7 @@ Guerilla War                                             ;           ; NES
 Ice Climber                                              ;           ; NES
 Image Fight                                              ;           ; NES turbografx
 Jackal                                                   ;           ; NES
+Kabuki Quantum Fighter                                   ;           ; NES
 Kickle Cubicle                                           ;           ; NES
 Kid Icarus                                               ; excellent ; NES
 Kirby's Adventure                                        ;           ; NES
@@ -270,8 +271,8 @@ The Guardian Legend                                      ;           ; NES
 Vice - Project Doom                                      ;           ; NES
 Willow                                                   ;           ; NES
 Xevious                                                  ;           ; NES
+Zanac                                                    ;           ; NES
 Zelda II - The Adventures of Link                        ;           ; NES game-boy-advance ; GBA-NAME Classic NES Series - Zelda II
-kabuki quantum fighter                                   ;           ; NES
 ```
 
 Master system
@@ -974,7 +975,7 @@ Resident Evil Gaiden                                   ; excellent ; game-boy-co
 Return of the Ninja                                    ; good      ; game-boy-color
 Revelations - The Demon Slayer                         ; ?         ; game-boy-color
 Shantae                                                ; excellent ; game-boy-color
-Space Invaders                                         ;           ; game-boy-color
+Space Invaders                                         ;           ; game-boy-color ; Merge to atari2600 entry ?
 Spider-Man 2 - The Sinister Six                        ;           ; game-boy-color
 Spirer-Man                                             ;           ; game-boy-color
 Star Ocean - Blue Sphere                               ;           ; game-boy-color
@@ -1255,6 +1256,8 @@ NES ; @ ; ?? ; Kid Niki 3 ; jap only: Kaiketsu Yancha Maru 3
 NES ; @ ; ?? ; Legend of Kage
 NES ; @ ; ?? ; Crash 'n' the Boys: Street Challenge
 NES ; @ ; ?? ; Tower of druaga
+NES ; @ ; ?? ; Sweet home
+NES ; @ ; ?? ; Smash TV ?
 MASTERSYSTEM ; - ; 09 ; Populous
 MASTERSYSTEM ; - ; 18 ; Lemmings
 MASTERSYSTEM ; + ; 20 ; Gain Ground
@@ -1302,6 +1305,7 @@ SNES ; @ ; ?? ; Boogerman
 SNES ; @ ; ?? ; Metal Marines
 SNES ; @ ; ?? ; Kendo Rage
 SNES ; @ ; ?? ; Kendo Rage 2 ?
+SNES ; @ ; ?? ; Legend ?
 GENEIS ; + ; 02 ; Aerobiz Supersonic
 GENEIS ; + ; 13 ; Ecco the Dolphin
 GENEIS ; + ; 22 ; Dune - The Battle for Arrakis
@@ -1363,6 +1367,15 @@ GAMEBOY ; @ ; 30 ; Boxxie 2
 GAMEBOY ; @ ; 30 ; Heiankyo Alien
 GAMEBOY ; @ ; 99 ; The sword of hope
 GAMEBOY ; @ ; 99 ; The sword of hope 2
+GAMEBOY ; @ ; 99 ; Dragon Lairs ? (platform, no laser!)
+GAMEBOY ; @ ; 99 ; Mercenary Force ?
+GAMEBOY ; @ ; 99 ; Penta dragon ?
+GAMEBOY ; @ ; 99 ; Sagaia / Darius ?
+GAMEBOY ; @ ; 99 ; Start Hawk ?
+GAMEBOY ; @ ; 99 ; TaleSpin ?
+GAMEBOY ; @ ; 99 ; Vattle Juice ?
+GAMEBOY ; @ ; 99 ; Xenon 2 ?
+GAMEBOY ; @ ; 99 ; Zoids Densetsu ?
 GAMEBOYCOLOR ; + ; ?? ; Fushigi no Dungeon - Fuurai no Shiren ; japan only, lot of text ; ; ; ; ;
 GAMEBOYCOLOR ; + ; 17 ; Ganbare Goemon Hoshizorashi Dyamites Arawaru!!
 GAMEBOYCOLOR ; + ; 21 ; Survival Kids
