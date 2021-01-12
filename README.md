@@ -1307,6 +1307,7 @@ SNES ; @ ; ?? ; Kendo Rage
 SNES ; @ ; ?? ; Kendo Rage 2 ?
 SNES ; @ ; ?? ; Legend ?
 SNES ; @ ; ?? ; Pocky & Rocky ?
+SNES ; @ ; ?? ; Pocky & Rocky 2 ?
 GENEIS ; + ; 02 ; Aerobiz Supersonic
 GENEIS ; + ; 13 ; Ecco the Dolphin
 GENEIS ; + ; 22 ; Dune - The Battle for Arrakis
