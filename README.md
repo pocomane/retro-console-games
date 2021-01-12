@@ -1306,6 +1306,7 @@ SNES ; @ ; ?? ; Metal Marines
 SNES ; @ ; ?? ; Kendo Rage
 SNES ; @ ; ?? ; Kendo Rage 2 ?
 SNES ; @ ; ?? ; Legend ?
+SNES ; @ ; ?? ; Pocky & Rocky ?
 GENEIS ; + ; 02 ; Aerobiz Supersonic
 GENEIS ; + ; 13 ; Ecco the Dolphin
 GENEIS ; + ; 22 ; Dune - The Battle for Arrakis
@@ -1331,6 +1332,9 @@ GENEIS ; @ ; ?? ; Ghostbusters
 GENEIS ; @ ; ?? ; Light Crusader
 GENEIS ; @ ; ?? ; Devil Hunter Yohko ?
 GENEIS ; @ ; ?? ; Mazinger ?
+GENEIS ; @ ; ?? ; Quackshot ?
+GENEIS ; @ ; ?? ; The Punisher
+GENEIS ; @ ; ?? ; Fatal Fury
 TURBOGRAFX ; + ; 10 ; Military Madness
 TURBOGRAFX ; + ; 22 ; Neutopia II
 TURBOGRAFX ; - ; 20 ; Momotarou Katsugeki
