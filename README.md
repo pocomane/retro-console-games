@@ -703,7 +703,7 @@ Hana Taaka Daka                      ;                   ; turbografx
 Jackie Chan Action Kung Fu           ;                   ; turbografx
 Twin Cobra                           ;                   ; turbografx genesis ; Kyuukyoku Tiger in JAP
 Legend of Hero Tonma                 ;                   ; turbografx
-Legendary Axe                        ; excellent         ; turbografx
+Legendary Axe                        ; good              ; turbografx
 Legendary Axe II                     ;                   ; turbografx
 Magical Chase                        ; good              ; turbografx game-boy-color ; GBC-NAME Magical Chase GB - Minarai Mahoutsukai Kenja no Tani e
 Metal Stoker                         ;                   ; turbografx
@@ -713,7 +713,7 @@ Momotarou Katsugeki                  ; ?                 ; turbografx
 Neutopia                             ; ?                 ; turbografx
 Neutopia II                          ; ?                 ; turbografx
 New Adventure Island                 ;                   ; turbografx
-Ninja Spirit                         ; good              ; turbografx game-boy
+Ninja Spirit                         ; excellent         ; turbografx game-boy
 Order of the Griffin                 ; ?                 ; turbografx
 Override                             ;                   ; turbografx
 Parasol Stars                        ;                   ; turbografx
@@ -1258,6 +1258,7 @@ NES ; @ ; ?? ; Crash 'n' the Boys: Street Challenge
 NES ; @ ; ?? ; Tower of druaga
 NES ; @ ; ?? ; Sweet home
 NES ; @ ; ?? ; Smash TV ?
+NES ; @ ; ?? ; mighty final fight
 MASTERSYSTEM ; - ; 09 ; Populous
 MASTERSYSTEM ; - ; 18 ; Lemmings
 MASTERSYSTEM ; + ; 20 ; Gain Ground
@@ -1273,6 +1274,7 @@ MASTERSYSTEM ; @ ; ?? ; Transbot
 MASTERSYSTEM ; @ ; ?? ; Zaxxon 3d
 MASTERSYSTEM ; @ ; ?? ; Cyborg Hunter
 MASTERSYSTEM ; @ ; ?? ; Global defense ?
+MASTERSYSTEM ; @ ; ?? ; Star Jacker ?
 SNES ; + ; 44 ; Secret of Evermore
 SNES ; + ; ?? ; Fushigi no Dungeon 2 - Fuurai no Shiren
 SNES ; + ; 15 ; Secret of Mana
@@ -1306,8 +1308,9 @@ SNES ; @ ; ?? ; Metal Marines
 SNES ; @ ; ?? ; Kendo Rage
 SNES ; @ ; ?? ; Kendo Rage 2 ?
 SNES ; @ ; ?? ; Legend ?
-SNES ; @ ; ?? ; Pocky & Rocky ?
-SNES ; @ ; ?? ; Pocky & Rocky 2 ?
+SNES ; @ ; ?? ; Pocky & Rocky ? NO!
+SNES ; @ ; ?? ; Pocky & Rocky 2 ? NO!
+SNES ; @ ; ?? ; Batman return ; beatem konami
 GENEIS ; + ; 02 ; Aerobiz Supersonic
 GENEIS ; + ; 13 ; Ecco the Dolphin
 GENEIS ; + ; 22 ; Dune - The Battle for Arrakis
