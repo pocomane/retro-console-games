@@ -214,7 +214,7 @@ Image Fight                                              ;           ; NES turbo
 Jackal                                                   ;           ; NES
 Kabuki Quantum Fighter                                   ;           ; NES
 Kickle Cubicle                                           ;           ; NES
-Kid Icarus                                               ; excellent ; NES
+Kid Icarus                                               ; good      ; NES
 Kirby's Adventure                                        ;           ; NES
 Legacy of the Wizard                                     ;           ; NES
 Life Force                                               ;           ; NES
@@ -271,7 +271,7 @@ The Guardian Legend                                      ;           ; NES
 Vice - Project Doom                                      ;           ; NES
 Willow                                                   ;           ; NES
 Xevious                                                  ;           ; NES
-Zanac                                                    ;           ; NES
+Zanac                                                    ; excellent ; NES
 Zelda II - The Adventures of Link                        ;           ; NES game-boy-advance ; GBA-NAME Classic NES Series - Zelda II
 ```
 
@@ -681,7 +681,7 @@ Bomberman 93                         ; good              ; turbografx
 Bomberman 94                         ; excellent         ; turbografx
 Bomberman Users Battle               ;                   ; turbografx
 Bonk 3                               ; good              ; turbografx ; PC Genjin 3 in japan
-Bonk's Adventure                     ; good              ; turbografx nes ; PC Genjin in japan ; game-boy game is a different one
+Bonk's Adventure                     ;                   ; turbografx nes ; PC Genjin in japan ; game-boy game is a different one
 Bonk's Revenge                       ; excellent         ; turbografx ; PC Genjin 2 in japan ; game-boy game is a different one
 Cadash                               ; good              ; turbografx
 Chew Man Fu/Be Ball                  ;                   ; turbografx
@@ -1311,6 +1311,7 @@ SNES ; @ ; ?? ; Legend ?
 SNES ; @ ; ?? ; Pocky & Rocky ? NO!
 SNES ; @ ; ?? ; Pocky & Rocky 2 ? NO!
 SNES ; @ ; ?? ; Batman return ; beatem konami
+GENEIS ;   ; ?? ; SNOW BROS
 GENEIS ; + ; 02 ; Aerobiz Supersonic
 GENEIS ; + ; 13 ; Ecco the Dolphin
 GENEIS ; + ; 22 ; Dune - The Battle for Arrakis
