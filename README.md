@@ -255,7 +255,7 @@ Spy Hunter                                               ;           ; NES
 Star Soldier                                             ;           ; NES
 StarTropics                                              ; ?         ; NES
 Startropics II - Zoda's Revenge                          ;           ; NES
-Summer Carnival                                          ;           ; NES
+Summer Carnival '92 - Recca                              ; good      ; NES
 Super C                                                  ; good      ; NES
 Super Dodge Ball                                         ;           ; NES
 Super Mario Bros.                                        ; excellent ; NES game-boy-advance SNES game-boy-color ; SNES-PACK Super Mario All-Stars GBC-NAME Super Mario Bros DX GBA-NAME Classic NES Series - Super Mario Bros.
@@ -330,7 +330,7 @@ Ninja Gaiden                                ;           ; master-system ; differ
 Operation Wolf                              ;           ; master-system
 Out Run                                     ;           ; master-system
 Phantasy Star                               ; excellent ; master-system game-boy-advance ; GBA-PACK Phantasy Star Collection (I, II and III)
-Power Strike                                ;           ; master-system
+Power Strike                                ;           ; master-system ; japanese version "Aleste" contains one more level and anime storyline
 Power Strike II                             ;           ; master-system ; different from the game-gear game with the same name
 Putt & Putter                               ;           ; master-system
 R.C. Grand Prix                             ;           ; master-system
@@ -1259,6 +1259,8 @@ NES ; @ ; ?? ; Tower of druaga
 NES ; @ ; ?? ; Sweet home
 NES ; @ ; ?? ; Smash TV ?
 NES ; @ ; ?? ; mighty final fight
+NES ; @ ; ?? ; Gun-Nac
+NES ; @ ; ?? ; Over Horizon
 MASTERSYSTEM ; - ; 09 ; Populous
 MASTERSYSTEM ; - ; 18 ; Lemmings
 MASTERSYSTEM ; + ; 20 ; Gain Ground
