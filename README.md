@@ -722,7 +722,7 @@ Psychosis                            ;                   ; turbografx
 Puzzle Boy                           ;                   ; turbografx
 R-Type                               ; excellent         ; turbografx master-system ; PC-Engine Japan version was splitted in 2 parts ; game-boy and game-boy-color version are a severe downgrade
 Raiden                               ;                   ; turbografx
-Salamander                           ; good              ; turbografx
+Salamander                           ; good              ; turbografx NES
 Shinobi                              ;                   ; turbografx NES master-system game-gear
 Sidearms - Hyperdyne                 ;                   ; turbografx
 Skweek                               ;                   ; turbografx
